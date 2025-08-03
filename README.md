@@ -4,7 +4,7 @@ Versão em Markdown do manual para facilitar pesquisa e consultas de especialida
 
 ## Navegação
 
-- Introdução
+- [Introdução](<A Introdução/A Introdução.md>)
 - [(AD) ADRA](ADRA/ADRA.md)
 - (HM) Artes e Habilidades Manuais
 - (AA) Atividades Agrícolas e Afins
@@ -20,7 +20,7 @@ Versão em Markdown do manual para facilitar pesquisa e consultas de especialida
 
 - [ ] Regidir README (*em progresso*)
 - [ ] Converter todas as seções para Markdown (01/11): (*em progresso*)
-  - [ ] Introdução
+  - [x] Introdução
   - [x] (AD) ADRA
   - [ ] (HM) Artes e Habilidades Manuais
   - [ ] (AA) Atividades Agrícolas e Afins
