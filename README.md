@@ -14,12 +14,12 @@ Versão em Markdown do manual para facilitar pesquisa e consultas de especialida
 - [(CS) Ciência e Saúde](<Ciência e Saúde/Ciência e Saúde.md>)
 - [(EN) Estudo da Natureza](<Estudo da Natureza/Estudo da Natureza.md>)
 - [(HD) Habilidades Domésticas](<Habilidades Domésticas/Habilidades Domésticas.md>)
-- (ME) Mestrados
+- [(ME) Mestrados](Mestrados/Mestrados.md)
 
 ## Pendências
 
 - [ ] Regidir README (*em progresso*)
-- [ ] Converter todas as seções para Markdown (10/11): (*em progresso*)
+- [x] Converter todas as seções para Markdown:
   - [x] Introdução
   - [x] (AD) ADRA
   - [x] (HM) Artes e Habilidades Manuais
@@ -30,6 +30,6 @@ Versão em Markdown do manual para facilitar pesquisa e consultas de especialida
   - [x] (CS) Ciência e Saúde
   - [x] (EN) Estudo da Natureza
   - [x] (HD) Habilidades Domésticas
-  - [ ] (ME) Mestrados
+  - [x] (ME) Mestrados
 - [ ] Revisar formatação
 - [ ] Revisar ortografia

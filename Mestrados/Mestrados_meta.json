@@ -1,0 +1,542 @@
+{
+  "table_of_contents": [
+    {
+      "title": "REQUISITOS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          627.75,
+          140.25
+        ],
+        [
+          702.0,
+          140.25
+        ],
+        [
+          702.0,
+          155.8125
+        ],
+        [
+          627.75,
+          155.8125
+        ]
+      ]
+    },
+    {
+      "title": "REQUISITOS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          630.75,
+          338.25
+        ],
+        [
+          705.0,
+          338.25
+        ],
+        [
+          705.0,
+          353.625
+        ],
+        [
+          630.75,
+          353.625
+        ]
+      ]
+    },
+    {
+      "title": "REQUISITOS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          630.75,
+          504.0
+        ],
+        [
+          705.75,
+          504.0
+        ],
+        [
+          705.75,
+          518.25
+        ],
+        [
+          630.75,
+          518.25
+        ]
+      ]
+    },
+    {
+      "title": "REQUISITOS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          630.75,
+          668.25
+        ],
+        [
+          705.0,
+          668.25
+        ],
+        [
+          705.0,
+          682.875
+        ],
+        [
+          630.75,
+          682.875
+        ]
+      ]
+    },
+    {
+      "title": "REQUISITOS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          33.75,
+          385.875
+        ],
+        [
+          105.75,
+          385.875
+        ],
+        [
+          105.75,
+          400.875
+        ],
+        [
+          33.75,
+          400.875
+        ]
+      ]
+    },
+    {
+      "title": "REQUISITOS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          629.5166015625,
+          141.09375
+        ],
+        [
+          702.0,
+          141.09375
+        ],
+        [
+          702.0,
+          156.46875
+        ],
+        [
+          629.5166015625,
+          156.46875
+        ]
+      ]
+    },
+    {
+      "title": "REQUISITOS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          628.5,
+          389.625
+        ],
+        [
+          702.0,
+          389.625
+        ],
+        [
+          702.0,
+          406.125
+        ],
+        [
+          628.5,
+          406.125
+        ]
+      ]
+    },
+    {
+      "title": "REQUISITOS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          632.25,
+          641.625
+        ],
+        [
+          706.97021484375,
+          641.625
+        ],
+        [
+          706.97021484375,
+          658.125
+        ],
+        [
+          632.25,
+          658.125
+        ]
+      ]
+    },
+    {
+      "title": "REQUISITOS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          33.75,
+          273.0
+        ],
+        [
+          105.75,
+          273.0
+        ],
+        [
+          105.75,
+          287.625
+        ],
+        [
+          33.75,
+          287.625
+        ]
+      ]
+    },
+    {
+      "title": "REQUISITOS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          32.25,
+          634.125
+        ],
+        [
+          105.75,
+          634.125
+        ],
+        [
+          105.75,
+          649.125
+        ],
+        [
+          32.25,
+          649.125
+        ]
+      ]
+    },
+    {
+      "title": "REQUISITOS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          632.25,
+          242.25
+        ],
+        [
+          704.77294921875,
+          242.25
+        ],
+        [
+          704.77294921875,
+          258.0
+        ],
+        [
+          632.25,
+          258.0
+        ]
+      ]
+    },
+    {
+      "title": "REQUISITOS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          632.25,
+          531.75
+        ],
+        [
+          703.125,
+          531.75
+        ],
+        [
+          703.125,
+          547.5
+        ],
+        [
+          632.25,
+          547.5
+        ]
+      ]
+    },
+    {
+      "title": "REQUISITOS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          50.28051001821493,
+          263.671875
+        ],
+        [
+          154.701171875,
+          263.671875
+        ],
+        [
+          154.701171875,
+          287.841796875
+        ],
+        [
+          50.28051001821493,
+          287.841796875
+        ]
+      ]
+    },
+    {
+      "title": "REQUISITOS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          50.28051001821493,
+          618.5302734375
+        ],
+        [
+          155.3046875,
+          618.5302734375
+        ],
+        [
+          155.3046875,
+          642.7001953125
+        ],
+        [
+          50.28051001821493,
+          642.7001953125
+        ]
+      ]
+    },
+    {
+      "title": "REQUISITOS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          50.28051001821493,
+          1006.34765625
+        ],
+        [
+          155.6064453125,
+          1006.34765625
+        ],
+        [
+          155.6064453125,
+          1031.6162109375
+        ],
+        [
+          50.28051001821493,
+          1031.6162109375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          18
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          64
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          64
+        ],
+        [
+          "Span",
+          50
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          71
+        ],
+        [
+          "Span",
+          50
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          19
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Mestrados"
+}
