@@ -1,6 +1,6 @@
 # Manual de Especialidades
 
-Versão em Markdown do manual para facilitar pesquisa e consulta de especialidades.
+Versão em [Markdown](https://pt.wikipedia.org/wiki/Markdown) do manual para facilitar pesquisa e consulta de especialidades.
 
 ## Navegação
 
@@ -36,3 +36,12 @@ Versão em Markdown do manual para facilitar pesquisa e consulta de especialidad
 - [ ] Revisar ortografia
 - [ ] Tornar índices interativos
 - [ ] Transformar em página web (com *GitHub Pages* ou *Read the Docs*)
+
+## Referências
+
+- [Manual de Especialidades](https://www.adventistas.org/pt/desbravadores/manual-de-especialidades/)
+
+### Ferramentas
+
+- [Scribd.VDownloaders.com](https://scribd.vdownloaders.com/)
+- [datalab-to/marker](https://github.com/datalab-to/marker)
