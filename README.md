@@ -12,14 +12,14 @@ Versão em Markdown do manual para facilitar pesquisa e consultas de especialida
 - [(AP) Atividades Profissionais](<Atividades Profissionais/Atividades Profissionais.md>)
 - [(AR) Atividades Recreativas](<Atividades Recreativas/Atividades Recreativas.md>)
 - [(CS) Ciência e Saúde](<Ciência e Saúde/Ciência e Saúde.md>)
-- (EN) Estudo da Natureza
+- [(EN) Estudo da Natureza](<Estudo da Natureza/Estudo da Natureza.md>)
 - (HD) Habilidades Domésticas
 - (ME) Mestrados
 
 ## Pendências
 
 - [ ] Regidir README (*em progresso*)
-- [ ] Converter todas as seções para Markdown (08/11): (*em progresso*)
+- [ ] Converter todas as seções para Markdown (09/11): (*em progresso*)
   - [x] Introdução
   - [x] (AD) ADRA
   - [x] (HM) Artes e Habilidades Manuais
@@ -28,7 +28,7 @@ Versão em Markdown do manual para facilitar pesquisa e consultas de especialida
   - [x] (AP) Atividades Profissionais
   - [x] (AR) Atividades Recreativas
   - [x] (CS) Ciência e Saúde
-  - [ ] (EN) Estudo da Natureza
+  - [x] (EN) Estudo da Natureza
   - [ ] (HD) Habilidades Domésticas
   - [ ] (ME) Mestrados
 - [ ] Revisar formatação
