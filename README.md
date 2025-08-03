@@ -1,6 +1,6 @@
 # Manual de Especialidades
 
-Versão em Markdown do manual para facilitar pesquisa e consultas de especialidades.
+Versão em Markdown do manual para facilitar pesquisa e consulta de especialidades.
 
 ## Navegação
 
@@ -32,4 +32,7 @@ Versão em Markdown do manual para facilitar pesquisa e consultas de especialida
   - [x] (HD) Habilidades Domésticas
   - [x] (ME) Mestrados
 - [ ] Revisar formatação
+- [ ] Corrigir imagens de cabeçalho
 - [ ] Revisar ortografia
+- [ ] Tornar índices interativos
+- [ ] Transformar em página web (com *GitHub Pages* ou *Read the Docs*)
