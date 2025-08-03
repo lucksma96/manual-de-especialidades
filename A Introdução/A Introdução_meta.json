@@ -1,0 +1,504 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Diretores do Minist\u00e9rio Jovem\nDSA - Divis\u00e3o Sul - Americana\nPr. Areli Barbosa\nUA - Uni\u00e3o Argentina\nPr. Carlos Campitelli\nUB - Uni\u00e3o Boliviana\nPr. Jimmy W. Lafuente\nUCB - Uni\u00e3o Central Brasileira\nPr. Ronaldo Arco\nUCh - Uni\u00e3o Chilena\nPr. David Victoriano\nUCOB - Uni\u00e3o Centro Oeste Brasileira\nPr. Nelson Milanelli\nUE - Uni\u00e3o Equatoriana\nPr. Juan Cancino\nUNB - Uni\u00e3o Norte Brasileira\nPr. Helbert R. Almeida\nUNeB - Uni\u00e3o Nordeste Brasileira\nPr. S\u00f3sthenes Andrade\nUNOB - Uni\u00e3o Noroeste Brasileira\nPr. Donato A. Filho\nUP - Uni\u00e3o Paraguai\nPr. Benjam\u00edn Belmonte\nUPN - Uni\u00e3o Peruana do Norte\nPr. Jaime Perez\nUPS - Uni\u00e3o Peruana do Sul\nPr. Javier Cahuana\nUSB - Uni\u00e3o Sul-Brasileira\nPr. Elmar Borges\nUSEB - Uni\u00e3o Sudoeste Brasileira\nPr. Ivay Araujo\nUU - Uni\u00e3o Uruguaia\nPr. Pablo Flor",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          631.5,
+          178.5
+        ],
+        [
+          852.75,
+          178.5
+        ],
+        [
+          852.75,
+          733.5
+        ],
+        [
+          631.5,
+          733.5
+        ]
+      ]
+    },
+    {
+      "title": "Edi\u00e7\u00e3o",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          32.958984375,
+          33.234375
+        ],
+        [
+          75.75,
+          33.234375
+        ],
+        [
+          75.75,
+          47.578125
+        ],
+        [
+          32.958984375,
+          47.578125
+        ]
+      ]
+    },
+    {
+      "title": "Revis\u00e3o",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          30.916213989257812,
+          99.5625
+        ],
+        [
+          80.25,
+          99.5625
+        ],
+        [
+          80.25,
+          113.8125
+        ],
+        [
+          30.916213989257812,
+          113.8125
+        ]
+      ]
+    },
+    {
+      "title": "Colaboradores",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          33.75,
+          252.9375
+        ],
+        [
+          120.75,
+          252.9375
+        ],
+        [
+          120.75,
+          267.1875
+        ],
+        [
+          33.75,
+          267.1875
+        ]
+      ]
+    },
+    {
+      "title": "Supervis\u00e3o",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          32.25,
+          561.75
+        ],
+        [
+          101.25,
+          561.75
+        ],
+        [
+          101.25,
+          576.0
+        ],
+        [
+          32.25,
+          576.0
+        ]
+      ]
+    },
+    {
+      "title": "Secret\u00e1ria DSA",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          32.25,
+          602.625
+        ],
+        [
+          120.75,
+          602.625
+        ],
+        [
+          120.75,
+          617.625
+        ],
+        [
+          32.25,
+          617.625
+        ]
+      ]
+    },
+    {
+      "title": "Ins\u00edgnias",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          32.25,
+          647.625
+        ],
+        [
+          88.714599609375,
+          647.625
+        ],
+        [
+          88.714599609375,
+          662.625
+        ],
+        [
+          32.25,
+          662.625
+        ]
+      ]
+    },
+    {
+      "title": "Arte e diagrama\u00e7\u00e3o\nFelipe Montechezi",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          631.5,
+          31.734375
+        ],
+        [
+          752.5634765625,
+          31.734375
+        ],
+        [
+          752.5634765625,
+          71.671875
+        ],
+        [
+          631.5,
+          71.671875
+        ]
+      ]
+    },
+    {
+      "title": "Projeto Gr\u00e1fico",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          632.25,
+          94.734375
+        ],
+        [
+          719.25,
+          94.734375
+        ],
+        [
+          719.25,
+          112.6875
+        ],
+        [
+          632.25,
+          112.6875
+        ]
+      ]
+    },
+    {
+      "title": "Filosofia das Especialidades dos\nDesbravadores",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          691.5,
+          40.5
+        ],
+        [
+          908.25,
+          40.5
+        ],
+        [
+          908.25,
+          72.375
+        ],
+        [
+          691.5,
+          72.375
+        ]
+      ]
+    },
+    {
+      "title": "Instru\u00e7\u00f5es para Completar a\nnova Especialidade",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          90.0,
+          37.5
+        ],
+        [
+          285.64453125,
+          37.5
+        ],
+        [
+          285.64453125,
+          69.75
+        ],
+        [
+          90.0,
+          69.75
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          6
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Text",
+          8
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          47
+        ],
+        [
+          "Span",
+          47
+        ],
+        [
+          "Text",
+          18
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          33
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Span",
+          16
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/A Introdu\u00e7\u00e3o"
+}
