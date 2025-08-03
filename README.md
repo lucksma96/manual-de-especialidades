@@ -18,8 +18,8 @@ Versão em Markdown do manual para facilitar pesquisa e consultas de especialida
 
 ## Pendências
 
-- [ ] Regidir README
-- [ ] Converter todas as seções para Markdown (01/11):
+- [ ] Regidir README (*em progresso*)
+- [ ] Converter todas as seções para Markdown (01/11): (*em progresso*)
   - [ ] Introdução
   - [x] (AD) ADRA
   - [ ] (HM) Artes e Habilidades Manuais
