@@ -10,7 +10,7 @@ Versão em Markdown do manual para facilitar pesquisa e consultas de especialida
 - [(AA) Atividades Agrícolas e Afins](<Atividades Agrícolas e Afins/Atividades Agrícolas e Afins.md>)
 - [(AM) Atividades Missionárias e Comunitárias](<Atividades Missionárias e Comunitárias/Atividades Missionárias e Comunitárias.md>)
 - [(AP) Atividades Profissionais](<Atividades Profissionais/Atividades Profissionais.md>)
-- (AR) Atividades Recreativas
+- [(AR) Atividades Recreativas](<Atividades Recreativas/Atividades Recreativas.md>)
 - (CS) Ciência e Saúde
 - (EN) Estudo da Natureza
 - (HD) Habilidades Domésticas
@@ -19,14 +19,14 @@ Versão em Markdown do manual para facilitar pesquisa e consultas de especialida
 ## Pendências
 
 - [ ] Regidir README (*em progresso*)
-- [ ] Converter todas as seções para Markdown (06/11): (*em progresso*)
+- [ ] Converter todas as seções para Markdown (07/11): (*em progresso*)
   - [x] Introdução
   - [x] (AD) ADRA
   - [x] (HM) Artes e Habilidades Manuais
   - [x] (AA) Atividades Agrícolas e Afins
   - [x] (AM) Atividades Missionárias e Comunitárias
   - [x] (AP) Atividades Profissionais
-  - [ ] (AR) Atividades Recreativas
+  - [x] (AR) Atividades Recreativas
   - [ ] (CS) Ciência e Saúde
   - [ ] (EN) Estudo da Natureza
   - [ ] (HD) Habilidades Domésticas
