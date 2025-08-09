@@ -207,7 +207,7 @@ item 6 durante, pelo menos, 20 minutos.
 
 ![](_page_5_Figure_14.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 # Supervisionado por um especialista, completar os seguintes itens:
 
@@ -238,7 +238,7 @@ Supervisionado por um especialista, completar os seguintes itens:
 
 ![](_page_6_Figure_12.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 # Supervisionado por um especialista, completar os seguintes itens:
 
@@ -272,7 +272,7 @@ Supervisionado por um especialista, completar os seguintes itens:
 
 ![](_page_7_Figure_15.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Natação intermediário I.
 
@@ -312,7 +312,7 @@ Supervisionado por um especialista, completar os seguintes itens:
 
 ![](_page_8_Figure_10.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Explicar porque os pontos abaixo são considerados importantes durante uma caminhada:
 
@@ -404,7 +404,7 @@ d) 24 quilômetros por trilha em região de mata, floresta ou agreste Apresentar
 
 #### **AR Filatelia** Instituição de origem Ano **Nível** 011 Associação Geral 1933 $\overline{2}$
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Relatar, sucintamente, a história do serviço postal do seu país.
 - 2. Como a história do seu país é contada através dos selos?
@@ -456,7 +456,7 @@ b) Por séries, de acordo com o ano e o design
 
 ![](_page_10_Figure_16.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Relacionar os 4 materiais mais usados na construção de esquis. Qual as diferenças e benefícios destes materiais?
 
@@ -509,7 +509,7 @@ NOTA: Obrigatória a presença de um instrutor qualificado. Todo equipamento de 
 
 ![](_page_11_Figure_23.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Faça um relatório e explique os diferentes tipos de caiaques (para rio, corredeiras, mar e turismo), explicando como é o uso de cada um e qual o equipamento de segurança necessário para a prática do esporte (capacete, salva-vidas, calçados, presilhas de segurança, etc.).
 
@@ -598,7 +598,7 @@ b) Colecionar uma série datada de moedas de seu país, começando com o ano de 
 
 ![](_page_13_Figure_14.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Saber, pelo menos, 20 termos náuticos usados na navegação.
 
@@ -649,7 +649,7 @@ NOTA: Necessário o acompanhamento de um instrutor qualificado.
 
 **AR** Fogueiras e cozinha ao ar livre **Nível** Ano Instituição de origem 020 1956 Associação Geral  $\overline{2}$ 
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Preparar, entre as seguir, cinco diferentes tipos de fogueiras e saber o uso específico de cada uma. Dois destes devem ser próprios para cozinhar alimentos:
 
@@ -829,7 +829,7 @@ d) Com um líder experiente, participar de uma caminhada de 2 dias, viajando por
 
 ![](_page_17_Figure_2.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter a especialidade de Natação intermediário I.
 - 2. Sob supervisão de seu instrutor, realizar o seguinte:
@@ -909,7 +909,7 @@ a) Avaliar a altura de uma árvore
 
 ![](_page_18_Figure_18.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 # (Necessário o acompanhamento de um instrutor)
 
@@ -965,7 +965,7 @@ a) Avaliar a altura de uma árvore
 
 ![](_page_19_Figure_27.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter a especialidade de Esqui aquático.
 - 2. Largar em águas profundas e esquiar satisfatoriamente.
@@ -989,7 +989,7 @@ a) Avaliar a altura de uma árvore
 
 ![](_page_20_Figure_13.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Salvamento de afogados.
 
@@ -1010,7 +1010,7 @@ a) Avaliar a altura de uma árvore
 
 ![](_page_21_Figure_9.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Natação principiante I.
 
@@ -1026,7 +1026,7 @@ a) Avaliar a altura de uma árvore
 
 ![](_page_22_Figure_5.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Arte de acampar.
 
@@ -1094,7 +1094,7 @@ c) Pinos
 
 ![](_page_23_Figure_28.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Ter as especialidades de Escalada e Primeiros socorros - básico.
 
@@ -1138,7 +1138,7 @@ c) Pinos
 
 ![](_page_24_Figure_19.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 # 1. Faça o seguinte:
 
@@ -1183,7 +1183,7 @@ a) Liste, pelo menos, 3 fontes de luz que podem ser usadas na exploração de ca
 
 ![](_page_25_Figure_11.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter a especialidade de Natação Avançado.
 - 2. Conhecer as leis que regulamentam a posse de embarcações em seu país.
@@ -1305,7 +1305,7 @@ b) Outdoor: 30 flechas (6 séries de 5 flechas) a 25 metros de distância, marca
 
 ![](_page_27_Figure_21.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Ciclismo.
 
@@ -1352,7 +1352,7 @@ c) Fazer um passeio ciclístico de, pelo menos, 200 quilômetros, em três dias 
 
 ![](_page_28_Figure_4.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Relacionar as precauções de segurança que devem ser seguidas por cada ginasta.
 
@@ -1687,7 +1687,7 @@ e) Demonstrar como proteger a lenha que será usada em fogueiras, em caso de chu
 
 ![](_page_35_Figure_21.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 # 1. Ter, no mínimo, 11 anos.
 
@@ -1739,7 +1739,7 @@ c) Descrever como limpar um saco de dormir ou um colchonete.
 
 ![](_page_36_Figure_5.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 ### 1. Ter, no mínimo, 12 anos.
 
@@ -1819,7 +1819,7 @@ mencionando as regras de comportamento.
 
 ![](_page_37_Figure_16.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Relacionar e descrever as principais características, qualidades e tamanhos dos seguintes equipamentos de esqui cross country:
 
@@ -1868,7 +1868,7 @@ b) Uma caminhada com duração de 5 dias e 4 noites
 
 ![](_page_38_Figure_12.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Explique o Lema dos Excursionistas: "Da natureza nada se tira além de fotos; não deixar nada a não ser pegadas; não matar nada, a não ser o tempo".
 
@@ -1925,7 +1925,7 @@ i) Câimbra
 
 ![](_page_39_Figure_5.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Ter quatro das especialidades a seguir. Quaisquer destas especialidades, completadas há mais de dois anos, devem ser estudadas outra vez, para que você possa responder quaisquer perguntas de conhecimento que estejam incluídas nas mesmas.
 
@@ -1982,7 +1982,7 @@ f) Observância adequada do sábado
 
 #### **AR** Liderança campestre - avançado **Nível** Instituição de origem Ano 058 Associação Geral $\overline{\mathbf{3}}$ 1986
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Liderança campestre.
 
@@ -2054,7 +2054,7 @@ e) Reação a plantas venenosas f) Infecção de feridas g) enjôo por altitude 
 
 ![](_page_41_Figure_31.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
  $a)$ 
 
@@ -2118,7 +2118,7 @@ NOTA: Necessário o acompanhamento de um instrutor qualificado.
 
 Windsurf **AR** Instituição de origem **Nível** Ano 061 **Associação Geral** 1986  $\overline{2}$ 
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter a especialidade de Natação intermediário I.
 - 2. Aprender o significado dos seguintes termos:
@@ -2173,7 +2173,7 @@ a) Nível de conhecimento dos membros, demonstrados pelos diálogos e apresenta�
 
 ![](_page_43_Figure_11.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Ciclismo.
 
@@ -2314,7 +2314,7 @@ a) Arremessando da linha de lance livre
 
 ![](_page_46_Figure_17.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Defina geocaching.
 - 2. O que é um receptor GPS?
@@ -2378,7 +2378,7 @@ d) Um micro cache
 
 ![](_page_47_Figure_21.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Quais árvores em seu país são usadas para construções de canoas? Quais os nomes populares delas? Elas são consideradas coníferas ou folhosas?
 
@@ -2427,7 +2427,7 @@ d) Um micro cache
 
 ![](_page_48_Figure_26.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Escreva uma página demonstrando seu conhecimento sobre como uma fanfarra pode ser usada para ministrar dentro de sua:
 
@@ -2582,7 +2582,7 @@ d) Dê sete regras para fixar a corda
 
 ![](_page_50_Figure_8.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Rapel - avançado.
 
@@ -2606,7 +2606,7 @@ d) Dê sete regras para fixar a corda
 
 ![](_page_51_Figure_7.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter a especialidade de Triathlon.
 - 2. Desenvolver uma agenda de treinamento para si mesmo(a).
@@ -2634,7 +2634,7 @@ d) Dê sete regras para fixar a corda
 
 ![](_page_52_Figure_10.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter a especialidade de Telecartofilia.
 - 2. Conhecer o funcionamento do cartão indutivo.
@@ -2672,7 +2672,7 @@ d) Dê sete regras para fixar a corda
 
 ![](_page_53_Figure_25.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Saber as regra básicas do softbol.
 - 2. Explicar o significado de esportividade e jogo limpo.
@@ -2725,7 +2725,7 @@ c) Demonstrar esportividade e jogo limpo.
 
 #### Letterboxing **AR** Instituição de origem **Nível** Ano 081 **Divisão Norte Americana** 2006 $\mathbf{1}$
 
-# **REQUISITOS**
+### REQUISITOS
 
 # 1. Defina o seguinte:
 
@@ -2766,7 +2766,7 @@ b) Utilização da bússola
 
 ![](_page_55_Figure_7.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Saber o nome e propósito de cada parte do monociclo.
 - 2. Defina os seguintes termos relacionados a monociclos:
@@ -2815,7 +2815,7 @@ a) Faca
 
 ![](_page_56_Figure_17.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter as seguintes especialidades:
   - a) Acampamento I
@@ -3006,7 +3006,7 @@ b) Fazer um conjunto de sapatos de neve usando materiais naturais ou sintéticos
 
 ![](_page_60_Figure_14.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Demonstrar como entrar e sair da água de forma segura.
 
@@ -3065,7 +3065,7 @@ c) Aprenda, pelo menos, dez regras de segurança guando próximos à água Obser
 
 ![](_page_61_Figure_31.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Criar um projeto para confeccionar um carrinho de rolimã (rolamentos) dentro das seguintes dimensões:
 
@@ -3110,7 +3110,7 @@ b) Em uma coleção do Clube já existente, ajudar na conservação e organizaç
 
 ![](_page_62_Figure_11.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. O que são esportes adaptados?
 
@@ -3225,7 +3225,7 @@ i) Bola Prensada
 
 ![](_page_64_Figure_21.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. De acordo com as regras internacionais de futsal, responder o seguinte: a) O que é futsal?
 
@@ -3358,7 +3358,7 @@ zzz) Nó espinha de peixe aaaa) Nó de arreio **bbbb)** Nó de cabresto (guntlin
 
 #### **Ordem unida - instrutor AR** Instituição de origem **Nível** Ano 100 **Divisão Sul Americana** 2012 $\overline{\mathbf{3}}$
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Ordem unida - avançado.
 
@@ -3444,7 +3444,7 @@ g) Em direção à direita ou à esquerda
 
 ![](_page_68_Figure_17.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter, no mínimo, 12 anos de idade.
 - 2. Ter a especialidade de Nós e amarras.
@@ -3522,7 +3522,7 @@ Observação: Pregos, parafusos e arames não devem ser usados. Os Clubes devem 
 
 ![](_page_69_Figure_28.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Faça um resumo da história da criação e evolução dos patins.
 - 2. Descrever os equipamentos de segurança usados na patinação.
@@ -3583,7 +3583,7 @@ Observação: Pregos, parafusos e arames não devem ser usados. Os Clubes devem 
 
 ![](_page_70_Figure_30.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 a) Segurar
 
@@ -3726,7 +3726,7 @@ c) Lançamento: enquanto o pião gira no chão, fazer um seio à sua ponteira e 
 
 ![](_page_72_Figure_11.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Conhecer o regulamento atualizado da FIVB (Federação Internacional de Vôlei) e relacionar as 8 regras principais do vôlei.
 
@@ -3769,7 +3769,7 @@ c) Lançamento: enquanto o pião gira no chão, fazer um seio à sua ponteira e 
 
 ![](_page_73_Figure_1.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 ### NOTA: Necessário o acompanhamento de um instrutor qualificado.
 

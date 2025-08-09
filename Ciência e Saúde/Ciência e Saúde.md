@@ -178,7 +178,7 @@ o) Quantos e quais fenômenos estão envolvidos quando uma vela está acesa?
 
 ![](_page_4_Figure_22.jpeg)
 
-## **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Primeiros socorros - básico.
 
@@ -230,7 +230,7 @@ a) Braco
 
 ![](_page_5_Figure_9.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Primeiros socorros - intermediário.
 
@@ -448,7 +448,7 @@ c) Discutir com seu orientador, os procedimentos para retirar pessoas da igreja 
 
 ![](_page_9_Figure_25.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter a especialidade de Nutrição.
 - 2. Ler um livro sobre nutrição.
@@ -563,7 +563,7 @@ palestra apresentando as informações obtidas para os desbravadores das Classes
 
 ![](_page_11_Figure_15.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. O que é resgate de emergência?
 - 2. Demonstrar como resgatar, com segurança, uma pessoa nas seguintes situações:
@@ -630,7 +630,7 @@ palestra apresentando as informações obtidas para os desbravadores das Classes
 
 ![](_page_12_Figure_14.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Fazer uma redação de, no mínimo, 500 palavras sobre a história dos microscópios. 2. Conhecer os microscópios abaixo, identificando-os pessoalmente ou através de figuras e fotos. Informar as principais características de cada um.
 
@@ -694,7 +694,7 @@ essenciais e não essenciais? Quais são as principais fontes de aminoácidos?
 
 ![](_page_13_Figure_17.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Qual a diferença entre endoesqueleto e exoesqueleto? Qual desses tipos de esqueleto os humanos têm?
 
@@ -744,7 +744,7 @@ a) Músculo estriado esquelético
 
 ![](_page_14_Figure_3.jpeg)
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Fazer um diagrama ou modelo de um encéfalo humano, incluindo as seguintes partes: medula, ponte, cerebelo, tálamo, hipotálamo, hipófise e cérebro. Descreva a função básica de cada um.
 
@@ -793,7 +793,7 @@ b) Descreva brevemente as seguintes desordens do sistema nervoso: doença de Alz
 
 #### Sangue e defesas do corpo **CS** Instituição de origem **Nível** Ano 018 Associação Geral 2000 3
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Nomear os 2 componentes do sangue. Qual a porcentagem de cada um? 2. Desenhar ou colar fotos dos seguintes tipos celulares do sangue, identificando todos: hemácia, plaqueta, neutrófilo, linfócito, eosinófilo, basófilo e monócito. Qual(ais) a(s) principal(ais) função(ões) de cada um?
 
@@ -850,7 +850,7 @@ b) (Para aqueles com mais de 18 anos): procurar o sistema médico e fazer uma do
 
 ![](_page_16_Figure_19.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 # 1. O que é hereditariedade?
 
@@ -895,7 +895,7 @@ pessoa famosa ou alguém que você conhece que tem uma dessas doenças. 10. A ge
 
 ![](_page_17_Figure_2.jpeg)
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Quais são as estruturas que formam o sistema circulatório? Ilustrar e descrever as principais funções de cada uma.
 
@@ -964,7 +964,7 @@ i) Hidrofílico e hidrofóbico
 
 ![](_page_18_Figure_25.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter a especialidade de Bioquímica.
 - 2. Definir os seguintes termos:
@@ -1009,7 +1009,7 @@ i) Hidrofílico e hidrofóbico
 
 ![](_page_19_Figure_8.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Definir higiene oral.
 - 2. Por quantas dentições um ser humano passa?
@@ -1053,7 +1053,7 @@ i) Hidrofílico e hidrofóbico
 
 ![](_page_20_Figure_16.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Descrever, por escrito ou oralmente, como os seguintes itens contribuem para o estudo: a) Escolha do lugar e ambiente ideal
   - b) Uso de dicionários e enciclopédias
@@ -1156,7 +1156,7 @@ c) O que ainda quero aprender e como posso alcançar esse objetivo?
 
 ![](_page_22_Figure_18.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 # 1. Ter a especialidade de Sistema nervoso.
 
@@ -1211,7 +1211,7 @@ c) O que ainda quero aprender e como posso alcançar esse objetivo?
 
 #### Sexualidade humana **CS** Instituição de origem **Nível** Ano 029 Divisão Sul Americana 2012 1
 
-### **REQUISITOS**
+### REQUISITOS
 
 Nota: Necessário o acompanhamento de um instrutor qualificado. Essa especialidade deve ser instruída em grupos separados por sexo e faixa etária aproximada. Somente pessoas do sexo masculino podem instruí-la para os garotos e somente as do sexo feminino podem instruí-la para as garotas.
 
@@ -1265,7 +1265,7 @@ g) Pesquisar outras 5 Doenças Sexualmente transmissíveis e responder sobre cad
 
 #### Sistema respiratório **CS** Instituição de origem **Nível** Ano 030 2012 **Divisão Sul Americana** $\overline{2}$
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Quais são as estruturas que formam o sistema respiratório? Ilustrar e descrever as principais funções de cada uma.
 
@@ -1343,7 +1343,7 @@ d) Poema ou música
 
 ![](_page_25_Figure_9.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Conhecer o sistema decimal.
 
@@ -1387,7 +1387,7 @@ d) Poema ou música
 
 ![](_page_26_Figure_12.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter a especialidade Habilidades em matemática II.
 - 2. Resolver as seguintes operações usando o algoritmo tradicional:
@@ -1431,7 +1431,7 @@ c) Se eu adicionar 8 à quantidade de carrinhos que possuo, ficarei com a mesma 
 
 ![](_page_27_Figure_10.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade Habilidades em matemática III.
 

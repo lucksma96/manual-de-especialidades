@@ -111,7 +111,7 @@ b) Demonstrar suas técnicas de contar a história de forma a torná-la ainda in
 
 ![](_page_3_Figure_2.jpeg)
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Possuir, pelo menos, 3 marionetes. Pelo menos 1 delas deve ser confeccionada manualmente por você.
 
@@ -134,7 +134,7 @@ b) Demonstrar suas técnicas de contar a história de forma a torná-la ainda in
 
 ![](_page_4_Figure_8.jpeg)
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Definir cultura e diversidade cultural.
 
@@ -186,7 +186,7 @@ j) Identificar, pelo menos, 5 coisas (alimentos, costumes, vestimentas, hábitos
 
 ![](_page_5_Figure_5.jpeg)
 
-#### **REQUISITOS**
+### REQUISITOS
 
 NOTA: Entre em contato com o departamental de colportagem em sua associação. Ele poderá ajudá-lo a selecionar um livro ou revista para vender e lhe designará uma região de trabalho.
 
@@ -237,7 +237,7 @@ d) Reagir às objeções
 
 #### Cidadania cristã **AM** Instituição de origem **Nível** Ano 006 Associação Geral 1938
 
-### **REQUISITOS**
+### REQUISITOS
 
 - 1. Defina o termo Cidadania.
 - 2. Descrever as sequintes bandeiras:
@@ -286,7 +286,7 @@ c) Eventos históricos muito conhecidos em seu país
 
 ![](_page_7_Figure_11.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Ler e traduzir, à primeira vista, um texto de, pelo menos, 300 palavras de um livro ou revista em uma língua não nativa para você.
 
@@ -458,7 +458,7 @@ Apresentar ao seu orientador oralmente esse requisito.
 
 ![](_page_10_Figure_22.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 ## Parte I - Cortesia Cristã
 
@@ -511,7 +511,7 @@ b) Apresentar duas razões por que a boa forma física é importante. Explicar a
 
 **Vida familiar AM** Instituição de origem **Nível** Ano 012 Associação Geral 1975  $\mathbf{1}$ 
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Usando o Livro "O Lar Adventista", de Ellen G. White, como base de suas pesquisas, resuma em pelo menos 250 palavras cada o papel de cada membro dentro da sua família:
 
@@ -552,7 +552,7 @@ como os Cultos de Pôr-do-sol de Sexta Feira.
 
 ![](_page_12_Figure_2.jpeg)
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Memorizar e assinar o Voto de Temperança: "Consciente de que o uso do álcool e fumo e o uso de drogas não recomendadas por médicos não é compatível com um viver saudável, comprometo-me a não apenas me abster do uso dessas substâncias e viver de acordo com os princípios da Temperança Cristã, mas também a ajudar os outros a compreender e aceitar esse estilo mais saudável de vida"; ou criar seu próprio voto. 2. Decorar 3 citações em cada uma das categorias: Bíblia e Espírito de Profecia. **Bíblia** 
 
@@ -670,7 +670,7 @@ c) Visite uma escola de ensino fundamental que trabalhe com surdos e perqunte co
 
 ![](_page_14_Figure_10.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Responda em um pequeno parágrafo suas considerações na pesquisa do assunto de Mordomia Cristã nos seguintes versos Bíblicos:
 
@@ -800,7 +800,7 @@ Apresentar fotos e relatório da atividade em que você se envolveu.
 
 ![](_page_17_Figure_16.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Língua de sinais.
 
@@ -839,7 +839,7 @@ a) Expressão facial
 
 ![](_page_18_Figure_13.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Marcação bíblica.
 
@@ -930,7 +930,7 @@ NOTA: Necessário o acompanhamento de um instrutor (pastor ou ancião).
 
 ![](_page_20_Figure_7.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 - 1. Qual o nome das três partes do santuário?
 - a) Descreva o que tinha em cada parte;
@@ -1039,7 +1039,7 @@ b) Relatar com fotos e histórias para a igreja ou no programa da escola sabatin
 
 ![](_page_22_Figure_14.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 ### **Requer Instrutor.**
 
@@ -1100,7 +1100,7 @@ c) Conciliação
 
 ![](_page_23_Figure_20.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 ### Requer acompanhamento de instrutor da área jurídica.
 
@@ -1375,7 +1375,7 @@ Nota: Este site, http://www.braillevirtual.fe.usp.br/, apresenta um curso intere
 
 ![](_page_29_Figure_16.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. O que é modelo e teoria científica?
 
@@ -1417,7 +1417,7 @@ e) Do ponto de vista da arqueologia, o que são fósseis de transição? Como a 
 
 #### **AM** Criacionismo - avançado Instituição de origem **Nível** Ano 036 **Divisão Sul Americana** 2012 3
 
-### **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter as seguintes especialidades:
   - a) Criacionismo
@@ -1464,7 +1464,7 @@ d) Organizar um evento sobre criacionismo, com palestrante qualificado e reconhe
 
 ![](_page_31_Figure_4.jpeg)
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. O que é o dom profético?
 
@@ -1544,7 +1544,7 @@ e) Quais serão os primeiros sinais vistos no Céu, momentos antes da vinda de J
 
 ![](_page_32_Figure_20.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 ### NOTA: Necessário acompanhamento de instrutor.
 
@@ -1616,7 +1616,7 @@ Nota: Se o mural for feito em grupo, a quantidade de lugares que o mural deve se
 
 ![](_page_33_Figure_14.jpeg)
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Relacione 10 formas diferentes de evangelizar utilizando a internet.
 
@@ -1672,7 +1672,7 @@ d) Quais são mais indicados para uma apresentação do Clube a algum interessad
 
 #### Evangelismo web - avançado **AM** Instituição de origem **Nível** Ano 041 **Divisão Sul Americana** 2012 $\overline{3}$
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Evangelismo web.
 
@@ -1714,7 +1714,7 @@ d) Alcançar um indíce de influência no serviço Klout (klout.com) de no míni
 
 #### **AM** Intercessor Instituição de origem **Nível** Ano 042 2012 **Divisão Sul Americana** $\overline{2}$
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Defina com suas palavras:
 
@@ -1754,7 +1754,7 @@ que está cumprindo a especialidade, visitá-los ou, na impossibilidade, enviar 
 
 ![](_page_36_Figure_4.jpeg)
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Descobrir o que foi o Movimento Milerita e qual seu papel fundamental para o início da Igreja Adventista do Sétimo Dia.
 
@@ -1807,7 +1807,7 @@ que está cumprindo a especialidade, visitá-los ou, na impossibilidade, enviar 
 
 ![](_page_37_Figure_15.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 - 1. Defina o que é sonoplastia.
 - 2. Quais as qualidades de um sonoplasta?
@@ -1876,7 +1876,7 @@ sistema de som.
 
 ![](_page_38_Figure_21.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Ter completado pelo menos uma vez a leitura completa da Bíblia.
 

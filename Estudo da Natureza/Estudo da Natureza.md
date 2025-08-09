@@ -161,7 +161,7 @@ c) Tirar fotografias coloridas e identificar, pelo menos, 16 espécies de aranha
 
 ![](_page_4_Figure_20.jpeg)
 
-## **REQUISITOS**
+### REQUISITOS
 
 1. Apresentar 4 características usadas para diferenciar as aves dos outros animais. 2. Dar o nome de 3 aves que não voam. Mencionar o que comem e dar o nome do país
 
@@ -231,7 +231,7 @@ c) Visitar uma fazenda de avicultura e observar as rotinas de cuidados (alimenta
 
 ![](_page_5_Figure_23.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Qual o grande grupo de plantas que possui flores?
 
@@ -301,7 +301,7 @@ b) Vento
 
 ![](_page_6_Figure_19.jpeg)
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Quais são as principais características dos insetos?
 
@@ -361,7 +361,7 @@ Os desenhos ou pinturas precisam ser do tamanho natural ou maior e em coloraçã
 
 ![](_page_7_Figure_20.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Citar 3 características do Reino Fungi.
 
@@ -435,7 +435,7 @@ I) Cetacea
 
 ![](_page_8_Figure_23.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Que características um animal precisa ter para ser classificado como réptil?
 
@@ -483,7 +483,7 @@ b) Para minerais: pesquisar e descrever as seguintes características dos minera
 |-----------|--------------|------------------------------|-------------------------------------------|--|
 | 013       | <b>Nível</b> | Ano<br>1937                  | Instituição de origem<br>Associação Geral |  |
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Rochas e minerais.
 
@@ -572,7 +572,7 @@ c) As criaturas das águas perecem fora da água.
 |-----|--------------|---------------------|-------------------------------------------|--|
 | 016 | <b>Nível</b> | Ano<br>1944         | Instituição de origem<br>Associação Geral |  |
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Explicar como os seguintes fenômenos são formados: neblina, chuva, orvalho, neve, granizo e geada.
 
@@ -676,7 +676,7 @@ e) Descrever o processo de limpeza dos espécimes assim que são retirados, para
 |-----|--------------|-------------|-------------------------------------------|--|
 | 019 | <b>Nível</b> | Ano<br>1945 | Instituição de origem<br>Associação Geral |  |
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Descobrir a definição de arbusto e saber onde os arbustos são mais utilizados.
 
@@ -731,7 +731,7 @@ b) Descrever brevemente seus hábitos de alimentação, ninho e comportamento em
 |-----|-------------------|-------------|-------------------------------------------|--|
 | 021 | <b>Nível</b><br>3 | Ano<br>1945 | Instituição de origem<br>Associação Geral |  |
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Citar 4 características que a planta precisa possuir para ser considerada uma gramínea.
 
@@ -808,7 +808,7 @@ c) Barbatana pélvica
 
 ![](_page_15_Figure_23.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Quais as características dos anfíbios?
 
@@ -854,7 +854,7 @@ c) Barbatana pélvica
 
 ![](_page_16_Figure_18.jpeg)
 
-## **REQUISITOS**
+### REQUISITOS
 
 1. Saber as principais diferenças entre cavalos de tração e cavalos de corrida. 2. Visitar uma fazenda e identificar 3 das seguintes raças de cavalos, listando suas principais características, como altura, peso, cor e disposição de pelos. (Caso em sua região crie apenas um tipo, as demais poderão ser por fotos).
 
@@ -991,7 +991,7 @@ d) Como o clima pode ser usado por Deus, como ferramenta de Salvação
 
 ![](_page_19_Figure_25.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Flores.
 
@@ -1097,7 +1097,7 @@ f) Comportamento
 
 ![](_page_21_Figure_18.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Moluscos.
 
@@ -1178,7 +1178,7 @@ h) A tinta púrpura dos tempos antigos era retirada da excreção de que molusco
 |-----|--------------|---------------------------|-------------------------------------------|--|
 | 033 | <b>Nível</b> | Ano<br>1949               | Instituição de origem<br>Associação Geral |  |
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Árvores.
 
@@ -1227,7 +1227,7 @@ b) Para que servem as duas partes de um nome científico?
 
 ![](_page_23_Figure_21.jpeg)
 
-## **REQUISITOS**
+### REQUISITOS
 
 - 1. O que significa a palavra areia? Dar o nome de 2 tipos de areia.
 - 2. Apresentar a origem da areia e seu conteúdo mineral.
@@ -1271,7 +1271,7 @@ b) Para que servem as duas partes de um nome científico?
 
 ![](_page_24_Figure_18.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. De que maneira a ordem dos cetáceos é diferente da maioria dos outros seres marinhos?
 
@@ -1326,7 +1326,7 @@ b) Para que servem as duas partes de um nome científico?
 
 ![](_page_25_Figure_20.jpeg)
 
-## **REQUISITOS**
+### REQUISITOS
 
 - 1. Quantas espécies diferentes de eucaliptos existem no Brasil?
 - 2. Qual a origem do nome eucalipto?
@@ -1367,7 +1367,7 @@ b) Para que servem as duas partes de um nome científico?
 
 ![](_page_26_Figure_12.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Sementes.
 
@@ -1410,7 +1410,7 @@ b) Para que servem as duas partes de um nome científico?
 
 ![](_page_27_Figure_15.jpeg)
 
-## **REQUISITOS**
+### REQUISITOS
 
 ### NOTA: Esta especialidade deve ser acompanhada por um instrutor que tenha conhecimentos profundos sobre a flora da região.
 
@@ -1496,7 +1496,7 @@ m) Habitat
 
 ![](_page_28_Figure_18.jpeg)
 
-#### **REQUISITOS**
+### REQUISITOS
 
 NOTA: Para esta especialidade, é recomendável o acompanhamento de um instrutor. Falar com seu líder de desbravadores ou instrutor antes de começar os requisitos 8 e 9.
 
@@ -1531,7 +1531,7 @@ a) Matéria-prima b) Fotossintese c) Quimiossíntese
 |-----------|-------------------|-----------------------|-------------------------------------------|--|
 | 046       | <b>Nível</b><br>3 | Ano<br>1973           | Instituição de origem<br>Associação Geral |  |
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Explicar a diferença entre ecologia e conservação ambiental.
 
@@ -1616,7 +1616,7 @@ k) Depósito ou fábricas jogam resíduos nas águas do riacho
 |-----|--------------|-------------|-------------------------------------------|--|
 | 047 | <b>Nível</b> | Ano<br>1975 | Instituição de origem<br>Associação Geral |  |
 
-### **REQUISITOS**
+### REQUISITOS
 
 #### 1. Apresentar o significado dos seguintes termos:
 
@@ -1670,7 +1670,7 @@ g) Falha com deslocamento das litologias
 |-----------|--------------|---------------------|-------------------------------------------|--|
 | 048       | <b>Nível</b> | Ano<br>1975         | Instituição de origem<br>Associação Geral |  |
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Geologia.
 
@@ -1736,7 +1736,7 @@ e) Fossas oceânicas
 |-----------|--------------|---------------------|-------------------------------------------|--|
 | 050       | <b>Nível</b> | Ano<br>1976         | Instituição de origem<br>Associação Geral |  |
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Saber identificar, pelo menos, 10 tipos de pegadas de animais, incluindo 2 de aves. Faça, pelo menos, 5 moldes em alto relevo em gesso da pegada de diferentes animais. 2. Citar, pelo menos, 3 coisas que os rastros nos dizem.
 
@@ -1798,7 +1798,7 @@ f) Roedores
 
 ![](_page_33_Figure_8.jpeg)
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Mencionar, pelo menos, 3 ordens de mamíferos marinhos, dando exemplos de cada uma. 2. Citar algumas características que diferenciam os mamíferos marinhos dos demais mamíferos tradicionais que conhecemos.
 
@@ -1913,7 +1913,7 @@ c) Quais dos animais listados não são roedores?
 |-----|--------------|----------------------------|-------------------------------------------|--|
 | 054 | <b>Nível</b> | Ano<br>2001                | Instituição de origem<br>Associação Geral |  |
 
-## **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter a especialidade de Anfíbios.
 - 2. Como é chamado o estudo dos Anfíbios?
@@ -1943,7 +1943,7 @@ Observações: é muito importante que seja realizado um levantamento bibliográ
 |-----------|--------------|--------------------------------|-------------------------------------------|--|
 | 056       | <b>Nível</b> | Ano<br>2001                    | Instituição de origem<br>Associação Geral |  |
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Rastreio de animais.
 
@@ -1971,7 +1971,7 @@ Observações: é muito importante que seja realizado um levantamento bibliográ
 
 ![](_page_37_Figure_11.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 - 1. Definir os seguintes termos:
   - a) Habitat
@@ -2010,7 +2010,7 @@ e) Fazer uma teia da vida, ou outra dinâmica de grupo sobre ecossistemas.
 
 ![](_page_38_Figure_3.jpeg)
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Por que os morcegos são classificados como mamíferos e não como aves?
 
@@ -2060,7 +2060,7 @@ e) Fazer uma teia da vida, ou outra dinâmica de grupo sobre ecossistemas.
 
 ![](_page_39_Figure_13.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 ### 1. Distinguir:
 
@@ -2120,7 +2120,7 @@ b) Pétalas
 
 ![](_page_40_Figure_24.jpeg)
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Qual o nome da família das Palmeiras?
 
@@ -2167,7 +2167,7 @@ b) Pétalas
 
 ![](_page_41_Figure_24.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 - 1. O que é um verme?
 - 2. Onde os vermes vivem?
@@ -2221,7 +2221,7 @@ b) Organizar uma angariação de fundos para apoiar alguma organização que tra
 
 ![](_page_42_Figure_14.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 - 1. Como se formam as quedas d'água?
 - 2. Definir os seguintes tipos de quedas d'água e dar um exemplo de cada:
@@ -2353,7 +2353,7 @@ b) Com a orientação do seu líder, identificar, no mínimo, 10 animais peçonh
 
 ![](_page_44_Figure_27.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 - 1. O que são animais noturnos?
 - 2. Como os animais noturnos são influenciados pelo clima em que estão inseridos?
@@ -2407,7 +2407,7 @@ b) Realizar uma visita noturna em um aquário ou zoológico e apresentar um rela
 
 ![](_page_45_Figure_24.jpeg)
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Arbustos
 
@@ -2459,7 +2459,7 @@ c) Alimentação.
 
 ![](_page_46_Figure_18.jpeg)
 
-## **REQUISITOS**
+### REQUISITOS
 
 - 1. O que significa a palavra briófita?
 - 2. Citar 4 características deste grupo de planta.
@@ -2494,7 +2494,7 @@ b) Possuir uma coleção de imagens ou figuras de, pelo menos, 10 tipos diferent
 
 ![](_page_47_Figure_13.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Explicar as diferenças entre o dromedário e o camelo-bactriano. Por que ambos são reconhecidos e importantes?
 
@@ -2538,7 +2538,7 @@ b) Possuir uma coleção de imagens ou figuras de, pelo menos, 10 tipos diferent
 
 ![](_page_48_Figure_22.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 - 1. Citar, pelo menos, 4 características de um crustáceo.
 - 2. O que é um exoesqueleto?
@@ -2600,7 +2600,7 @@ b) Possuir uma coleção de imagens ou figuras de, pelo menos, 10 tipos diferent
 |-----------|-------------------|---------------------|-------------------------------------------|--|
 | 080       | <b>Nível</b><br>2 | Ano<br>1956         | Instituição de origem<br>Associação Geral |  |
 
-## **REQUISITOS**
+### REQUISITOS
 
 - 1. Em qual ambiente podemos encontrar os equinodermos?
 - 2. O que significa a palavra Echinodermata, nome que caracteriza o Filo dos equinodermos?
@@ -2676,7 +2676,7 @@ e) Impacto ambiental e social da implementação
 
 ![](_page_50_Figure_23.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. O que é um estuário?
 
@@ -2760,7 +2760,7 @@ f) Papel na fauna marinha
 
 ![](_page_51_Figure_25.jpeg)
 
-## **REQUISITOS**
+### REQUISITOS
 
 1. Quais características classificam um ser vivo como sendo um vegetal (Reino Metaphyta)?
 
@@ -2814,7 +2814,7 @@ e) Flor
 
 ![](_page_52_Figure_20.jpeg)
 
-## **REQUISITOS**
+### REQUISITOS
 
 1. O que são liquens? Eles se encaixam em algum dos reinos de seres vivos que conhecemos? Por quê?
 
@@ -2850,7 +2850,7 @@ e) Flor
 
 ![](_page_53_Figure_16.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Quais são as características de uma planta carnívora que as diferem das plantas normais?
 
@@ -2941,7 +2941,7 @@ c) Cultivar uma planta carnívora de qualquer espécie por, no mínimo, 3 meses 
 
 ![](_page_55_Figure_13.jpeg)
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Quais as principais características dos protozoários que os colocam no reino protista? Quais as semelhanças e diferenças que eles têm em relação aos demais protistas (algas)?
 
@@ -2997,7 +2997,7 @@ b) Obs.: Procurar fazê-los dando o melhor acabamento possível.
 |-----|------------------------------------------|-------------|-------------------------------------------------------|--|
 | 093 | <b>Nível</b>                             | Ano<br>2012 | Instituição de origem<br><b>Divisão Sul Americana</b> |  |
 
-### **REQUISITOS**
+### REQUISITOS
 
 - 1. Como funciona a coleta seletiva de resíduo sólido nos locais abaixo:
   - a) Residências
@@ -3043,7 +3043,7 @@ a) Azul
 
 ![](_page_57_Figure_10.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. O que significa a palavra vírus? Explique porque há uma controvérsia se ele é um ser vivo ou não.
 

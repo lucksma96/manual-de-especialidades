@@ -166,7 +166,7 @@
 
 ![](_page_5_Figure_9.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 # NOTA: Necessário acompanhamento de instrutor músico.
 
@@ -214,7 +214,7 @@
 
 ![](_page_6_Figure_13.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 # NOTA: Necessário acompanhamento de instrutor músico.
 
@@ -258,7 +258,7 @@ f) Verdana
 
 ![](_page_7_Figure_14.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Apresentar para o examinador (Escrito ou oralmente) um trabalho sobre 2 países onde cresce o junco.
 
@@ -346,7 +346,7 @@ n) Furadeira
 
 ![](_page_8_Figure_24.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Escrever ou explicar oralmente os diferentes tipos e usos da arte em louça e dos materiais usados em sua confecção.
 
@@ -384,7 +384,7 @@ f) Na roda do oleiro, fazer um vaso simples.
 
 ![](_page_9_Figure_12.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 ![](_page_10_Picture_0.jpeg)
 
@@ -413,7 +413,7 @@ a) Serigrafia
 
 ![](_page_10_Figure_17.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 - 1. Definir o que é tecelagem. Qual a origem dessa antiga forma de artesanato?
 - 2. Descrever e exemplificar os processos de preparação básicos para a tecelagem.
@@ -473,7 +473,7 @@ f) Lixas
 
 ![](_page_11_Figure_16.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Montar, a partir de um kit, e fazer voar com sucesso um aeroplano de madeira leve, papel de seda e borracha ou outro material movido à gasolina.
 
@@ -511,7 +511,7 @@ a) Fuselagem b) Asa c) Leme d) Estabilizador horizontal e) Tirante f) Cockpit g)
 
 ![](_page_12_Figure_14.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Relacionar as ferramentas e material usados em esculturas simples.
 
@@ -538,7 +538,7 @@ a) Fuselagem b) Asa c) Leme d) Estabilizador horizontal e) Tirante f) Cockpit g)
 
 ![](_page_13_Figure_14.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 NOTA: O cozimento da cerâmica não necessariamente deverá ser feito pelo Desbravador.
 
@@ -594,7 +594,7 @@ e) Uma bandeja de frutas f) Travessa de porcelana g) Objeto de sua escolha
 
 ![](_page_14_Figure_17.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. A partir de que fibra é feito o feltro? O que lhe dá sua força elástica?
 - 2. Mencionar 7 utilidades do feltro.
@@ -644,7 +644,7 @@ c) Pigmentos
 
 ![](_page_15_Figure_15.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Quais são os componentes básicos usados para se fazer sabão?
 
@@ -676,7 +676,7 @@ c) Pigmentos
 
 ![](_page_16_Figure_17.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Mencionar, pelo menos, 2 materiais que são usados em seu país para fazer esteiras. 2. Explicar e demonstrar como preparar estes materiais para a confecção de esteiras. 3. Dar o nome de, pelo menos, 2 plantas de seu país que podem ser usadas para fazer tintas. Dizer onde são encontradas e como é feito o preparo da tinta a partir delas. 4. Demonstrar como usar tintas naturais e sintéticas para colorir esteiras.
 
@@ -702,7 +702,7 @@ b) Fazer seções para a parede, com medidas de 1m x 1m. Mostrar 2 padrões dife
 
 ![](_page_17_Figure_10.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Apresentar a história e desenvolvimento do ferreomodelismo.
 
@@ -807,7 +807,7 @@ g) Ajudar na instalação de energia elétrica para os trilhos
 
 ![](_page_18_Figure_25.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Qual a importância de se conhecer sua herança cultural?
 
@@ -865,7 +865,7 @@ b) Tornar-se adulto (comemorações de idades específicas, ritos de passagem, e
 
 ![](_page_19_Figure_19.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Qual o principal ingrediente do gesso de Paris?
 
@@ -899,7 +899,7 @@ b) Tornar-se adulto (comemorações de idades específicas, ritos de passagem, e
 
 ![](_page_20_Figure_11.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Saber executar os seguintes pontos e mencionar quais são as abreviaturas dos mesmos:
 
@@ -945,7 +945,7 @@ c) Chaveiro
 
 ![](_page_21_Figure_10.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 - 1. Explicar o código de segurança do Missilmodelismo.
 - 2. Explicar a importância dos componentes básicos das miniaturas de foguetes.
@@ -992,7 +992,7 @@ http://nar.org/NARmrsc.html
 
 #### Espaçomodelismo - avançado **HM Nível** Instituição de origem Ano 036 1970 **Associação Geral** $\overline{2}$
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Missilmodelismo.
 
@@ -1040,7 +1040,7 @@ f) Ponto junto
 
 ![](_page_23_Figure_15.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Tricô.
 
@@ -1092,7 +1092,7 @@ feitas simultaneamente no mesmo par de agulhas.
 
 ![](_page_24_Figure_14.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Fazer uma trança de três pontas usando cabelo, corda ou cabo.
 - 2. Fazer um puxador de zíper ou um chaveiro usando o trançado redondo ou quadrado de quatro cordões.
@@ -1114,7 +1114,7 @@ feitas simultaneamente no mesmo par de agulhas.
 
 ![](_page_25_Figure_10.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Fazer uma lista de equipamentos necessários para decorar bolos.
 - 2. Preparar 2 coberturas de bolo e dizer que ingredientes foram utilizados em cada uma. 3. Demonstrar como usar corretamente colheres e xícaras de medidas e a balança culinária (se houver). Qual a importância, na confeitaria, de se seguir a receita corretamente?
@@ -1167,7 +1167,7 @@ NOTA: A aplicação de fogo aos objetos não precisa ser necessariamente feita p
 
 ![](_page_26_Figure_16.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter a especialidade de Esmaltado em Cobre.
 - 2. Explicar o uso de um tripé.
@@ -1212,7 +1212,7 @@ NOTA: A aplicação de fogo aos objetos não precisa ser necessariamente feita p
 
 ![](_page_27_Figure_24.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Fazer, pelo menos, 5 dos itens a seguir:
   - a) Vela de Areia de forma livre
@@ -1240,7 +1240,7 @@ NOTA: A aplicação de fogo aos objetos não precisa ser necessariamente feita p
 
 ![](_page_28_Figure_11.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter a especialidade de Serigrafia.
 - 2. Estender e prender uma malha num bastidor para fazer uma tela de serigrafia.
@@ -1285,7 +1285,7 @@ c) Imprimir um desenho em três cores, usando apenas duas cores de tinta
 
 ![](_page_29_Figure_19.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. O que é Decoupage?
 
@@ -1318,7 +1318,7 @@ c) Imprimir um desenho em três cores, usando apenas duas cores de tinta
 
 ![](_page_30_Figure_10.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Faça uma lista de ferramentas necessárias para se trabalhar em telhados, relacionando o uso e os cuidados de segurança de cada ferramenta.
 
@@ -1410,7 +1410,7 @@ a) Um cocar b) Um instrumento musical c) Um arco e flecha
 
 ![](_page_32_Figure_15.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Fazer uma lista dos materiais necessários para a arte em biscuit.
 
@@ -1471,7 +1471,7 @@ a) Um cocar b) Um instrumento musical c) Um arco e flecha
 
 ![](_page_33_Figure_13.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Cumprir dois dos itens abaixo:
 
@@ -1506,7 +1506,7 @@ c) Pasta
 
 ![](_page_34_Figure_12.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 - 1. Liste as ferramentas e itens necessários para o trabalho de gravura em vidros.
 - 2. Quais são os passos para se fazer uma gravura em vidro?
@@ -1556,7 +1556,7 @@ b) Concluir o trabalho com enquadramento em torno do espelho com fita adesiva co
 
 ![](_page_35_Figure_7.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 | corrida.                            | 1. Mencionar os 4 componentes básicos para se construir um carrinho de madeira para  |
 |-------------------------------------|--------------------------------------------------------------------------------------|
@@ -1675,7 +1675,7 @@ j) Tudo sobre mim (do nascimento até hoje).
 
 ![](_page_37_Figure_21.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter a especialidade de Scrapbooking.
 - 2. O que é lignina? Por que ela é prejudicial?
@@ -1811,7 +1811,7 @@ c) Bolsa
 
 ![](_page_40_Figure_19.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Listar os materiais necessários para fazer quilling.
 
@@ -1872,7 +1872,7 @@ c) Bolsa
 
 ![](_page_41_Figure_27.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Saber quais são os melhores tipos de materiais para se trabalhar com tie-dye. Saber como prepará-los para se iniciar os trabalhos.
 
@@ -1922,7 +1922,7 @@ c) Bolsa
 
 ![](_page_42_Figure_27.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter a especialidade de Apitos.
 - 2. O que é um apito de êmbolo e quem criou este tipo de apito?
@@ -1954,7 +1954,7 @@ c) Bolsa
 
 ![](_page_43_Figure_17.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter a especialidade de Faróis.
 - 2. Fazer um scrapbook, incluindo o seguinte:
@@ -2030,7 +2030,7 @@ b) Maçarico
 
 ![](_page_45_Figure_11.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Quando, onde e como surgiram as primeiras ideias a respeito de embalagem?
 
@@ -2088,7 +2088,7 @@ f) Chaveiro
 
 ![](_page_46_Figure_18.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. O que é desenho vetorial?
 
@@ -2139,7 +2139,7 @@ e) Transformar uma foto de um rosto em um desenho vetorial, utilizando as ferram
 
 ![](_page_47_Figure_18.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Escrever um relatório sobre história em quadrinhos, contendo seus principais fatos históricos, características e personagens, explicando porque ela é considerada a Nona Arte.
 
@@ -2219,7 +2219,7 @@ d) Arte-final: tradicional, tratamentos especiais, técnicas mistas.
 
 ![](_page_49_Figure_20.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Defina o que é a técnica do papel machê, onde teve origem essa arte.
 - 2. O que é Papietagem? Como a papietagem se relaciona ao papel machê?
@@ -2245,7 +2245,7 @@ d) Arte-final: tradicional, tratamentos especiais, técnicas mistas.
 
 ![](_page_50_Figure_12.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Saber explicar e seguir um mapa de montagem de um kit de plastimodelismo. 2. Escolher e montar um kit de plastimodelismo. Ex: aviões, navios, carros, etc. Esse kit não poderá ser usado em outras especialidades de modelismo (ferromodelismo, automodelismo, etc.).
 - 3. Saber usar ferramentas para auxílio na montagem de um kit (lixas, pinças, lupas, pincéis apropriados, colas, etc.).
@@ -2277,7 +2277,7 @@ d) Arte-final: tradicional, tratamentos especiais, técnicas mistas.
 
 ![](_page_51_Figure_17.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter a especialidade de Violão.
 - 2. Explique o que são e como são formadas as tríades.

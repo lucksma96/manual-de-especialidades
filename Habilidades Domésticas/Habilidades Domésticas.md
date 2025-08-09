@@ -63,7 +63,7 @@ c) 1 salada crua
 
 ![](_page_2_Figure_24.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Saber interpretar os símbolos usados em etiquetas de roupas. Desenhar os símbolos correspondentes a:
 
@@ -142,7 +142,7 @@ d) Manter o seu guarda-roupa ou cômoda organizados por, no mínimo, um mês. Ap
 
 ![](_page_3_Figure_22.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Ser capaz de cuidar de um bebê durante, no mínimo, 5 horas em, pelo menos, 3 dias de 1 semana.
 
@@ -189,7 +189,7 @@ d) Manter o seu guarda-roupa ou cômoda organizados por, no mínimo, um mês. Ap
 
 ![](_page_4_Figure_18.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 - 1. Descrever os seguintes métodos para a conservação de alimentos:
   - a) Pasteurização
@@ -302,7 +302,7 @@ c) Salgada (vegetariana de qualquer sabor)
 
 ![](_page_6_Figure_22.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Arte culinária.
 
@@ -369,7 +369,7 @@ e) Embutidos
 
 ![](_page_7_Figure_28.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 - 1. Pesquisar um ingrediente originário para cada estado/região do seu país.
 - 2. Conhecer alguns dos diferentes temperos utilizados em cada região do seu país.
@@ -404,7 +404,7 @@ e) Embutidos
 
 ![](_page_8_Figure_23.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. O que é desidratação de alimentos? Quais suas vantagens?
 - 2. Relacionar e descrever, pelo menos, 3 maneiras diferentes de desidratar alimentos.

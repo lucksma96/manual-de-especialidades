@@ -117,7 +117,7 @@
 
 ![](_page_3_Figure_27.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Demonstrar capacidade em ligar um carro. Explicar porque é necessário verificar periodicamente o óleo, água, combustível, pneus, freios e bateria.
 
@@ -205,7 +205,7 @@ c) Trocar óleo do motor e filtro do óleo.
 
 ![](_page_5_Figure_9.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Ser capaz de explicar e ilustrar um experimento através do qual as leis de atração e repulsão elétricas são demonstradas.
 
@@ -277,7 +277,7 @@ b) Casa de bonecas
 
 ![](_page_6_Figure_25.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade Costura básica (HD 009).
 
@@ -311,7 +311,7 @@ b) Uma blusa. Explicar como faria para ajustar os ombros para pessoas de diferen
 
 ![](_page_7_Figure_6.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 - 1. Conhecer os princípios e funcionamento dos seguintes equipamentos:
   - a) Prensa rotativa
@@ -416,7 +416,7 @@ f) Assinatura
 
 g) Capa dura
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Identificar os seguintes termos:
   - a) Miolo b) Guardas
@@ -489,7 +489,7 @@ c) Concretagem de laje ou baldrame
 
 ![](_page_10_Figure_18.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Passar um mínimo de 5 horas observando um barbeiro/cabeleireiro enquanto este TRABALHA.
 
@@ -535,7 +535,7 @@ f) Igreja
 
 ![](_page_11_Figure_13.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Definir contabilidade.
 
@@ -630,7 +630,7 @@ g) Assistir 75% das reuniões de uma série de conferências de sua igreja local
 
 ![](_page_13_Figure_9.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 NOTA: necessário instrutor qualificado. Todos os trabalhos realizados nesta especialidade devem estar de acordo com a norma culta padrão da língua oficial de seu país.
 
@@ -700,7 +700,7 @@ b) Estabelecer a relação entre uma boa notícia e o roteiro inicial de pergunt
 
 ![](_page_14_Picture_15.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Identificar os tecidos a seguir:
   - a) Lã
@@ -758,7 +758,7 @@ e) Tinta que não seca
 
 ![](_page_15_Figure_15.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Explicar como preparar a madeira para receber verniz.
 
@@ -832,7 +832,7 @@ f) Epóxi
 
 ![](_page_16_Figure_10.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Ter, no mínimo, 15 anos ou estar no 1º ano do Ensino Médio.
 
@@ -888,7 +888,7 @@ e) Ser professor de Educação Infantil, Ensino Fundamental, Ensino Médio, Ensi
 
 ![](_page_17_Figure_10.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter a especialidade em Corte e costura.
 - 2. Explicar como fazer, pelo menos, 4 tipos das alterações a seguir:
@@ -921,7 +921,7 @@ e) Ser professor de Educação Infantil, Ensino Fundamental, Ensino Médio, Ensi
 
 ![](_page_18_Figure_5.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Mecânica automotiva.
 
@@ -946,7 +946,7 @@ e) Ser professor de Educação Infantil, Ensino Fundamental, Ensino Médio, Ensi
 
 ![](_page_19_Figure_12.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Descrever os cuidados necessários para a adoção de um cão. Explicar o seguinte: a) Como selecionar um cão (o que é necessário para uma escolha responsável) b) Registro (para cães de canil, "pedigree")
   - c) Cuidados veterinários/vermifugação/vacinação
@@ -985,7 +985,7 @@ e) Ser professor de Educação Infantil, Ensino Fundamental, Ensino Médio, Ensi
 
 ![](_page_20_Figure_19.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 Observação: É obrigatório o acompanhamento de um instrutor ou profissional na área de soldagem, pois é uma habilidade de aprendizado arriscada e requer muita seriedade. Não é um curso do tipo doméstico. A soldagem tem como objetivo substituir parafusos, pinos, rebites, vedar e etc. Se não for feita corretamente, favorecerá o acontecimento de um acidente. Exemplo: Em um engate de carro não soldado adequadamente; o risco de ceder com a tração ou peso é de uma porcentagem bem alta.
 
@@ -1046,7 +1046,7 @@ d) Válvulas reguladoras e válvulas de segurança. Em especial, por que as mesm
 
 #### **AP** Produção de vídeo Instituição de origem **Nível** Ano 032 **Dvisão do Sul do Pacífico** $\overline{2}$
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Saber quais são os tipos de fitas vídeos disponíveis atualmente. Saber diferenciar as fitas VHS, miniDV, super 8 e HI8.
 
@@ -1108,7 +1108,7 @@ f) Comercial para um programa ou publicação da igreja, etc.
 
 ![](_page_22_Figure_7.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Explicar as responsabilidades de um vendedor cristão em relação à maneira como trata seus clientes e seu chefe.
 
@@ -1165,7 +1165,7 @@ f) Como você consegue clientes?
 
 ![](_page_23_Picture_8.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 - 1. Defina os seguintes termos:
   - a) Internet
@@ -1238,7 +1238,7 @@ d) Conhecer 5 princípios de segurança ao enviar e receber email
 
 #### **AP** Internet - avançado Instituição de origem **Nível** Ano 035 **Divisão Norte Americana** 3
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Computação I - básico.
 
@@ -1288,7 +1288,7 @@ c) Um livro de visitas ou página de contato, onde as pessoas podem "assinar", c
 
 ![](_page_25_Figure_4.jpeg)
 
-### **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Árvores (EN 006).
 
@@ -1342,7 +1342,7 @@ b) Fazer um plantio de mudas florestais ou sementes florestais
 
 ![](_page_26_Figure_6.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Defina administração e qual a sua importância nos aspectos da vida humana.
 - 2. Defina os seguintes elementos da administração:
@@ -1383,7 +1383,7 @@ b) Fazer um plantio de mudas florestais ou sementes florestais
 
 ![](_page_27_Figure_8.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Internet.
 
@@ -1448,7 +1448,7 @@ interessante
 
 ![](_page_28_Picture_29.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Apresentar relatório de, no mínimo, 1000 palavras a respeito dos computadores de 1ª geração.
 
@@ -1488,7 +1488,7 @@ interessante
 
 ![](_page_29_Figure_17.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter a especialidade de Computação II.
 - 2. Apresentar relatório de, no mínimo, 1000 palavras a respeito dos computadores de 3ª geração.
@@ -1544,7 +1544,7 @@ interessante
 
 ![](_page_30_Figure_26.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter a especialidade de Computação IV.
 - 2. Ter a especialidade de Informática programável.
@@ -1606,7 +1606,7 @@ interessante
 
 ![](_page_31_Figure_24.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Como o Código Morse se diferencia dos outros códigos?
 - 2. Quais os instrumentos que podem ser usados para a comunicação com Código Morse?
@@ -1661,7 +1661,7 @@ Os quesitos para serem separados são os de "a" a "e"; os outros são opcionais 
 
 ![](_page_32_Figure_16.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Ter a especialidade de Computação V.
 
@@ -1729,7 +1729,7 @@ e) XOR
 
 ![](_page_33_Figure_21.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 NOTA: Ter um certificado de proficiência na língua de sinais do seu país, emitido por instituição autorizada e credenciada para isto, ou cumprir os requisitos abaixo.
 
@@ -1883,7 +1883,7 @@ que já tenha. Em seguida, explicar o motivo da lubrificação e ajuste.
 
 ![](_page_36_Figure_16.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 - 1. Ter a especialidade de Marketing.
 - 2. Explique as seguintes fases do processo criativo:
@@ -1936,7 +1936,7 @@ r) Educação
 
 ![](_page_37_Figure_10.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Definir o que é uma modelagem básica. Como ela foi influenciada ao longo da história? Por que hoje em dia faz-se necessário vestir roupas com padrões técnicos? 2. O que é um gabarito? Que materiais podem ser utilizados para a fabricação do mesmo?
 
@@ -2082,7 +2082,7 @@ b) Entrevistar um economista ou administrador e descobrir como os princípios ec
 
 ![](_page_39_Figure_30.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Citar quais foram os criadores da primeira impressora e da fotocopiadora, as causas que os levaram a inventá-la e como foi o início de sua utilização.
 
@@ -2214,7 +2214,7 @@ c) Depósitos
 
 ![](_page_41_Figure_26.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Defina o que é um torno mecânico?
 

@@ -57,7 +57,7 @@
 
 ![](_page_2_Figure_13.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Preparar o solo, fertilizar e plantar num lote de terra de, pelo menos, 30 metros quadrados. Cultivar, pelo menos, seis plantas diferentes: três a partir de sementes e três a partir de mudas.
 
@@ -256,7 +256,7 @@ b) Uma coleção de fotos de 10 peixes venenosos, tendo, no mínimo, 5 nativos d
 
 ![](_page_6_Figure_15.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Quais pontos devem ser levados em consideração ao escolher uma vaca para a produção de leite?
 
@@ -311,7 +311,7 @@ f) Período seco
 
 ![](_page_7_Figure_2.jpeg)
 
-#### **REQUISITOS**
+### REQUISITOS
 
 1. Qual a diferença entre um viveiro e uma estufa?
 
@@ -358,7 +358,7 @@ c) Citar, pelo menos, 3 plantas frutíferas que necessitam de um agente poliniza
 
 ![](_page_8_Figure_5.jpeg)
 
-#### **REQUISITOS**
+### REQUISITOS
 
 NOTA: Esta especialidade envolve o cultivo de frutas produzidas por arbustos, trepadeiras ou vinhas. Frutas que crescem em árvores fazem parte da especialidade de Pomicultura.
 
@@ -422,7 +422,7 @@ c) Citar, pelo menos, 3 plantas frutíferas que necessitam de um agente poliniza
 
 ![](_page_9_Figure_14.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. O que são flores perenes? Anuais? Bienais? Dê um exemplo de cada.
 
@@ -496,7 +496,7 @@ c) Gestação
 
 ![](_page_10_Figure_19.jpeg)
 
-# **REQUISITOS**
+### REQUISITOS
 
 1. Identificar, ao vivo ou a partir de fotos, pelo menos, 3 espécies de pombos, referindo sua respectiva aptidão (pombo-correio ou ornamentação).
 
