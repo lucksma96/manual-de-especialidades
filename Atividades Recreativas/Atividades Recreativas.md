@@ -1,125 +1,117 @@
 ![](_page_0_Picture_0.jpeg)
 
-| Especialidade               | Ano  | Código    | Número |  |
-|------------------------------------|------|-----------|--------|--|
-| Arte de acampar                    | 1929 | AR | 001    |  |
-| Cultura física                     | 1929 | AR        | 002    |  |
-| Natação principiante l             | 1944 | AR | 003    |  |
-| Natação principiante II            | 1963 | AR        | 004    |  |
-| Natação intermediário I            | 1929 | AR | 005    |  |
-| Natação intermediário II           | 1929 | AR        | 006    |  |
-| Natação - avançado                 | 1961 | AR | 007    |  |
-| Salvamento de afogados             | 1929 | AR        | 008    |  |
-| Ciclismo                           | 1933 | AR | 009    |  |
-| Excursionismo pedestre             | 1933 | AR        | 010    |  |
-| Filatelia                   | 1933 | AR | 011    |  |
-| Filatelia - avançado               | 1933 | AR        | 012    |  |
-| Esqui downhill                     | 1938 | AR | 013    |  |
-| Arco e flecha                      | 1945 | AR        | 014    |  |
-| Caiaque                            |      | AR | 015    |  |
-| Canoagem                           | 1945 | AR        | 016    |  |
-| Numismática                        | 1945 | AR | 017    |  |
-| Navegação                          | 1953 | AR        | 018    |  |
-| Vela                               | 1953 | AR | 019    |  |
-| Fogueiras e cozinha ao ar livre    | 1956 | AR        | 020    |  |
-| Mapa e bússola                     | 1956 | AR | 021    |  |
-| Pioneirismo                        | 1956 | AR        | 022    |  |
-| Remo                               | 1956 | AR | 023    |  |
-| Vida silvestre                     | 1956 | AR        | 024    |  |
-| Equitação                          | 1961 | AR | 025    |  |
-| Esqui aquático                     | 1961 | AR        | 026    |  |
-| Esqui aquático - avançado          | 1961 | AR | 027    |  |
-| Mergulho livre                     | 1961 | AR | 028    |  |
-| Salvamento de afogados - avançado  | 1963 | AR | 029    |  |
-| Saltos ornamentais                 | 1964 | AR        | 030    |  |
-| Mergulho autônomo                  | 1967 | AR | 031    |  |
-| Mergulho autônomo - avançado       | 1967 | AR        | 032    |  |
-| Acampamento em baixas temperaturas | 1970 | AR | 033    |  |
-| Escalada                           | 1970 | AR        | 034    |  |
-| Escalada - avançado                | 1970 | AR | 035    |  |
-| Escalada em árvores                |      | AR        | 036    |  |
-| Exploração de cavernas             | 1973 | AR | 037    |  |
-| Exploração de cavernas - avançado  | 1973 | AR        | 038    |  |
-| Barco a motor               | 1975 | AR | 039    |  |
-| Nós e amarras                      | 1975 | AR        | 040    |  |
-| Arco e flecha - avançado           | 1976 | AR | 041    |  |
-| Ciclismo - avançado                | 1976 | AR        | 042    |  |
-| Ginástica acrobática               | 1976 | AR | 043    |  |
-| Ginástica acrobática - avançado    | 1976 | AR | 044    |  |
-
-| Especialidade               | Ano                      | Código    | Número | Especialida  |  |
-|------------------------------------|--------------------------|-----------|--------|---------------------|--|
-| Liderança na selva                 | 1976                     | AR | 045    | Excursionist |  |
-| Liderança na selva - avançado      | 1976                     | AR        | 046    | Segurança l         |  |
-| Ordem unida                        | 1976                     | AR | 047    | Boliche      |  |
-| Ordem unida - avançado             | 1976                     | AR        | 048    | Carrinho de         |  |
-| Atletismo                          | 1978                     | AR | 049    | Colecionado         |  |
-| Acampamento I                      | 1986                     | AR        | 050    | Esportes ad         |  |
-| Acampamento II                     | 1986                     | AR | 051    | Excursionist |  |
-| Acampamento III                    | 1986                     | AR        | 052    | Fubetol de l        |  |
-| Acampamento IV                     | 1986                     | AR | 053    | Futsal              |  |
-| Esqui cross country                | 1986                     | AR        | 054    | Handebol            |  |
-| Excursionismo pedestre - avançado  | ٠                        | AR | 055    | Nós e amarr         |  |
-| Excursionismo pedestre com mochila | 1986                     | AR        | 056    | Ordem unic          |  |
-| Liderança campestre                | 1986                     | AR | 057    | Pioneirias          |  |
-| Liderança campestre - avançado     | 1986                     | AR        | 058    | Pioneirias -        |  |
-| Pipas                              | 1986                     | AR | 059    | Patins       |  |
-| Skate                              | 1986                     | AR        | 060    | Orientação          |  |
-| Windsurf                           | 1986                     | AR | 061    | Rafting             |  |
-| Numismática - avançado             | 1998                     | AR        | 062    | Pião                |  |
-| Mountain biking             | 1998                     | AR | 063    | Tênis de me         |  |
-| Basquete                           | 1999                     | AR        | 064    | Vôlei               |  |
-| Futebol                            | 1999                     | AR | 065    | Waveboardi          |  |
-| Equitação - avançado               | 2000                     | AR        | 066    | Evolução en         |  |
-| Geocaching                         | 2005                     | AR | 067    |                     |  |
-| Geocaching - avançado              | 2005                     | AR | 068    |                     |  |
-| Construção de canoas               | ٠                        | AR | 069    |                     |  |
-| Cozinha com forno holandês         | 2006                     | AR        | 070    |                     |  |
-| Fanfarra                           | 2006                     | AR | 071    |                     |  |
-| Rapel                              |                          | AR        | 072    |                     |  |
-| Rapel - avançado                   | ۰                        | AR | 073    |                     |  |
-| Rapel - instrutor                  | ۷                        | AR        | 074    |                     |  |
-| Triathlon                   | ۰                        | AR | 075    |                     |  |
-| Triathlon - avançado               | $\overline{\phantom{a}}$ | AR        | 076    |                     |  |
-| Telecartofilia                     | ۰                        | AR | 077    |                     |  |
-| Telecartofilia - avançado          | $\overline{\phantom{a}}$ | AR        | 078    |                     |  |
-| Wakeboard                          | 2006                     | AR | 079    |                     |  |
-| Softbol                            | 2006                     | AR        | 080    |                     |  |
-| Letterboxing                       | 2006                     | AR | 081    |                     |  |
-| Letterboxing - avançado            | 2008                     | AR        | 082    |                     |  |
-| Monociclo                          | 2008                     | AR | 083    |                     |  |
-| Acampamento seguro                 | 2009                     | AR        | 084    |                     |  |
-| Acampamento seguro - avançado      | 2009                     | AR | 085    |                     |  |
-| Viagem e turismo                   | 2009                     | AR | 086    |                     |  |
-| Viagem e turismo - avançado        | 2009                     | AR | 087    |                     |  |
-| Excursionismo pedestre na neve     | 2010                     | AR        | 088    |                     |  |
-|                                    |                          |           |        |                     |  |
-
-| Número | Especialidade                          | Ano  | Código    | Número |
-|--------|-----------------------------------------------|------|-----------|--------|
-| 045    | Excursionismo pedestre na neve - avançado     | 2010 | AR | 089    |
-| 046    | Segurança básica na água                      | 2010 | AR        | 090    |
-| 047    | Boliche                                | 2012 | AR        | 091    |
-| 048    | Carrinho de rolimã                            | 2012 | AR        | 092    |
-| 049    | Colecionador                                  | 2012 | AR        | 093    |
-| 050    | Esportes adaptados                            | 2012 | AR        | 094    |
-| 051    | Excursionismo pedestre com mochila - avançado | 2012 | AR | 095    |
-| 052    | Fubetol de botão                              | 2012 | AR        | 096    |
-| 053    | Futsal                                        | 2012 | AR | 097    |
-| 054    | Handebol                                      | 2012 | AR        | 098    |
-| 055    | Nós e amarras - avançado                      | 2012 | AR | 099    |
-| 056    | Ordem unida - instrutor                       | 2012 | AR        | 100    |
-| 057    | Pioneirias                             | 2012 | AR | 101    |
-| 058    | Pioneirias - avançado                         | 2012 | AR        | 102    |
-| 059    | Patins                                 | 2012 | AR | 103    |
-| 060    | Orientação com GPS                            | 2012 | AR        | 104    |
-| 061    | Rafting                                       | 2012 | AR | 105    |
-| 062    | Pião                                          | 2012 | AR        | 106    |
-| 063    | Tênis de mesa                                 | 2012 | AR | 107    |
-| 064    | Vôlei                                         | 2012 | AR        | 108    |
-| 065    | Waveboarding                                  | 1986 | AR | 109    |
-| 066    | Evolução em ordem unida                       | 2012 | AR        | 110    |
-| 067    |                                               |      |           |        |
+| Especialidade                                 | Ano  | Código | Número |
+| --------------------------------------------- | ---- | ------ | ------ |
+| Arte de acampar                               | 1929 | AR     | 001    |
+| Cultura física                                | 1929 | AR     | 002    |
+| Natação principiante l                        | 1944 | AR     | 003    |
+| Natação principiante II                       | 1963 | AR     | 004    |
+| Natação intermediário I                       | 1929 | AR     | 005    |
+| Natação intermediário II                      | 1929 | AR     | 006    |
+| Natação - avançado                            | 1961 | AR     | 007    |
+| Salvamento de afogados                        | 1929 | AR     | 008    |
+| Ciclismo                                      | 1933 | AR     | 009    |
+| Excursionismo pedestre                        | 1933 | AR     | 010    |
+| Filatelia                                     | 1933 | AR     | 011    |
+| Filatelia - avançado                          | 1933 | AR     | 012    |
+| Esqui downhill                                | 1938 | AR     | 013    |
+| Arco e flecha                                 | 1945 | AR     | 014    |
+| Caiaque                                       |      | AR     | 015    |
+| Canoagem                                      | 1945 | AR     | 016    |
+| Numismática                                   | 1945 | AR     | 017    |
+| Navegação                                     | 1953 | AR     | 018    |
+| Vela                                          | 1953 | AR     | 019    |
+| Fogueiras e cozinha ao ar livre               | 1956 | AR     | 020    |
+| Mapa e bússola                                | 1956 | AR     | 021    |
+| Pioneirismo                                   | 1956 | AR     | 022    |
+| Remo                                          | 1956 | AR     | 023    |
+| Vida silvestre                                | 1956 | AR     | 024    |
+| Equitação                                     | 1961 | AR     | 025    |
+| Esqui aquático                                | 1961 | AR     | 026    |
+| Esqui aquático - avançado                     | 1961 | AR     | 027    |
+| Mergulho livre                                | 1961 | AR     | 028    |
+| Salvamento de afogados - avançado             | 1963 | AR     | 029    |
+| Saltos ornamentais                            | 1964 | AR     | 030    |
+| Mergulho autônomo                             | 1967 | AR     | 031    |
+| Mergulho autônomo - avançado                  | 1967 | AR     | 032    |
+| Acampamento em baixas temperaturas            | 1970 | AR     | 033    |
+| Escalada                                      | 1970 | AR     | 034    |
+| Escalada - avançado                           | 1970 | AR     | 035    |
+| Escalada em árvores                           |      | AR     | 036    |
+| Exploração de cavernas                        | 1973 | AR     | 037    |
+| Exploração de cavernas - avançado             | 1973 | AR     | 038    |
+| Barco a motor                                 | 1975 | AR     | 039    |
+| Nós e amarras                                 | 1975 | AR     | 040    |
+| Arco e flecha - avançado                      | 1976 | AR     | 041    |
+| Ciclismo - avançado                           | 1976 | AR     | 042    |
+| Ginástica acrobática                          | 1976 | AR     | 043    |
+| Ginástica acrobática - avançado               | 1976 | AR     | 044    |
+| Liderança na selva                            | 1976 | AR     | 045    |
+| Liderança na selva - avançado                 | 1976 | AR     | 046    |
+| Ordem unida                                   | 1976 | AR     | 047    |
+| Ordem unida - avançado                        | 1976 | AR     | 048    |
+| Atletismo                                     | 1978 | AR     | 049    |
+| Acampamento I                                 | 1986 | AR     | 050    |
+| Acampamento II                                | 1986 | AR     | 051    |
+| Acampamento III                               | 1986 | AR     | 052    |
+| Acampamento IV                                | 1986 | AR     | 053    |
+| Esqui cross country                           | 1986 | AR     | 054    |
+| Excursionismo pedestre - avançado             |      | AR     | 055    |
+| Excursionismo pedestre com mochila            | 1986 | AR     | 056    |
+| Liderança campestre                           | 1986 | AR     | 057    |
+| Liderança campestre - avançado                | 1986 | AR     | 058    |
+| Pipas                                         | 1986 | AR     | 059    |
+| Skate                                         | 1986 | AR     | 060    |
+| Windsurf                                      | 1986 | AR     | 061    |
+| Numismática - avançado                        | 1998 | AR     | 062    |
+| Mountain biking                               | 1998 | AR     | 063    |
+| Basquete                                      | 1999 | AR     | 064    |
+| Futebol                                       | 1999 | AR     | 065    |
+| Equitação - avançado                          | 2000 | AR     | 066    |
+| Geocaching                                    | 2005 | AR     | 067    |
+| Geocaching - avançado                         | 2005 | AR     | 068    |
+| Construção de canoas                          |      | AR     | 069    |
+| Cozinha com forno holandês                    | 2006 | AR     | 070    |
+| Fanfarra                                      | 2006 | AR     | 071    |
+| Rapel                                         |      | AR     | 072    |
+| Rapel - avançado                              |      | AR     | 073    |
+| Rapel - instrutor                             |      | AR     | 074    |
+| Triathlon                                     |      | AR     | 075    |
+| Triathlon - avançado                          |      | AR     | 076    |
+| Telecartofilia                                |      | AR     | 077    |
+| Telecartofilia - avançado                     |      | AR     | 078    |
+| Wakeboard                                     | 2006 | AR     | 079    |
+| Softbol                                       | 2006 | AR     | 080    |
+| Letterboxing                                  | 2006 | AR     | 081    |
+| Letterboxing - avançado                       | 2008 | AR     | 082    |
+| Monociclo                                     | 2008 | AR     | 083    |
+| Acampamento seguro                            | 2009 | AR     | 084    |
+| Acampamento seguro - avançado                 | 2009 | AR     | 085    |
+| Viagem e turismo                              | 2009 | AR     | 086    |
+| Viagem e turismo - avançado                   | 2009 | AR     | 087    |
+| Excursionismo pedestre na neve                | 2010 | AR     | 088    |
+| Excursionismo pedestre na neve - avançado     | 2010 | AR     | 089    |
+| Segurança básica na água                      | 2010 | AR     | 090    |
+| Boliche                                       | 2012 | AR     | 091    |
+| Carrinho de rolimã                            | 2012 | AR     | 092    |
+| Colecionador                                  | 2012 | AR     | 093    |
+| Esportes adaptados                            | 2012 | AR     | 094    |
+| Excursionismo pedestre com mochila - avançado | 2012 | AR     | 095    |
+| Fubetol de botão                              | 2012 | AR     | 096    |
+| Futsal                                        | 2012 | AR     | 097    |
+| Handebol                                      | 2012 | AR     | 098    |
+| Nós e amarras - avançado                      | 2012 | AR     | 099    |
+| Ordem unida - instrutor                       | 2012 | AR     | 100    |
+| Pioneirias                                    | 2012 | AR     | 101    |
+| Pioneirias - avançado                         | 2012 | AR     | 102    |
+| Patins                                        | 2012 | AR     | 103    |
+| Orientação com GPS                            | 2012 | AR     | 104    |
+| Rafting                                       | 2012 | AR     | 105    |
+| Pião                                          | 2012 | AR     | 106    |
+| Tênis de mesa                                 | 2012 | AR     | 107    |
+| Vôlei                                         | 2012 | AR     | 108    |
+| Waveboarding                                  | 1986 | AR     | 109    |
+| Evolução em ordem unida                       | 2012 | AR     | 110    |
 
 ![](_page_3_Picture_0.jpeg)
 

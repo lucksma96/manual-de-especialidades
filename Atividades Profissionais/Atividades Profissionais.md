@@ -1,74 +1,71 @@
 ![](_page_0_Picture_0.jpeg)
 
-| Especialidade           | Ano  | Código    | Número |
-|--------------------------------|------|-----------|--------|
-| Conserto de sapatos            | 1928 | AP | 001    |
-| Fotografia                     | 1928 | AP        | 002    |
-| Mecânica automotiva            | 1928 | AP        | 003    |
-| Radioamadorismo                | 1928 | AP        | 004    |
-| Datilografia            | 1929 | AP        | 005    |
-| Eletricidade                   | 1929 | AP        | 006    |
-| Carpintaria                    | 1929 | AP        | 007    |
-| Corte e costura                | 1929 | AP        | 008    |
-| Taquigrafia             | 1929 | AP        | 009    |
-| Tipografia                     | 1929 | AP        | 010    |
-| Marcenaria              | 1934 | AP        | 011    |
-| Encadernação                   | 1935 | AP        | 012    |
-| Alvenaria               | 1937 | AP        | 013    |
-| Barbearia               | 1938 | AP        | 014    |
-| Colocação de papel de parede   | 1938 | AP        | 015    |
-| Contabilidade                  | 1938 | AP        | 016    |
-| Evangelismo                    | 1938 | AP | 017    |
-| Hidráulica              | 1938 | AP        | 018    |
-| Jornalismo                     | 1938 | AP        | 019    |
-| Ofício de alfaiate             | 1938 | AP        | 020    |
-| Pintura de paredes exteriores  | 1938 | AP        | 021    |
-| Pintura de paredes interiores  | 1938 | AP        | 022    |
-| Radioeletrônica                | 1938 | AP        | 023    |
-| Magistério                     | 1944 | AP        | 024    |
-| Corte e costura - avançado     | 1956 | AP        | 025    |
-| Radioamadorismo - avançado     | 1956 | AP        | 026    |
-| Mecânica automotiva - avançado | 1964 | AP        | 027    |
-| Mecânica de pequenos motores   | 1975 | AP        | 028    |
-| Cães - cuidado e treinamento   | 1976 | AP        | 029    |
-| Serviço rádio do cidadão       |      | AP        | 030    |
-| Soldagem                       | 1978 | AP        | 031    |
-| Produção de vídeo              | L    | AP        | 032    |
-| Vendas                  | 2001 | AP        | 033    |
-| Internet                       | 2007 | AP        | 034    |
-| Internet - avançado            |      | AP        | 035    |
-| Silvicultura                   | 2008 | AP        | 036    |
-| Administração                  | 2012 | AP        | 037    |
-| Bandeiras náuticas             | 2012 | AP        | 038    |
-| Blogs                   | 2012 | AP        | 039    |
-| Biblioteconomia         | 2012 | AP        | 040    |
-| Computação I - básico          | 1986 | AP        | 041    |
-| Computação II - médio          | 1991 | AP        | 042    |
-| Computação III - regular       | 2012 | AP        | 043    |
-| Computação IV - avançado       | 2012 | AP        | 044    |
-
-| Especialidade                  | Ano  | Código    | Número |
-|---------------------------------------|------|-----------|--------|
-| Computação V - especialista           | 2012 | AP        | 045    |
-| Código semafórico                     | 1953 | AP        | 046    |
-| Código morse                          | 1956 | AP        | 047    |
-| Cuidados e manutenção de violões      | 2012 | AP        | 048    |
-| Desenvolvimento de software           | 2012 | AP        | 049    |
-| Eletrônica                            | 2012 | AP        | 050    |
-| Intérprete de língua de sinais        | 2012 | AP | 051    |
-| Informática programável               | 2012 | AP        | 052    |
-| Manutenção de bicicletas              | 2012 | AP        | 053    |
-| Marketing                             | 2012 | AP        | 054    |
-| Marketing - avançado                  | 2012 | AP        | 055    |
-| Modelagem têxtil                      | 2012 | АP        | 056    |
-| Montagem e manutenção de computadores | 2012 | AP        | 057    |
-| Noções de economia                    | 2012 | AP        | 058    |
-| Operação e manutenção de impressoras  | 2012 | AP        | 059    |
-| Restauro e conservação documental     | 2012 | AP        | 060    |
-| Secretariado                          | 2012 | AP        | 061    |
-| Torno mecânico                        | 2012 | AP        | 062    |
-| Web designer - básico                 | 2012 | AP        | 063    |
-| Web designer – avançado               | 2012 | AP        | 064    |
+| Especialidade                         | Ano  | Código | Número |
+| ------------------------------------- | ---- | ------ | ------ |
+| Conserto de sapatos                   | 1928 | AP     | 001    |
+| Fotografia                            | 1928 | AP     | 002    |
+| Mecânica automotiva                   | 1928 | AP     | 003    |
+| Radioamadorismo                       | 1928 | AP     | 004    |
+| Datilografia                          | 1929 | AP     | 005    |
+| Eletricidade                          | 1929 | AP     | 006    |
+| Carpintaria                           | 1929 | AP     | 007    |
+| Corte e costura                       | 1929 | AP     | 008    |
+| Taquigrafia                           | 1929 | AP     | 009    |
+| Tipografia                            | 1929 | AP     | 010    |
+| Marcenaria                            | 1934 | AP     | 011    |
+| Encadernação                          | 1935 | AP     | 012    |
+| Alvenaria                             | 1937 | AP     | 013    |
+| Barbearia                             | 1938 | AP     | 014    |
+| Colocação de papel de parede          | 1938 | AP     | 015    |
+| Contabilidade                         | 1938 | AP     | 016    |
+| Evangelismo                           | 1938 | AP     | 017    |
+| Hidráulica                            | 1938 | AP     | 018    |
+| Jornalismo                            | 1938 | AP     | 019    |
+| Ofício de alfaiate                    | 1938 | AP     | 020    |
+| Pintura de paredes exteriores         | 1938 | AP     | 021    |
+| Pintura de paredes interiores         | 1938 | AP     | 022    |
+| Radioeletrônica                       | 1938 | AP     | 023    |
+| Magistério                            | 1944 | AP     | 024    |
+| Corte e costura - avançado            | 1956 | AP     | 025    |
+| Radioamadorismo - avançado            | 1956 | AP     | 026    |
+| Mecânica automotiva - avançado        | 1964 | AP     | 027    |
+| Mecânica de pequenos motores          | 1975 | AP     | 028    |
+| Cães - cuidado e treinamento          | 1976 | AP     | 029    |
+| Serviço rádio do cidadão              |      | AP     | 030    |
+| Soldagem                              | 1978 | AP     | 031    |
+| Produção de vídeo                     |      | AP     | 032    |
+| Vendas                                | 2001 | AP     | 033    |
+| Internet                              | 2007 | AP     | 034    |
+| Internet - avançado                   |      | AP     | 035    |
+| Silvicultura                          | 2008 | AP     | 036    |
+| Administração                         | 2012 | AP     | 037    |
+| Bandeiras náuticas                    | 2012 | AP     | 038    |
+| Blogs                                 | 2012 | AP     | 039    |
+| Biblioteconomia                       | 2012 | AP     | 040    |
+| Computação I - básico                 | 1986 | AP     | 041    |
+| Computação II - médio                 | 1991 | AP     | 042    |
+| Computação III - regular              | 2012 | AP     | 043    |
+| Computação IV - avançado              | 2012 | AP     | 044    |
+| Computação V - especialista           | 2012 | AP     | 045    |
+| Código semafórico                     | 1953 | AP     | 046    |
+| Código morse                          | 1956 | AP     | 047    |
+| Cuidados e manutenção de violões      | 2012 | AP     | 048    |
+| Desenvolvimento de software           | 2012 | AP     | 049    |
+| Eletrônica                            | 2012 | AP     | 050    |
+| Intérprete de língua de sinais        | 2012 | AP     | 051    |
+| Informática programável               | 2012 | AP     | 052    |
+| Manutenção de bicicletas              | 2012 | AP     | 053    |
+| Marketing                             | 2012 | AP     | 054    |
+| Marketing - avançado                  | 2012 | AP     | 055    |
+| Modelagem têxtil                      | 2012 | АP     | 056    |
+| Montagem e manutenção de computadores | 2012 | AP     | 057    |
+| Noções de economia                    | 2012 | AP     | 058    |
+| Operação e manutenção de impressoras  | 2012 | AP     | 059    |
+| Restauro e conservação documental     | 2012 | AP     | 060    |
+| Secretariado                          | 2012 | AP     | 061    |
+| Torno mecânico                        | 2012 | AP     | 062    |
+| Web designer - básico                 | 2012 | AP     | 063    |
+| Web designer – avançado               | 2012 | AP     | 064    |
 
 | AP |              |             | Conserto de sapatos                       |  |
 |-----------|--------------|-------------|--------------------------------------------------|--|

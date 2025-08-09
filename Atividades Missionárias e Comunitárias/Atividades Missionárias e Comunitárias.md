@@ -1,59 +1,55 @@
 ![](_page_0_Picture_0.jpeg)
 
-| Especialidade                     | Ano            | Código    | Número<br>001<br>002 |
-|------------------------------------------|----------------|-----------|----------------------|
-| Arte de contar histórias cristãs         | 1928           | AM |                      |
-| Arte em fantoches                        | $\overline{ }$ | AM        |                      |
-| Arte em fantoches - avançado             |                | AM        | 003                  |
-| Etnologia missionária                    | 1928           | AM        | 004                  |
-| Colportagem                              | 1938           | AM | 005                  |
-| Cidadania cristã                         | 1938           | AM        | 006                  |
-| Estudo de línguas                        | 1938           | AM        | 007                  |
-| Evangelismo pessoal                      | 1938           | AM        | 008                  |
-| Liderança juvenil                        | 1945           | AM        | 009                  |
-| Testemunho juvenil                       | 1970           | AM        | 010                  |
-| Asseio e cortesia cristã                 | 1975           | AM        | 011                  |
-| Vida familiar                            | 1975           | AM        | 012                  |
-| Temperança                               | 1976           | AM        | 013                  |
-| Língua de sinais                         | 1978           | AM        | 014                  |
-| Mordomia                                 | 1986           | AM        | 015                  |
-| Aventuras com Cristo                     | 1989           | AM        | 016                  |
-| Aventuras com Cristo - avançado          | 1989           | AM        | 017                  |
-| Língua de sinais - avançado              | 1991           | AM        | 018                  |
-| Marcação bíblica                         |                | AM        | 019                  |
-| Marcação bíblica - avançado              | ٠              | AM        | 020                  |
-| Pregador evangelista                     |                | AM        | 021                  |
-| Pregador evangelista - avançado          |                | AM        | 022                  |
-| Santuário                                | 2004           | AM        | 023                  |
-| Dramatização cristã                      | 2006           | AM        | 024                  |
-| Desfile com carros alegóricos            | 2009           | AM        | 025                  |
-| Desfile com carros alegóricos - avançado | 2009           | AM        | 026                  |
-| Pacificador                              | 2009           | AM        | 027                  |
-| Pacificador - avançado                   | 2009           | AM        | 028                  |
-| Adoração cristã                          | 2011           | AM        | 029                  |
-| Arte da pregação cristã                  | 2012           | AM        | 030                  |
-| Arte da pregação cristã - avançado       | 2012           | AM        | 031                  |
-| Arqueologia bíblica                      | 2012           | AM        | 032                  |
-| Cerimônias                               | 2012           | AM        | 033                  |
-| Braile                            | 2012           | AM        | 034                  |
-| Criacionismo                             | 2012           | AM | 035                  |
-| Criacionismo - avançado                  | 2012           | AM        | 036                  |
-| Espírito de profecia                     | 2012           | AM        | 037                  |
-| Escatologia                              | 2012           | AM        | 038                  |
-| Historiador eclesiástico                 | 2012           | AM        | 039                  |
-| Evangelismo web                          | 2012           | AM        | 040                  |
-| Evangelismo web - avançado               | 2012           | AM        | 041                  |
-| Intercessor                              | 2012           | AM        | 042                  |
-| Pioneiros adventistas                    | 2012           | AM        | 043                  |
-|                                          |                |           |                      |
-
-| Especialidade   | Ano  | Código    | Número |
-|------------------------|------|-----------|--------|
-| Patriotismo            | 2012 | AM        | 044    |
-| Sonoplastia            | 2012 | AM        | 045    |
-| Sonoplastia - avançado | 2012 | AM        | 046    |
-| Investigador Bíblico I | 2012 | AM | 047    |
-| Boa conduta escolar    | 2012 | AM        | 048    |
+| Especialidade                            | Ano            | Código | Número               |
+| ---------------------------------------- | -------------- | ------ | -------------------- |
+| Arte de contar histórias cristãs         | 1928           | AM     | 001                  |
+| Arte em fantoches                        |                | AM     | 002                  |
+| Arte em fantoches - avançado             |                | AM     | 003                  |
+| Etnologia missionária                    | 1928           | AM     | 004                  |
+| Colportagem                              | 1938           | AM     | 005                  |
+| Cidadania cristã                         | 1938           | AM     | 006                  |
+| Estudo de línguas                        | 1938           | AM     | 007                  |
+| Evangelismo pessoal                      | 1938           | AM     | 008                  |
+| Liderança juvenil                        | 1945           | AM     | 009                  |
+| Testemunho juvenil                       | 1970           | AM     | 010                  |
+| Asseio e cortesia cristã                 | 1975           | AM     | 011                  |
+| Vida familiar                            | 1975           | AM     | 012                  |
+| Temperança                               | 1976           | AM     | 013                  |
+| Língua de sinais                         | 1978           | AM     | 014                  |
+| Mordomia                                 | 1986           | AM     | 015                  |
+| Aventuras com Cristo                     | 1989           | AM     | 016                  |
+| Aventuras com Cristo - avançado          | 1989           | AM     | 017                  |
+| Língua de sinais - avançado              | 1991           | AM     | 018                  |
+| Marcação bíblica                         |                | AM     | 019                  |
+| Marcação bíblica - avançado              |                | AM     | 020                  |
+| Pregador evangelista                     |                | AM     | 021                  |
+| Pregador evangelista - avançado          |                | AM     | 022                  |
+| Santuário                                | 2004           | AM     | 023                  |
+| Dramatização cristã                      | 2006           | AM     | 024                  |
+| Desfile com carros alegóricos            | 2009           | AM     | 025                  |
+| Desfile com carros alegóricos - avançado | 2009           | AM     | 026                  |
+| Pacificador                              | 2009           | AM     | 027                  |
+| Pacificador - avançado                   | 2009           | AM     | 028                  |
+| Adoração cristã                          | 2011           | AM     | 029                  |
+| Arte da pregação cristã                  | 2012           | AM     | 030                  |
+| Arte da pregação cristã - avançado       | 2012           | AM     | 031                  |
+| Arqueologia bíblica                      | 2012           | AM     | 032                  |
+| Cerimônias                               | 2012           | AM     | 033                  |
+| Braile                                   | 2012           | AM     | 034                  |
+| Criacionismo                             | 2012           | AM     | 035                  |
+| Criacionismo - avançado                  | 2012           | AM     | 036                  |
+| Espírito de profecia                     | 2012           | AM     | 037                  |
+| Escatologia                              | 2012           | AM     | 038                  |
+| Historiador eclesiástico                 | 2012           | AM     | 039                  |
+| Evangelismo web                          | 2012           | AM     | 040                  |
+| Evangelismo web - avançado               | 2012           | AM     | 041                  |
+| Intercessor                              | 2012           | AM     | 042                  |
+| Pioneiros adventistas                    | 2012           | AM     | 043                  |
+| Patriotismo                              | 2012           | AM     | 044                  |
+| Sonoplastia                              | 2012           | AM     | 045                  |
+| Sonoplastia - avançado                   | 2012           | AM     | 046                  |
+| Investigador Bíblico I                   | 2012           | AM     | 047                  |
+| Boa conduta escolar                      | 2012           | AM     | 048                  |
 
 | AM  | Arte de contar histórias cristãs |             |                                           |  |
 |-----|----------------------------------|-------------|-------------------------------------------|--|

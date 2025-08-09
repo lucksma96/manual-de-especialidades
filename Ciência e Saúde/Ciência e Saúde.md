@@ -1,41 +1,41 @@
 ![](_page_0_Picture_0.jpeg)
 
-| Especialidade               | Ano  | Código                    | Número |
-|------------------------------------|------|---------------------------|--------|
-| Saúde e cura                       | 1928 | $\mathsf{CS}\phantom{0}$  | 001    |
-| Química                            | 1937 | CS                        | 002    |
-| Primeiros socorros - básico        | 1951 | $\mathsf{CS}\phantom{0}$  | 003    |
-| Primeiros socorros - intermediário | 1938 | CS                        | 004    |
-| Primeiros socorros - avançado      | 1963 | $\mathsf{CS}\phantom{0}$  | 005    |
-| Enfermagem básica                  | 1938 | CS                        | 006    |
-| Óptica                             | 1962 | $\mathsf{CS}\phantom{0}$  | 007    |
-| Nutrição                           | 1981 | CS                        | 008    |
-| Alerta vermelho                    | 1986 | $\mathsf{CS}\phantom{0}$  | 009    |
-| Nutrição - avançado                | 1986 | CS                        | 010    |
-| Reanimação cardiopulmonar          | 1986 | $\mathsf{CS}\phantom{.0}$ | 011    |
-| Resgate básico                     | 1986 | CS                        | 012    |
-| Física                             | 1989 | $\mathsf{CS}\phantom{A}$  | 013    |
-| Microscopia                        | 1994 | CS                        | 014    |
-| Digestão                           | 1999 | $\mathsf{CS}\phantom{.0}$ | 015    |
-| Ossos, músculos e articulações     | 1999 | CS                        | 016    |
-| Sistema nervoso                    | 1999 | $\mathsf{CS}\phantom{0}$  | 017    |
-| Sangue e defesas do corpo          | 2000 | CS                        | 018    |
-| Hereditariedade                    | 2004 | $\mathsf{CS}\phantom{0}$  | 019    |
-| Coração e circulação               | 2006 | CS                        | 020    |
-| Bioquímica                         | 2012 | $\mathsf{CS}\phantom{A}$  | 021    |
-| Bioquímica - avançado              | 2012 | CS                        | 022    |
-| Higiene oral                       | 2012 | $\mathsf{CS}\phantom{0}$  | 023    |
-| Higiene oral - avançado            | ٠    | CS                        | 024    |
-| Metodologia de estudo              |      | $\mathsf{CS}\phantom{0}$  | 025    |
-| Prevenção de doenças tropicais     | 2012 | CS                        | 026    |
-| Patrimônio histórico               | 2012 | $\mathsf{CS}\,$           | 027    |
-| Saúde mental                       | 2012 | CS                        | 028    |
-| Sexualidade humana                 | 2012 | CS                        | 029    |
-| Sistema respiratório               | 2012 | CS                        | 030    |
-| Habilidades em matemática I        | 2012 | $\mathsf{CS}\phantom{0}$  | 031    |
-| Habilidades em matemática II       | 2012 | CS                        | 032    |
-| Habilidades em matemática III      | 2012 | $\mathsf{CS}\phantom{0}$  | 033    |
-| Habilidades em matemática IV       | 2012 | CS                        | 034    |
+| Especialidade                      | Ano  | Código | Número |
+| ---------------------------------- | ---- | ------ | ------ |
+| Saúde e cura                       | 1928 | CS     | 001    |
+| Química                            | 1937 | CS     | 002    |
+| Primeiros socorros - básico        | 1951 | CS     | 003    |
+| Primeiros socorros - intermediário | 1938 | CS     | 004    |
+| Primeiros socorros - avançado      | 1963 | CS     | 005    |
+| Enfermagem básica                  | 1938 | CS     | 006    |
+| Óptica                             | 1962 | CS     | 007    |
+| Nutrição                           | 1981 | CS     | 008    |
+| Alerta vermelho                    | 1986 | CS     | 009    |
+| Nutrição - avançado                | 1986 | CS     | 010    |
+| Reanimação cardiopulmonar          | 1986 | CS     | 011    |
+| Resgate básico                     | 1986 | CS     | 012    |
+| Física                             | 1989 | CS     | 013    |
+| Microscopia                        | 1994 | CS     | 014    |
+| Digestão                           | 1999 | CS     | 015    |
+| Ossos, músculos e articulações     | 1999 | CS     | 016    |
+| Sistema nervoso                    | 1999 | CS     | 017    |
+| Sangue e defesas do corpo          | 2000 | CS     | 018    |
+| Hereditariedade                    | 2004 | CS     | 019    |
+| Coração e circulação               | 2006 | CS     | 020    |
+| Bioquímica                         | 2012 | CS     | 021    |
+| Bioquímica - avançado              | 2012 | CS     | 022    |
+| Higiene oral                       | 2012 | CS     | 023    |
+| Higiene oral - avançado            |      | CS     | 024    |
+| Metodologia de estudo              |      | CS     | 025    |
+| Prevenção de doenças tropicais     | 2012 | CS     | 026    |
+| Patrimônio histórico               | 2012 | CS     | 027    |
+| Saúde mental                       | 2012 | CS     | 028    |
+| Sexualidade humana                 | 2012 | CS     | 029    |
+| Sistema respiratório               | 2012 | CS     | 030    |
+| Habilidades em matemática I        | 2012 | CS     | 031    |
+| Habilidades em matemática II       | 2012 | CS     | 032    |
+| Habilidades em matemática III      | 2012 | CS     | 033    |
+| Habilidades em matemática IV       | 2012 | CS     | 034    |
 
 ![](_page_2_Picture_0.jpeg)
 
