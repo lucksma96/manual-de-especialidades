@@ -1,12 +1,12 @@
 ![](_page_0_Picture_0.jpeg)
 
-| <b>Especialidade</b>                     | Ano            | Código    | Número<br>001<br>002 |
+| Especialidade                     | Ano            | Código    | Número<br>001<br>002 |
 |------------------------------------------|----------------|-----------|----------------------|
-| Arte de contar histórias cristãs         | 1928           | <b>AM</b> |                      |
+| Arte de contar histórias cristãs         | 1928           | AM |                      |
 | Arte em fantoches                        | $\overline{ }$ | AM        |                      |
 | Arte em fantoches - avançado             |                | AM        | 003                  |
 | Etnologia missionária                    | 1928           | AM        | 004                  |
-| Colportagem                              | 1938           | <b>AM</b> | 005                  |
+| Colportagem                              | 1938           | AM | 005                  |
 | Cidadania cristã                         | 1938           | AM        | 006                  |
 | Estudo de línguas                        | 1938           | AM        | 007                  |
 | Evangelismo pessoal                      | 1938           | AM        | 008                  |
@@ -35,8 +35,8 @@
 | Arte da pregação cristã - avançado       | 2012           | AM        | 031                  |
 | Arqueologia bíblica                      | 2012           | AM        | 032                  |
 | Cerimônias                               | 2012           | AM        | 033                  |
-| <b>Braile</b>                            | 2012           | AM        | 034                  |
-| Criacionismo                             | 2012           | <b>AM</b> | 035                  |
+| Braile                            | 2012           | AM        | 034                  |
+| Criacionismo                             | 2012           | AM | 035                  |
 | Criacionismo - avançado                  | 2012           | AM        | 036                  |
 | Espírito de profecia                     | 2012           | AM        | 037                  |
 | Escatologia                              | 2012           | AM        | 038                  |
@@ -47,12 +47,12 @@
 | Pioneiros adventistas                    | 2012           | AM        | 043                  |
 |                                          |                |           |                      |
 
-| <b>Especialidade</b>   | Ano  | Código    | Número |
+| Especialidade   | Ano  | Código    | Número |
 |------------------------|------|-----------|--------|
 | Patriotismo            | 2012 | AM        | 044    |
 | Sonoplastia            | 2012 | AM        | 045    |
 | Sonoplastia - avançado | 2012 | AM        | 046    |
-| Investigador Bíblico I | 2012 | <b>AM</b> | 047    |
+| Investigador Bíblico I | 2012 | AM | 047    |
 | Boa conduta escolar    | 2012 | AM        | 048    |
 
 | AM  | Arte de contar histórias cristãs |             |                                           |  |
@@ -1868,7 +1868,7 @@ sistema de som.
 
 | a) Canais de entrada       | d) Ganho                |  |
 |----------------------------|-------------------------|--|
-| <b>b</b> ) Canais de saída | e) Grave, médio e agudo |  |
+| b ) Canais de saída | e) Grave, médio e agudo |  |
 | c) Volume (geral e de      | f) Efeito               |  |
 | canais individuais)        |                         |  |
 
@@ -1886,9 +1886,9 @@ sistema de som.
 
 Ter lido pelo menos um livro sobre histórias de personagens Bíblicos (sugestões: Belas Histórias da Bíblia, Vida de Jesus, Patriarcas e Profetas, Profetas e Reis, Vida de Jesus, Heróis do Passado Lições do Presente).
 
-| <b>AM</b> | <b>Boa conduta escolar</b> |             |                                                       |  |
+| AM | Boa conduta escolar |             |                                                       |  |
 |-----------|----------------------------|-------------|-------------------------------------------------------|--|
-| 048       | <b>Nível</b>               | Ano<br>2012 | Instituição de origem<br><b>Divisão Sul Americana</b> |  |
+| 048       | Nível               | Ano<br>2012 | Instituição de origem<br>Divisão Sul Americana |  |
 
 1. Estar regularmente estudando.
 

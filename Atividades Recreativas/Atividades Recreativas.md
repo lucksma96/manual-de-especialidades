@@ -1,123 +1,123 @@
 ![](_page_0_Picture_0.jpeg)
 
-| <b>Especialidade</b>               | Ano  | Código    | Número |  |
+| Especialidade               | Ano  | Código    | Número |  |
 |------------------------------------|------|-----------|--------|--|
-| Arte de acampar                    | 1929 | <b>AR</b> | 001    |  |
+| Arte de acampar                    | 1929 | AR | 001    |  |
 | Cultura física                     | 1929 | AR        | 002    |  |
-| Natação principiante l             | 1944 | <b>AR</b> | 003    |  |
+| Natação principiante l             | 1944 | AR | 003    |  |
 | Natação principiante II            | 1963 | AR        | 004    |  |
-| Natação intermediário I            | 1929 | <b>AR</b> | 005    |  |
+| Natação intermediário I            | 1929 | AR | 005    |  |
 | Natação intermediário II           | 1929 | AR        | 006    |  |
-| Natação - avançado                 | 1961 | <b>AR</b> | 007    |  |
+| Natação - avançado                 | 1961 | AR | 007    |  |
 | Salvamento de afogados             | 1929 | AR        | 008    |  |
-| Ciclismo                           | 1933 | <b>AR</b> | 009    |  |
+| Ciclismo                           | 1933 | AR | 009    |  |
 | Excursionismo pedestre             | 1933 | AR        | 010    |  |
-| <b>Filatelia</b>                   | 1933 | <b>AR</b> | 011    |  |
+| Filatelia                   | 1933 | AR | 011    |  |
 | Filatelia - avançado               | 1933 | AR        | 012    |  |
-| Esqui downhill                     | 1938 | <b>AR</b> | 013    |  |
+| Esqui downhill                     | 1938 | AR | 013    |  |
 | Arco e flecha                      | 1945 | AR        | 014    |  |
-| Caiaque                            |      | <b>AR</b> | 015    |  |
+| Caiaque                            |      | AR | 015    |  |
 | Canoagem                           | 1945 | AR        | 016    |  |
-| Numismática                        | 1945 | <b>AR</b> | 017    |  |
+| Numismática                        | 1945 | AR | 017    |  |
 | Navegação                          | 1953 | AR        | 018    |  |
-| Vela                               | 1953 | <b>AR</b> | 019    |  |
+| Vela                               | 1953 | AR | 019    |  |
 | Fogueiras e cozinha ao ar livre    | 1956 | AR        | 020    |  |
-| Mapa e bússola                     | 1956 | <b>AR</b> | 021    |  |
+| Mapa e bússola                     | 1956 | AR | 021    |  |
 | Pioneirismo                        | 1956 | AR        | 022    |  |
-| Remo                               | 1956 | <b>AR</b> | 023    |  |
+| Remo                               | 1956 | AR | 023    |  |
 | Vida silvestre                     | 1956 | AR        | 024    |  |
-| Equitação                          | 1961 | <b>AR</b> | 025    |  |
+| Equitação                          | 1961 | AR | 025    |  |
 | Esqui aquático                     | 1961 | AR        | 026    |  |
-| Esqui aquático - avançado          | 1961 | <b>AR</b> | 027    |  |
-| Mergulho livre                     | 1961 | <b>AR</b> | 028    |  |
-| Salvamento de afogados - avançado  | 1963 | <b>AR</b> | 029    |  |
+| Esqui aquático - avançado          | 1961 | AR | 027    |  |
+| Mergulho livre                     | 1961 | AR | 028    |  |
+| Salvamento de afogados - avançado  | 1963 | AR | 029    |  |
 | Saltos ornamentais                 | 1964 | AR        | 030    |  |
-| Mergulho autônomo                  | 1967 | <b>AR</b> | 031    |  |
+| Mergulho autônomo                  | 1967 | AR | 031    |  |
 | Mergulho autônomo - avançado       | 1967 | AR        | 032    |  |
-| Acampamento em baixas temperaturas | 1970 | <b>AR</b> | 033    |  |
+| Acampamento em baixas temperaturas | 1970 | AR | 033    |  |
 | Escalada                           | 1970 | AR        | 034    |  |
-| Escalada - avançado                | 1970 | <b>AR</b> | 035    |  |
+| Escalada - avançado                | 1970 | AR | 035    |  |
 | Escalada em árvores                |      | AR        | 036    |  |
-| Exploração de cavernas             | 1973 | <b>AR</b> | 037    |  |
+| Exploração de cavernas             | 1973 | AR | 037    |  |
 | Exploração de cavernas - avançado  | 1973 | AR        | 038    |  |
-| <b>Barco a motor</b>               | 1975 | <b>AR</b> | 039    |  |
+| Barco a motor               | 1975 | AR | 039    |  |
 | Nós e amarras                      | 1975 | AR        | 040    |  |
-| Arco e flecha - avançado           | 1976 | <b>AR</b> | 041    |  |
+| Arco e flecha - avançado           | 1976 | AR | 041    |  |
 | Ciclismo - avançado                | 1976 | AR        | 042    |  |
-| Ginástica acrobática               | 1976 | <b>AR</b> | 043    |  |
-| Ginástica acrobática - avançado    | 1976 | <b>AR</b> | 044    |  |
+| Ginástica acrobática               | 1976 | AR | 043    |  |
+| Ginástica acrobática - avançado    | 1976 | AR | 044    |  |
 
-| <b>Especialidade</b>               | Ano                      | Código    | Número | <b>Especialida</b>  |  |
+| Especialidade               | Ano                      | Código    | Número | Especialida  |  |
 |------------------------------------|--------------------------|-----------|--------|---------------------|--|
-| Liderança na selva                 | 1976                     | <b>AR</b> | 045    | <b>Excursionist</b> |  |
+| Liderança na selva                 | 1976                     | AR | 045    | Excursionist |  |
 | Liderança na selva - avançado      | 1976                     | AR        | 046    | Segurança l         |  |
-| Ordem unida                        | 1976                     | <b>AR</b> | 047    | <b>Boliche</b>      |  |
+| Ordem unida                        | 1976                     | AR | 047    | Boliche      |  |
 | Ordem unida - avançado             | 1976                     | AR        | 048    | Carrinho de         |  |
-| Atletismo                          | 1978                     | <b>AR</b> | 049    | Colecionado         |  |
+| Atletismo                          | 1978                     | AR | 049    | Colecionado         |  |
 | Acampamento I                      | 1986                     | AR        | 050    | Esportes ad         |  |
-| Acampamento II                     | 1986                     | <b>AR</b> | 051    | <b>Excursionist</b> |  |
+| Acampamento II                     | 1986                     | AR | 051    | Excursionist |  |
 | Acampamento III                    | 1986                     | AR        | 052    | Fubetol de l        |  |
-| Acampamento IV                     | 1986                     | <b>AR</b> | 053    | Futsal              |  |
+| Acampamento IV                     | 1986                     | AR | 053    | Futsal              |  |
 | Esqui cross country                | 1986                     | AR        | 054    | Handebol            |  |
-| Excursionismo pedestre - avançado  | ٠                        | <b>AR</b> | 055    | Nós e amarr         |  |
+| Excursionismo pedestre - avançado  | ٠                        | AR | 055    | Nós e amarr         |  |
 | Excursionismo pedestre com mochila | 1986                     | AR        | 056    | Ordem unic          |  |
-| Liderança campestre                | 1986                     | <b>AR</b> | 057    | Pioneirias          |  |
+| Liderança campestre                | 1986                     | AR | 057    | Pioneirias          |  |
 | Liderança campestre - avançado     | 1986                     | AR        | 058    | Pioneirias -        |  |
-| Pipas                              | 1986                     | <b>AR</b> | 059    | <b>Patins</b>       |  |
+| Pipas                              | 1986                     | AR | 059    | Patins       |  |
 | Skate                              | 1986                     | AR        | 060    | Orientação          |  |
-| Windsurf                           | 1986                     | <b>AR</b> | 061    | Rafting             |  |
+| Windsurf                           | 1986                     | AR | 061    | Rafting             |  |
 | Numismática - avançado             | 1998                     | AR        | 062    | Pião                |  |
-| <b>Mountain biking</b>             | 1998                     | <b>AR</b> | 063    | Tênis de me         |  |
+| Mountain biking             | 1998                     | AR | 063    | Tênis de me         |  |
 | Basquete                           | 1999                     | AR        | 064    | Vôlei               |  |
-| Futebol                            | 1999                     | <b>AR</b> | 065    | Waveboardi          |  |
+| Futebol                            | 1999                     | AR | 065    | Waveboardi          |  |
 | Equitação - avançado               | 2000                     | AR        | 066    | Evolução en         |  |
-| Geocaching                         | 2005                     | <b>AR</b> | 067    |                     |  |
-| Geocaching - avançado              | 2005                     | <b>AR</b> | 068    |                     |  |
-| Construção de canoas               | ٠                        | <b>AR</b> | 069    |                     |  |
+| Geocaching                         | 2005                     | AR | 067    |                     |  |
+| Geocaching - avançado              | 2005                     | AR | 068    |                     |  |
+| Construção de canoas               | ٠                        | AR | 069    |                     |  |
 | Cozinha com forno holandês         | 2006                     | AR        | 070    |                     |  |
-| Fanfarra                           | 2006                     | <b>AR</b> | 071    |                     |  |
+| Fanfarra                           | 2006                     | AR | 071    |                     |  |
 | Rapel                              |                          | AR        | 072    |                     |  |
-| Rapel - avançado                   | ۰                        | <b>AR</b> | 073    |                     |  |
+| Rapel - avançado                   | ۰                        | AR | 073    |                     |  |
 | Rapel - instrutor                  | ۷                        | AR        | 074    |                     |  |
-| <b>Triathlon</b>                   | ۰                        | <b>AR</b> | 075    |                     |  |
+| Triathlon                   | ۰                        | AR | 075    |                     |  |
 | Triathlon - avançado               | $\overline{\phantom{a}}$ | AR        | 076    |                     |  |
-| Telecartofilia                     | ۰                        | <b>AR</b> | 077    |                     |  |
+| Telecartofilia                     | ۰                        | AR | 077    |                     |  |
 | Telecartofilia - avançado          | $\overline{\phantom{a}}$ | AR        | 078    |                     |  |
-| Wakeboard                          | 2006                     | <b>AR</b> | 079    |                     |  |
+| Wakeboard                          | 2006                     | AR | 079    |                     |  |
 | Softbol                            | 2006                     | AR        | 080    |                     |  |
-| Letterboxing                       | 2006                     | <b>AR</b> | 081    |                     |  |
+| Letterboxing                       | 2006                     | AR | 081    |                     |  |
 | Letterboxing - avançado            | 2008                     | AR        | 082    |                     |  |
-| Monociclo                          | 2008                     | <b>AR</b> | 083    |                     |  |
+| Monociclo                          | 2008                     | AR | 083    |                     |  |
 | Acampamento seguro                 | 2009                     | AR        | 084    |                     |  |
-| Acampamento seguro - avançado      | 2009                     | <b>AR</b> | 085    |                     |  |
-| Viagem e turismo                   | 2009                     | <b>AR</b> | 086    |                     |  |
-| Viagem e turismo - avançado        | 2009                     | <b>AR</b> | 087    |                     |  |
+| Acampamento seguro - avançado      | 2009                     | AR | 085    |                     |  |
+| Viagem e turismo                   | 2009                     | AR | 086    |                     |  |
+| Viagem e turismo - avançado        | 2009                     | AR | 087    |                     |  |
 | Excursionismo pedestre na neve     | 2010                     | AR        | 088    |                     |  |
 |                                    |                          |           |        |                     |  |
 
-| Número | <b>Especialidade</b>                          | Ano  | Código    | Número |
+| Número | Especialidade                          | Ano  | Código    | Número |
 |--------|-----------------------------------------------|------|-----------|--------|
-| 045    | Excursionismo pedestre na neve - avançado     | 2010 | <b>AR</b> | 089    |
+| 045    | Excursionismo pedestre na neve - avançado     | 2010 | AR | 089    |
 | 046    | Segurança básica na água                      | 2010 | AR        | 090    |
-| 047    | <b>Boliche</b>                                | 2012 | AR        | 091    |
+| 047    | Boliche                                | 2012 | AR        | 091    |
 | 048    | Carrinho de rolimã                            | 2012 | AR        | 092    |
 | 049    | Colecionador                                  | 2012 | AR        | 093    |
 | 050    | Esportes adaptados                            | 2012 | AR        | 094    |
-| 051    | Excursionismo pedestre com mochila - avançado | 2012 | <b>AR</b> | 095    |
+| 051    | Excursionismo pedestre com mochila - avançado | 2012 | AR | 095    |
 | 052    | Fubetol de botão                              | 2012 | AR        | 096    |
-| 053    | Futsal                                        | 2012 | <b>AR</b> | 097    |
+| 053    | Futsal                                        | 2012 | AR | 097    |
 | 054    | Handebol                                      | 2012 | AR        | 098    |
-| 055    | Nós e amarras - avançado                      | 2012 | <b>AR</b> | 099    |
+| 055    | Nós e amarras - avançado                      | 2012 | AR | 099    |
 | 056    | Ordem unida - instrutor                       | 2012 | AR        | 100    |
-| 057    | <b>Pioneirias</b>                             | 2012 | <b>AR</b> | 101    |
+| 057    | Pioneirias                             | 2012 | AR | 101    |
 | 058    | Pioneirias - avançado                         | 2012 | AR        | 102    |
-| 059    | <b>Patins</b>                                 | 2012 | <b>AR</b> | 103    |
+| 059    | Patins                                 | 2012 | AR | 103    |
 | 060    | Orientação com GPS                            | 2012 | AR        | 104    |
-| 061    | Rafting                                       | 2012 | <b>AR</b> | 105    |
+| 061    | Rafting                                       | 2012 | AR | 105    |
 | 062    | Pião                                          | 2012 | AR        | 106    |
-| 063    | Tênis de mesa                                 | 2012 | <b>AR</b> | 107    |
+| 063    | Tênis de mesa                                 | 2012 | AR | 107    |
 | 064    | Vôlei                                         | 2012 | AR        | 108    |
-| 065    | Waveboarding                                  | 1986 | <b>AR</b> | 109    |
+| 065    | Waveboarding                                  | 1986 | AR | 109    |
 | 066    | Evolução em ordem unida                       | 2012 | AR        | 110    |
 | 067    |                                               |      |           |        |
 
@@ -497,9 +497,9 @@ NOTA: Obrigatória a presença de um instrutor qualificado. Todo equipamento de 
 - 7. Por que é necessário ter o Nock Point (ponto de encaixe) da flecha posicionado corretamente na corda do arco?
 - 8. Demonstrar de forma básica as seguintes técnicas de tiro:
 
-| a) Postura                   | <b>d</b> ) Ancoragem  |
+| a) Postura                   | d ) Ancoragem  |
 |------------------------------|-----------------------|
-| <b>b</b> ) Encaixe da flecha | e) Empunhadura e mira |
+| b ) Encaixe da flecha | e) Empunhadura e mira |
 | c) Retesar o arco            | f) Largada            |
 
 - 9. Estabelecer uma rotina de prática de tiro com arco e flecha, no mínimo 2 horas por dia, 2 vezes por semana, durante 4 semanas seguidas, mantendo um controle de sua pontuação.
@@ -575,7 +575,7 @@ NOTA: Obrigatória a presença de um instrutor qualificado. Todo equipamento de 
 
 | a) Mescla de metais           | i) Reverso              |  |  |
 |-------------------------------|-------------------------|--|--|
-| <b>b</b> ) Cunhagem revestida | j) Série                |  |  |
+| b ) Cunhagem revestida | j) Série                |  |  |
 | c) Moeda comemorativa         | k) Impressão sobreposta |  |  |
 | d) Cunho                      | I) Tira magnética       |  |  |
 | e) Fundo                      | m) Tinta fluorescente   |  |  |
@@ -893,7 +893,7 @@ a) Avaliar a altura de uma árvore
 
 | a) Hipotermia                                               | e) Arbustos venenosos                                                             |
 |-------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| <b>b</b> ) Mordida de cobra peçonhenta                      | f) Feridas ou machucados com infecção                                             |
+| b ) Mordida de cobra peçonhenta                      | f) Feridas ou machucados com infecção                                             |
 | c) Insolação                                                | g) Enjõo provocado por altitude                                                   |
 | d) Exaustão                                                 | h) Desidratação                                                                   |
 | 12. Demonstrar duas formas de sinalizar pedidos de socorro. |                                                                                   |
@@ -903,9 +903,9 @@ a) Avaliar a altura de uma árvore
 
 14. Explicar como preparar-se e providenciar abrigo nas seguintes condições:
 
-| <b>a)</b> Muita neve | c) Pântanos          |
+| a) Muita neve | c) Pântanos          |
 |----------------------|----------------------|
-| b) Áreas rochosas    | <b>d</b> ) Florestas |
+| b) Áreas rochosas    | d ) Florestas |
 
 ![](_page_18_Figure_18.jpeg)
 
@@ -1234,7 +1234,7 @@ g) Auxiliar a colocar o barco em um reboque.
 | 1. Definir os seguintes termos:                                                             |                                                                                  |
 |---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | a) Seio (laçada)                                                                            | f) Volta (laço)                                                                  |
-| <b>b</b> ) Ponta corrediça (vivo)                                                           | g) Curva (dobra)                                                                 |
+| b ) Ponta corrediça (vivo)                                                           | g) Curva (dobra)                                                                 |
 | c) Corda restante (ponta fixa)                                                              | h) Amarra                                                                        |
 | d) Nó superior                                                                              | i) União de cordas                                                               |
 | e) Alça de azelha (laçada com nó)                                                           | j) Chicote (ponta de trabalho)                                                   |
@@ -1250,7 +1250,7 @@ g) Auxiliar a colocar o barco em um reboque.
 | e versículo.                                                                                |                                                                                  |
 | 7. Faça o seguinte em uma corda:                                                            |                                                                                  |
 | a) Nó Costura singela ou costura curta (Splice)                                             |                                                                                  |
-| <b>b</b> ) Nó Costura de alça (eye Splice)                                                  |                                                                                  |
+| b ) Nó Costura de alça (eye Splice)                                                  |                                                                                  |
 | c) Nó Costura em pinha ou falçada inglesa (black Splice)                                    |                                                                                  |
 |                                                                                             | d) Finalizar a extremidade de uma corda com uma Pinha de rosa dupla, falcaça, ou |
 | Nó de Mathew Walker                                                                         |                                                                                  |
@@ -1259,7 +1259,7 @@ g) Auxiliar a colocar o barco em um reboque.
 | 8. A partir de materiais encontrados na natureza, ou com barbante, fazer duas cordas        |                                                                                  |
 | com, pelo menos, 2 metros cada:                                                             |                                                                                  |
 | a) Uma de três fios                                                                         |                                                                                  |
-| <b>b</b> ) Uma com trançado triplo                                                          |                                                                                  |
+| b ) Uma com trançado triplo                                                          |                                                                                  |
 | 9. Descrever, pelo menos, 3 plantas que podem fornecer material para a confecção de         |                                                                                  |
 | uma corda.                                                                                  |                                                                                  |
 |                                                                                             |                                                                                  |
@@ -1759,7 +1759,7 @@ c) Refletor
 
 6. Conhecer seis maneiras de acender uma fogueira sem uso de fósforos. Construir uma foqueira usando um dos sequintes métodos:
 
-| a) Pedra de fogo | <b>d</b> ) Lente de vidro |
+| a) Pedra de fogo | d ) Lente de vidro |
 |------------------|---------------------------|
 | b) Fricção       | e) Fósforo de metal       |
 | c) Centelha      | f) Ar comprimido          |
@@ -2071,7 +2071,7 @@ e) Reação a plantas venenosas f) Infecção de feridas g) enjôo por altitude 
 |----------------------|-------------|
 | b) linha             | f) armação  |
 | c) vento bom         | g) carretel |
-| <b>d</b> ) estirante |             |
+| d ) estirante |             |
 
 - 5. Qual é uma causa comum das pipas apresentarem defeitos?
 - 6. O que deve ser feito quando uma pipa não pára de dar voltas enquanto está sendo empinada?
@@ -2097,7 +2097,7 @@ NOTA: Necessário o acompanhamento de um instrutor qualificado.
 
 | a) Ollie                                 | q) Nollie Kckflip               |
 |------------------------------------------|---------------------------------|
-| <b>b)</b> Wheelie (manual) por 10 metros | r) Nollie Hellflip              |
+| b) Wheelie (manual) por 10 metros | r) Nollie Hellflip              |
 | c) Nose Wheelie (nose manual)            | s) Nollie Frontside 180 bigspin |
 | por 10 metros                            | t) Varial Kickflip              |
 | $d)$ C-Turn                              | u) Hellplip Varial              |
@@ -2125,7 +2125,7 @@ Windsurf **AR** Instituição de origem **Nível** Ano 061 **Associação Geral*
 
 | a) Linha do vento           | I) Linha de centro            |
 |-----------------------------|-------------------------------|
-| <b>b)</b> Vento pelo través | m) Frente                     |
+| b) Vento pelo través | m) Frente                     |
 | c) Vento aparente           | n) Orçar                      |
 | d) Controle da prancha      | o) Mão de mastro              |
 | e) Barlavento               | p) Panejo da vela             |
@@ -2272,7 +2272,7 @@ a) Arremessando da linha de lance livre
 | i) Caneta                 | y) Passe                      |
 | j) Carrinho               | z) Passe 1, 2 ou tabela       |
 | k) Chapéu ou lençol       | aa) Pedalada                  |
-| I) Chute de primeira      | <b>bb)</b> Peixinho           |
+| I) Chute de primeira      | bb) Peixinho           |
 | m) Craque                 | cc) Tiro de canto (escanteio) |
 | n) Cruzamento             | dd) Tiro de meta              |
 | o) Dominar a bola         | ee) Vantagem                  |
@@ -2688,7 +2688,7 @@ d) Dê sete regras para fixar a corda
 
 | a) Bases cheias                  | j) Run            |
 |----------------------------------|-------------------|
-| <b>b</b> ) Time da casa          | k) Foul tip       |
+| b ) Time da casa          | k) Foul tip       |
 | c) Bunt                          | I) Score - ponto  |
 | d) Innings                       | m) Grand Slam     |
 | e) Fielder's choice              | n) Zona de Strike |
@@ -2698,7 +2698,7 @@ d) Dê sete regras para fixar a corda
 | i) Force Play                    | r) Andar          |
 | 6. Explicar as seguintes regras: |                   |
 | a) Double Play                   | e) Fair ball      |
-| <b>b</b> ) Ground rule double    | f) Out            |
+| b ) Ground rule double    | f) Out            |
 | c) Erro                          | g) Foul ball      |
 | d) Regras de Infield fly         | h) Safe           |
 |                                  |                   |
@@ -3298,7 +3298,7 @@ c) Árbitro ou assistente
 | y) Oito                    |
 | z) Ponte aérea             |
 | aa) Desqualificação        |
-| <b>bb)</b> Dois minutos    |
+| bb) Dois minutos    |
 | cc) Exclusão               |
 | dd) Linha de quatro metros |
 | ee) Linha de seis metros   |
@@ -3313,7 +3313,7 @@ c) Árbitro ou assistente
 
 | a) Empunhadura     | f) Ritmo trifásico       |
 |--------------------|--------------------------|
-| <b>b)</b> Recepção | g) Duplo ritmo trifásico |
+| b) Recepção | g) Duplo ritmo trifásico |
 | c) Passe           | h) Progressão            |
 | d) Arremesso       | i) Finta                 |
 |                    |                          |

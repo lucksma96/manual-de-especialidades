@@ -1,6 +1,6 @@
 ![](_page_0_Picture_0.jpeg)
 
-| <b>Especialidade</b>               | Ano  | Código                    | Número |
+| Especialidade               | Ano  | Código                    | Número |
 |------------------------------------|------|---------------------------|--------|
 | Saúde e cura                       | 1928 | $\mathsf{CS}\phantom{0}$  | 001    |
 | Química                            | 1937 | CS                        | 002    |
@@ -364,11 +364,11 @@ c) Vegetariano estrito
 
 alimentos fontes dos seguintes nutrientes:
 
-| a) Vitamina A          | <b>f</b> ) Vitamina C |  |
+| a) Vitamina A          | f ) Vitamina C |  |
 |------------------------|-----------------------|--|
-| <b>b</b> ) Vitamina B1 | g) Vitamina D         |  |
+| b ) Vitamina B1 | g) Vitamina D         |  |
 | c) Vitamina B2         | h) Vitamina E         |  |
-| <b>d</b> ) Vitamina B6 | i) Vitamina K         |  |
+| d ) Vitamina B6 | i) Vitamina K         |  |
 
 e) Vitamina B12
 
@@ -1071,7 +1071,7 @@ a) Sono
 
 3. Descrever, por escrito ou oralmente, maneiras que ajudam o estudante a se concentrar durante os estudos:
 
-| <b>d</b> ) Estudo                       |
+| d ) Estudo                       |
 |-----------------------------------------|
 | e) Lazer, atividades sociais e esportes |
 | f) Outros                               |

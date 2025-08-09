@@ -1,6 +1,6 @@
 ![](_page_0_Picture_0.jpeg)
 
-| <b>Especialidade</b>       | Ano  | Código    | Número |
+| Especialidade       | Ano  | Código    | Número |
 |----------------------------|------|-----------|--------|
 | Arte culinária             | 1928 | HD        | 001    |
 | Técnicas de lavanderia     | 1928 | HD        | 002    |
@@ -10,9 +10,9 @@
 | Orçamento familiar         | 1935 | HD        | 006    |
 | Panificação                | 1945 | HD        | 007    |
 | Arte culinária - avançado  | 1956 | HD        | 008    |
-| Costura básica             | 1976 | <b>HD</b> | 009    |
+| Costura básica             | 1976 | HD | 009    |
 | Comidas típicas            | ÷.   | HD        | 010    |
-| Congelamento de alimentos  | 1986 | <b>HD</b> | 011    |
+| Congelamento de alimentos  | 1986 | HD | 011    |
 | Desidratação de alimentos  | 1986 | HD        | 012    |
 
 ![](_page_2_Picture_0.jpeg)

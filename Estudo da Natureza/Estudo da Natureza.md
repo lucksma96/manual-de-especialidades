@@ -1,12 +1,12 @@
 ![](_page_0_Picture_0.jpeg)
 
-| <b>Especialidade</b>           | Ano                      | Código | Número |
+| Especialidade           | Ano                      | Código | Número |
 |--------------------------------|--------------------------|--------|--------|
-| <b>Aranhas</b>                 | 1928                     | EN     | 001    |
+| Aranhas                 | 1928                     | EN     | 001    |
 | Astronomia                     | 1928                     | EN     | 002    |
 | Aves                           | 1928                     | EN     | 003    |
 | Aves domésticas                | 1928                     | EN     | 004    |
-| <b>Flores</b>                  | 1928                     | EN     | 005    |
+| Flores                  | 1928                     | EN     | 005    |
 | Arvores                        | 1928                     | EN     | 006    |
 | Insetos                        | 1933                     | EN     | 007    |
 | Mariposas e borboletas         | 1933                     | EN     | 008    |
@@ -20,11 +20,11 @@
 | Climatologia                   | 1944                     | EN     | 016    |
 | Fósseis                        | 1944                     | EN     | 017    |
 | Samambaias                     | 1944                     | EN     | 018    |
-| <b>Arbustos</b>                | 1945                     | EN     | 019    |
+| Arbustos                | 1945                     | EN     | 019    |
 | Aves de estimação              | 1945                     | EN     | 020    |
 | Gramíneas                      | 1945                     | EN     | 021    |
 | Peixes                         | 1945                     | EN     | 022    |
-| <b>Anfibios</b>                | 1945                     | EN     | 023    |
+| Anfibios                | 1945                     | EN     | 023    |
 | Felinos                        | 1945                     | EN     | 024    |
 | Rebanhos domésticos            | 1945                     | EN     | 025    |
 | Astronomia - avançado          | 1949                     | EN     | 026    |
@@ -40,14 +40,14 @@
 | Algas                          | 1960                     | EN     | 036    |
 | Cetáceos                       | ٠                        | EN     | 037    |
 | Ervas                          | $\frac{1}{2}$            | EN     | 038    |
-| <b>Eucaliptos</b>              | $\overline{\phantom{a}}$ | EN     | 039    |
+| Eucaliptos              | $\overline{\phantom{a}}$ | EN     | 039    |
 | Sementes                       | 1961                     | EN     | 040    |
 | Sementes - avançado            | 1961                     | EN     | 041    |
 | Orquídeas                      | 1964                     | EN     | 042    |
 | Plantas silvestres comestíveis | 1970                     | EN     | 043    |
 | Ecologia                       | 1972                     | EN     | 044    |
 
-| <b>Especialidade</b>            | Ano  | Código | Número |
+| Especialidade            | Ano  | Código | Número |
 |---------------------------------|------|--------|--------|
 | Ecologia - avançado             | 1972 | EN     | 045    |
 | Conservação ambiental           | 1973 | EN     | 046    |
@@ -55,7 +55,7 @@
 | Geologia - avançado             | 1975 | EN     | 048    |
 | Plantas caseiras                | 1976 | EN     | 049    |
 | Rastreio de animais             | 1976 | EN     | 050    |
-| <b>Mamíferos marinhos</b>       | 1991 | EN     | 051    |
+| Mamíferos marinhos       | 1991 | EN     | 051    |
 | Pequenos mamíferos de estimação | 1997 | EN     | 052    |
 | Cactos - avançado               | 1999 | EN     | 053    |
 | Anfíbios - avançado             | 2001 | EN     | 054    |
@@ -63,13 +63,13 @@
 | Rastreio de animais - avançado  | 2001 | EN     | 056    |
 | Répteis - avançado              | 2001 | EN     | 057    |
 | Animais ameaçados de extinção   | 2004 | EN     | 058    |
-| <b>Morcegos</b>                 | 2004 | EN     | 059    |
+| Morcegos                 | 2004 | EN     | 059    |
 | Morcegos - avançado             | 2004 | EN     | 060    |
-| <b>Marsupiais</b>               |      | EN     | 061    |
+| Marsupiais               |      | EN     | 061    |
 | Orquídeas - avançado            | 2006 | EN     | 062    |
-| <b>Palmeiras</b>                |      | EN     | 063    |
+| Palmeiras                |      | EN     | 063    |
 | Solos                           | 2006 | EN     | 064    |
-| <b>Vermes</b>                   | 2006 | EN     | 065    |
+| Vermes                   | 2006 | EN     | 065    |
 | Vermes - avançado               | 2006 | EN     | 066    |
 | Quedas d'água                   | 2011 | EN     | 067    |
 | Aquarismo                       | 2012 | EN     | 068    |
@@ -78,12 +78,12 @@
 | Animais nocivos                 | 2012 | EN     | 071    |
 | Arbustos - avançado             | 2012 | EN     | 072    |
 | Araras, papagaios e periquitos  | 2012 | EN     | 073    |
-| <b>Briófitas</b>                | 2012 | EN     | 074    |
-| <b>Bactérias</b>                | 2012 | EN     | 075    |
+| Briófitas                | 2012 | EN     | 074    |
+| Bactérias                | 2012 | EN     | 075    |
 | Camelos                         | 2012 | EN     | 076    |
 | Citologia                       | 2012 | EN     | 077    |
 | Crustáceos                      | 2012 | EN     | 078    |
-| <b>Dinossauros</b>              | 2012 | EN     | 079    |
+| Dinossauros              | 2012 | EN     | 079    |
 | Equinodermos                    | 1956 | ΕN     | 080    |
 | Energias renováveis             | 2012 | EN     | 081    |
 | Estuário                        | 2012 | EN     | 082    |
@@ -94,7 +94,7 @@
 | Odonata                         | 2012 | EN     | 087    |
 | Plantas carnívoras              | 2012 | EN     | 088    |
 
-| <b>Especialidade</b>                     | Ano  | Código | Número |  |
+| Especialidade                     | Ano  | Código | Número |  |
 |------------------------------------------|------|--------|--------|--|
 | Preservação de recursos hídricos         | 2012 | EN     | 089    |  |
 | Poríferos e cnidários                    | 2012 | EN     | 090    |  |
@@ -102,11 +102,11 @@
 | Reciclagem e sustentabilidade            | 2012 | ΕN     | 092    |  |
 | Reciclagem e sustentabilidade - avançado | 2012 | EN     | 093    |  |
 | Tubarões                                 | 2012 | EN     | 094    |  |
-| <b>Vírus</b>                             | 2012 | EN     | 095    |  |
+| Vírus                             | 2012 | EN     | 095    |  |
 
-| EN  | <b>Aranhas</b>    |             |                                           |  |
+| EN  | Aranhas    |             |                                           |  |
 |-----|-------------------|-------------|-------------------------------------------|--|
-| 001 | <b>Nível</b><br>2 | Ano<br>1928 | Instituição de origem<br>Associação Geral |  |
+| 001 | Nível<br>2 | Ano<br>1928 | Instituição de origem<br>Associação Geral |  |
 
 1. Quais são as principais características das aranhas? Quais são as principais diferenças entre as aranhas e os insetos?
 
@@ -479,9 +479,9 @@ a) Para rochas: pesquisar e escrever a mineralogia da rocha e classificá-la seg
 
 b) Para minerais: pesquisar e descrever as seguintes características dos minerais: cor, brilho, cor do traço.
 
-| <b>EN</b> |              | Rochas e minerais - avançado |                                           |  |
+| EN |              | Rochas e minerais - avançado |                                           |  |
 |-----------|--------------|------------------------------|-------------------------------------------|--|
-| 013       | <b>Nível</b> | Ano<br>1937                  | Instituição de origem<br>Associação Geral |  |
+| 013       | Nível | Ano<br>1937                  | Instituição de origem<br>Associação Geral |  |
 
 ### REQUISITOS
 
@@ -568,9 +568,9 @@ c) As criaturas das águas perecem fora da água.
 - 9. Cultivar, pelo menos, 3 espécies de Cactos durante 2 meses.
 - 10. Preparar e consumir um alimento a base de cacto.
 
-| EN  |              | <b>Climatologia</b> |                                           |  |
+| EN  |              | Climatologia |                                           |  |
 |-----|--------------|---------------------|-------------------------------------------|--|
-| 016 | <b>Nível</b> | Ano<br>1944         | Instituição de origem<br>Associação Geral |  |
+| 016 | Nível | Ano<br>1944         | Instituição de origem<br>Associação Geral |  |
 
 ### REQUISITOS
 
@@ -674,7 +674,7 @@ e) Descrever o processo de limpeza dos espécimes assim que são retirados, para
 
 | EN  | Arbustos     |             |                                           |  |
 |-----|--------------|-------------|-------------------------------------------|--|
-| 019 | <b>Nível</b> | Ano<br>1945 | Instituição de origem<br>Associação Geral |  |
+| 019 | Nível | Ano<br>1945 | Instituição de origem<br>Associação Geral |  |
 
 ### REQUISITOS
 
@@ -729,7 +729,7 @@ b) Descrever brevemente seus hábitos de alimentação, ninho e comportamento em
 
 | EN  | Gramíneas         |             |                                           |  |
 |-----|-------------------|-------------|-------------------------------------------|--|
-| 021 | <b>Nível</b><br>3 | Ano<br>1945 | Instituição de origem<br>Associação Geral |  |
+| 021 | Nível<br>3 | Ano<br>1945 | Instituição de origem<br>Associação Geral |  |
 
 ### REQUISITOS
 
@@ -769,9 +769,9 @@ b) Fazer uma coleção com as folhas e sementes e, se possível, flores de 10 gr
 - 11. Em qual ecossistema a família das gramíneas está entre as principais famílias?
 - 12. Citar 2 passagens bíblicas que façam referência a gramíneas.
 
-| EN  | <b>Peixes</b>                |             |                                           |  |
+| EN  | Peixes                |             |                                           |  |
 |-----|------------------------------|-------------|-------------------------------------------|--|
-| 022 | <b>Nível</b><br>$\mathbf{z}$ | Ano<br>1945 | Instituição de origem<br>Associação Geral |  |
+| 022 | Nível<br>$\mathbf{z}$ | Ano<br>1945 | Instituição de origem<br>Associação Geral |  |
 
 1. Aproximadamente, quantas espécies de peixes existem ao redor do mundo?
 
@@ -1174,9 +1174,9 @@ h) A tinta púrpura dos tempos antigos era retirada da excreção de que molusco
 
 11. Fazer uma coleção de 40 conchas diferentes. Identificá-las de acordo com a data de coleta, local, habitat do molusco que a possuía e o nome da classe pertencente. Caso tenha ganhado ou sido presenteado, indicar o nome da pessoa que o presenteou, data, classe a que pertence e, se possível, qual era o habitat do molusco que possuía esta concha.
 
-| EN  |              | <b>Arvores - avançado</b> |                                           |  |
+| EN  |              | Arvores - avançado |                                           |  |
 |-----|--------------|---------------------------|-------------------------------------------|--|
-| 033 | <b>Nível</b> | Ano<br>1949               | Instituição de origem<br>Associação Geral |  |
+| 033 | Nível | Ano<br>1949               | Instituição de origem<br>Associação Geral |  |
 
 ### REQUISITOS
 
@@ -1527,9 +1527,9 @@ a) Matéria-prima b) Fotossintese c) Quimiossíntese
 
 11. Encontrar um trecho do Espírito de Profecia e um texto bíblico, diferentes dos utilizados na especialidade básica, relacionado à ecologia e explicar sua relevância e aplicação aos nossos dias.
 
-| <b>EN</b> |                   | Conservação ambiental |                                           |  |
+| EN |                   | Conservação ambiental |                                           |  |
 |-----------|-------------------|-----------------------|-------------------------------------------|--|
-| 046       | <b>Nível</b><br>3 | Ano<br>1973           | Instituição de origem<br>Associação Geral |  |
+| 046       | Nível<br>3 | Ano<br>1973           | Instituição de origem<br>Associação Geral |  |
 
 ### REQUISITOS
 
@@ -1614,22 +1614,22 @@ k) Depósito ou fábricas jogam resíduos nas águas do riacho
 
 | EN  | Geologia     |             |                                           |  |
 |-----|--------------|-------------|-------------------------------------------|--|
-| 047 | <b>Nível</b> | Ano<br>1975 | Instituição de origem<br>Associação Geral |  |
+| 047 | Nível | Ano<br>1975 | Instituição de origem<br>Associação Geral |  |
 
 ### REQUISITOS
 
 #### 1. Apresentar o significado dos seguintes termos:
 
-| a) Litologia               | <b>I</b> ) Anticlinal  |  |  |
+| a) Litologia               | I ) Anticlinal  |  |  |
 |----------------------------|------------------------|--|--|
-| <b>b</b> ) Camada          | m) Sinclinal           |  |  |
+| b ) Camada          | m) Sinclinal           |  |  |
 | c) Dobra                   | n) Antiforme           |  |  |
-| <b>d)</b> Falha            | o) Sinforme            |  |  |
+| d) Falha            | o) Sinforme            |  |  |
 | e) Delta                   | p) Capa ou teto        |  |  |
 | f) Rio meandrante          | q) Lapa ou muro        |  |  |
 | g) Rio entrelaçado         | r) Falha transcorrente |  |  |
-| <b>h)</b> Rio retilíneo    | s) Falha transformante |  |  |
-| <b>i)</b> Rio anastomosado | t) Falha normal        |  |  |
+| h) Rio retilíneo    | s) Falha transformante |  |  |
+| i) Rio anastomosado | t) Falha normal        |  |  |
 | j) Morena                  | u) Falha reversa       |  |  |
 | k) Leque aluvial           | v) Falha de empurrão   |  |  |
 
@@ -1643,7 +1643,7 @@ c) Como se forma uma cordilheira
 
 | a) Granito         | f) Ardósia   |
 |--------------------|--------------|
-| <b>b</b> ) Mármore | g) Xisto     |
+| b ) Mármore | g) Xisto     |
 | c) Arenito         | h) Argilito  |
 | d) Conglomerado    | i) Gnaisse   |
 | e) Basalto         | j) Quartzito |
@@ -1666,9 +1666,9 @@ f) Dolina
 
 g) Falha com deslocamento das litologias
 
-| <b>EN</b> |              | Geologia - avançado |                                           |  |
+| EN |              | Geologia - avançado |                                           |  |
 |-----------|--------------|---------------------|-------------------------------------------|--|
-| 048       | <b>Nível</b> | Ano<br>1975         | Instituição de origem<br>Associação Geral |  |
+| 048       | Nível | Ano<br>1975         | Instituição de origem<br>Associação Geral |  |
 
 ### REQUISITOS
 
@@ -1724,17 +1724,17 @@ e) Fossas oceânicas
 
 | a) Açafrão         | i) Filodendro      | q) Samambaia          |
 |--------------------|--------------------|-----------------------|
-| <b>b</b> ) Aegônia | j) Gerânio         | r) Samambaia de metro |
+| b ) Aegônia | j) Gerânio         | r) Samambaia de metro |
 | c) Antúrio         | k) Gloxínia        | s) Samambaia ninho de |
 | d) Aspidistra      | I) Íris            | pássaro               |
 | e) Avenca          | m) Jacinto         | t) Sanseviéria        |
 | f) Caládio         | n) Melindro        | u) Trepadeiras        |
 | g) Cóleo           | o) Narciso         | v) Tulipa             |
-| <b>h)</b> Fícus    | p) Planta alumínio | w) Violeta            |
+| h) Fícus    | p) Planta alumínio | w) Violeta            |
 
-| <b>EN</b> |              | Rastreio de animais |                                           |  |
+| EN |              | Rastreio de animais |                                           |  |
 |-----------|--------------|---------------------|-------------------------------------------|--|
-| 050       | <b>Nível</b> | Ano<br>1976         | Instituição de origem<br>Associação Geral |  |
+| 050       | Nível | Ano<br>1976         | Instituição de origem<br>Associação Geral |  |
 
 ### REQUISITOS
 
@@ -1909,9 +1909,9 @@ c) Quais dos animais listados não são roedores?
   - b) Por estacas
   - c) Por enxertia
 
-| EN  |              | <b>Anfíbios - avançado</b> |                                           |  |
+| EN  |              | Anfíbios - avançado |                                           |  |
 |-----|--------------|----------------------------|-------------------------------------------|--|
-| 054 | <b>Nível</b> | Ano<br>2001                | Instituição de origem<br>Associação Geral |  |
+| 054 | Nível | Ano<br>2001                | Instituição de origem<br>Associação Geral |  |
 
 ### REQUISITOS
 
@@ -1939,9 +1939,9 @@ Observações: é muito importante que seja realizado um levantamento bibliográ
 - 7. Dar o nome popular de 4 felinos comuns em sua região ou País.
 - 8. Discorrer sobre as principais causas para o declínio mundial da população de felinos. Citar 3 espécies que correm risco de extinção, preferencialmente de sua região, e quais razões os colocam nessa condição.
 
-| <b>EN</b> |              | Rastreio de animais - avançado |                                           |  |
+| EN |              | Rastreio de animais - avançado |                                           |  |
 |-----------|--------------|--------------------------------|-------------------------------------------|--|
-| 056       | <b>Nível</b> | Ano<br>2001                    | Instituição de origem<br>Associação Geral |  |
+| 056       | Nível | Ano<br>2001                    | Instituição de origem<br>Associação Geral |  |
 
 ### REQUISITOS
 
@@ -2596,9 +2596,9 @@ b) Possuir uma coleção de imagens ou figuras de, pelo menos, 10 tipos diferent
   - c) Ano da descoberta
   - d) Características gerais
 
-| <b>EN</b> |                   | <b>Equinodermos</b> |                                           |  |
+| EN |                   | Equinodermos |                                           |  |
 |-----------|-------------------|---------------------|-------------------------------------------|--|
-| 080       | <b>Nível</b><br>2 | Ano<br>1956         | Instituição de origem<br>Associação Geral |  |
+| 080       | Nível<br>2 | Ano<br>1956         | Instituição de origem<br>Associação Geral |  |
 
 ### REQUISITOS
 
@@ -2995,7 +2995,7 @@ b) Obs.: Procurar fazê-los dando o melhor acabamento possível.
 
 | EN  | Reciclagem e sustentabilidade - avançado |             |                                                       |  |
 |-----|------------------------------------------|-------------|-------------------------------------------------------|--|
-| 093 | <b>Nível</b>                             | Ano<br>2012 | Instituição de origem<br><b>Divisão Sul Americana</b> |  |
+| 093 | Nível                             | Ano<br>2012 | Instituição de origem<br>Divisão Sul Americana |  |
 
 ### REQUISITOS
 

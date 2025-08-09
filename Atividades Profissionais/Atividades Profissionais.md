@@ -1,25 +1,25 @@
 ![](_page_0_Picture_0.jpeg)
 
-| <b>Especialidade</b>           | Ano  | Código    | Número |
+| Especialidade           | Ano  | Código    | Número |
 |--------------------------------|------|-----------|--------|
-| Conserto de sapatos            | 1928 | <b>AP</b> | 001    |
+| Conserto de sapatos            | 1928 | AP | 001    |
 | Fotografia                     | 1928 | AP        | 002    |
 | Mecânica automotiva            | 1928 | AP        | 003    |
 | Radioamadorismo                | 1928 | AP        | 004    |
-| <b>Datilografia</b>            | 1929 | AP        | 005    |
+| Datilografia            | 1929 | AP        | 005    |
 | Eletricidade                   | 1929 | AP        | 006    |
 | Carpintaria                    | 1929 | AP        | 007    |
 | Corte e costura                | 1929 | AP        | 008    |
-| <b>Taquigrafia</b>             | 1929 | AP        | 009    |
+| Taquigrafia             | 1929 | AP        | 009    |
 | Tipografia                     | 1929 | AP        | 010    |
-| <b>Marcenaria</b>              | 1934 | AP        | 011    |
+| Marcenaria              | 1934 | AP        | 011    |
 | Encadernação                   | 1935 | AP        | 012    |
-| <b>Alvenaria</b>               | 1937 | AP        | 013    |
-| <b>Barbearia</b>               | 1938 | AP        | 014    |
+| Alvenaria               | 1937 | AP        | 013    |
+| Barbearia               | 1938 | AP        | 014    |
 | Colocação de papel de parede   | 1938 | AP        | 015    |
 | Contabilidade                  | 1938 | AP        | 016    |
-| Evangelismo                    | 1938 | <b>AP</b> | 017    |
-| <b>Hidráulica</b>              | 1938 | AP        | 018    |
+| Evangelismo                    | 1938 | AP | 017    |
+| Hidráulica              | 1938 | AP        | 018    |
 | Jornalismo                     | 1938 | AP        | 019    |
 | Ofício de alfaiate             | 1938 | AP        | 020    |
 | Pintura de paredes exteriores  | 1938 | AP        | 021    |
@@ -34,20 +34,20 @@
 | Serviço rádio do cidadão       |      | AP        | 030    |
 | Soldagem                       | 1978 | AP        | 031    |
 | Produção de vídeo              | L    | AP        | 032    |
-| <b>Vendas</b>                  | 2001 | AP        | 033    |
+| Vendas                  | 2001 | AP        | 033    |
 | Internet                       | 2007 | AP        | 034    |
 | Internet - avançado            |      | AP        | 035    |
 | Silvicultura                   | 2008 | AP        | 036    |
 | Administração                  | 2012 | AP        | 037    |
 | Bandeiras náuticas             | 2012 | AP        | 038    |
-| <b>Blogs</b>                   | 2012 | AP        | 039    |
-| <b>Biblioteconomia</b>         | 2012 | AP        | 040    |
+| Blogs                   | 2012 | AP        | 039    |
+| Biblioteconomia         | 2012 | AP        | 040    |
 | Computação I - básico          | 1986 | AP        | 041    |
 | Computação II - médio          | 1991 | AP        | 042    |
 | Computação III - regular       | 2012 | AP        | 043    |
 | Computação IV - avançado       | 2012 | AP        | 044    |
 
-| <b>Especialidade</b>                  | Ano  | Código    | Número |
+| Especialidade                  | Ano  | Código    | Número |
 |---------------------------------------|------|-----------|--------|
 | Computação V - especialista           | 2012 | AP        | 045    |
 | Código semafórico                     | 1953 | AP        | 046    |
@@ -55,7 +55,7 @@
 | Cuidados e manutenção de violões      | 2012 | AP        | 048    |
 | Desenvolvimento de software           | 2012 | AP        | 049    |
 | Eletrônica                            | 2012 | AP        | 050    |
-| Intérprete de língua de sinais        | 2012 | <b>AP</b> | 051    |
+| Intérprete de língua de sinais        | 2012 | AP | 051    |
 | Informática programável               | 2012 | AP        | 052    |
 | Manutenção de bicicletas              | 2012 | AP        | 053    |
 | Marketing                             | 2012 | AP        | 054    |
@@ -70,9 +70,9 @@
 | Web designer - básico                 | 2012 | AP        | 063    |
 | Web designer – avançado               | 2012 | AP        | 064    |
 
-| <b>AP</b> |              |             | <b>Conserto de sapatos</b>                       |  |
+| AP |              |             | Conserto de sapatos                       |  |
 |-----------|--------------|-------------|--------------------------------------------------|--|
-| 001       | <b>Nível</b> | Ano<br>1928 | Instituição de origem<br><b>Associação Geral</b> |  |
+| 001       | Nível | Ano<br>1928 | Instituição de origem<br>Associação Geral |  |
 
 1. Mencionar, pelo menos, 5 partes essenciais de um sapato e explicar suas utilidades. 2. Citar 3 diferentes tipos de solado de sapato. Qual o mais fácil para consertar? 3. Encerar uma linha e, com 2 agulhas ou pontas enceradas, consertar um par de sapatos que esteja esgarçado. Usar o método de ponto duplo para costurar o couro. 4. Fazer um molde de papel para meia-sola e usá-lo para cortar meias-solas de couro ou composição de borracha para um par de sapatos.
 
@@ -334,9 +334,9 @@ b) Uma blusa. Explicar como faria para ajustar os ombros para pessoas de diferen
 
 | a) Degoladura         | n) Gravação                |
 |-----------------------|----------------------------|
-| <b>b)</b> Negrito     | o) Padrão                  |
+| b) Negrito     | o) Padrão                  |
 | c) Cabeçalho          | p) Registro                |
-| <b>d)</b> Fonte       | q) Termografia             |
+| d) Fonte       | q) Termografia             |
 | e) Entalho            | r) Marca d'água            |
 | f) Acabamento         | s) Realçar                 |
 | g) Negativo           | t) Impressão               |
@@ -345,7 +345,7 @@ b) Uma blusa. Explicar como faria para ajustar os ombros para pessoas de diferen
 | j) Separação de cores | w) Desgravação             |
 | k) Contato            | x) Gravação (alto relevo)  |
 | I) Baixo relevo       | y) Gravação (baixo relevo) |
-| <b>m)</b> Alto relevo |                            |
+| m) Alto relevo |                            |
 |                       |                            |
 
 - 7. Saber a diferença entre meios tons, duplos tons e o processo de 4 cores.
@@ -1262,7 +1262,7 @@ g) JPEG
 
  $a)$  <html> </html>
 
-| <b>b</b> ) <head> </head> | $h)$<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                |
+| b ) <head> </head> | $h)$<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                |
 |---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
 | $c)$<br>body>             | $i)$ <img src="name /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;d&lt;/b&gt;) &lt;math&gt;3 2 3 4 4 5 5 6 6 6 7 8 9 9 1 9 1 9 1 9 1 9 1 9 1 9 1 9 1 9 1&lt;/b&lt;/math&gt;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;math&gt;j&lt;/math&gt;) &lt;hr &gt; &lt;/ hr &gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;e) &lt;math&gt;\langle i \rangle \langle i \rangle&lt;/math&gt;&lt;/td&gt;&lt;td&gt;&lt;math&gt;k&lt;/math&gt;) &lt;table&gt; &lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;f) &lt;a href=" url"=""/> | $I$ <tr> </tr> |
 |                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                |

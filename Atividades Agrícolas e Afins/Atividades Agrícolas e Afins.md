@@ -1,12 +1,12 @@
 ![](_page_0_Picture_0.jpeg)
 
-| <b>Especialidade</b>                 | Ano    | Código | Número |
+| Especialidade                 | Ano    | Código | Número |
 |--------------------------------------|--------|--------|--------|
-| <b>Avicultura</b>                    | 1928   | AA     | 001    |
+| Avicultura                    | 1928   | AA     | 001    |
 | Jardinagem e horticultura            | 1928   | AA     | 002    |
 | Agricultura familiar de subsistência |        | AA     | 003    |
 | Apicultura                           | 1929   | AA     | 004    |
-| <b>Agricultura</b>                   | 1929   | AA     | 005    |
+| Agricultura                   | 1929   | AA     | 005    |
 | Pescaria                             | $\sim$ | AA     | 006    |
 | Criação de gado leiteiro             | 1929   | AA     | 007    |
 | Pomicultura                          | 1929   | AA     | 008    |
@@ -22,7 +22,7 @@
 
 1. Ter a especialidade de Aves domésticas.
 
-|                | <b>2.</b> Identificar, por meio de imagens, e conhecer de forma geral o uso de:           |
+|                | 2. Identificar, por meio de imagens, e conhecer de forma geral o uso de:           |
 |----------------|-------------------------------------------------------------------------------------------|
 | a) Incubadoras | d) Bebedouros                                                                             |
 | b) Poleiros    | e) Comedouros                                                                             |
@@ -296,7 +296,7 @@ f) Período seco
 
 | a) Concentrados           | e) Lactação                     |
 |---------------------------|---------------------------------|
-| <b>b</b> ) Proteína bruta | f) Ciclo ou período de lactação |
+| b ) Proteína bruta | f) Ciclo ou período de lactação |
 | c) Seleção                | g) Ocitocina                    |
 | d) Período seco           | h) Cio                          |
 |                           |                                 |
@@ -323,7 +323,7 @@ f) Período seco
 
 | a) Abacateiro        | h) Limoeiro                                 |
 |----------------------|---------------------------------------------|
-| <b>b</b> ) Ameixeira | i) Macieira                                 |
+| b ) Ameixeira | i) Macieira                                 |
 | c) Bananeira         | j) Mamoeiro                                 |
 | d) Cajazeira         | k) Mangueira                                |
 | e) Coqueiro          | I) Pereira                                  |

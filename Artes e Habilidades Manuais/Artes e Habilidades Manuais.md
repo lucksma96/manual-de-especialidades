@@ -1,30 +1,30 @@
 ![](_page_0_Picture_0.jpeg)
 
-| <b>Especialidade</b>                       | Ano  | Código    | Número |  |
+| Especialidade                       | Ano  | Código    | Número |  |
 |--------------------------------------------|------|-----------|--------|--|
-| Automodelismo                              | 1928 | <b>HM</b> | 001    |  |
+| Automodelismo                              | 1928 | HM | 001    |  |
 | Trabalhos com agulha                       | 1928 | HM        | 002    |  |
-| Desenho e pintura                          | 1929 | <b>HM</b> | 003    |  |
+| Desenho e pintura                          | 1929 | HM | 003    |  |
 | Música - básico                            | 1929 | HM        | 004    |  |
-| Música - intermediário                     |      | <b>HM</b> | 005    |  |
+| Música - intermediário                     |      | HM | 005    |  |
 | Música - avançado                          |      | HM        | 006    |  |
 | Letreiros e cartazes                       | 1933 | HM        | 007    |  |
 | Cestaria                                   | 1937 | HM        | 008    |  |
-| <b>Trabalhos em metal</b>                  | 1937 | HM        | 009    |  |
+| Trabalhos em metal                  | 1937 | HM        | 009    |  |
 | Arte de oleiro                             | 1938 | HM        | 010    |  |
-| Entalhe em madeira                         | 1938 | <b>HM</b> | 011    |  |
+| Entalhe em madeira                         | 1938 | HM | 011    |  |
 | Ornamentação com flores                    | 1938 | HM        | 012    |  |
-| Pintura em vidro                           | 1938 | <b>HM</b> | 013    |  |
+| Pintura em vidro                           | 1938 | HM | 013    |  |
 | Tecelagem                                  | 1938 | HM        | 014    |  |
-| Trabalhos em madeira                       | 1938 | <b>HM</b> | 015    |  |
+| Trabalhos em madeira                       | 1938 | HM | 015    |  |
 | Aeromodelismo                              | 1944 | HM        | 016    |  |
-| Cultura indígena                           | 1944 | <b>HM</b> | 017    |  |
+| Cultura indígena                           | 1944 | HM | 017    |  |
 | Escultura                                  | 1945 | HM        | 018    |  |
-| Xilogravura                                | 1945 | <b>HM</b> | 019    |  |
+| Xilogravura                                | 1945 | HM | 019    |  |
 | Cerâmica                                   | 1956 | HM        | 020    |  |
-| Pintura em tecido                          | 1956 | <b>HM</b> | 021    |  |
+| Pintura em tecido                          | 1956 | HM | 021    |  |
 | Trabalhos em feltro                        | 1956 | HM        | 022    |  |
-| <b>Trabalhos em acrílico</b>               | 1961 | <b>HM</b> | 023    |  |
+| Trabalhos em acrílico               | 1961 | HM | 023    |  |
 | Modelagem e fabricação de sabão            | 1964 | HM        | 024    |  |
 | Modelagem e fabricação de sabão - avançado | 1964 | HM        | 025    |  |
 | Arte de fazer esteiras                     |      | HM        | 026    |  |
@@ -34,20 +34,20 @@
 | Lapidação                                  | 1967 | HM        | 030    |  |
 | Modelagem em gesso                         | 1967 | HM        | 031    |  |
 | Trabalhos em couro                         | 1967 | HM        | 032    |  |
-| Crochê                                     | 1970 | <b>HM</b> | 033    |  |
+| Crochê                                     | 1970 | HM | 033    |  |
 | Crochê - avançado                          | 1970 | HM        | 034    |  |
-| Espaçomodelismo                            | 1970 | <b>HM</b> | 035    |  |
+| Espaçomodelismo                            | 1970 | HM | 035    |  |
 | Espaçomodelismo - avançado                 | 1970 | HM        | 036    |  |
-| <b>Tricô</b>                               | 1970 | <b>HM</b> | 037    |  |
+| Tricô                               | 1970 | HM | 037    |  |
 | Tricô - avançado                           | 1970 | HM        | 038    |  |
 
-| <b>Especialidade</b>                       | Ano  | Código    | Número |
+| Especialidade                       | Ano  | Código    | Número |
 |--------------------------------------------|------|-----------|--------|
-| Trabalhos em vidro                         | 1970 | <b>HM</b> | 039    |
+| Trabalhos em vidro                         | 1970 | HM | 039    |
 | Arte de trançar                            | 1972 | HM        | 040    |
-| Arte de trançar - avançado                 | 1972 | <b>HM</b> | 041    |
+| Arte de trançar - avançado                 | 1972 | HM | 041    |
 | Decoração de bolos                         | 1972 | HM        | 042    |
-| Esmaltado em cobre                         | 1972 | <b>HM</b> | 043    |
+| Esmaltado em cobre                         | 1972 | HM | 043    |
 | Esmaltado em cobre - avançado              | 1972 | HM        | 044    |
 | Estofamento                                | ٠    | HM        | 045    |
 | Fabricação de velas                        | 1972 | HM        | 046    |
@@ -56,18 +56,18 @@
 | Arte com barbante                          | 1975 | HM        | 049    |
 | Decoupage                                  | 1975 | HM        | 050    |
 | Macramê                                    | 1975 | HM        | 051    |
-| <b>Telhados</b>                            |      | HM        | 052    |
-| Cultura Indígena - avançado                | 1976 | <b>HM</b> | 053    |
+| Telhados                            |      | HM        | 052    |
+| Cultura Indígena - avançado                | 1976 | HM | 053    |
 | Bordado em ponto cruz                      | 1976 | HM        | 054    |
-| <b>Biscuit</b>                             | 1976 | <b>HM</b> | 055    |
+| Biscuit                             | 1976 | HM | 055    |
 | Patchwork                                  | 1976 | HM        | 056    |
-| Nautimodelismo                             | 1977 | <b>HM</b> | 057    |
+| Nautimodelismo                             | 1977 | HM | 057    |
 | Trabalhos em couro - avançado              | 1977 | HM        | 058    |
-| Gravuras em vidro                          | 1997 | <b>HM</b> | 059    |
+| Gravuras em vidro                          | 1997 | HM | 059    |
 | Origami                                    | 1997 | HM        | 060    |
 | Corrida de carrinhos de madeira            | 1999 | HM        | 061    |
 | Corrida de carrinhos de madeira - avançado | 1999 | HM        | 062    |
-| Scrapbooking                               | 2004 | <b>HM</b> | 063    |
+| Scrapbooking                               | 2004 | HM | 063    |
 | Scrapbooking - avançado                    | 2004 | HM        | 064    |
 | Fotografia digital                         | 2006 | HM        | 065    |
 | Genealogia                                 | 2006 | HM        | 066    |
@@ -75,26 +75,26 @@
 | Quilling                                   | 2006 | HM        | 068    |
 | Quilling - avançado                        | 2006 | HM        | 069    |
 | Tie-dye                                    | 2006 | HM        | 070    |
-| <b>Apitos</b>                              | 2007 | HM        | 071    |
+| Apitos                              | 2007 | HM        | 071    |
 | Apitos - avançado                          | 2007 | HM        | 072    |
 | Faróis                                     | 2007 | HM        | 073    |
 | Faróis - avançado                          | 2007 | HM        | 074    |
 | Balões de ar quente                        | 2008 | HM        | 075    |
 | Origami - avançado                         | 2012 | HM        | 076    |
 
-| <b>Especialidade</b>   | Ano  | Código    | Número |
+| Especialidade   | Ano  | Código    | Número |
 |------------------------|------|-----------|--------|
-| Embalagem              | 2012 | <b>HM</b> | 077    |
+| Embalagem              | 2012 | HM | 077    |
 | E.V.A.                 | 2012 | HM        | 078    |
-| Desenho vetorial       | 2012 | <b>HM</b> | 079    |
+| Desenho vetorial       | 2012 | HM | 079    |
 | Fuxico                 | 2012 | HM        | 080    |
-| História em quadrinhos | 2012 | <b>HM</b> | 081    |
+| História em quadrinhos | 2012 | HM | 081    |
 | Ornamentação           | 2012 | HM        | 082    |
-| Papercraft             | 2012 | <b>HM</b> | 083    |
+| Papercraft             | 2012 | HM | 083    |
 | Papel machê            |      | HM        | 084    |
-| Pirografia             | 2012 | <b>HM</b> | 085    |
+| Pirografia             | 2012 | HM | 085    |
 | Plastimodelismo        | 2012 | HM        | 086    |
-| Violão                 | 2012 | <b>HM</b> | 087    |
+| Violão                 | 2012 | HM | 087    |
 | Violão - avançado      | 2012 | HM        | 088    |
 
 ![](_page_3_Picture_0.jpeg)
@@ -1519,9 +1519,9 @@ b) Concluir o trabalho com enquadramento em torno do espelho com fita adesiva co
 
 6. Fazer um projeto em um copo, jarra, ou objeto oval.
 
-| <b>HM</b> | <b>Origami</b> |             |                                                  |  |
+| HM | Origami |             |                                                  |  |
 |-----------|----------------|-------------|--------------------------------------------------|--|
-| 060       | <b>Nível</b>   | Ano<br>1997 | Instituição de origem<br><b>Associação Geral</b> |  |
+| 060       | Nível   | Ano<br>1997 | Instituição de origem<br>Associação Geral |  |
 
 1. Definir o que é um origami. Conhecer sua história e desenvolvimento em diferentes países.
 
@@ -1535,13 +1535,13 @@ b) Concluir o trabalho com enquadramento em torno do espelho com fita adesiva co
 |-------------------------------------------------|---------------------------------------------------------------------------------------------|
 | b) Dobrar e desdobrar                           | i) Vinco                                                                                    |
 | c) Dobrar para trás                             | j) Segurar aqui                                                                             |
-| <b>d</b> ) Dobrar para dentro                   | k) Soprar                                                                                   |
+| d ) Dobrar para dentro                   | k) Soprar                                                                                   |
 | e) Linha do vale                                | I) Abrir                                                                                    |
 | f) Linha da montanha                            | m) Dobrar em cima da dobra                                                                  |
 | g) Frente                                       | n) Girar                                                                                    |
 |                                                 | 5. Explicar a importância e utilidade das bases ou formas básicas. Demonstrar as seguintes: |
-| a) Base quadrada                                | <b>d</b> ) Base de pássaro                                                                  |
-| <b>b</b> ) Base de peixe                        | e) Base de sapo                                                                             |
+| a) Base quadrada                                | d ) Base de pássaro                                                                  |
+| b ) Base de peixe                        | e) Base de sapo                                                                             |
 | c) Base de balão                                |                                                                                             |
 |                                                 | 6. Dobrar os seguintes modelos a partir de diagramas ou escolher modelos semelhantes:       |
 | a) Tsuru                                        | g) Barco à vela                                                                             |
@@ -1572,7 +1572,7 @@ b) Concluir o trabalho com enquadramento em torno do espelho com fita adesiva co
 |                                     | 3. Saber usar as seguintes ferramentas com segurança, para a construção do seu       |
 | projeto.                            |                                                                                      |
 | a) Serra                            |                                                                                      |
-| <b>b</b> ) Grosa de madeira         |                                                                                      |
+| b ) Grosa de madeira         |                                                                                      |
 | c) Lixadeira                        |                                                                                      |
 | d) Lixa para acabamento             |                                                                                      |
 | e) Plaina                           |                                                                                      |
@@ -1580,7 +1580,7 @@ b) Concluir o trabalho com enquadramento em torno do espelho com fita adesiva co
 | g) Formão                           |                                                                                      |
 |                                     | 4. Conhecer os passos básicos na construção de um carro:                             |
 | a) Projeto                          |                                                                                      |
-| <b>b</b> ) Transferência do projeto |                                                                                      |
+| b ) Transferência do projeto |                                                                                      |
 | c) Construção do carro              |                                                                                      |
 | d) Eixos e rodas                    |                                                                                      |
 | e) Adicionando peso                 |                                                                                      |
