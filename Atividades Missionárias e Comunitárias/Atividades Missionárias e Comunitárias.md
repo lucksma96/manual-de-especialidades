@@ -1,59 +1,65 @@
-![](_page_0_Picture_0.jpeg)
+# Atividades Missionárias e Comunitárias
 
-| Especialidade                            | Ano            | Código | Número               |
-| ---------------------------------------- | -------------- | ------ | -------------------- |
-| Arte de contar histórias cristãs         | 1928           | AM     | 001                  |
-| Arte em fantoches                        |                | AM     | 002                  |
-| Arte em fantoches - avançado             |                | AM     | 003                  |
-| Etnologia missionária                    | 1928           | AM     | 004                  |
-| Colportagem                              | 1938           | AM     | 005                  |
-| Cidadania cristã                         | 1938           | AM     | 006                  |
-| Estudo de línguas                        | 1938           | AM     | 007                  |
-| Evangelismo pessoal                      | 1938           | AM     | 008                  |
-| Liderança juvenil                        | 1945           | AM     | 009                  |
-| Testemunho juvenil                       | 1970           | AM     | 010                  |
-| Asseio e cortesia cristã                 | 1975           | AM     | 011                  |
-| Vida familiar                            | 1975           | AM     | 012                  |
-| Temperança                               | 1976           | AM     | 013                  |
-| Língua de sinais                         | 1978           | AM     | 014                  |
-| Mordomia                                 | 1986           | AM     | 015                  |
-| Aventuras com Cristo                     | 1989           | AM     | 016                  |
-| Aventuras com Cristo - avançado          | 1989           | AM     | 017                  |
-| Língua de sinais - avançado              | 1991           | AM     | 018                  |
-| Marcação bíblica                         |                | AM     | 019                  |
-| Marcação bíblica - avançado              |                | AM     | 020                  |
-| Pregador evangelista                     |                | AM     | 021                  |
-| Pregador evangelista - avançado          |                | AM     | 022                  |
-| Santuário                                | 2004           | AM     | 023                  |
-| Dramatização cristã                      | 2006           | AM     | 024                  |
-| Desfile com carros alegóricos            | 2009           | AM     | 025                  |
-| Desfile com carros alegóricos - avançado | 2009           | AM     | 026                  |
-| Pacificador                              | 2009           | AM     | 027                  |
-| Pacificador - avançado                   | 2009           | AM     | 028                  |
-| Adoração cristã                          | 2011           | AM     | 029                  |
-| Arte da pregação cristã                  | 2012           | AM     | 030                  |
-| Arte da pregação cristã - avançado       | 2012           | AM     | 031                  |
-| Arqueologia bíblica                      | 2012           | AM     | 032                  |
-| Cerimônias                               | 2012           | AM     | 033                  |
-| Braile                                   | 2012           | AM     | 034                  |
-| Criacionismo                             | 2012           | AM     | 035                  |
-| Criacionismo - avançado                  | 2012           | AM     | 036                  |
-| Espírito de profecia                     | 2012           | AM     | 037                  |
-| Escatologia                              | 2012           | AM     | 038                  |
-| Historiador eclesiástico                 | 2012           | AM     | 039                  |
-| Evangelismo web                          | 2012           | AM     | 040                  |
-| Evangelismo web - avançado               | 2012           | AM     | 041                  |
-| Intercessor                              | 2012           | AM     | 042                  |
-| Pioneiros adventistas                    | 2012           | AM     | 043                  |
-| Patriotismo                              | 2012           | AM     | 044                  |
-| Sonoplastia                              | 2012           | AM     | 045                  |
-| Sonoplastia - avançado                   | 2012           | AM     | 046                  |
-| Investigador Bíblico I                   | 2012           | AM     | 047                  |
-| Boa conduta escolar                      | 2012           | AM     | 048                  |
+![Atividades Missionárias e Comunitárias](_page_0_Picture_0.jpeg)
 
-| AM  | Arte de contar histórias cristãs |             |                                           |  |
-|-----|----------------------------------|-------------|-------------------------------------------|--|
-| 001 | Nível                            | Ano<br>1928 | Instituição de origem<br>Associação Geral |  |
+| Especialidade                            |  Ano  | Código | Número |
+| ---------------------------------------- | :---: | :----: | :----: |
+| Arte de contar histórias cristãs         | 1928  |   AM   |  001   |
+| Arte em fantoches                        |  --   |   AM   |  002   |
+| Arte em fantoches - avançado             |  --   |   AM   |  003   |
+| Etnologia missionária                    | 1928  |   AM   |  004   |
+| Colportagem                              | 1938  |   AM   |  005   |
+| Cidadania cristã                         | 1938  |   AM   |  006   |
+| Estudo de línguas                        | 1938  |   AM   |  007   |
+| Evangelismo pessoal                      | 1938  |   AM   |  008   |
+| Liderança juvenil                        | 1945  |   AM   |  009   |
+| Testemunho juvenil                       | 1970  |   AM   |  010   |
+| Asseio e cortesia cristã                 | 1975  |   AM   |  011   |
+| Vida familiar                            | 1975  |   AM   |  012   |
+| Temperança                               | 1976  |   AM   |  013   |
+| Língua de sinais                         | 1978  |   AM   |  014   |
+| Mordomia                                 | 1986  |   AM   |  015   |
+| Aventuras com Cristo                     | 1989  |   AM   |  016   |
+| Aventuras com Cristo - avançado          | 1989  |   AM   |  017   |
+| Língua de sinais - avançado              | 1991  |   AM   |  018   |
+| Marcação bíblica                         |  --   |   AM   |  019   |
+| Marcação bíblica - avançado              |  --   |   AM   |  020   |
+| Pregador evangelista                     |  --   |   AM   |  021   |
+| Pregador evangelista - avançado          |  --   |   AM   |  022   |
+| Santuário                                | 2004  |   AM   |  023   |
+| Dramatização cristã                      | 2006  |   AM   |  024   |
+| Desfile com carros alegóricos            | 2009  |   AM   |  025   |
+| Desfile com carros alegóricos - avançado | 2009  |   AM   |  026   |
+| Pacificador                              | 2009  |   AM   |  027   |
+| Pacificador - avançado                   | 2009  |   AM   |  028   |
+| Adoração cristã                          | 2011  |   AM   |  029   |
+| Arte da pregação cristã                  | 2012  |   AM   |  030   |
+| Arte da pregação cristã - avançado       | 2012  |   AM   |  031   |
+| Arqueologia bíblica                      | 2012  |   AM   |  032   |
+| Cerimônias                               | 2012  |   AM   |  033   |
+| Braile                                   | 2012  |   AM   |  034   |
+| Criacionismo                             | 2012  |   AM   |  035   |
+| Criacionismo - avançado                  | 2012  |   AM   |  036   |
+| Espírito de profecia                     | 2012  |   AM   |  037   |
+| Escatologia                              | 2012  |   AM   |  038   |
+| Historiador eclesiástico                 | 2012  |   AM   |  039   |
+| Evangelismo web                          | 2012  |   AM   |  040   |
+| Evangelismo web - avançado               | 2012  |   AM   |  041   |
+| Intercessor                              | 2012  |   AM   |  042   |
+| Pioneiros adventistas                    | 2012  |   AM   |  043   |
+| Patriotismo                              | 2012  |   AM   |  044   |
+| Sonoplastia                              | 2012  |   AM   |  045   |
+| Sonoplastia - avançado                   | 2012  |   AM   |  046   |
+| Investigador Bíblico I                   | 2012  |   AM   |  047   |
+| Boa conduta escolar                      | 2012  |   AM   |  048   |
+
+## Arte de contar histórias cristãs
+
+| AM  | Arte de contar histórias cristãs |             |                                           |
+|-----|----------------------------------|-------------|-------------------------------------------|
+| 001 | Nível                            | Ano<br>1928 | Instituição de origem<br>Associação Geral |
+
+### REQUISITOS
 
 1. Citar a fonte bibliográfica e contar uma história para cada uma das categorias abaixo:
     1. História Bíblica.
@@ -82,7 +88,9 @@
 6. Identificar, em uma das histórias criadas do item 3, as partes que compõe uma boa história (começo - introdução, meio, clímax e fim - conclusão) através de um esboço. Entregar por escrito.
 7. Obter, para sua coleção particular, um livro com ilustrações para sermões.
 
-![](_page_3_Figure_2.jpeg)
+## Artes em fantoches
+
+![Artes em fantoches](_page_3_Figure_2.jpeg)
 
 ### REQUISITOS
 
@@ -92,7 +100,11 @@
 4. Fazer, pelo menos, 3 apresentações dos roteiros acima a qualquer público (não pode ser amigos ou familiares).
 5. Ser avaliado, em cada apresentação, por um dos telespectadores. Este avaliador não pode ser familiar ou amigo direto do marionista.
 
-![](_page_4_Picture_0.jpeg)
+## Artes em fantoches - avançado
+
+![Artes em fantoches - avançado](_page_4_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Ter a especialidade de Arte em fantoches.
 2. Acrescentar à sua coleção, pelo menos, mais 2 fantoches diferentes.
@@ -101,7 +113,9 @@
 5. Construir um cenário para encenação dos fantoches.
 6. Fazer, pelo menos, uma encenação na igreja ou para outro público.
 
-![](_page_4_Figure_8.jpeg)
+## Etnologia missionária
+
+![Etnologia missionária](_page_4_Figure_8.jpeg)
 
 ### REQUISITOS
 
@@ -131,7 +145,9 @@
     10. Identificar, pelo menos, 5 coisas (alimentos, costumes, vestimentas, hábitos, etc.) que nossa cultura tem similar à do entrevistado e, pelo menos, 5 diferentes. Qual sua atitude ou sentimentos para com pessoas de culturas diferentes? Como estas descobertas afetou você? O que você sente sobre estas diferenças?
 6. Comparar a sua língua materna com a língua materna do grupo estudado. Qual a origem de cada uma? Há alguma semelhança de estrutura gramatical? Aprender a falar algumas frases nesta língua, adquirindo um vocabulário de, no mínimo, 100 palavras.
 
-![](_page_5_Figure_5.jpeg)
+## Colportagem
+
+![Colportagem](_page_5_Figure_5.jpeg)
 
 ### REQUISITOS
 
@@ -212,7 +228,9 @@ Participar de uma campanha de colportagem estudantil ou, pelo menos, 3 meses em 
 15. Descrever o que você pode fazer como cidadão para ajudar sua igreja e seu país.
 16. Pesquisar e explicar quais são os requisitos para um estrangeiro conseguir a cidadania em seu país.
 
-![](_page_7_Figure_11.jpeg)
+## Estudo de línguas
+
+![Estudo de línguas](_page_7_Figure_11.jpeg)
 
 ### REQUISITOS
 
@@ -225,7 +243,11 @@ Participar de uma campanha de colportagem estudantil ou, pelo menos, 3 meses em 
 
 > Observação: Depois que tiver escolhido uma língua estrangeira, obtenha um livro adequado para o aprendizado desta língua, e estude-o com profundidade. É claro que é melhor estudar línguas sob a instrução de um professor competente, numa escola ou curso.
 
-![](_page_8_Picture_0.jpeg)
+## Evangelismo pessoal
+
+![Evangelismo pessoal](_page_8_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Levar uma pessoa ao batismo através do Estudo Bíblico.
 2. Ter uma coleção de 5 estudos bíblicos, em papel ou com recursos audiovisuais, que podem ser usados na pregação bíblica.
@@ -271,9 +293,13 @@ Participar de uma campanha de colportagem estudantil ou, pelo menos, 3 meses em 
           - Programa: Adote um Avô / Avó (em asilos).
           - Projeto semelhante com aprovação de seu diretor de Desbravadores.
 
-![](_page_9_Picture_0.jpeg)
+## Liderança juvenil
 
-Pré-requisitos: Ser um líder de desbravadores investido ou estar cursando a classe de líder. Ter, no mínimo, 16 anos completos.
+![Liderança juvenil](_page_9_Picture_0.jpeg)
+
+### REQUISITOS
+
+#### **Pré-requisitos: Ser um líder de desbravadores investido ou estar cursando a classe de líder. Ter, no mínimo, 16 anos completos.**
 
 1. Se envolver diretamente em um dos seguintes departamentos da Igreja por, no mínimo, 1 ano, em um cargo de liderança ou de associado:
    1. Ministério Jovem (Jovens, Música, Sonoplastia, participação em um dos conjuntos musicais da Igreja ou liderar/associado do Ministério de Louvor da sua Igreja)
@@ -300,7 +326,11 @@ Pré-requisitos: Ser um líder de desbravadores investido ou estar cursando a cl
    > Citar fonte de pesquisa.
 8. Pesquisar nos escritos do Espírito de Profecia, pelo menos, 10 citações a respeito de disciplina, educação, crescimento etc. de grupos de Juvenis e Adolescentes, que fazem parte de nosso Clube.
 
-![](_page_10_Picture_0.jpeg)
+## Testemunho juvenil
+
+![Testemunho juvenil](_page_10_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Trazer para um Culto da Igreja ou Escola Sabatina pelo menos 5 pessoas de seu círculo de amizade da escola, vizinhos, amigos e filhos de seus pais ou irmãos. 2. Inscrever durante o ano em que está cumprindo essa especialidade pelo menos 2 amigos no Clube de Desbravadores, que permaneçam no clube por, pelo menos, 1 ano. 3. Com seu Clube ou Unidade:
    1. Participar de 2 atividades missionárias de distribuição de folhetos
@@ -323,7 +353,9 @@ Pré-requisitos: Ser um líder de desbravadores investido ou estar cursando a cl
 5. Completar o Estudo Bíblico da sua Classe Bíblica de Juvenis.
 6. Ter a sua Lição da Escola Sabatina do ano e estudá-la regularmente.
 
-![](_page_10_Figure_22.jpeg)
+## Asseio e cortesia cristã
+
+![Asseio e cortesia cristã](_page_10_Figure_22.jpeg)
 
 ### REQUISITOS
 
@@ -390,9 +422,12 @@ Pré-requisitos: Ser um líder de desbravadores investido ou estar cursando a cl
 7. Fazer uma lista de atividades familiares que você acha que sua família gostaria. Fazer pelo menos uma dessas atividades em cumprimento da especialidade.
 8. Durante 1 mês, com o máximo possível de membros de sua família, criar uma rotina para o Culto Familiar, Matutino (pela manhã) ou Vespertino (à tarde ou noite), assim
 como os Cultos de Pôr-do-sol de Sexta Feira.
-9. Mencionar 5 maneiras de demonstrar atenção, interação e interesse por seus vizinhos. Colocar uma dessas maneiras em prática. Fazer um relatório do resultado. 10. Cite pelo menos 5 atividades sabáticas que podem ser realizadas por sua família que estejam de acordo com o Bíblia. Se possível, realizar pelo menos uma dessas atividades e relatar o resultado.
+9. Mencionar 5 maneiras de demonstrar atenção, interação e interesse por seus vizinhos. Colocar uma dessas maneiras em prática. Fazer um relatório do resultado.
+10. Cite pelo menos 5 atividades sabáticas que podem ser realizadas por sua família que estejam de acordo com o Bíblia. Se possível, realizar pelo menos uma dessas atividades e relatar o resultado.
 
-![](_page_12_Figure_2.jpeg)
+## Temperança
+
+![Temperança](_page_12_Figure_2.jpeg)
 
 ### REQUISITOS
 
@@ -459,7 +494,11 @@ como os Cultos de Pôr-do-sol de Sexta Feira.
    6. Você fosse a uma festa com um amigo, ele ficasse bêbado e insistisse em dirigir na hora de voltar para casa?
 7. Pesquise sobre as leis anti-fumo e anti-álcool criadas pelo governo do seu país. Faça um pequeno relatório sobre sua pesquisa.
 
-![](_page_14_Picture_0.jpeg)
+## Língua de sinais
+
+![Língua de sinais](_page_14_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Aprender e demonstrar ao seu instrutor o alfabeto (letras e números) da língua de sinais do seu país.
 2. Ter, no mínimo, cinco horas de aula da língua de sinais do seu país, ministradas por um instrutor fluente nela.
@@ -471,7 +510,9 @@ como os Cultos de Pôr-do-sol de Sexta Feira.
    2. Saber e explicar a diferença entre surdo e deficiente auditivo.
    3. Visite uma escola de ensino fundamental que trabalhe com surdos e perqunte como funciona o sistema de inclusão do aluno surdo.
 
-![](_page_14_Figure_10.jpeg)
+## Mordomia
+
+![Mordomia](_page_14_Figure_10.jpeg)
 
 ### REQUISITOS
 
@@ -538,7 +579,11 @@ como os Cultos de Pôr-do-sol de Sexta Feira.
    2. Auxilie durante 1 mês o Tesoureiro da sua Igreja nos seus trabalhos com a parte financeira da Igreja, ajudando ele no recolhimento ou distribuição dos talões de dízimo, na conferência das ofertas, nos trabalhos bancários etc. Peça a ele que faça uma declaração por escrito de como você o ajudou.
    3. Ajude a planejar durante um mês as finanças de sua família, as compras, pagamento de compras etc. Seu pai/mãe ou responsável deve dar uma declaração por escrita do que você os ajudou.
 
-![](_page_16_Picture_0.jpeg)
+## Aventuras com Cristo
+
+![Aventuras com Cristo](_page_16_Picture_0.jpeg)
+
+### REQUISITOS
 
 > Orientações: A especialidade deve ser cumprida por, pelo menos, 1 trimestre. Escolha uma data para começar e apenas os projetos iniciados após essa data valerão para o cumprimento desta especialidade.
 
@@ -564,7 +609,11 @@ como os Cultos de Pôr-do-sol de Sexta Feira.
    3. Envolver toda a família num projeto de testemunho, tal como dar estudos bíblicos, distribuir exemplares do Caminho a Cristo na comunidade, adotar uma família necessitada, fazer um projeto de trabalho para alguém de idade que precise de ajuda em casa.
    4. Envolver-se em alguma tragédia que tenha acontecido em sua comunidade, de forma a ajudar as pessoas que precisam de ajuda.
 
-![](_page_17_Picture_0.jpeg)
+## Aventuras com Cristo - avançado
+
+![Aventuras com Cristo - avançado](_page_17_Picture_0.jpeg)
+
+### REQUISITOS
 
 > Orientações: A especialidade deve ser cumprida por, pelo menos, 1 semestre. Escolha uma data para começar e apenas os projetos iniciados após essa data valerão para o cumprimento desta especialidade. Nenhuma atividade realizada para o cumprimento da especialidade de Aventuras com Cristo vale para esta especialidade.
 
@@ -581,7 +630,9 @@ como os Cultos de Pôr-do-sol de Sexta Feira.
 5. Participar de, pelo menos, 1 dos projetos do Ministério Jovem ou de outros Ministérios de sua Igreja, como projetos Calebe, Colportagem, Vida por Vidas, Mutirão de Natal, campanhas de conscientização sobre dengue, doenças, vida saudável, contra as drogas e etc., atividades do Ministério da Criança, Ministério do Adolescente, Ministério da Mulher, etc.
    > Apresentar fotos e relatório da atividade em que você se envolveu.
 
-![](_page_17_Figure_16.jpeg)
+## Língua de sinais - avançado
+
+![Língua de sinais - avançado](_page_17_Figure_16.jpeg)
 
 ### REQUISITOS
 
@@ -600,7 +651,11 @@ como os Cultos de Pôr-do-sol de Sexta Feira.
    2. As Bem-Aventuranças Mateus 5:3-12
    3. Os Dez Mandamentos Êxodo 20:3-17
 
-![](_page_18_Picture_0.jpeg)
+## Marcação bíblica
+
+![Marcação bíblica](_page_18_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Faça um relatório contendo:
    1. O nome de cinco métodos diferentes de marcar a Bíblia.
@@ -614,7 +669,9 @@ como os Cultos de Pôr-do-sol de Sexta Feira.
    1. Quais métodos você usaria para fazer um curso ou estudo devocional e por quê?
    2. Marque sua Bíblia para dois assuntos/temas usando este método, com no mínimo de 10 textos para cada assunto ou tema.
 
-![](_page_18_Figure_13.jpeg)
+## Marcação bíblica - avançado
+
+![Marcação bíblica - avançado](_page_18_Figure_13.jpeg)
 
 ### REQUISITOS
 
@@ -626,7 +683,11 @@ como os Cultos de Pôr-do-sol de Sexta Feira.
     2. Forneça uma chave para o entendimento da sua Bíblia marcada.
 5. Dê um estudo bíblico usando a sua Bíblia marcada.
 
-![](_page_19_Picture_0.jpeg)
+## Pregador evangelista
+
+![Pregador evangelista](_page_19_Picture_0.jpeg)
+
+### REQUISITOS
 
 > NOTA: Necessário o acompanhamento de um instrutor (pastor ou ancião).
 
@@ -693,7 +754,11 @@ como os Cultos de Pôr-do-sol de Sexta Feira.
 2. Qual o método de Cristo para discipular?
 3. Relacionar, pelo menos, 5 coisas que a igreja pode fazer para discipular um novo crente.
 
-![](_page_20_Picture_0.jpeg)
+## Pregador evangelista - avançado
+
+![Pregador evangelista - avançado](_page_20_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Ter a especialidade de Pregador evangelista.
 2. Participar de uma série evangelística:
@@ -701,7 +766,9 @@ como os Cultos de Pôr-do-sol de Sexta Feira.
    2. Pregar, pelo menos, 6 sermões nesta série de conferências.
 3. Ler as páginas 628 a 683 do livro Evangelismo, O trabalhador e suas qualificações, e fazer uma apresentação para um grupo que está cumprindo a especialidade de Pregador evangelista sobre o que você aprendeu.
 
-![](_page_20_Figure_7.jpeg)
+## Santuário
+
+![Santuário](_page_20_Figure_7.jpeg)
 
 ### REQUISITOS
 
@@ -730,7 +797,11 @@ como os Cultos de Pôr-do-sol de Sexta Feira.
 9. Quais animais eram trazidos diariamente ao pátio?
 10. Escreva um parágrafo ou descreva como Cristo era representado através do Santuário e seus serviços.
 
-![](_page_21_Picture_0.jpeg)
+## Dramatização cristã
+
+![Dramatização cristã](_page_21_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Durante o cumprimento desta especialidade, memorizar e aplicar os princípios contidos em 1 Coríntios 10:31.
 2. Descrever cada uma das seguintes categorias de Dramatização:
@@ -776,7 +847,11 @@ como os Cultos de Pôr-do-sol de Sexta Feira.
 7. A partir das dramatizações listadas no requisito 2, planejar e executar 2 das categorias em 2 dos seguintes ambientes: culto, igreja, acampamento, campori, reunião do clube.
 8. Como um grupo, criar uma nova dramatização e apresentá-la.
 
-![](_page_22_Picture_0.jpeg)
+## Desfile com carros alegóricos
+
+![Desfile com carros alegóricos](_page_22_Picture_0.jpeg)
+
+### REQUISITOS
 
 #### **Requer Instrutor.**
 
@@ -792,7 +867,9 @@ como os Cultos de Pôr-do-sol de Sexta Feira.
    2. Relatar com fotos e histórias para a igreja ou no programa da escola sabatina e para um clube de desbravadores.
 6. Memorizar Marcos 16:15 e discutir com um grupo como a especialidade Desfile com Carros Alegóricos ajuda a cumprir este mandamento bíblico.
 
-![](_page_22_Figure_14.jpeg)
+## Desfile com carros alegóricos - avançado
+
+![Desfile com carros alegóricos - avançado](_page_22_Figure_14.jpeg)
 
 ### REQUISITOS
 
@@ -809,9 +886,13 @@ como os Cultos de Pôr-do-sol de Sexta Feira.
    3. Estar envolvido na direção do desenvolvimento e criação de pelo menos uma parte do carro alegórico.
 5. Usar um carro alegórico em pelo menos dois desfiles. Um deles pode ser em uma feira de desbravadores ou algo equivalente.
 
-Observação: As diretrizes sobre gestão de segurança estão disponíveis no site oficial dos Desbravadores
+> Observação: As diretrizes sobre gestão de segurança estão disponíveis no site oficial dos Desbravadores
 
-![](_page_23_Picture_0.jpeg)
+## Pacificador
+
+![Pacificador](_page_23_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Identifique quatro causas de conflito descritas na bíblia. Leia as seguintes passagens como ponto de partida.
    1. Gálatas 2:11-14
@@ -832,7 +913,9 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
       3. Negociação
 3. Dramatizar uma situação de conflito ocorrida com você e analisar o seu comportamento na contradição e quais as opções de conciliação possíveis.
 
-![](_page_23_Figure_20.jpeg)
+## Pacificador - avançado
+
+![Pacificador - avançado](_page_23_Figure_20.jpeg)
 
 ### REQUISITOS
 
@@ -855,7 +938,11 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
       > **Observação:** as audiências do Juizado Especial Cível e das Varas Cíveis são abertas ao público. Para assisti-las basta conversar na secretaria da Vara ou com o chefe de gabinete.
    4. Atuar como conciliador voluntário em um Juizado Especial por, no mínimo, 6 meses.
 
-![](_page_24_Picture_0.jpeg)
+## Adoração cristã
+
+![Adoração cristã](_page_24_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Para ajudar a apreciar o caráter e a majestade do Deus cristão, discutir o que as escrituras dizem sobre os seguintes temas:
    1. O orgulho de Satanás, o conflito no céu, Satanás expulso do céu
@@ -894,7 +981,11 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
    3. Participar de uma equipe de louvor em sua igreja.
    4. Levar, pelo menos, 5 visitas aos cultos de sua igreja durante, pelo menos, 1 mês. (As visitas podem ser em cultos distintos, sempre mantendo um número de 5 visitas por semana).
 
-![](_page_25_Picture_0.jpeg)
+## Arte da pregação cristã
+
+![Arte da pregação cristã](_page_25_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Pesquisar sobre o que significa oratória:
    1. Citar sua fonte de pesquisa.
@@ -910,15 +1001,11 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
    2. Pregar em um culto da Igreja (entregar esboço do sermão)
    3. Em um evento que o Clube ou Igreja participe fora de sua cidade, apresentar uma breve meditação (entregar esboço)
 6. Saber descrever (breves palavras) o seguinte sobre um Sermão Cristão:
-
-#### Características:
-
+   > **Características:**
    1. Sermão Temático
    2. Sermão Expositivo
    3. Sermão Textual
-
-#### **Partes:**
-
+   > **Partes:**
    1. Introdução
    2. Apelo
    3. Conclusão
@@ -932,7 +1019,11 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
 9. Participar (ou ter participado) da lista de pregação de sua igreja (ou uma igreja do seu distrito) por, pelo menos, 1 ano, tendo pregado, pelo menos, quatro vezes nesse período.
 10. Obter, para sua coleção particular, um livro com ilustrações para sermões.
 
-![](_page_26_Picture_0.jpeg)
+## Arte da pregação cristã - avançado
+
+![Arte da pregação cristã - avançado](_page_26_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Ter as seguintes especialidades:
    1. Criacionismo
@@ -945,9 +1036,7 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
    4. NTLH
    5. Jerusalém
    6. VIVA
-
-#### Responda:
-
+   > Responda:
    1. Qual é a versão mais fiel ao original bíblico?
    2. Quais são as línguas originais da Bíblia?
    3. Cite pelo menos três versos que diferem grandemente o sentido nas versões pesquisadas acima. Procure saber qual é a tradução mais fiel ao texto original Bíblico.
@@ -973,7 +1062,11 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
    > Citar bibliografia.
 8. Ter uma Bíblia com referências, concordância e preferencialmente comentada. Manuseá-la adequadamente para seu orientador ou conselheiro.
 
-![](_page_27_Picture_0.jpeg)
+## Arqueologia bíblica
+
+![Arqueologia bíblica](_page_27_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Definir arqueologia, diferenciando-a da paleontologia.
 2. Defina os seguintes termos:
@@ -1012,7 +1105,11 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
     3. Os principais sítios arqueológicos
     4. Os principais pontos de visitação religiosa
 
-![](_page_28_Picture_0.jpeg)
+## Cerimônias
+
+![Cerimônias](_page_28_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. O que são cerimônias e quais as suas principais finalidades?
 2. Descrever as seguintes cerimônias de um Clube de Desbravadores:
@@ -1051,7 +1148,11 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
 12. Qual a função de um mestre de cerimônias?
 13. Explicar o significado do lema "uma cerimônia deve ser simples, breve e digna".
 
-![](_page_29_Picture_0.jpeg)
+## Braile
+
+![Braile](_page_29_Picture_0.jpeg)
+
+### REQUISITOS
 
 > NOTA: Necessário o acompanhamento de um instrutor qualificado e fluente em braile.
 
@@ -1069,7 +1170,9 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
 11. Escrever um pequeno cartão com uma mensagem bíblica para um deficiente visual.
 12. Discutir o evangelho contido em João 9 com o seu instrutor.
 
-![](_page_29_Figure_16.jpeg)
+## Criacionismo
+
+![Criacionismo](_page_29_Figure_16.jpeg)
 
 ### REQUISITOS
 
@@ -1094,7 +1197,7 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
     4. Do ponto de vista da astronomia, como o afastamento progressivo da Lua, em relação ao centro gravitacional da Terra (levando-se em conta o "limite de Roche") indica uma Terra (e Lua) jovem?
     5. Do ponto de vista da arqueologia, o que são fósseis de transição? Como a ausência deles argumenta em favor do criacionismo?
 
-#### Criacionismo - avançado
+## Criacionismo - avançado
 
 ### REQUISITOS
 
@@ -1126,7 +1229,9 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
     3. Apresentar 3 diferentes certificados de participação em encontros de cunho criacionista, com data inferior a 2 anos.
     4. Organizar um evento sobre criacionismo, com palestrante qualificado e reconhecido.
 
-![](_page_31_Figure_4.jpeg)
+## Espírito de Profecia
+
+![Espírito de Profecia](_page_31_Figure_4.jpeg)
 
 ### REQUISITOS
 
@@ -1157,7 +1262,11 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
 8. Como o estudo do Espírito de Profecia pode auxiliar no entendimento da Bíblia?
 9. Como Deus manifesta em seus servos o Espírito de Profecia?
 
-![](_page_32_Picture_0.jpeg)
+## Escatologia
+
+![Escatologia](_page_32_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Ler Mateus 24: 3 a 14. Após completar a leitura, fazer uma pesquisa encontrando, ao menos, 20 sinais que indicam a proximidade da 2ª vinda de Cristo acontecidos nos últimos 5 anos.
 2. Saber localizar na Bíblia, de memória, ao menos 5 passagens diferentes das encontradas nesta especialidade que apresentem promessas referentes à segunda vinda de Jesus.
@@ -1179,7 +1288,9 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
    4. Quem sabe o dia e hora exatos da volta de Jesus?
    5. Quais serão os primeiros sinais vistos no Céu, momentos antes da vinda de Jesus?
 
-![](_page_32_Figure_20.jpeg)
+## Historiador eclesiástico
+
+![Historiador eclesiástico](_page_32_Figure_20.jpeg)
 
 ### REQUISITOS
 
@@ -1225,7 +1336,9 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
 11. Participar de uma encenação sobre algum acontecimento peculiar na história dos pioneiros adventistas.
 12. Após todos os trabalhos serem realizados, discutir com seu instrutor o sentido de herança, legado, tradição e pertinência.
 
-![](_page_33_Figure_14.jpeg)
+## Evangelismo web
+
+![Evangelismo web](_page_33_Figure_14.jpeg)
 
 ### REQUISITOS
 
@@ -1307,7 +1420,9 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
 11. Fazer um relatório sobre suas experiências ao realizar os requisitos dessa especialidade. Citar os pontos positivos encontrados e observados. O que melhorou em sua vida durante esse período? Você gostaria de continuar intercedendo por outros? Por quê?
 12. Durante o período dessa especialidade, incluir em sua lista de oração os membros do grupo de oração intercessora que estão cumprindo a especialidade.
 
-![](_page_36_Figure_4.jpeg)
+## Pioneiros adventistas
+
+![Pioneiros adventistas](_page_36_Figure_4.jpeg)
 
 ### REQUISITOS
 
@@ -1329,7 +1444,11 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
 8. Descobrir como se iniciou o movimento adventista em seus pais. Dê especial atenção à atuação dos pioneiros no processo.
 9. Conheça as 28 Crenças Fundamentais da Igreja Adventista do Sétimo Dia e apresentar um relatório sobre sua importância. Apontar 2 textos bíblicos para cada uma das crenças fundamentais.
 
-![](_page_37_Picture_0.jpeg)
+## Patriotismo
+
+![Patriotismo](_page_37_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Descubrir a origem do nome e da língua oficial do seu país.
 2. Mencionar quem foram os primeiros habitantes do seu país e como a cultura deles influenciou sua nação.
@@ -1345,7 +1464,9 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
 12. Explicar a frase: "Estamos aqui neste mundo só de passagem, nossa verdadeira pátria está além rio".
 13. Citar 3 passagens bíblicas que retratem a pátria celeste.
 
-![](_page_37_Figure_15.jpeg)
+## Sonoplastia
+
+![Sonoplastia](_page_37_Figure_15.jpeg)
 
 ### REQUISITOS
 
@@ -1371,20 +1492,18 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
 12. Operar a mesa de som em, pelo menos, 2 programas, sob orientação do sonoplasta de sua igreja.
 13. Auxiliar a equipe de sonoplastia da sua Igreja por, ao menos, 3 meses.
 
-![](_page_38_Picture_0.jpeg)
+## Sonoplastia - avançado
+
+![Sonoplastia - avançado](_page_38_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Ter a especialidade de Sonoplastia.
-
 2. Ter um certificado de curso de sonoplastia de, no mínimo, 4 horas, ministrado por um profissional, com data inferior a 2 anos.
-
 3. Atuar como operador de áudio em sua igreja por, no mínimo, 6 meses.
-
 4. O que significa e qual a importância de observar a compatibilidade de potência dos componentes da aparelhagem de som?
-
 5. Listar 10 cuidados que devem ser seguidos para manter a aparelhagem de som em bom estado.
-
 6. Explicar o que causa e como é possível evitar a microfonia.
-
 7. Explicar a importância de utilizar músicas apropriadas para cada situação. Em seguida fazer uma lista com, no mínimo, 5 hinos congregacionais indicados para as seguintes ocasiões:
     1. Programa do Clube de Desbravadores
     2. Batismo
@@ -1403,7 +1522,9 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
     6. Efeito
 11. Explicar como utilizar corretamente diferentes tipos de microfone. Que cuidados devem ser observados quando guardados ou em uso?
 
-![](_page_38_Figure_21.jpeg)
+## Investigador Bíblico I
+
+![Investigador Bíblico I](_page_38_Figure_21.jpeg)
 
 ### REQUISITOS
 
@@ -1415,9 +1536,9 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
 
 Ter lido pelo menos um livro sobre histórias de personagens Bíblicos (sugestões: Belas Histórias da Bíblia, Vida de Jesus, Patriarcas e Profetas, Profetas e Reis, Vida de Jesus, Heróis do Passado Lições do Presente).
 
-| AM  | Boa conduta escolar |             |                                                |     |
-| --- | ------------------- | ----------- | ---------------------------------------------- | --- |
-| 048 | Nível 1             | Ano<br>2012 | Instituição de origem<br>Divisão Sul Americana |     |
+| AM  | Boa conduta escolar |             |                                                |
+| --- | ------------------- | ----------- | ---------------------------------------------- |
+| 048 | Nível 1             | Ano<br>2012 | Instituição de origem<br>Divisão Sul Americana |
 
 1. Estar regularmente estudando.
 2. Apresentar um relatório explicando com suas palavras, o que é ter uma boa conduta escolar, mínimo 200 e máximo 500 palavras.
