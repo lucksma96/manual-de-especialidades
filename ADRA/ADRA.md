@@ -92,6 +92,8 @@
 
 ![Resposta a emergências e desastres avançado](_page_4_Picture_0.jpeg)
 
+### REQUISITOS
+
 1. Ter a especialidade de Resposta a emergências e desastres.
 2. Descrever as causas subjacentes de cada um desses cenários de desastres e dar um exemplo recente de, pelo menos, 6 desastres e seu impacto na comunidade ou país. Destacar, pelo menos, um no qual a ADRA respondeu.
    1. Ciclones (furações e tufões)
@@ -129,6 +131,8 @@
 
 ![Resolução de conflitos](_page_5_Picture_0.jpeg)
 
+### REQUISITOS
+
 > NOTA: É requerida a presença de um adulto mediador para a discussão de grupo.
 
 1. Explicar como Cristo encorajou pessoas em conflito nas seguintes histórias bíblicas. Identificar a natureza do conflito ou as necessidades humanas em cada história por você explicada.
@@ -163,6 +167,8 @@
 ## Desenvolvimento comunitário
 
 ![Desenvolvimento comunitário](_page_6_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Definir desenvolvimento comunitário.
 2. Explicar ao seu instrutor porque alguns países são considerados desenvolvidos enquanto outros são chamados de países em desenvolvimento.
