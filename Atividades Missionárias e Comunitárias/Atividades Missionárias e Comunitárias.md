@@ -781,25 +781,15 @@ como os Cultos de Pôr-do-sol de Sexta Feira.
 #### **Requer Instrutor.**
 
 1. Aprender e aplicar as regras de segurança na criação de um carro alegórico.
-
 2. Liste, pelo menos, cinco materiais que podem ser usados na construção e decoração de um carro alegórico.
-
 3. Ajude a construir um carro alegórico:
-
-a) Ajudando no design do carro alegórico para seu clube desbravadores, ou grupo de jovens.
-
-b) Auxiliar no planejamento do material necessário e se envolver na coleta destes materiais.
-
-c) Participar da decoração por, pelo menos, 4 horas.
-
+   1. Ajudando no design do carro alegórico para seu clube desbravadores, ou grupo de jovens.
+   2. Auxiliar no planejamento do material necessário e se envolver na coleta destes materiais.
+   3. Participar da decoração por, pelo menos, 4 horas.
 4. Participar de um desfile com o carro alegórico que você ajudou a construir e decorar e, quando apropriado, distribuir panfletos que expliquem sobre os Desbravadores e o Ministério Jovem.
-
 5. Fotografar seu carro alegórico durante a criação e durante o desfile e compartilhar a experiência em um dos seguintes casos:
-
-a) Com pelo menos dois explicando-lhes como seu grupo testemunhou para a comunidade
-
-b) Relatar com fotos e histórias para a igreja ou no programa da escola sabatina e para um clube de desbravadores.
-
+   1. Com pelo menos dois explicando-lhes como seu grupo testemunhou para a comunidade
+   2. Relatar com fotos e histórias para a igreja ou no programa da escola sabatina e para um clube de desbravadores.
 6. Memorizar Marcos 16:15 e discutir com um grupo como a especialidade Desfile com Carros Alegóricos ajuda a cumprir este mandamento bíblico.
 
 ![](_page_22_Figure_14.jpeg)
@@ -811,15 +801,12 @@ b) Relatar com fotos e histórias para a igreja ou no programa da escola sabatin
 1. Ter a especialidade de Desfile com carros alegóricos.
 2. Veja com sua equipe os requisitos básicos de segurança sobre o uso de escadas, ferramentas manuais, facas e outros equipamentos elétricos usados para completar esta especialidade. Demonstrar segurança em todos os aspectos para criar seu carro alegórico.
 3. Construa um carro alegórico (com seu clube de Desbravadores ou grupo de jovens), não usado anteriormente para completar a especialidade básica, com no mínimo as seguintes especificações:
-
-a) Base de 2 metros por 3 metros.
-
-b) Partes móveis movidas mecanicamente (não incluindo as partes usadas para transportar o carro, como eixo, rodas, volante, etc.).
-
-4. Estar envolvido no design de um carro alegórico. Como parte deste envolvimento: a) Planejar materiais necessários e delegar representantes para coletar estes itens. b) Decorar um carro alegórico por, pelo menos, seis horas.
-
-c) Estar envolvido na direção do desenvolvimento e criação de pelo menos uma parte do carro alegórico.
-
+   1. Base de 2 metros por 3 metros.
+   2. Partes móveis movidas mecanicamente (não incluindo as partes usadas para transportar o carro, como eixo, rodas, volante, etc.).
+4. Estar envolvido no design de um carro alegórico. Como parte deste envolvimento:
+   1. Planejar materiais necessários e delegar representantes para coletar estes itens.
+   2. Decorar um carro alegórico por, pelo menos, seis horas.
+   3. Estar envolvido na direção do desenvolvimento e criação de pelo menos uma parte do carro alegórico.
 5. Usar um carro alegórico em pelo menos dois desfiles. Um deles pode ser em uma feira de desbravadores ou algo equivalente.
 
 Observação: As diretrizes sobre gestão de segurança estão disponíveis no site oficial dos Desbravadores
@@ -827,35 +814,22 @@ Observação: As diretrizes sobre gestão de segurança estão disponíveis no s
 ![](_page_23_Picture_0.jpeg)
 
 1. Identifique quatro causas de conflito descritas na bíblia. Leia as seguintes passagens como ponto de partida.
-
-a) Gálatas 2:11-14
-b) Coríntios 12:12-31
-c) Gênesis 13:1-12
-d)  Tiago 4:1-3
-
+   1. Gálatas 2:11-14
+   2. Coríntios 12:12-31
+   3. Gênesis 13:1-12
+   4. Tiago 4:1-3
 2. Explicar as seguintes formas de abordar uma contradição e discutir com seu conselheiro ou unidade usando exemplos bíblicos e suas próprias experiências.
-
-a) Negação
-
-1. Acusações mútuas
-
-2. Fuga
-
-b) Ataque
-
-- 1. Luta
-- 2. Fofoca
-
-3. Ridicularização
-
-c) Conciliação
-
-1. Identificar o conflito
-
-2. Conversar em particular com cada uma das partes
-
-3. Negociação
-
+   1. Negação
+      1. Acusações mútuas
+      2. Fuga
+   2. Ataque
+      1. Luta
+      2. Fofoca
+      3. Ridicularização
+   3. Conciliação
+      1. Identificar o conflito
+      2. Conversar em particular com cada uma das partes
+      3. Negociação
 3. Dramatizar uma situação de conflito ocorrida com você e analisar o seu comportamento na contradição e quais as opções de conciliação possíveis.
 
 ![](_page_23_Figure_20.jpeg)
@@ -870,236 +844,229 @@ c) Conciliação
 4. Explicar a função e responsabilidades de um mediador e de um árbitro.
 5. Comparar litígio (conflito em que a decisão é dada por um terceiro) e conciliação e discutir as vantagens e desvantagens de cada uma.
 6. Identificar quais tipos de conflitos podem ser:
-a) Mediados
-b) Arbitrados
-c) Litigados
-d) Conciliados
-
+   1. Mediados
+   2. Arbitrados
+   3. Litigados
+   4. Conciliados
 7. Cumprir um dos sequintes:
-a) Participar de uma arbitragem de conflito entre duas pessoas ou grupos. Discutir o processo, identificando o que funcionou, o que não funcionou e, ao final, apresentar um relatório de, no mínimo, 1 página.
-b) Participar de uma mediação de conflito entre duas pessoas ou grupos. Discutir o processo, identificando o que funcionou, o que não funcionou e, ao final, apresentar um relatório de, no mínimo, 1 página.
-c) Assistir a uma audiência de conciliação (em que as partes tenham chegado a um acordo), a uma audiência de instrução e julgamento e apresentar um relatório mencionando qual dessas duas formas soluciona o conflito mais satisfatoriamente.
-   > **Observação:** as audiências do Juizado Especial Cível e das Varas Cíveis são abertas ao público. Para assisti-las basta conversar na secretaria da Vara ou com o chefe de gabinete.
-d) Atuar como conciliador voluntário em um Juizado Especial por, no mínimo, 6 meses.
+   1. Participar de uma arbitragem de conflito entre duas pessoas ou grupos. Discutir o processo, identificando o que funcionou, o que não funcionou e, ao final, apresentar um relatório de, no mínimo, 1 página.
+   2. Participar de uma mediação de conflito entre duas pessoas ou grupos. Discutir o processo, identificando o que funcionou, o que não funcionou e, ao final, apresentar um relatório de, no mínimo, 1 página.
+   3. Assistir a uma audiência de conciliação (em que as partes tenham chegado a um acordo), a uma audiência de instrução e julgamento e apresentar um relatório mencionando qual dessas duas formas soluciona o conflito mais satisfatoriamente.
+      > **Observação:** as audiências do Juizado Especial Cível e das Varas Cíveis são abertas ao público. Para assisti-las basta conversar na secretaria da Vara ou com o chefe de gabinete.
+   4. Atuar como conciliador voluntário em um Juizado Especial por, no mínimo, 6 meses.
 
 ![](_page_24_Picture_0.jpeg)
 
 1. Para ajudar a apreciar o caráter e a majestade do Deus cristão, discutir o que as escrituras dizem sobre os seguintes temas:
-- a) O orgulho de Satanás, o conflito no céu, Satanás expulso do céu
-- b) A criação da Terra e seus habitantes
-- c) Adão e Eva no Jardim do Éden e sua expulsão
-- d) As deficiências da raça humana
-- e) A promessa de Deus de enviar o seu filho para a raça humana
-- f) O nascimento do Messias, Jesus Cristo
-- g) O ministério de Jesus Cristo
-- h) A morte de Jesus Cristo na cruz
-- i) A ressurreição de Jesus, Sua ascensão ao céu e a promessa de retorno
-- j) O Espírito Santo é recebido e o evangelho é pregado em todo o mundo
-- k) Cristo volta para reivindicar sua criação. O que acontece com aqueles que estão vivos e com aqueles que estão mortos?
-- I) Povo de Cristo no céu e nova terra para todo o sempre
+   1. O orgulho de Satanás, o conflito no céu, Satanás expulso do céu
+   2. A criação da Terra e seus habitantes
+   3. Adão e Eva no Jardim do Éden e sua expulsão
+   4. As deficiências da raça humana
+   5. A promessa de Deus de enviar o seu filho para a raça humana
+   6. O nascimento do Messias, Jesus Cristo
+   7. O ministério de Jesus Cristo
+   8. A morte de Jesus Cristo na cruz
+   9. A ressurreição de Jesus, Sua ascensão ao céu e a promessa de retorno
+   10. O Espírito Santo é recebido e o evangelho é pregado em todo o mundo
+   11. Cristo volta para reivindicar sua criação. O que acontece com aqueles que estão vivos e com aqueles que estão mortos?
+   12. Povo de Cristo no céu e nova terra para todo o sempre
 2. Descrever o significado moderno da palavra adoração, Pesquisar as palavras no idioma original das Escrituras que foram traduzidas como adoração.
-3. Escolha, pelo menos, 6 passagens das Escrituras que se referem ao verdadeiro culto
-- a Deus. Descrever brevemente como cada um pode ser aplicado à sua vida.
+3. Escolha, pelo menos, 6 passagens das Escrituras que se referem ao verdadeiro culto a Deus. Descrever brevemente como cada um pode ser aplicado à sua vida.
 4. Estudar, pelo menos, 2 dos seguintes acontecimentos e discutir onde cada um não estava de acordo com a vontade de Deus.
-    1. a) O sacrifício de Caim (fruto da terra) (Gênesis 4:2-8)
-    2. b) A adoração do bezerro de ouro pelos israelitas (Êxodo 32)
-    3. c) O grande erro de Nadabe e Abiú (Levítico 10:1-7)
-    4. d) A oração do fariseu e a do coletor de impostos (Lucas 18:9-14)
+   1. O sacrifício de Caim (fruto da terra) (Gênesis 4:2-8)
+   2. A adoração do bezerro de ouro pelos israelitas (Êxodo 32)
+   3. O grande erro de Nadabe e Abiú (Levítico 10:1-7)
+   4. A oração do fariseu e a do coletor de impostos (Lucas 18:9-14)
 5. Discutir como as instruções e ilustrações nas Escrituras podem ser aplicadas ao culto cristão de hoje. Ter em conta a localidade de sua igreja.
-    1. a) Local e horário adequado para o culto
-    2. b) Que temas utilizar nos cultos de adoração
-    3. c) Qual tipo de louvor deve ser utilizado para os cultos de adoração
+   1. Local e horário adequado para o culto
+   2. Que temas utilizar nos cultos de adoração
+   3. Qual tipo de louvor deve ser utilizado para os cultos de adoração
 6. Preparar um Esboço sobre como dirigir um culto de adoração, tendo como base os sequintes temas:
-a) Preparação da congregação e oração
-b) O tema adoração e a música apropriada ao culto
-c) Equipe de adoração (músicos, sonoplastia, diáconos, diretores departamentos, anciões)
-d) A congregação (divisão por idades, a linguagem, questões pessoais, expectativas das visitas, fundo cultural nos cultos, vestimentas para a adoração)
-
+   1. Preparação da congregação e oração
+   2. O tema adoração e a música apropriada ao culto
+   3. Equipe de adoração (músicos, sonoplastia, diáconos, diretores departamentos, anciões)
+   4. A congregação (divisão por idades, a linguagem, questões pessoais, expectativas das visitas, fundo cultural nos cultos, vestimentas para a adoração)
 7. Realizar uma pesquisa bíblica e apresentar um esboço sobre como se dava a organização e direção do culto cristão antes e após a morte de Cristo.
 8. Conversar com o responsável pelo departamento de música de sua Igreja sobre como são selecionados os louvores para os cultos e apresentar um relatório sobre a importância da música nos cultos de adoração a Deus.
 9. Completar durante, pelo menos, 1 mês 2 das seguintes atividades e preparar um relatório apresentando como estas atividades mudaram sua maneira de adoração a Deus:
-a) Realizar uma série de estudo pessoal sobre adoração cristã (incluindo estudo da Bíblia, do Espírito de Profecia e da lição da escola sabatina).
-b) Participar da organização e auxílio de um culto semanal durante, pelo menos, 1 mês em sua igreja.
-c) Participar de uma equipe de louvor em sua igreja.
-d) Levar, pelo menos, 5 visitas aos cultos de sua igreja durante, pelo menos, 1 mês. (As visitas podem ser em cultos distintos, sempre mantendo um número de 5 visitas por semana).
+   1. Realizar uma série de estudo pessoal sobre adoração cristã (incluindo estudo da Bíblia, do Espírito de Profecia e da lição da escola sabatina).
+   2. Participar da organização e auxílio de um culto semanal durante, pelo menos, 1 mês em sua igreja.
+   3. Participar de uma equipe de louvor em sua igreja.
+   4. Levar, pelo menos, 5 visitas aos cultos de sua igreja durante, pelo menos, 1 mês. (As visitas podem ser em cultos distintos, sempre mantendo um número de 5 visitas por semana).
 
 ![](_page_25_Picture_0.jpeg)
 
-- 1. Pesquisar sobre o que significa oratória:
-  - a) Citar sua fonte de pesquisa.
- 
-  - b) Pesquisar sobre grandes oradores de nossa história, citando brevemente o histórico de:
-    - I. Um orador da antiguidade
-    - II. Um orador da nossa história moderna
-    - III. Um orador de destaque em seu país
-- 2. Pesquisar sobre o que significa Homilética (citar fonte de pesquisa).
-- 3. Pesquisar sobre o que significa Exegese (citar fonte de pesquisa).
-- 4. Preparar um esboço detalhado de um sermão cristão e apresentá-lo ao seu avaliador por escrito.
-- 5. Fazer um dos seguintes itens:
-  - a) Participar de um curso de Oratória Cristã (obter certificado)
-  - b) Pregar em um culto da Igreja (entregar esboço do sermão)
-  - c) Em um evento que o Clube ou Igreja participe fora de sua cidade, apresentar uma
-  - breve meditação (entregar esboço)
-- 6. Saber descrever (breves palavras) o seguinte sobre um Sermão Cristão:
+1. Pesquisar sobre o que significa oratória:
+   1. Citar sua fonte de pesquisa.
+   2. Pesquisar sobre grandes oradores de nossa história, citando brevemente o histórico de:
+      1. Um orador da antiguidade
+      2. Um orador da nossa história moderna
+      3. Um orador de destaque em seu país
+2. Pesquisar sobre o que significa Homilética (citar fonte de pesquisa).
+3. Pesquisar sobre o que significa Exegese (citar fonte de pesquisa).
+4. Preparar um esboço detalhado de um sermão cristão e apresentá-lo ao seu avaliador por escrito.
+5. Fazer um dos seguintes itens:
+   1. Participar de um curso de Oratória Cristã (obter certificado)
+   2. Pregar em um culto da Igreja (entregar esboço do sermão)
+   3. Em um evento que o Clube ou Igreja participe fora de sua cidade, apresentar uma breve meditação (entregar esboço)
+6. Saber descrever (breves palavras) o seguinte sobre um Sermão Cristão:
 
 #### Características:
 
-- a) Sermão Temático
-- b) Sermão Expositivo
-- c) Sermão Textual
+   1. Sermão Temático
+   2. Sermão Expositivo
+   3. Sermão Textual
 
 #### **Partes:**
 
-- a) Introdução
-- b) Apelo
-- c) Conclusão
-- d) Corpo do Sermão
-- e) Ilustração
-1. Saber manusear, apresentando suas habilidades ao seu orientador ou conselheiro:
-  - a) Dicionário Bíblico
-  - b) Concordância Bíblica
-  - c) Cadeia temática de estudos Bíblicos
-1. Ter o esboço de pelo menos dez Sermões Cristãos.
-2. Participar (ou ter participado) da lista de pregação de sua igreja (ou uma igreja do seu distrito) por, pelo menos, 1 ano, tendo pregado, pelo menos, quatro vezes nesse período.
-3.  Obter, para sua coleção particular, um livro com ilustrações para sermões.
+   1. Introdução
+   2. Apelo
+   3. Conclusão
+   4. Corpo do Sermão
+   5. Ilustração
+7. Saber manusear, apresentando suas habilidades ao seu orientador ou conselheiro:
+   1. Dicionário Bíblico
+   2. Concordância Bíblica
+   3. Cadeia temática de estudos Bíblicos
+8. Ter o esboço de pelo menos dez Sermões Cristãos.
+9. Participar (ou ter participado) da lista de pregação de sua igreja (ou uma igreja do seu distrito) por, pelo menos, 1 ano, tendo pregado, pelo menos, quatro vezes nesse período.
+10. Obter, para sua coleção particular, um livro com ilustrações para sermões.
 
 ![](_page_26_Picture_0.jpeg)
 
-- 1. Ter a especialidade de Arte da pregação cristã.
-- 2. Saber a diferença básica entre as versões bíblicas:
-  - a) ARA
-  - b) ARC
-  - c) NVI
-  - d) NTLH
-  - e) Jerusalém
-  - f) VIVA
+1. Ter as seguintes especialidades:
+   1. Criacionismo
+   2. Geologia
+   3. Fósseis
+2. Saber a diferença básica entre as versões bíblicas:
+   1. ARA
+   2. ARC
+   3. NVI
+   4. NTLH
+   5. Jerusalém
+   6. VIVA
 
 #### Responda:
 
-- a) Qual é a versão mais fiel ao original bíblico?
-- **b)** Quais são as línguas originais da Bíblia?
-- c) Cite pelo menos três versos que diferem grandemente o sentido nas versões
-- pesquisadas acima. Procure saber qual é a tradução mais fiel ao texto original Bíblico.
-- 3. Criar uma pequena coleção de 25 sermões cristãos, organizadas em formato de uma apostila:
-  - a) 10 deles devem ser de sua autoria
-  - b) Os demais (15) podem ser de terceiros
-  - c) Os sermões devem estar agrupados nas seguintes categorias:
-    - I. Salvação
-    - II. Vida Cristã / Santificação
-    - III. Volta de Jesus
-    - IV. Lei de Deus / Mandamentos
-- 4. Fazer para, pelo menos, 5 dos seus sermões (compilados no item anterior), uma apresentação usando recursos audiovisuais ou sua criatividade.
-- 5. Ter uma coleção de pelo menos 15 Meditações Bíblicas curtas (5-10 minutos) e usar pelo menos 5 delas em ocasiões especiais que o Clube venha a participar. Como no
-- item 3, compilar as meditações em uma pequena apostila.
-- 6. Fazer 1 dos seguintes itens:
-  - a) Apresentar uma série de estudos bíblicos (pelo menos 10 apresentações) a um grupo de pessoas reunidas na Igreja, numa classe bíblica ou série de evangelismo bíblico
-- b) Estar na lista de pregação de sua igreja durante um ano, pregando, pelo menos, 10 vezes em todos os cultos da Igreja: sábado, domingo e quartas
-- c) Ser responsável por um período de, pelo menos, 6 meses da parte de pregação bíblica em um Pequeno Grupo
-- 7. Selecionar 2 áreas abaixo e ler um livro em cada área escolhida:
-  - a) Arte da Pregação Bíblica
-  - b) Uso de ilustrações em sermões cristãos
-  - c) Biografia de um grande Evangelista ou Pregador
-  - d) Uso de Concordância e Referencias Bíblicas
-  - Citar bibliografia.
+   1. Qual é a versão mais fiel ao original bíblico?
+   2. Quais são as línguas originais da Bíblia?
+   3. Cite pelo menos três versos que diferem grandemente o sentido nas versões pesquisadas acima. Procure saber qual é a tradução mais fiel ao texto original Bíblico.
+3. Criar uma pequena coleção de 25 sermões cristãos, organizadas em formato de uma apostila:
+   1. 10 deles devem ser de sua autoria
+   2. Os demais (15) podem ser de terceiros
+   3. Os sermões devem estar agrupados nas seguintes categorias:
+      1. Salvação
+      2. Vida Cristã / Santificação
+      3. Volta de Jesus
+      4. Lei de Deus / Mandamentos
+4. Fazer para, pelo menos, 5 dos seus sermões (compilados no item anterior), uma apresentação usando recursos audiovisuais ou sua criatividade.
+5. Ter uma coleção de pelo menos 15 Meditações Bíblicas curtas (5-10 minutos) e usar pelo menos 5 delas em ocasiões especiais que o Clube venha a participar. Como no item 3, compilar as meditações em uma pequena apostila.
+6. Fazer 1 dos seguintes itens:
+   1. Apresentar uma série de estudos bíblicos (pelo menos 10 apresentações) a um grupo de pessoas reunidas na Igreja, numa classe bíblica ou série de evangelismo bíblico
+   2. Estar na lista de pregação de sua igreja durante um ano, pregando, pelo menos, 10 vezes em todos os cultos da Igreja: sábado, domingo e quartas
+   3. Ser responsável por um período de, pelo menos, 6 meses da parte de pregação bíblica em um Pequeno Grupo
+7. Selecionar 2 áreas abaixo e ler um livro em cada área escolhida:
+   1. Arte da Pregação Bíblica
+   2. Uso de ilustrações em sermões cristãos
+   3. Biografia de um grande Evangelista ou Pregador
+   4. Uso de Concordância e Referencias Bíblicas
+   > Citar bibliografia.
 8. Ter uma Bíblia com referências, concordância e preferencialmente comentada. Manuseá-la adequadamente para seu orientador ou conselheiro.
 
 ![](_page_27_Picture_0.jpeg)
 
 1. Definir arqueologia, diferenciando-a da paleontologia.
 2. Defina os seguintes termos:
-    a) Papirólogo
-    g) Paleografia
-    b) Egiptólogo
-    h) Antiquário
-    c) Assiriólogo
-    i) Sítio
-    d) Orientalista
-    j)Estratigrafia
-    e) Escrita Cuneiforme
-    k) Tel, tell e Khirbet
-    f)Hieróglifo
-    I) Réplica
-- 3. Citar 10 ferramentas utilizadas por um arqueólogo numa escavação.
-- 4. Quais são as principais técnicas de datação de um artefato arqueológico? Explique-as.
-- 5. Citar 3 benefícios que a arqueologia bíblica pode trazer ao estudante da Bíblia.
-- 6. Redigir um relatório sobre a história da arqueologia com, pelo menos, 2 páginas.
-- 7. Redigir uma biografia de, pelo menos, 1 página sobre:
-  - a) Jean-François Champollion
-  - **b**) Edward Robinson
-  - c) William Foxwell Albright
-- 8. O que é Maximalismo e Minimalismo?
-- 9. Montar e manter uma pasta com 10 descobertas arqueológicas que colaboram
-- a história bíblica tanto do Antigo como do Novo Testamento. A pasta deverá ter as seguintes características:
-  - a) Dados em ordem cronológica ou geográfica
-  - b) Organizados por Antigo e Novo Testamento
-  - c) Fotos
-  - d) Textos
-  - e) Fontes bibliográficas
-  - f) Comentário pessoal sobre cada artefato ou descoberta
-- 10. Listar 5 escavações em andamento hoje, ao redor do mundo, que sejam relevantes para a compreensão do texto bíblico. Explicar porque cada escavação é relevante para a compreensão do texto bíblico.
-- 11. Montar uma maquete simples de Jerusalém observando o seguinte:
-      a) Relevo
-      b) Os diferentes perímetros da cidade nas épocas do 1º templo (Davi e Salomão), 2º templo (Herodes e Jesus Cristo) e a Jerusalém atual. c) Os principais sítios arqueológicos d) Os principais pontos de visitação religiosa
+   1. Papirólogo
+   2. Egiptólogo
+   3. Assiriólogo
+   4. Orientalista
+   5. Escrita Cuneiforme
+   6. Hieróglifo
+   7. Paleografia
+   8. Antiquário
+   9. Sítio
+   10. Estratigrafia
+   11. Tel, tell e Khirbet
+   12. Réplica
+3. Citar 10 ferramentas utilizadas por um arqueólogo numa escavação.
+4. Quais são as principais técnicas de datação de um artefato arqueológico? Explique-as.
+5. Citar 3 benefícios que a arqueologia bíblica pode trazer ao estudante da Bíblia.
+6. Redigir um relatório sobre a história da arqueologia com, pelo menos, 2 páginas.
+7. Redigir uma biografia de, pelo menos, 1 página sobre:
+   1. Jean-François Champollion
+   2. Edward Robinson
+   3. William Foxwell Albright
+8. O que é Maximalismo e Minimalismo?
+9. Montar e manter uma pasta com 10 descobertas arqueológicas que colaboram a história bíblica tanto do Antigo como do Novo Testamento. A pasta deverá ter as seguintes características:
+   1. Dados em ordem cronológica ou geográfica
+   2. Organizados por Antigo e Novo Testamento
+   3. Fotos
+   4. Textos
+   5. Fontes bibliográficas
+   6. Comentário pessoal sobre cada artefato ou descoberta
+10. Listar 5 escavações em andamento hoje, ao redor do mundo, que sejam relevantes para a compreensão do texto bíblico. Explicar porque cada escavação é relevante para a compreensão do texto bíblico.
+11. Montar uma maquete simples de Jerusalém observando o seguinte:
+    1. Relevo
+    2. Os diferentes perímetros da cidade nas épocas do 1º templo (Davi e Salomão), 2º templo (Herodes e Jesus Cristo) e a Jerusalém atual.
+    3. Os principais sítios arqueológicos
+    4. Os principais pontos de visitação religiosa
 
 ![](_page_28_Picture_0.jpeg)
 
-- 1. O que são cerimônias e quais as suas principais finalidades?
-- 2. Descrever as seguintes cerimônias de um Clube de Desbravadores:
-  - a) Abertura (anual)
-  - b) Admissão
-  - c) Investidura
-  - d) Encerramento
-  - e) Dia do Desbravador
-  - f) Fogo do Conselho
-- Sobre cada uma dizer:
-  - 1. Qual o objetivo
-  - 2. Quem é o responsável por dirigir o programa
-  - 3. Em que ocasiões são realizadas
-- 3. De quem são as prerrogativas para a entrega dos seguintes emblemas:
-  - a) Classes
-  - b) Lenco
-  - c) Especialidades
-  - d) Insígnia de excelência
-- 4. Quais os cuidados necessários em relação ao fogo dentro da igreja (tocha e pira)?
-- 5. Como se prepara uma tocha? Mencione os materiais adequados, incluindo segurança com os materiais inflamáveis.
-- 6. Cite uma cerimônia que pode ser feita na natureza. Faça o planejamento de como você faria essa cerimônia.
-- 7. Mencione 6 pontos fundamentais para realizar uma cerimônia de qualidade.
-- 8. Estude o cerimonial do santuário descrito no Êxodo, explique como era a cerimônia em detalhes.
-- 9. Participar no planejamento e organização de uma cerimônia de investidura ou admissão, incluindo:
-  - a) Tema
-  - b) Local adequado
-  - c) Ornamentação
-  - d) Divulgação
-  - e) Preparo do material com antecedência
-  - f) Trilha sonora
-  - g) Apresentações musicais
-  - h) Premiações (se houver)
-  - i) Projeção do hino e dos ideais dos desbravadores (ou entrega desses em folhetos) j) Inspeção de uniforme
-- 10. Em um acampamento, dirigir uma cerimônia do fogo do conselho, sendo responsável por toda a organização, desde a montagem do fogo, hinos, recreação até a meditação
-- 11. Qual a função de um mestre de cerimônias?
-- 12. Explicar o significado do lema "uma cerimônia deve ser simples, breve e digna".
+1. O que são cerimônias e quais as suas principais finalidades?
+2. Descrever as seguintes cerimônias de um Clube de Desbravadores:
+   1. Abertura (anual)
+   2. Admissão
+   3. Investidura
+   4. Encerramento
+   5. Dia do Desbravador
+   6. Fogo do Conselho
+3. Sobre cada uma dizer:
+   1. Qual o objetivo
+   2. Quem é o responsável por dirigir o programa
+   3. Em que ocasiões são realizadas
+4. De quem são as prerrogativas para a entrega dos seguintes emblemas:
+   1. Classes
+   2. Lenco
+   3. Especialidades
+   4. Insígnia de excelência
+5. Quais os cuidados necessários em relação ao fogo dentro da igreja (tocha e pira)?
+6. Como se prepara uma tocha? Mencione os materiais adequados, incluindo segurança com os materiais inflamáveis.
+7. Cite uma cerimônia que pode ser feita na natureza. Faça o planejamento de como você faria essa cerimônia.
+8. Mencione 6 pontos fundamentais para realizar uma cerimônia de qualidade.
+9. Estude o cerimonial do santuário descrito no Êxodo, explique como era a cerimônia em detalhes.
+10. Participar no planejamento e organização de uma cerimônia de investidura ou admissão, incluindo:
+    1. Tema
+    2. Local adequado
+    3. Ornamentação
+    4. Divulgação
+    5. Preparo do material com antecedência
+    6. Trilha sonora
+    7. Apresentações musicais
+    8. Premiações (se houver)
+    9. Projeção do hino e dos ideais dos desbravadores (ou entrega desses em folhetos)
+    10. Inspeção de uniforme
+11. Em um acampamento, dirigir uma cerimônia do fogo do conselho, sendo responsável por toda a organização, desde a montagem do fogo, hinos, recreação até a meditação
+12. Qual a função de um mestre de cerimônias?
+13. Explicar o significado do lema "uma cerimônia deve ser simples, breve e digna".
 
 ![](_page_29_Picture_0.jpeg)
 
-NOTA: Necessário o acompanhamento de um instrutor qualificado e fluente em braile.
+> NOTA: Necessário o acompanhamento de um instrutor qualificado e fluente em braile.
 
-- 1. O que é Braile?
-- 2. Escrever uma biografia de Louis Braille de, pelo menos, 1 página.
-- 3. O que é sensibilidade epicrítica?
-- 4. O que são papel braile, regletes e punções?
-- 5. O que é máquina "perkins"?
-- 6. O que é uma cela braile?
-- 7. Quais sãos e o que significam os graus 1, 2 e 3 do sistema braile?
-
-1. Participar de um curso para escrever e ler em braile. O curso poderá ser virtual ou presencial.
-
-Nota: Este site, http://www.braillevirtual.fe.usp.br/, apresenta um curso interessante e interativo, adequado para juvenis, em português, espanhol e inglês.
-
-- 9. Traduzir, na presença do instrutor, o texto bíblico de Marcos 10:46-52.
-- 10. Ler, em braile, no mínimo 90 palavras por minuto.
-
+1. O que é Braile?
+2. Escrever uma biografia de Louis Braille de, pelo menos, 1 página.
+3. O que é sensibilidade epicrítica?
+4. O que são papel braile, regletes e punções?
+5. O que é máquina "perkins"?
+6. O que é uma cela braile?
+7. Quais sãos e o que significam os graus 1, 2 e 3 do sistema braile?
+8. Participar de um curso para escrever e ler em braile. O curso poderá ser virtual ou presencial.
+   > Nota: Este site, http://www.braillevirtual.fe.usp.br/, apresenta um curso interessante e interativo, adequado para juvenis, em português, espanhol e inglês.
+9. Traduzir, na presença do instrutor, o texto bíblico de Marcos 10:46-52.
+10. Ler, em braile, no mínimo 90 palavras por minuto.
 11. Escrever um pequeno cartão com uma mensagem bíblica para um deficiente visual.
-
 12. Discutir o evangelho contido em João 9 com o seu instrutor.
 
 ![](_page_29_Figure_16.jpeg)
@@ -1107,162 +1074,110 @@ Nota: Este site, http://www.braillevirtual.fe.usp.br/, apresenta um curso intere
 ### REQUISITOS
 
 1. O que é modelo e teoria científica?
-
-2. Quais as principais diferenças entre o modelo criacionista e o evolucionista? 3. Escrever uma redação de, no mínimo, 500 palavras, com o tema: porque ser criacionista.
-
+2. Quais as principais diferenças entre o modelo criacionista e o evolucionista?
+3. Escrever uma redação de, no mínimo, 500 palavras, com o tema: porque ser criacionista.
 4. Sob a mediação do instrutor, participar de um debate sobre como é possível harmonizar ciência e fé.
-
 5. Ler e responder o sequinte:
-
-a) 1 Timóteo 6:20 e 21. Que relação pode existir entre essa passagem e o evolucionismo?
-
-b) Gênesis 1 e 2. Pode alguém discordar destes textos e manter-se membro do povo remanescente? Justifique sua resposta.
-
+   1. 1 Timóteo 6:20 e 21. Que relação pode existir entre essa passagem e o evolucionismo?
+   2. Gênesis 1 e 2. Pode alguém discordar destes textos e manter-se membro do povo remanescente? Justifique sua resposta.
 6. Cite, ao menos, 5 passagens do Espírito de Profecia que façam menção à idade "jovem" da Terra.
-
 7. Pesquisar sobre a crença fundamental "a criação", da Igreja Adventista do Sétimo Dia. Demonstrar de forma satisfatória como fundamentar essa crença fundamental através da Bíblia, encontrando de memória, no mínimo, 5 passagens bíblicas que abonam essa ideia.
-
 8. Citar, ao menos, 15 objeções feitas pelos evolucionistas às crenças criacionistas. Escrever, ao menos, um parágrafo explicando de maneira bíblica e/ou científica como refutar cada uma dessas objeções.
-
 9. Ler os capítulos 6 a 9 de Gênesis. Após a leitura completar um dos seguintes:
-
-a) Realizar uma pesquisa e elaborar um cronograma detalhado sobre alguma teoria aceita por cientistas criacionistas sobre como aconteceram os fatos.
-
-b) Faça uma lista com, pelo menos, 5 menções bíblicas ao dilúvio e dê, ao menos, 5 evidências histórico-científicas do dilúvio.
-
+   1. Realizar uma pesquisa e elaborar um cronograma detalhado sobre alguma teoria aceita por cientistas criacionistas sobre como aconteceram os fatos.
+   2. Faça uma lista com, pelo menos, 5 menções bíblicas ao dilúvio e dê, ao menos, 5 evidências histórico-científicas do dilúvio.
 10. Participar de um encontro criacionista promovido por sua escola, faculdade, Clube, Igreja, distrito, região ou Campo. Com antecedência, escrever suas dúvidas para levar ao encontro e, em momento oportuno, apresentá-las a algum palestrante ou participante que possa saná-las através de embasamento bíblico e/ou científico.
-
 11. Pesquisar e demonstrar como argumentar em favor do criacionismo, utilizando 3 das seguintes questões:
+    1. Do ponto de vista da biologia, o que são sistemas de complexidade irredutível? Como esses sistemas contradizem a teoria evolucionista?
+    2. Do ponto de vista da geologia, pesquisar e desenhar um modelo criacionista da coluna geológica e compará-la com o modelo evolucionista. Explicar como as lacunas em ambos os modelos são completadas com bases filosóficas (não comprovadas cientificamente).
+    3. Do ponto de vista da oceanografia, como a sedimentação oceânica tem indicado que os oceanos são "jovens"?
+    4. Do ponto de vista da astronomia, como o afastamento progressivo da Lua, em relação ao centro gravitacional da Terra (levando-se em conta o "limite de Roche") indica uma Terra (e Lua) jovem?
+    5. Do ponto de vista da arqueologia, o que são fósseis de transição? Como a ausência deles argumenta em favor do criacionismo?
 
-a) Do ponto de vista da biologia, o que são sistemas de complexidade irredutível? Como esses sistemas contradizem a teoria evolucionista?
-
-b) Do ponto de vista da geologia, pesquisar e desenhar um modelo criacionista da coluna geológica e compará-la com o modelo evolucionista. Explicar como as lacunas em ambos os modelos são completadas com bases filosóficas (não comprovadas cientificamente).
-
-c) Do ponto de vista da oceanografia, como a sedimentação oceânica tem indicado que os oceanos são "jovens"?
-
-d) Do ponto de vista da astronomia, como o afastamento progressivo da Lua, em relação ao centro gravitacional da Terra (levando-se em conta o "limite de Roche") indica uma Terra (e Lua) jovem?
-
-e) Do ponto de vista da arqueologia, o que são fósseis de transição? Como a ausência deles argumenta em favor do criacionismo?
-
-#### **AM** Criacionismo - avançado Instituição de origem **Nível** Ano 036 **Divisão Sul Americana** 2012 3
+#### Criacionismo - avançado
 
 ### REQUISITOS
 
-- 1. Ter as seguintes especialidades:
-  - a) Criacionismo
-  - b) Geologia
-  - c) Fósseis
-- 2. Explicar os seguintes termos:
-  - a) Cosmologia
-  - b) Cosmogênese
-  - c) Teoria do Design Inteligente
-  - d) Espécie de transição ou elo perdido
-- e) Fóssil vivo
-- f) Teoria do Big Bang
-
-1. Fazer uma pesquisa e relatar por escrito, pelo menos 500 palavras, aspectos do poder criador de Deus na natureza que demonstre propósito e planejamento.
-
-- 4. Diferenciar evolução (em seu sentido macro ou micro) de adaptação ao ambiente.
-- 5. Reler o relato bíblico do dilúvio e descrever sua influência sobre os seguintes:
-a) Deriva continental
-b) Relevo e clima
-c) Extinção em massa e formação dos fósseis
-
-1. Na interpretação criacionista, qual é a origem do homem e quem foram os homens da caverna?
-
-2. Qual é o argumento do relojoeiro de Paley?
-
-3. Relatar brevemente a experiência de Pascal e explicar porque "vida somente provém de vida".
-
-4. Fazer uma lista pessoal de 10 evidências científicas da criação (diferentes das abordadas nessa especialidade e na básica) e apresentar a seu Clube.
-
-5.  Estudar a vida e contribuições de um cientista criacionista e contar esta história a um grupo de desbravadores durante um fogo de conselho ou outra reunião espiritual. 11. Completar uma das seguintes atividades:
-
-a) Participar de forma ativa de um debate sobre: criacionismo x evolucionismo.
-b) Apresentar uma palestra em audiovisual de, ao menos, 30 minutos sobre algumas das evidências do requisito 9 desta especialidade para um grupo de desbravadores, ou igreja, ou evento criacionista.
-c) Apresentar 3 diferentes certificados de participação em encontros de cunho criacionista, com data inferior a 2 anos.
-d) Organizar um evento sobre criacionismo, com palestrante qualificado e reconhecido.
+1. Ter as seguintes especialidades:
+   1. Criacionismo
+   2. Geologia
+   3. Fósseis
+2. Explicar os seguintes termos:
+   1. Cosmologia
+   2. Cosmogênese
+   3. Teoria do Design Inteligente
+   4. Espécie de transição ou elo perdido
+   5. Fóssil vivo
+   6. Teoria do Big Bang
+3. Fazer uma pesquisa e relatar por escrito, pelo menos 500 palavras, aspectos do poder criador de Deus na natureza que demonstre propósito e planejamento.
+4. Diferenciar evolução (em seu sentido macro ou micro) de adaptação ao ambiente.
+5. Reler o relato bíblico do dilúvio e descrever sua influência sobre os seguintes:
+   1. Deriva continental
+   2. Relevo e clima
+   3. Extinção em massa e formação dos fósseis
+6. Na interpretação criacionista, qual é a origem do homem e quem foram os homens da caverna?
+7. Qual é o argumento do relojoeiro de Paley?
+8. Relatar brevemente a experiência de Pascal e explicar porque "vida somente provém de vida".
+9. Fazer uma lista pessoal de 10 evidências científicas da criação (diferentes das abordadas nessa especialidade e na básica) e apresentar a seu Clube.
+10. Estudar a vida e contribuições de um cientista criacionista e contar esta história a um grupo de desbravadores durante um fogo de conselho ou outra reunião espiritual.
+11. Completar uma das seguintes atividades:
+    1. Participar de forma ativa de um debate sobre: criacionismo x evolucionismo.
+    2. Apresentar uma palestra em audiovisual de, ao menos, 30 minutos sobre algumas das evidências do requisito 9 desta especialidade para um grupo de desbravadores, ou igreja, ou evento criacionista.
+    3. Apresentar 3 diferentes certificados de participação em encontros de cunho criacionista, com data inferior a 2 anos.
+    4. Organizar um evento sobre criacionismo, com palestrante qualificado e reconhecido.
 
 ![](_page_31_Figure_4.jpeg)
 
 ### REQUISITOS
 
 1. O que é o dom profético?
-
 2. Quais são as principais características de um profeta verdadeiro?
-
 3. Como se pode definir que uma profecia é verdadeira?
-
 4. Como se caracteriza um falso profeta?
-
-5. Quem foi Ellen White? Qual sua importância para a Igreja Adventista do Sétimo Dia? 6. Ler e apresentar relatório de, pelo menos, 2 dos seguintes grupos de livros do Espírito de Profecia:
-
-a) Grande Conflito: História da Redenção, O Grande Conflito e Eventos Finais. b) História: Patriarcas e Profetas, Profetas e Reis e Atos dos Apóstolos.
-
-c) Série Testemunhos para Igreja: Três livros da série de sua escolha.
-
-d) Reeducação Alimentar: Ciência do Bom Viver, Conselhos sobre o regime alimentar, Temperança e Conselhos sobre Saúde.
-
-e) Serviço Beneficente: Serviço Cristão, Obreiros Evangélicos, Beneficência Social e Medicina da Salvação.
-
-f) Séries Missionárias: Fé e Obras, Caminho a Cristo, Serviço Cristão e Primeiros Escritos.
-
-g) Educação: Educação - Conselhos aos Pais Professores e Mestres, Fundamentos da Educação Cristã, Mente Caráter e Personalidade I ou II, O Lar Adventista e Mensagem aos Jovens.
-
-h) Meditações Matinais: Minha Consagração Hoje, Nossa Alta Vocação, Olhando para o Alto e Para Conhecê-Lo.
-
-i) Vida de Cristo: Parábolas de Jesus, O Desejado de Todas as Nações e O maior Discurso de Cristo.
-
-j) Outra sequência de livros de sua preferência, contendo, no mínimo, 3 livros.
-
+5. Quem foi Ellen White? Qual sua importância para a Igreja Adventista do Sétimo Dia?
+6. Ler e apresentar relatório de, pelo menos, 2 dos seguintes grupos de livros do Espírito de Profecia:
+   1. Grande Conflito: História da Redenção, O Grande Conflito e Eventos Finais.
+   2. História: Patriarcas e Profetas, Profetas e Reis e Atos dos Apóstolos.
+   3. Série Testemunhos para Igreja: Três livros da série de sua escolha.
+   4. Reeducação Alimentar: Ciência do Bom Viver, Conselhos sobre o regime alimentar, Temperança e Conselhos sobre Saúde.
+   5. Serviço Beneficente: Serviço Cristão, Obreiros Evangélicos, Beneficência Social e Medicina da Salvação.
+   6. Séries Missionárias: Fé e Obras, Caminho a Cristo, Serviço Cristão e Primeiros Escritos.
+   7. Educação: Educação - Conselhos aos Pais Professores e Mestres, Fundamentos da Educação Cristã, Mente Caráter e Personalidade I ou II, O Lar Adventista e Mensagem aos Jovens.
+   8. Meditações Matinais: Minha Consagração Hoje, Nossa Alta Vocação, Olhando para o Alto e Para Conhecê-Lo.
+   9. Vida de Cristo: Parábolas de Jesus, O Desejado de Todas as Nações e O maior Discurso de Cristo.
+   10. Outra sequência de livros de sua preferência, contendo, no mínimo, 3 livros.
 7. Descubra em livros do Espírito de Profecia citações sobre, pelo menos, 2 temas abaixo:
-
-a) Histórias bíblicas **b**) Volta de Jesus c) Reforma de saúde d) Hábitos saudáveis
-
-e) Estrutura familiar f) Liderança g) Organização da Igreja
-
+   1. Histórias bíblicas
+   2. Volta de Jesus
+   3. Reforma de saúde
+   4. Hábitos saudáveis
+   5. Estrutura familiar
+   6. Liderança
+   7. Organização da Igreja
 8. Como o estudo do Espírito de Profecia pode auxiliar no entendimento da Bíblia?
-
 9. Como Deus manifesta em seus servos o Espírito de Profecia?
 
 ![](_page_32_Picture_0.jpeg)
 
 1. Ler Mateus 24: 3 a 14. Após completar a leitura, fazer uma pesquisa encontrando, ao menos, 20 sinais que indicam a proximidade da 2ª vinda de Cristo acontecidos nos últimos 5 anos.
-
 2. Saber localizar na Bíblia, de memória, ao menos 5 passagens diferentes das encontradas nesta especialidade que apresentem promessas referentes à segunda vinda de Jesus.
-
 3. Representar uma das parábolas bíblicas que tratam sobre a segunda vinda de Jesus, por meio de um dos seguintes: música, desenho, poesia ou dramatização.
-
 4. Organizar um cronograma de, no mínimo, 1 página relacionando os principais eventos finais que culminarão com a 2ª vinda de Jesus. Acrescentar também o que acontecerá nos 1000 anos seguintes.
-
-5. Estudar a história da ascensão de Jesus ao Céu, após Sua ressurreição. Em seguida, fazer uma lista das semelhanças e diferenças entre este evento e a Sua segunda vinda. 6. Explicar a relação das citações "Venho como um ladrão", de Apocalipse 16:15, com "e todo olho o verá", de Apocalipse 1:7.
-
+5. Estudar a história da ascensão de Jesus ao Céu, após Sua ressurreição. Em seguida, fazer uma lista das semelhanças e diferenças entre este evento e a Sua segunda vinda.
+6. Explicar a relação das citações "Venho como um ladrão", de Apocalipse 16:15, com "e todo olho o verá", de Apocalipse 1:7.
 7. Ler as seguintes passagens da Bíblia e do Espírito de Profecia:
-
-a) Il Timóteo 4:8
-
-b) Apocalipse 2:10
-
-c)  Mateus 24:36
-
-d) Eventos Finais, pag. 244.
-
-e) Primeiros Escritos, pág. 15 e 16.
-
-f) O Grande Conflito, pág. 640 a 646.
-
-
-A partir do conhecimento adquirido no estudo destas e das outras passagens abordadas nesta especialidade, responda:
-
-a) Por que é possível afirmar que a 2ª vinda de Jesus está tão próxima?
-
-b) Como podemos abreviar a volta de Jesus?
-
-c) Qual deve ser o nosso foco em relação à coroa celeste? A quantidade de estrelas?
-
-d) Quem sabe o dia e hora exatos da volta de Jesus?
-
-e) Quais serão os primeiros sinais vistos no Céu, momentos antes da vinda de Jesus?
+   1. Il Timóteo 4:8
+   2. Apocalipse 2:10
+   3. Mateus 24:36
+   4. Eventos Finais, pag. 244.
+   5. Primeiros Escritos, pág. 15 e 16.
+   6. O Grande Conflito, pág. 640 a 646.
+8. A partir do conhecimento adquirido no estudo destas e das outras passagens abordadas nesta especialidade, responda:
+   1. Por que é possível afirmar que a 2ª vinda de Jesus está tão próxima?
+   2. Como podemos abreviar a volta de Jesus?
+   3. Qual deve ser o nosso foco em relação à coroa celeste? A quantidade de estrelas?
+   4. Quem sabe o dia e hora exatos da volta de Jesus?
+   5. Quais serão os primeiros sinais vistos no Céu, momentos antes da vinda de Jesus?
 
 ![](_page_32_Figure_20.jpeg)
 
@@ -1270,70 +1185,44 @@ e) Quais serão os primeiros sinais vistos no Céu, momentos antes da vinda de J
 
 > NOTA: Necessário acompanhamento de instrutor.
 
-1. Entrevistar um professor de história e apresentar a entrevista ao examinador: a) O que o motivou na escolha por ser um historiador ou professor de história? b) O que mais lhe chama atenção ao estudar a história?
-
-c) Qual seria o aspecto mais interessante de sua profissão e o mais difícil? d) O que é história?
-
-e) O que é historiografia?
-
-f) Qual a importância do estudo de história?
-
-g) Qual é o trabalho de um historiador e seu campo de trabalho?
-
-h) Quais são as principais técnicas de levantamento e pesquisa histórica? i) O que é Cronologia e Periodização?
-
-j) Qual a diferença entre Conhecimento Histórico e Reflexão Histórica?
-
+1. Entrevistar um professor de história e apresentar a entrevista ao examinador:
+   1. O que o motivou na escolha por ser um historiador ou professor de história?
+   2. O que mais lhe chama atenção ao estudar a história?
+   3. Qual seria o aspecto mais interessante de sua profissão e o mais difícil?
+   4. O que é história?
+   5. O que é historiografia?
+   6. Qual a importância do estudo de história?
+   7. Qual é o trabalho de um historiador e seu campo de trabalho?
+   8. Quais são as principais técnicas de levantamento e pesquisa histórica?
+   9. O que é Cronologia e Periodização?
+   10. Qual a diferença entre Conhecimento Histórico e Reflexão Histórica?
 2. Listar as principais fontes para a pesquisa sobre história da Igreja. (Escritas: documentos, jornais, livros, cartas, etc.; Não escritas: orais, monumentos, fotografias, músicas, vestuários, etc.).
-
-3. Citar, ao menos, 1 fonte que trate sobre a história denominacional da IASD em seu país. 4. Fazer um relatório com, pelo menos, 400 palavras sobre o surgimento do movimento adventista.
-
-5. Utilizando técnicas de levantamento histórico (bibliográfico; documental;
-
-entrevistas, etc.), redigir uma biografia detalhada de um:
-
-a) Pioneiro da Igreja Adventista no mundo
-
-b) Pioneiro da Igreja Adventista em seu país ou região
-
+3. Citar, ao menos, 1 fonte que trate sobre a história denominacional da IASD em seu país.
+4. Fazer um relatório com, pelo menos, 400 palavras sobre o surgimento do movimento adventista.
+5. Utilizando técnicas de levantamento histórico (bibliográfico; documental; entrevistas, etc.), redigir uma biografia detalhada de um:
+   1. Pioneiro da Igreja Adventista no mundo
+   2. Pioneiro da Igreja Adventista em seu país ou região
 6. Como a mensagem adventista chegou em sua região?
-
-a) Entrevistar alguém, se possível, que seja um pioneiro da igreja em sua região b) Ter uma foto da pessoa
-
-c) Ter a cópia de alguma fonte escrita que mencione a chegada do adventismo à região (pode ser periódico denominacional ou não)
-
+   1. Entrevistar alguém, se possível, que seja um pioneiro da igreja em sua região
+   2. Ter uma foto da pessoa
+   3. Ter a cópia de alguma fonte escrita que mencione a chegada do adventismo à região (pode ser periódico denominacional ou não)
 7. Como se organizou a igreja do clube que você frequenta?
-
-a) Entrevistar alguém, se possível mais de uma pessoa, que seja um pioneiro da igreja local
-
-b) Conseguir fotos dos primeiros membros da igreja
-
-c) Ter a cópia de algumas fontes escritas sobre a fundação da igreja (ata da comissão, compra do terreno)
-
-d) Ter fotos da construção da igreja, inauguração e dedicação, etc.
-
+   1. Entrevistar alguém, se possível mais de uma pessoa, que seja um pioneiro da igreja local
+   2. Conseguir fotos dos primeiros membros da igreja
+   3. Ter a cópia de algumas fontes escritas sobre a fundação da igreja (ata da comissão, compra do terreno)
+   4. Ter fotos da construção da igreja, inauguração e dedicação, etc.
 8. Usando o material levantado pelo requisito 5, elaborar um relatório final sobre a história da Igreja em sua região e Congregação local. (Este relatório pode ser apresentado em comemorações da igreja e do campo, bem como pode ser doado cópias para as autoridades e bibliotecas municipais).
-
 9. Com o auxílio do diretor do Clube, fazer um detalhado histórico sobre a existência do seu Clube de Desbravadores.
-
 10. Elaborar um mural sobre a história da igreja e expô-lo na igreja por, pelo menos, 2 sábados (se a especialidade for feita em grupo, deve-se repartir as tarefas e o mural deve ser exposto em mais de um lugar, por pelo menos 2 sábados em cada lugar). O mural deverá seguir o seguinte padrão:
+    1. Estilo linha do tempo da história da igreja.
+    2. Abarcar desde o Desapontamento até o último campori de seu clube.
+    3. Apresentar imagens para a maioria dos eventos.
+    4. Todos os eventos devem ser datados.
+    5. Destacar eventos de sua Divisão, igreja e clube.
+    6. Deve apresentar, pelo menos, 20 eventos históricos ao todo, destacando a relevância global, regional e local destes fatos.
 
-a) Estilo linha do tempo da história da igreja.
-
-b) Abarcar desde o Desapontamento até o último campori de seu clube.
-
-c) Apresentar imagens para a maioria dos eventos.
-
-d) Todos os eventos devem ser datados.
-
-e) Destacar eventos de sua Divisão, igreja e clube.
-
-f) Deve apresentar, pelo menos, 20 eventos históricos ao todo, destacando a relevância global, regional e local destes fatos.
-
-Nota: Se o mural for feito em grupo, a quantidade de lugares que o mural deve ser exposto deve ser proporcional ao número de membros que participaram da confecção. Você poderá contar com a ajuda de seu diretor ou conselheiro.
-
+    > Nota: Se o mural for feito em grupo, a quantidade de lugares que o mural deve ser exposto deve ser proporcional ao número de membros que participaram da confecção. Você poderá contar com a ajuda de seu diretor ou conselheiro.
 11. Participar de uma encenação sobre algum acontecimento peculiar na história dos pioneiros adventistas.
-
 12. Após todos os trabalhos serem realizados, discutir com seu instrutor o sentido de herança, legado, tradição e pertinência.
 
 ![](_page_33_Figure_14.jpeg)
@@ -1341,56 +1230,33 @@ Nota: Se o mural for feito em grupo, a quantidade de lugares que o mural deve se
 ### REQUISITOS
 
 1. Relacione 10 formas diferentes de evangelizar utilizando a internet.
-
 2. Liste, no mínimo 2 sites diferentes para cada um dos temas a seguir, que possam auxiliar um instrutor bíblico adventista em sua classe:
-
-a) Jesus
-
-b) Salvação
-
-c) Bíblia
-
-d) Família
-
-e) Saúde
-
-f) Sábado
-
-g) Conduta cristã
-
+   1. Jesus
+   2. Salvação
+   3. Bíblia
+   4. Família
+   5. Saúde
+   6. Sábado
+   7. Conduta cristã
 3. Possuir contas nos seguintes meios de relacionamento virtual, procurando alcançar amigos que ainda não conhecem a Jesus.
-
-a) Rede social – Tendo relacionamento com no mínimo 50 amigos.
-
-b) Email – Com uma lista de ao menos 25 contatos.
-
-c) Micro-blog – Com temas cristãos e com pelo menos 25 seguidores e postagens semanais por dois meses.
-
-Utilizando seus próprios perfis nas redes sociais descritas acima, elabore um projeto evangelístico com datas e passagens bíblicas pré-escolhidas, onde durante 2 meses, 3 vezes por semana, você deve enviar um verso bíblico, uma citação dos livros de Ellen White, imagens com mensagens cristãs ou link para conteúdos sobre um dos temas do requisito 2, para todas as pessoas com quem se relaciona em cada uma das contas. 4. Mencionar a importância de manter também um plano de evangelismo pessoal como parte de sua rotina e relacionar as vantagens e desvantagens de evangelizar apenas digitalmente.
-
+   1. Rede social – Tendo relacionamento com no mínimo 50 amigos.
+   2. Email – Com uma lista de ao menos 25 contatos.
+   3. Micro-blog – Com temas cristãos e com pelo menos 25 seguidores e postagens semanais por dois meses.
+   > Utilizando seus próprios perfis nas redes sociais descritas acima, elabore um projeto evangelístico com datas e passagens bíblicas pré-escolhidas, onde durante 2 meses, 3 vezes por semana, você deve enviar um verso bíblico, uma citação dos livros de Ellen White, imagens com mensagens cristãs ou link para conteúdos sobre um dos temas do requisito 2, para todas as pessoas com quem se relaciona em cada uma das contas.
+4. Mencionar a importância de manter também um plano de evangelismo pessoal como parte de sua rotina e relacionar as vantagens e desvantagens de evangelizar apenas digitalmente.
 5. Que cuidados um cristão deve ter ao navegar na internet? Com base em Filipenses 4:8, elabore uma lista de critérios para a escolha de sites. Escreva um voto e assine, comprometendo-se a seguir sua lista de critérios.
-
 6. Liste 10 sites ou blogs de diferentes Clubes de Desbravadores e avalie-os com base no seguinte:
-
-a) Quais trazem, além de conteúdo técnico, conteúdo evangelístico? b) Quais possuem um formato mais agradável à sua navegação?
-
-c) Quais possuem links direcionando para sites evangelísticos?
-
-d) Quais são mais indicados para uma apresentação do Clube a algum interessado?
-
+   1. Quais trazem, além de conteúdo técnico, conteúdo evangelístico?
+   2. Quais possuem um formato mais agradável à sua navegação?
+   3. Quais possuem links direcionando para sites evangelísticos?
+   4. Quais são mais indicados para uma apresentação do Clube a algum interessado?
 7. Visitar 5 diferentes sites oficiais da Igreja Adventista do Sétimo Dia e, no espaço para comentários, se identificar e enviar ideias de alguma nova matéria ou conteúdo evangelístico para o site.
-
 8. Explique como a internet pode nos auxiliar no cumprimento da ordem de Jesus encontrada em Marcos 16:15?
-
 9. Curtir e compartilhar a página fb.com/evangelismoweb e seguir o twitter @ evangelismoweb. Fazer parte ativa nestas comunidades.
-
 10. Assinar a newsletter do site evangelismoweb.com.
-
 11. Curtir e compartilhar a página fb.com/Clubededesbravadores e seguir o twitter @ osdesbravadores. Fazer parte ativa nestas comunidades.
-
 12. Participar de alguma modalidade de colaboradores (intercessor, conselheiro, instrutor) do site bíblia.com.br.
-
-13. Participar de um projeto de evangelismoweb promovido pela Divisão Sul-Americana, União ou Campo local (Associação/Missão).
+13. Participar de um projeto de evangelismo web promovido pela Divisão Sul-Americana, União ou Campo local (Associação/Missão).
 
 ## Evangelismo web - avançado
 
@@ -1398,79 +1264,47 @@ d) Quais são mais indicados para uma apresentação do Clube a algum interessad
 
 1. Ter a especialidade de Evangelismo web.
 2. Com base nos critérios aprendidos nos requisitos 5 e 6 da especialidade de Evangelismo web, crie um site ou blog, pessoal ou para seu clube. Utilizando-se desse site/blog, durante o período de 3 meses, você deverá postar semanalmente conteúdos relacionados a pelo menos três dos temas abaixo:
-
-a) Como a Bíblia e seu ensinos se se aplicam à vida do Desbravador.
-
-b) Notícias de seu Clube de Desbravadores.
-
-c) Artigos ou entrevistas que abordem as vantagens de participar de um Clube de Desbravadores.
-
-d) Conteúdo de referência criado por você (tutorial, guias, apostilas, fotos, vídeos, artigo, testemunho) relacionados a classes e especialidades de Desbravadores que possam ajudar outros Desbravadores.
-
-e) Conteúdos sobre projetos Sociais desenvolvidos pelo seu Clube, pela ADRA ou relacionadas aos projetos: Quebrando o Silêncio, Vida por Vidas ou Missão Calebe. f) Em suas postagens, insira ao menos 3 links direcionando para sites oficiais da Igreja Adventista do Sétimo Dia ou sites de voluntários que possuam conteúdos relacionados ao tema postado.
-
+   1. Como a Bíblia e seu ensinos se se aplicam à vida do Desbravador.
+   2. Notícias de seu Clube de Desbravadores.
+   3. Artigos ou entrevistas que abordem as vantagens de participar de um Clube de Desbravadores.
+   4. Conteúdo de referência criado por você (tutorial, guias, apostilas, fotos, vídeos, artigo, testemunho) relacionados a classes e especialidades de Desbravadores que possam ajudar outros Desbravadores.
+   5. Conteúdos sobre projetos Sociais desenvolvidos pelo seu Clube, pela ADRA ou relacionadas aos projetos: Quebrando o Silêncio, Vida por Vidas ou Missão Calebe.
+   6. Em suas postagens, insira ao menos 3 links direcionando para sites oficiais da Igreja Adventista do Sétimo Dia ou sites de voluntários que possuam conteúdos relacionados ao tema postado.
 3. Divulgar seu site/blog semanalmente, utilizando as contas listadas no requisito 3 da especialidade de Evangelismo virtual e/ou outros métodos criativos.
-
 4. Elaborar um gráfico com os dados de acesso semanal, analisando a variação da quantidade de acessos e conteúdos mais acessados (páginas do site).
-
 5. Liste pelo menos 3 sites que disponibilizem a Bíblia em diversas traduções, com campo de pesquisa de palavras. Fazer um balanço sobre os diferentes recursos oferecidos por cada um e suas vantagens.
-
 6. Utilizando-se dos sites listados no requisito 5 desta especialidade, realize uma pesquisa sobre um dos temas do requisito 2 da especialidade de Evangelismo web, listando no mínimo 15 passagens bíblicas sobre o tema escolhido. Escreva um pequeno parágrafo explicativo para cada uma das passagens e envie cada dia uma dessas passagens, por 15 dias, junto ao texto explicativo, para ao menos 50 contatos, em cada uma das contas utilizadas no requisito 3 da especialidade de Evangelismo web.
-
 7. Qual a importância da Internet como ferramenta na pregação do evangelho aos povos que vivem em regimes fechados e onde não existe liberdade religiosa? Listar ao menos 5 países que não possuem liberdade religiosa. Discuta com seu instrutor sobre como a Internet pode nos auxiliar no cumprimento da ordem de Jesus encontrada em Marcos 16:15.
-
 8. Disponibilizar uma opção de tradução automática em seu site para pelo menos 1 língua falada nos países sem liberdade religiosa identificados no requisito 7.
-
 9. Durante o período de cumprimento desta especialidade, completar uma das seguintes atividades:
-
-a) Participar como voluntário de um projeto de evangelismo web promovido pela Divisão Sul-Americana, União ou Campo local (Associação/Missão).
-
-b) Participar de um fórum presencial ou on-line promovido pela Divisão, União ou Associação/Missão com o tema de evangelismo web.
-
-c) Produzir um vídeo original apresentando um dos temas do requisito 2 da
-
-especialidade de evangelismo web e postar este vídeo no youtube.
-
-d) Alcançar um indíce de influência no serviço Klout (klout.com) de no mínimo 30.
+   1. Participar como voluntário de um projeto de evangelismo web promovido pela Divisão Sul-Americana, União ou Campo local (Associação/Missão).
+   2. Participar de um fórum presencial ou on-line promovido pela Divisão, União ou Associação/Missão com o tema de evangelismo web.
+   3. Produzir um vídeo original apresentando um dos temas do requisito 2 da especialidade de evangelismo web e postar este vídeo no youtube.
+   4. Alcançar um indíce de influência no serviço Klout (klout.com) de no mínimo 30.
 
 ## Intercessor
 
 ### REQUISITOS
 
 1. Defina com suas palavras:
-
-a) O que é um intercessor
-
-b) O que é oração Intercessora
-
+   1. O que é um intercessor
+   2. O que é oração Intercessora
 2. Pesquisar na Bíblia e em livros do Espírito de Profecia sobre o ministério intercessor de Cristo no Santuário celestial.
-
 3. Cite, ao menos, 3 versos bíblicos diferentes dos citados nesta especialidade que incentivam as pessoas a orarem umas pelas outras.
-
 4. Cite, ao menos, 3 histórias bíblicas onde um personagem tenha intercedido por outro(s).
-
 5. Porque é importante tornar-se um intercessor? Quais os benefícios de orar por outros?
-
-6. Debater com seu grupo de oração intercessora as seguintes passagens: a) João 17:9 – De quem Jesus estava falando?
-
-**b**) Tiago 5: 13 a 16 – Por que a Bíblia nos deixou esses conselhos?
-
-c) Mateus 6: 5 a 15 – O que essa passagem ensina sobre oração e intercessão? 7. Fazer dois dos seguintes:
-
-a) Fazer uma pesquisa em seu bairro ou comunidade levantando interessados em receber orações de seu grupo. Manter uma relação de endereços desses e, ao final do período de pelo menos 2 semanas, enviar uma carta oferecendo um estudo bíblico a cada um e convidá-los para uma programação especial de sua Igreja. b) Manter uma relação de e-mails e telefones de membros de seu Clube e Igreja. Durante os cultos de oração de sua Igreja, listar cada novo pedido e enviar mensagens aos membros da relação para que orem, a fim de formar uma rede de oração.
-
-c) Criar um site ou blog que possa receber pedidos de oração. Divulgá-lo em sua comunidade e para seus amigos. Fazer com que todos os pedidos recebidos sejam encaminhados a pessoas que possam orar pelos mesmos, incluindo você.
-
+6. Debater com seu grupo de oração intercessora as seguintes passagens:
+   1. João 17:9 – De quem Jesus estava falando?
+   2. Tiago 5: 13 a 16 – Por que a Bíblia nos deixou esses conselhos?
+   3. Mateus 6: 5 a 15 – O que essa passagem ensina sobre oração e intercessão?
+7. Fazer dois dos seguintes:
+   1. Fazer uma pesquisa em seu bairro ou comunidade levantando interessados em receber orações de seu grupo. Manter uma relação de endereços desses e, ao final do período de pelo menos 2 semanas, enviar uma carta oferecendo um estudo bíblico a cada um e convidá-los para uma programação especial de sua Igreja.
+   2. Manter uma relação de e-mails e telefones de membros de seu Clube e Igreja. Durante os cultos de oração de sua Igreja, listar cada novo pedido e enviar mensagens aos membros da relação para que orem, a fim de formar uma rede de oração.
+   3. Criar um site ou blog que possa receber pedidos de oração. Divulgá-lo em sua comunidade e para seus amigos. Fazer com que todos os pedidos recebidos sejam encaminhados a pessoas que possam orar pelos mesmos, incluindo você.
 8. Durante, ao menos, 2 reuniões de seu Clube, participar de um momento de oração intercessora, onde os membros possam expressar seus pedidos de oração, orar uns pelos outros e anotar os pedidos dos demais para orar durante a semana.
-
-9. Em consulta com seu Diretor, fazer uma lista de desbravadores "ausentes" de seu Clube e orar por esses pelo período mínimo de 30 dias. Em conjunto com seu grupo
-
-que está cumprindo a especialidade, visitá-los ou, na impossibilidade, enviar um cartão informando o fato de terem orado pelos mesmos por esse período. Perguntar se sentem o desejo de regressar e convidá-los a retornar ao Clube.
-
+9. Em consulta com seu Diretor, fazer uma lista de desbravadores "ausentes" de seu Clube e orar por esses pelo período mínimo de 30 dias. Em conjunto com seu grupo que está cumprindo a especialidade, visitá-los ou, na impossibilidade, enviar um cartão informando o fato de terem orado pelos mesmos por esse período. Perguntar se sentem o desejo de regressar e convidá-los a retornar ao Clube.
 10. Estabelecer um horário bem definido para suas orações. Explique por que escolheu esse horário. Em uma entrevista com o seu Pastor ou Ancião, descubra como é possível seguir a recomendação de 1 Tessalonicenses 5:17.
-
 11. Fazer um relatório sobre suas experiências ao realizar os requisitos dessa especialidade. Citar os pontos positivos encontrados e observados. O que melhorou em sua vida durante esse período? Você gostaria de continuar intercedendo por outros? Por quê?
-
 12. Durante o período dessa especialidade, incluir em sua lista de oração os membros do grupo de oração intercessora que estão cumprindo a especialidade.
 
 ![](_page_36_Figure_4.jpeg)
@@ -1478,80 +1312,64 @@ que está cumprindo a especialidade, visitá-los ou, na impossibilidade, enviar 
 ### REQUISITOS
 
 1. Descobrir o que foi o Movimento Milerita e qual seu papel fundamental para o início da Igreja Adventista do Sétimo Dia.
-
 2. Explicar o grande desapontamento com base na profecia de Daniel 8.
-
 3. Estudar sobre Ellen White e qual o papel de seus ensinos dentro da nossa Igreja.
-
 4. Conhecer a estrutura organizacional da Igreja Adventista. Preparar um organograma eclesiástico.
-
-- 5. Apresentar um resumo biográfico dos seguintes líderes:
-  - a) Guilherme Miller
-  - **b)** Tiago White
-  - c) Ellen White
-  - d) José Bates
-  - e) J. N. Andrews
-  - f) Harry Fenner
-  - g) Luther Warren
-  - h) Outro pioneiro da IASD de sua preferência
-
+5. Apresentar um resumo biográfico dos seguintes líderes:
+   1. Guilherme Miller
+   2. Tiago White
+   3. Ellen White
+   4. José Bates
+   5. J. N. Andrews
+   6. Harry Fenner
+   7. Luther Warren
+   8. Outro pioneiro da IASD de sua preferência
 6. Quais líderes podem ser considerados os pioneiros dos desbravadores no mundo, em sua Divisão e em seu país? Elaborar uma apresentação audiovisual sobre eles e apresentar ao seu Clube ou em alguma ocasião oportuna, decidida entre você e seu instrutor.
-
-7. Escolha outro departamento da IASD e descobrir dados sobre sua fundação. Dê especial atenção à atuação dos pioneiros deste departamento. Apresentar relatório. 8. Descobrir como se iniciou o movimento adventista em seus pais. Dê especial atenção à atuação dos pioneiros no processo.
-
+7. Escolha outro departamento da IASD e descobrir dados sobre sua fundação. Dê especial atenção à atuação dos pioneiros deste departamento. Apresentar relatório.
+8. Descobrir como se iniciou o movimento adventista em seus pais. Dê especial atenção à atuação dos pioneiros no processo.
 9. Conheça as 28 Crenças Fundamentais da Igreja Adventista do Sétimo Dia e apresentar um relatório sobre sua importância. Apontar 2 textos bíblicos para cada uma das crenças fundamentais.
 
 ![](_page_37_Picture_0.jpeg)
 
 1. Descubrir a origem do nome e da língua oficial do seu país.
-
 2. Mencionar quem foram os primeiros habitantes do seu país e como a cultura deles influenciou sua nação.
-
 3. O que é miscigenação? Descreva as principais etnias que formaram a população do seu país e em qual delas sua família se encaixa.
-
 4. Conhecer, cantar e explicar o significado de dois hinos oficiais de seu país (como independência, bandeira, proclamação da República, etc.), além do hino nacional.
-
-- 5. Explicar a origem da bandeira nacional e o seu significado.
-- 6. Saber como é o sistema de defesa do seu país e como funciona o alistamento militar.
-- 7. Explicar a forma de governo do seu país e como os representantes são escolhidos.
-- 8. Saber o nome dos 5 últimos presidentes do seu país.
-
+5. Explicar a origem da bandeira nacional e o seu significado.
+6. Saber como é o sistema de defesa do seu país e como funciona o alistamento militar.
+7. Explicar a forma de governo do seu país e como os representantes são escolhidos.
+8. Saber o nome dos 5 últimos presidentes do seu país.
 9. Participar de um evento cívico/patriótico, onde participem oficiais ou representantes do governo de seu país.
-
 10. Saber o que é um embaixador e contar a história da atuação do embaixador em terras estrangeiras.
-
 11. Por que podemos ser considerados embaixadores de Cristo?
-
 12. Explicar a frase: "Estamos aqui neste mundo só de passagem, nossa verdadeira pátria está além rio".
-
 13. Citar 3 passagens bíblicas que retratem a pátria celeste.
 
 ![](_page_37_Figure_15.jpeg)
 
 ### REQUISITOS
 
-- 1. Defina o que é sonoplastia.
-- 2. Quais as qualidades de um sonoplasta?
-- 3. Conhecer e mencionar a utilização dos equipamentos a seguir:
-  - a) Mesa de som
-  - **b**) Microfone
-  - c) Fones de ouvido
-- d) Multicabo
-- e) Equalizador
-- f) Retorno
-- g) Compressor
-- h) Caixa de som
-
+1. Defina o que é sonoplastia.
+2. Quais as qualidades de um sonoplasta?
+3. Conhecer e mencionar a utilização dos equipamentos a seguir:
+   1. Mesa de som
+   2. Microfone
+   3. Fones de ouvido
+   4. Multicabo
+   5. Equalizador
+   6. Retorno
+   7. Compressor
+   8. Caixa de som
 4. Qual a função de uma mesa de som? Utilizando a mesa de som de sua igreja, mencionar suas principais entradas e saídas e dizer o que faz cada botão.
-
-- 5. Quais os tipos de cabos mais usados na sonoplastia? Defina os usos de cada um.
-- 6. Quais os tipos de microfones mais utilizados?
-- 7. O que pode atrapalhar o bom funcionamento de um microfone sem fio?
-- 8. O que é equalização?
-- 9. Qual a função de um compressor?
-- 10. Como se dá a reverberação e como evitá-la?
-- 11. Qual a importância de se possuir o cronograma do culto para poder operar o som? 12. Operar a mesa de som em, pelo menos, 2 programas, sob orientação do sonoplasta de sua igreja.
-- 13. Auxiliar a equipe de sonoplastia da sua Igreja por, ao menos, 3 meses.
+5. Quais os tipos de cabos mais usados na sonoplastia? Defina os usos de cada um.
+6. Quais os tipos de microfones mais utilizados?
+7. O que pode atrapalhar o bom funcionamento de um microfone sem fio?
+8. O que é equalização?
+9. Qual a função de um compressor?
+10. Como se dá a reverberação e como evitá-la?
+11. Qual a importância de se possuir o cronograma do culto para poder operar o som?
+12. Operar a mesa de som em, pelo menos, 2 programas, sob orientação do sonoplasta de sua igreja.
+13. Auxiliar a equipe de sonoplastia da sua Igreja por, ao menos, 3 meses.
 
 ![](_page_38_Picture_0.jpeg)
 
