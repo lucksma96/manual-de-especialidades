@@ -2,17 +2,17 @@
 
 ![Capa ADRA](_page_0_Picture_0.jpeg)
 
-| Especialidade                                                                               | Ano  | Código | Número |
-| ------------------------------------------------------------------------------------------- | ---- | ------ | ------ |
-| [Alívio da fome](#alívio-da-fome)                                                           | 2005 | AD     | 001    |
-| [Avaliação da comunidade](#avaliação-da-comunidade)                                         | 2005 | AD     | 002    |
-| [Serviço comunitário](#serviço-comunitário)                                                 | 2005 | AD     | 003    |
-| [Resposta a emergências e desastres](#resposta-a-emergências-e-desastres)                   | 2005 | AD     | 004    |
-| [Resposta a emergências e desastres avançado](#resposta-a-emergências-e-desastres-avançado) | 2009 | AD     | 005    |
-| [Alfabetização](#alfabetização)                                                             | 2009 | AD     | 006    |
-| [Resolução de conflitos](#resolução-de-conflitos)                                           | 2009 | AD     | 007    |
-| [Reassentamento de refugiados](#reassentamento-de-refugiados)                               | 2009 | AD     | 008    |
-| [Desenvolvimento comunitário](#desenvolvimento-comunitário)                                 | 2009 | AD     | 009    |
+| Especialidade                                                                               |  Ano  | Código | Número |
+| ------------------------------------------------------------------------------------------- | :---: | :----: | :----: |
+| [Alívio da fome](#alívio-da-fome)                                                           | 2005  |   AD   |  001   |
+| [Avaliação da comunidade](#avaliação-da-comunidade)                                         | 2005  |   AD   |  002   |
+| [Serviço comunitário](#serviço-comunitário)                                                 | 2005  |   AD   |  003   |
+| [Resposta a emergências e desastres](#resposta-a-emergências-e-desastres)                   | 2005  |   AD   |  004   |
+| [Resposta a emergências e desastres avançado](#resposta-a-emergências-e-desastres-avançado) | 2009  |   AD   |  005   |
+| [Alfabetização](#alfabetização)                                                             | 2009  |   AD   |  006   |
+| [Resolução de conflitos](#resolução-de-conflitos)                                           | 2009  |   AD   |  007   |
+| [Reassentamento de refugiados](#reassentamento-de-refugiados)                               | 2009  |   AD   |  008   |
+| [Desenvolvimento comunitário](#desenvolvimento-comunitário)                                 | 2009  |   AD   |  009   |
 
 ## Alívio da fome
 

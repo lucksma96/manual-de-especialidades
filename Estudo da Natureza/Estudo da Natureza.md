@@ -1,102 +1,102 @@
 ![](_page_0_Picture_0.jpeg)
 
-| Especialidade                            | Ano  | Código | Número |
-| ---------------------------------------- | ---- | ------ | ------ |
-| Aranhas                                  | 1928 | EN     | 001    |
-| Astronomia                               | 1928 | EN     | 002    |
-| Aves                                     | 1928 | EN     | 003    |
-| Aves domésticas                          | 1928 | EN     | 004    |
-| Flores                                   | 1928 | EN     | 005    |
-| Arvores                                  | 1928 | EN     | 006    |
-| Insetos                                  | 1933 | EN     | 007    |
-| Mariposas e borboletas                   | 1933 | EN     | 008    |
-| Fungos                                   | 1937 | EN     | 009    |
-| Mamíferos                                | 1937 | EN     | 010    |
-| Répteis                                  | 1937 | EN     | 011    |
-| Rochas e minerais                        | 1937 | EN     | 012    |
-| Rochas e minerais - avançado             | 1937 | EN     | 013    |
-| Moluscos                                 | 1938 | EN     | 014    |
-| Cactos                                   | 1944 | EN     | 015    |
-| Climatologia                             | 1944 | EN     | 016    |
-| Fósseis                                  | 1944 | EN     | 017    |
-| Samambaias                               | 1944 | EN     | 018    |
-| Arbustos                                 | 1945 | EN     | 019    |
-| Aves de estimação                        | 1945 | EN     | 020    |
-| Gramíneas                                | 1945 | EN     | 021    |
-| Peixes                                   | 1945 | EN     | 022    |
-| Anfibios                                 | 1945 | EN     | 023    |
-| Felinos                                  | 1945 | EN     | 024    |
-| Rebanhos domésticos                      | 1945 | EN     | 025    |
-| Astronomia - avançado                    | 1949 | EN     | 026    |
-| Aves - avançado                          | 1949 | EN     | 027    |
-| Climatologia - avançado                  | 1949 | EN     | 028    |
-| Flores - avançado                        | 1949 | EN     | 029    |
-| Insetos - avançado                       | 1949 | EN     | 030    |
-| Mamíferos - avançado                     | 1949 | EN     | 031    |
-| Moluscos - avançado                      | 1949 | EN     | 032    |
-| Arvores - avançado                       | 1949 | EN     | 033    |
-| Cães                                     | 1950 | EN     | 034    |
-| Areia                                    | 1956 | EN     | 035    |
-| Algas                                    | 1960 | EN     | 036    |
-| Cetáceos                                 |      | EN     | 037    |
-| Ervas                                    |      | EN     | 038    |
-| Eucaliptos                               |      | EN     | 039    |
-| Sementes                                 | 1961 | EN     | 040    |
-| Sementes - avançado                      | 1961 | EN     | 041    |
-| Orquídeas                                | 1964 | EN     | 042    |
-| Plantas silvestres comestíveis           | 1970 | EN     | 043    |
-| Ecologia                                 | 1972 | EN     | 044    |
-| Ecologia - avançado                      | 1972 | EN     | 045    |
-| Conservação ambiental                    | 1973 | EN     | 046    |
-| Geologia                                 | 1975 | EN     | 047    |
-| Geologia - avançado                      | 1975 | EN     | 048    |
-| Plantas caseiras                         | 1976 | EN     | 049    |
-| Rastreio de animais                      | 1976 | EN     | 050    |
-| Mamíferos marinhos                       | 1991 | EN     | 051    |
-| Pequenos mamíferos de estimação          | 1997 | EN     | 052    |
-| Cactos - avançado                        | 1999 | EN     | 053    |
-| Anfíbios - avançado                      | 2001 | EN     | 054    |
-| Felinos - avançado                       | 2001 | EN     | 055    |
-| Rastreio de animais - avançado           | 2001 | EN     | 056    |
-| Répteis - avançado                       | 2001 | EN     | 057    |
-| Animais ameaçados de extinção            | 2004 | EN     | 058    |
-| Morcegos                                 | 2004 | EN     | 059    |
-| Morcegos - avançado                      | 2004 | EN     | 060    |
-| Marsupiais                               |      | EN     | 061    |
-| Orquídeas - avançado                     | 2006 | EN     | 062    |
-| Palmeiras                                |      | EN     | 063    |
-| Solos                                    | 2006 | EN     | 064    |
-| Vermes                                   | 2006 | EN     | 065    |
-| Vermes - avançado                        | 2006 | EN     | 066    |
-| Quedas d'água                            | 2011 | EN     | 067    |
-| Aquarismo                                | 2012 | EN     | 068    |
-| Animais peçonhentos                      | 2012 | EN     | 069    |
-| Animais noturnos                         | 2012 | EN     | 070    |
-| Animais nocivos                          | 2012 | EN     | 071    |
-| Arbustos - avançado                      | 2012 | EN     | 072    |
-| Araras, papagaios e periquitos           | 2012 | EN     | 073    |
-| Briófitas                                | 2012 | EN     | 074    |
-| Bactérias                                | 2012 | EN     | 075    |
-| Camelos                                  | 2012 | EN     | 076    |
-| Citologia                                | 2012 | EN     | 077    |
-| Crustáceos                               | 2012 | EN     | 078    |
-| Dinossauros                              | 2012 | EN     | 079    |
-| Equinodermos                             | 1956 | ΕN     | 080    |
-| Energias renováveis                      | 2012 | EN     | 081    |
-| Estuário                                 | 2012 | EN     | 082    |
-| Fauna marinha                            | 2012 | EN     | 083    |
-| Fisiologia vegetal                       | 2012 | EN     | 084    |
-| Formigas                                 | 2012 | EN     | 085    |
-| Liquens                                  | 2012 | EN     | 086    |
-| Odonata                                  | 2012 | EN     | 087    |
-| Plantas carnívoras                       | 2012 | EN     | 088    |
-| Preservação de recursos hídricos         | 2012 | EN     | 089    |
-| Poríferos e cnidários                    | 2012 | EN     | 090    |
-| Protozoários                             | 2012 | EN     | 091    |
-| Reciclagem e sustentabilidade            | 2012 | ΕN     | 092    |
-| Reciclagem e sustentabilidade - avançado | 2012 | EN     | 093    |
-| Tubarões                                 | 2012 | EN     | 094    |
-| Vírus                                    | 2012 | EN     | 095    |
+| Especialidade                            |  Ano  | Código | Número |
+| ---------------------------------------- | :---: | :----: | :----: |
+| Aranhas                                  | 1928  |   EN   |  001   |
+| Astronomia                               | 1928  |   EN   |  002   |
+| Aves                                     | 1928  |   EN   |  003   |
+| Aves domésticas                          | 1928  |   EN   |  004   |
+| Flores                                   | 1928  |   EN   |  005   |
+| Arvores                                  | 1928  |   EN   |  006   |
+| Insetos                                  | 1933  |   EN   |  007   |
+| Mariposas e borboletas                   | 1933  |   EN   |  008   |
+| Fungos                                   | 1937  |   EN   |  009   |
+| Mamíferos                                | 1937  |   EN   |  010   |
+| Répteis                                  | 1937  |   EN   |  011   |
+| Rochas e minerais                        | 1937  |   EN   |  012   |
+| Rochas e minerais - avançado             | 1937  |   EN   |  013   |
+| Moluscos                                 | 1938  |   EN   |  014   |
+| Cactos                                   | 1944  |   EN   |  015   |
+| Climatologia                             | 1944  |   EN   |  016   |
+| Fósseis                                  | 1944  |   EN   |  017   |
+| Samambaias                               | 1944  |   EN   |  018   |
+| Arbustos                                 | 1945  |   EN   |  019   |
+| Aves de estimação                        | 1945  |   EN   |  020   |
+| Gramíneas                                | 1945  |   EN   |  021   |
+| Peixes                                   | 1945  |   EN   |  022   |
+| Anfibios                                 | 1945  |   EN   |  023   |
+| Felinos                                  | 1945  |   EN   |  024   |
+| Rebanhos domésticos                      | 1945  |   EN   |  025   |
+| Astronomia - avançado                    | 1949  |   EN   |  026   |
+| Aves - avançado                          | 1949  |   EN   |  027   |
+| Climatologia - avançado                  | 1949  |   EN   |  028   |
+| Flores - avançado                        | 1949  |   EN   |  029   |
+| Insetos - avançado                       | 1949  |   EN   |  030   |
+| Mamíferos - avançado                     | 1949  |   EN   |  031   |
+| Moluscos - avançado                      | 1949  |   EN   |  032   |
+| Arvores - avançado                       | 1949  |   EN   |  033   |
+| Cães                                     | 1950  |   EN   |  034   |
+| Areia                                    | 1956  |   EN   |  035   |
+| Algas                                    | 1960  |   EN   |  036   |
+| Cetáceos                                 |  --   |   EN   |  037   |
+| Ervas                                    |  --   |   EN   |  038   |
+| Eucaliptos                               |  --   |   EN   |  039   |
+| Sementes                                 | 1961  |   EN   |  040   |
+| Sementes - avançado                      | 1961  |   EN   |  041   |
+| Orquídeas                                | 1964  |   EN   |  042   |
+| Plantas silvestres comestíveis           | 1970  |   EN   |  043   |
+| Ecologia                                 | 1972  |   EN   |  044   |
+| Ecologia - avançado                      | 1972  |   EN   |  045   |
+| Conservação ambiental                    | 1973  |   EN   |  046   |
+| Geologia                                 | 1975  |   EN   |  047   |
+| Geologia - avançado                      | 1975  |   EN   |  048   |
+| Plantas caseiras                         | 1976  |   EN   |  049   |
+| Rastreio de animais                      | 1976  |   EN   |  050   |
+| Mamíferos marinhos                       | 1991  |   EN   |  051   |
+| Pequenos mamíferos de estimação          | 1997  |   EN   |  052   |
+| Cactos - avançado                        | 1999  |   EN   |  053   |
+| Anfíbios - avançado                      | 2001  |   EN   |  054   |
+| Felinos - avançado                       | 2001  |   EN   |  055   |
+| Rastreio de animais - avançado           | 2001  |   EN   |  056   |
+| Répteis - avançado                       | 2001  |   EN   |  057   |
+| Animais ameaçados de extinção            | 2004  |   EN   |  058   |
+| Morcegos                                 | 2004  |   EN   |  059   |
+| Morcegos - avançado                      | 2004  |   EN   |  060   |
+| Marsupiais                               |  --   |   EN   |  061   |
+| Orquídeas - avançado                     | 2006  |   EN   |  062   |
+| Palmeiras                                |  --   |   EN   |  063   |
+| Solos                                    | 2006  |   EN   |  064   |
+| Vermes                                   | 2006  |   EN   |  065   |
+| Vermes - avançado                        | 2006  |   EN   |  066   |
+| Quedas d'água                            | 2011  |   EN   |  067   |
+| Aquarismo                                | 2012  |   EN   |  068   |
+| Animais peçonhentos                      | 2012  |   EN   |  069   |
+| Animais noturnos                         | 2012  |   EN   |  070   |
+| Animais nocivos                          | 2012  |   EN   |  071   |
+| Arbustos - avançado                      | 2012  |   EN   |  072   |
+| Araras, papagaios e periquitos           | 2012  |   EN   |  073   |
+| Briófitas                                | 2012  |   EN   |  074   |
+| Bactérias                                | 2012  |   EN   |  075   |
+| Camelos                                  | 2012  |   EN   |  076   |
+| Citologia                                | 2012  |   EN   |  077   |
+| Crustáceos                               | 2012  |   EN   |  078   |
+| Dinossauros                              | 2012  |   EN   |  079   |
+| Equinodermos                             | 1956  |   ΕN   |  080   |
+| Energias renováveis                      | 2012  |   EN   |  081   |
+| Estuário                                 | 2012  |   EN   |  082   |
+| Fauna marinha                            | 2012  |   EN   |  083   |
+| Fisiologia vegetal                       | 2012  |   EN   |  084   |
+| Formigas                                 | 2012  |   EN   |  085   |
+| Liquens                                  | 2012  |   EN   |  086   |
+| Odonata                                  | 2012  |   EN   |  087   |
+| Plantas carnívoras                       | 2012  |   EN   |  088   |
+| Preservação de recursos hídricos         | 2012  |   EN   |  089   |
+| Poríferos e cnidários                    | 2012  |   EN   |  090   |
+| Protozoários                             | 2012  |   EN   |  091   |
+| Reciclagem e sustentabilidade            | 2012  |   ΕN   |  092   |
+| Reciclagem e sustentabilidade - avançado | 2012  |   EN   |  093   |
+| Tubarões                                 | 2012  |   EN   |  094   |
+| Vírus                                    | 2012  |   EN   |  095   |
 
 | EN  | Aranhas    |             |                                           |  |
 |-----|-------------------|-------------|-------------------------------------------|--|

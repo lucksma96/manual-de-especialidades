@@ -2,23 +2,23 @@
 
 ![Capa Mestrados](_page_0_Picture_0.jpeg)
 
-| Especialidade                                                                       | Ano  | Código | Número |
-| ----------------------------------------------------------------------------------- | ---- | ------ | ------ |
-| [Mestrado em ADRA](#mestrado-em-adra)                                               | 2012 | ME     | 001    |
-| [Mestrado em artes e habilidades manuais](#mestrado-em-artes-e-habilidades-manuais) | 1976 | ME     | 002    |
-| [Mestrado em atividades agrícolas](#mestrado-em-atividades-agrícolas)               | 1976 | ME     | 003    |
-| [Mestrado em testificação](#mestrado-em-testificação)                               | 1976 | ME     | 004    |
-| [Mestrado em atividades profissionais](#mestrado-em-atividades-profissionais)       | 1976 | ME     | 005    |
-| [Mestrado em ciência e tecnologia](#mestrado-em-ciência-e-tecnologia)               | 2012 | ME     | 006    |
-| [Mestrado em aquática](#mestrado-em-aquática)                                       | 1976 | ME     | 007    |
-| [Mestrado em esportes](#mestrado-em-esportes)                                       | 1976 | ME     | 008    |
-| [Mestrado em vida campestre](#mestrado-em-vida-campestre)                           | 1976 | ME     | 009    |
-| [Mestrado em atividades recreativas](#mestrado-em-atividades-recreativas)           | 1986 | ME     | 010    |
-| [Mestrado em saúde](#mestrado-em-saúde)                                             | 1997 | ME     | 011    |
-| [Mestrado em zoologia](#mestrado-em-zoologia)                                       | -    | ME     | 012    |
-| [Mestrado em ecologia](#mestrado-em-ecologia)                                       | 1976 | ME     | 013    |
-| [Mestrado em botânica](#mestrado-em-botânica)                                       | 2012 | ME     | 014    |
-| [Mestrado em habilidades domésticas](#mestrado-em-habilidades-domésticas)           | 1976 | ME     | 015    |
+| Especialidade                                                                       |  Ano  | Código | Número |
+| ----------------------------------------------------------------------------------- | :---: | :----: | :----: |
+| [Mestrado em ADRA](#mestrado-em-adra)                                               | 2012  |   ME   |  001   |
+| [Mestrado em artes e habilidades manuais](#mestrado-em-artes-e-habilidades-manuais) | 1976  |   ME   |  002   |
+| [Mestrado em atividades agrícolas](#mestrado-em-atividades-agrícolas)               | 1976  |   ME   |  003   |
+| [Mestrado em testificação](#mestrado-em-testificação)                               | 1976  |   ME   |  004   |
+| [Mestrado em atividades profissionais](#mestrado-em-atividades-profissionais)       | 1976  |   ME   |  005   |
+| [Mestrado em ciência e tecnologia](#mestrado-em-ciência-e-tecnologia)               | 2012  |   ME   |  006   |
+| [Mestrado em aquática](#mestrado-em-aquática)                                       | 1976  |   ME   |  007   |
+| [Mestrado em esportes](#mestrado-em-esportes)                                       | 1976  |   ME   |  008   |
+| [Mestrado em vida campestre](#mestrado-em-vida-campestre)                           | 1976  |   ME   |  009   |
+| [Mestrado em atividades recreativas](#mestrado-em-atividades-recreativas)           | 1986  |   ME   |  010   |
+| [Mestrado em saúde](#mestrado-em-saúde)                                             | 1997  |   ME   |  011   |
+| [Mestrado em zoologia](#mestrado-em-zoologia)                                       |  --   |   ME   |  012   |
+| [Mestrado em ecologia](#mestrado-em-ecologia)                                       | 1976  |   ME   |  013   |
+| [Mestrado em botânica](#mestrado-em-botânica)                                       | 2012  |   ME   |  014   |
+| [Mestrado em habilidades domésticas](#mestrado-em-habilidades-domésticas)           | 1976  |   ME   |  015   |
 
 ## Mestrado em ADRA
 
