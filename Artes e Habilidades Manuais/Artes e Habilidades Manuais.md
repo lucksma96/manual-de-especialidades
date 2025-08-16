@@ -188,6 +188,8 @@
 
 ![Música - intermediário](_page_6_Picture_0.jpeg)
 
+### REQUISITOS
+
 > NOTA: Necessário acompanhamento de instrutor músico.
 
 1. Ter a especialidade de Música - básico.
@@ -219,6 +221,8 @@
 ## Letreiros e cartazes
 
 ![Letreiros e cartazes](_page_7_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Escrever de memória o alfabeto completo, maiúsculas e minúsculas, de 2 dos seguintes tipos de fontes:
    1. Gótico
@@ -262,6 +266,8 @@
 ## Trabalhos em metal
 
 ![Trabalhos em metal](_page_8_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Conhecer, pelo menos, 3 tipos de metais que são utilizados em trabalhos com metal.
 2. Realizar um trabalho em metal utilizando as ferramentas apropriadas para o trabalho e escolhendo um dos acabamentos finais:
@@ -307,6 +313,8 @@
 
 ![Entalhe em madeira](_page_9_Picture_0.jpeg)
 
+### REQUISITOS
+
 1. Explique as características das madeiras de coníferas e folhosas. Faça uma lista com, ao menos, 5 tipos de madeira ideais para trabalhos de entalhe.
 2. Descrever os diferentes instrumentos usados no entalhe de madeira e explicar como afiá-los.
 3. Explicar os melhores métodos de lidar com a fibra da madeira.
@@ -327,6 +335,8 @@
 ## Pintura em vidro
 
 ![Pintura em vidro](_page_10_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Listar e descrever, no mínimo, 3 técnicas distintas de pintura em vidro, diferentes das citadas nessa especialidade.
 2. Listar, ao menos, 3 tipos de tintas especializadas para pintura em vidro.
@@ -372,6 +382,8 @@
 ## Trabalhos em madeira
 
 ![Trabalhos em madeira](_page_11_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Identificar, pelo menos, 5 tipos comuns de madeira, tais como: pinho, peroba, mogno, maçaranduba e jacarandá.
 2. Conhecer as características das madeiras identificadas e conhecer, ao menos, uma utilidade para cada exemplo dado.
@@ -578,6 +590,8 @@
 
 ![Modelagem e fabricação de sabão - avançado](_page_16_Picture_0.jpeg)
 
+### REQUISITOS
+
 1. Ter a especialidade de Modelagem e fabricação de sabão.
 2. Que tipos de gorduras podem ser usadas para fazer sabão?
 3. O que deve ser modificado na fórmula do sabão para que ele fique?
@@ -608,6 +622,8 @@
 ## Construção nativa
 
 ![Construção nativa](_page_17_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Ajudar no planejamento de uma casa simples, bem esquadrada e com precisão.
 2. Ajudar na escolha e corte de madeiras adequadas no mato para uso no piso, vigas, placas da parede, pregos, degraus e portas.
@@ -709,6 +725,8 @@
 
 ![Lapidação](_page_19_Picture_0.jpeg)
 
+### REQUISITOS
+
 1. Mencionar, pelo menos, 4 precauções de segurança a tomar ao serrar pedras.
 2. Mencionar 2 tipos de lubrificação e refrigeração para serra de diamante e qual a finalidade.
 3. Explique:
@@ -751,6 +769,8 @@
 
 ![Trabalhos em couro](_page_20_Picture_0.jpeg)
 
+### REQUISITOS
+
 1. Qual a utilidade do couro, e onde podemos encontrá-lo?
 2. Fazer uma lista de materiais necessários para a realização do trabalho em couro e demonstrar como manusear cada um dos itens citados.
 3. Saber diferenciar os diversos tipos de couro, como os bovinos, caprinos e imitações de couro. Saber qual couro é mais fácil de se trabalhar.
@@ -788,6 +808,8 @@
 ## Crochê - avançado
 
 ![Crochê - avançado](_page_21_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Ter a especialidade de Crochê.
 2. Saber interpretar um gráfico que contenha, ao menos, 3 pontos diferentes.
@@ -856,6 +878,8 @@
 ## Tricô
 
 ![Tricô](_page_23_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Saber executar os seguintes pontos e mencionar quais são as abreviaturas dos mesmos:
    1. Meia
@@ -939,6 +963,8 @@
 
 ![Arte de trançar - avançado](_page_25_Picture_0.jpeg)
 
+### REQUISITOS
+
 1. Ter a especialidade de Arte de trançar.
 2. Fazer um puxador de zíper ou chaveiro usando um trançado de 6 ou 8 cordões.
 3. Fazer um puxador de zíper ou chaveiro usando de 6 ou 8 cordões, mostrando a técnica de ziguezague revertendo o sentido do trançado.
@@ -985,6 +1011,8 @@
 
 ![Esmaltado em cobre](_page_26_Picture_0.jpeg)
 
+### REQUISITOS
+
 1. Conhecer a diferença entre o esmaltado em baixa e em alta temperatura.
 2. Citar os materiais que podem ser usados no processo de baixa temperatura.
 3. Qual é o método apropriado para a limpeza de objetos que serão esmaltados? Por que esta limpeza é importante?
@@ -1025,6 +1053,8 @@
 ## Estofamento
 
 ![Estofamento](_page_27_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Conhecer os seguintes itens utilizados em estofamento. Descrever as ferramentas e dar seus usos:
    1. Pé de cabra
@@ -1071,6 +1101,8 @@
 
 ![Serigrafia](_page_28_Picture_0.jpeg)
 
+### REQUISITOS
+
 1. Fazer uma lista das ferramentas e equipamentos necessários para fazer serigrafia.
 2. Mencionar 3 tipos de tinta adequadas para o trabalho com serigrafia.
 3. Relacionar, pelo menos, 3 usos industriais para a serigrafia.
@@ -1104,6 +1136,8 @@
 ## Arte com barbante
 
 ![Arte com barbante](_page_29_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Descrever os itens a seguir: artesanato com barbante, simetria (symmography), ponto geométrico.
 2. Desenhar e encordoar sobre papel cartão em pontos igualmente espaçados:
@@ -1148,6 +1182,8 @@
 
 ![Macramê](_page_30_Picture_0.jpeg)
 
+### REQUISITOS
+
 1. Descrever a história do macramê.
 2. O que é um fio de macramê?
 3. Citar 3 tipos de fios utilizados no macramê e explicar a qualidade de cada um.
@@ -1185,6 +1221,8 @@
 
 ![Cultura indígena - avançado](_page_31_Picture_0.jpeg)
 
+### REQUISITOS
+
 1. Ter a especialidade Cultura indígena.
 2. Pesquisar se em seu país existe alguma política pública de preservação da cultura indígena. Com base nessa pesquisa, escrever uma redação de 500 palavras sobre "Direitos das populações indígenas".
 3. Identificar a etnia e apresentar a localização de, pelo menos, 10 tribos ou comunidades indígenas existentes o mais próximo possível de sua cidade, na atualidade.
@@ -1214,6 +1252,8 @@
 ## Bordado em ponto cruz
 
 ![Bordado em ponto cruz](_page_32_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Ter um estojo com material necessário para fazer o ponto cruz, incluindo pelo menos: agulhas para ponto cruz, linha de algodão mercerizada em várias cores, uma tesoura para bordado, retalhos de tecido para ponto cruz e vários gráficos para bordar.
 2. Conhecer os tipos de tecido para bordar o ponto cruz que se encontram no mercado.
@@ -1260,6 +1300,8 @@
 ## Patchwork
 
 ![Patchwork](_page_33_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. O que é patchwork?
 2. Fazer uma lista de materiais necessários para confeccionar uma peça em patchwork.
@@ -1478,6 +1520,8 @@
 ## Scrapbooking
 
 ![Scrapbooking](_page_37_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Qual é a utilidade do scrapbook?
 2. O que é journaling?
@@ -1894,6 +1938,8 @@
 
 ![E.V.A.](_page_46_Picture_0.jpeg)
 
+### REQUISITOS
+
 1. O que é E.V.A.?
 2. Quais são as principais características e utilidades do E.V.A.?
 3. Quais os materiais utilizados para cortar e colar E.V.A.?
@@ -2084,6 +2130,8 @@
 ## Violão
 
 ![Violão](_page_51_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Pesquisar sobre a história do violão e como ele chegou ao seu país?
 2. Saber as diferenças entre melodia, harmonia e ritmo.
