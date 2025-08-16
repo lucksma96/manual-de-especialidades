@@ -100,9 +100,9 @@
 | Tubarões                                 | 2012  |   EN   |  094   |
 | Vírus                                    | 2012  |   EN   |  095   |
 
-| EN  | Aranhas    |             |                                           |  |
-|-----|-------------------|-------------|-------------------------------------------|--|
-| 001 | Nível<br>2 | Ano<br>1928 | Instituição de origem<br>Associação Geral |  |
+| EN  | Aranhas | Ano  | Instituição de origem |
+| --- | ------- | ---- | --------------------- |
+| 001 | Nível 2 | 1928 | Associação Geral      |
 
 1. Quais são as principais características das aranhas? Quais são as principais diferenças entre as aranhas e os insetos?
 

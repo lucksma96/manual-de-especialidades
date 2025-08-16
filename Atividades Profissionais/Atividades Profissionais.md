@@ -69,9 +69,9 @@
 | Web designer - básico                 | 2012  |   AP   |  063   |
 | Web designer – avançado               | 2012  |   AP   |  064   |
 
-| AP |              |             | Conserto de sapatos                       |  |
-|-----------|--------------|-------------|--------------------------------------------------|--|
-| 001       | Nível | Ano<br>1928 | Instituição de origem<br>Associação Geral |  |
+| AP  | Conserto de sapatos | Ano  | Instituição de origem |
+| --- | ------------------- | ---- | --------------------- |
+| 001 | Nível               | 1928 | Associação Geral      |
 
 1. Mencionar, pelo menos, 5 partes essenciais de um sapato e explicar suas utilidades. 2. Citar 3 diferentes tipos de solado de sapato. Qual o mais fácil para consertar? 3. Encerar uma linha e, com 2 agulhas ou pontas enceradas, consertar um par de sapatos que esteja esgarçado. Usar o método de ponto duplo para costurar o couro. 4. Fazer um molde de papel para meia-sola e usá-lo para cortar meias-solas de couro ou composição de borracha para um par de sapatos.
 

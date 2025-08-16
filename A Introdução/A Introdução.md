@@ -6,33 +6,53 @@
 
 ### Diretores do Ministério Jovem
 
-**DSA - Divisão Sul-Americana** Pr. Areli Barbosa
+**DSA - Divisão Sul-Americana**\
+Pr. Areli Barbosa
 
-**UA - União Argentina** Pr. Carlos Campitelli
+**UA - União Argentina**\
+Pr. Carlos Campitelli
 
-**UB - União Boliviana** Pr. Jimmy W. Lafuente
+**UB - União Boliviana**\
+Pr. Jimmy W. Lafuente
 
-**UCB - União Central Brasileira** Pr. Ronaldo Arco
+**UCB - União Central Brasileira**\
+Pr. Ronaldo Arco
 
-**UCh - União Chilena** Pr. David Victoriano
+**UCh - União Chilena**\
+Pr. David Victoriano
 
-**UCOB - União Centro Oeste Brasileira** Pr. Nelson Milanelli UE - União Equatoriana Pr. Juan Cancino
+**UCOB - União Centro Oeste Brasileira**\
+Pr. Nelson Milanelli
 
-**UNB - União Norte Brasileira** Pr. Helbert R. Almeida
+**UE - União Equatoriana**\
+Pr. Juan Cancino
 
-**UNeB - União Nordeste Brasileira** Pr. Sósthenes Andrade
+**UNB - União Norte Brasileira**\
+Pr. Helbert R. Almeida
 
-**UNOB - União Noroeste Brasileira** Pr. Donato A. Filho UP - União Paraguai Pr. Benjamín Belmonte
+**UNeB - União Nordeste Brasileira**\
+Pr. Sósthenes Andrade
 
-**UPN - União Peruana do Norte** Pr. Jaime Perez
+**UNOB - União Noroeste Brasileira**\
+Pr. Donato A. Filho
 
-**UPS - União Peruana** do Sul Pr. Javier Cahuana
+**UP - União Paraguai**\
+Pr. Benjamín Belmonte
 
-**USB - União Sul-Brasileira** Pr. Elmar Borges
+**UPN - União Peruana do Norte**\
+Pr. Jaime Perez
 
-**USEB - União Sudoeste Brasileira** Pr. Ivay Araujo
+**UPS - União Peruana do Sul**\
+Pr. Javier Cahuana
 
-**UU - União Uruguaia** Pr. Pablo Flor
+**USB - União Sul-Brasileira**\
+Pr. Elmar Borges
+
+**USEB - União Sudoeste Brasileira**\
+Pr. Ivay Araujo
+
+**UU - União Uruguaia**\
+Pr. Pablo Flor
 
 ### Edição
 
@@ -74,7 +94,7 @@ Produtor Autorizado - DSA
 
 ## Introdução
 
-![introduction-header](_page_3_Figure_0.jpeg)
+![Introdução](_page_3_Figure_0.jpeg)
 
 Esta edição do Manual de Especialidades do Clube de Desbravadores representa o contínuo crescimento do Ministério de Desbravadores e Aventureiros da Igreja Adventista do Sétimo Dia e representa também a inovação da Divisão Sul-Americana em criar e coordenar um grupo de estudos, que permanentemente será o responsável pelo estudo das especialidades.
 
@@ -98,12 +118,12 @@ Em virtude das constantes mudanças do mundo moderno, é intuito da Divisão Sul
 
 Todo o processo para a realização do programa das especialidades, incluindo o conhecimento da filosofia, o planejamento do currículo, a metodologia de ensino, as formas de avaliação e os critérios para a aquisição das insígnias é regido pelo Manual Administrativo do Clube de Desbravadores da Divisão Sul-Americana.
 
-**Ministério de Desbravadores e Aventureiros** </br>
-**Divisão Sul-Americana** </br>
-**Ano 2013** </br>
+**Ministério de Desbravadores e Aventureiros**\
+**Divisão Sul-Americana**\
+**Ano 2013**\
 [www.desbravadores.org.br](www.desbravadores.org.br)
 
-## **Filosofia das Especialidades dos Desbravadores**
+## Filosofia das Especialidades dos Desbravadores
 
 Cada especialidade é designada a ser o estudo de um conteúdo. Este conteúdo deve ter valor prático e destacar o estilo de vida da pessoa que possui esta especialidade. O estudo da especialidade deve ajudar a pessoa em seu desenvolvimento como um cristão íntegro ao afetar diretamente os aspectos social, emocional, físico e espiritual da vida. O estudo de uma especialidade deve levar a pessoa a um amor mais profundo ao Criador, e incentivá-la no compromisso com a salvação e serviço.
 
@@ -154,14 +174,14 @@ Se encontrar alguma especialidade inexistente, por favor, cumpra as seguintes or
 ## Sumário
 
 | Código | Nome                                                                                                                            |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------- |
-| AD     | [ADRA](../ADRA/ADRA.md)                                                                                                         |
-| HM     | [Artes e habilidades manuais](<../Artes e Habilidades Manuais/Artes e Habilidades Manuais.md>)                                  |
-| AA     | [Atividades agrícolas e afins](<../Atividades Agrícolas e Afins/Atividades Agrícolas e Afins.md>)                               |
-| AM     | [Atividades missionárias e comunitárias](<../Atividades Missionárias e Comunitárias/Atividades Missionárias e Comunitárias.md>) |
-| AP     | [Atividades profissionais](<../Atividades Profissionais/Atividades Profissionais.md>)                                           |
-| AR     | [Atividades recreativas](<../Atividades Recreativas/Atividades Recreativas.md>)                                                 |
-| CS     | [Ciência e saúde](<../Ciência e Saúde/Ciência e Saúde.md>)                                                                      |
-| EN     | [Estudo da natureza](<../Estudo da Natureza/Estudo da Natureza.md>)                                                             |
-| HD     | [Habilidades domésticas](<../Habilidades Domésticas/Habilidades Domésticas.md>)                                                 |
-| ME     | [Mestrados](../Mestrados/Mestrados.md)                                                                                          |
+| :----: | ------------------------------------------------------------------------------------------------------------------------------- |
+|   AD   | [ADRA](../ADRA/ADRA.md)                                                                                                         |
+|   HM   | [Artes e habilidades manuais](<../Artes e Habilidades Manuais/Artes e Habilidades Manuais.md>)                                  |
+|   AA   | [Atividades agrícolas e afins](<../Atividades Agrícolas e Afins/Atividades Agrícolas e Afins.md>)                               |
+|   AM   | [Atividades missionárias e comunitárias](<../Atividades Missionárias e Comunitárias/Atividades Missionárias e Comunitárias.md>) |
+|   AP   | [Atividades profissionais](<../Atividades Profissionais/Atividades Profissionais.md>)                                           |
+|   AR   | [Atividades recreativas](<../Atividades Recreativas/Atividades Recreativas.md>)                                                 |
+|   CS   | [Ciência e saúde](<../Ciência e Saúde/Ciência e Saúde.md>)                                                                      |
+|   EN   | [Estudo da natureza](<../Estudo da Natureza/Estudo da Natureza.md>)                                                             |
+|   HD   | [Habilidades domésticas](<../Habilidades Domésticas/Habilidades Domésticas.md>)                                                 |
+|   ME   | [Mestrados](../Mestrados/Mestrados.md)                                                                                          |

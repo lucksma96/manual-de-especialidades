@@ -1394,9 +1394,9 @@
 
 ## Origami
 
-| HM  | Origami |             |                                           |     |
-| --- | ------- | ----------- | ----------------------------------------- | --- |
-| 060 | Nível   | Ano<br>1997 | Instituição de origem<br>Associação Geral |     |
+| HM  | Origami | Ano  | Instituição de origem |
+| --- | ------- | ---- | --------------------- |
+| 060 | Nível   | 1997 | Associação Geral      |
 
 ### REQUISITOS
 

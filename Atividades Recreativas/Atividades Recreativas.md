@@ -1617,9 +1617,9 @@ a) Que duas histórias da Bíblia mencionam corredores de longas distâncias?
 - 5. Participar das seguintes competições de atletismo:
   - a) Correr 50 metros rasos no tempo correspondente ao seu sexo e idade:
 
-| Idade          | 10   |       | 12   |       | 14              |      | 16    |
+| Idade          | 10   |       | 12   |       | 14              |  --  | 16    |
 |----------------|------|-------|------|-------|-----------------|------|-------|
-| Masculino 8,2" |      | 8,0'' | 7,8" | 7,5"  | 7.1''<br>$\sim$ | 6,9" | 6,7"  |
+| Masculino 8,2" |  --  | 8,0'' | 7,8" | 7,5"  | 7.1''<br>$\sim$ | 6,9" | 6,7"  |
 | Feminino       | 8,5" | 8,4"  | 8,2" | 8,1'' | 8,0''           | 8,1" | 8,3'' |
 
 b) Correr 600 metros no tempo correspondente ao seu sexo e idade:

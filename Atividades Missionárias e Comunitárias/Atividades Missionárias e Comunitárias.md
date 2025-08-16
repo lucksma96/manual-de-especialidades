@@ -55,9 +55,9 @@
 
 ## Arte de contar histórias cristãs
 
-| AM  | Arte de contar histórias cristãs |             |                                           |
-|-----|----------------------------------|-------------|-------------------------------------------|
-| 001 | Nível                            | Ano<br>1928 | Instituição de origem<br>Associação Geral |
+| AM  | Arte de contar histórias cristãs | Ano  | Instituição de origem |
+| --- | -------------------------------- | ---- | --------------------- |
+| 001 | Nível 2                          | 1928 | Associação Geral      |
 
 ### REQUISITOS
 
@@ -1536,9 +1536,9 @@ como os Cultos de Pôr-do-sol de Sexta Feira.
 
 Ter lido pelo menos um livro sobre histórias de personagens Bíblicos (sugestões: Belas Histórias da Bíblia, Vida de Jesus, Patriarcas e Profetas, Profetas e Reis, Vida de Jesus, Heróis do Passado Lições do Presente).
 
-| AM  | Boa conduta escolar |             |                                                |
-| --- | ------------------- | ----------- | ---------------------------------------------- |
-| 048 | Nível 1             | Ano<br>2012 | Instituição de origem<br>Divisão Sul Americana |
+| AM  | Boa conduta escolar | Ano  | Instituição de origem |
+| --- | ------------------- | ---- | --------------------- |
+| 048 | Nível 1             | 2012 | Divisão Sul Americana |
 
 1. Estar regularmente estudando.
 2. Apresentar um relatório explicando com suas palavras, o que é ter uma boa conduta escolar, mínimo 200 e máximo 500 palavras.
