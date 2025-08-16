@@ -1,4 +1,6 @@
-![](_page_0_Picture_0.jpeg)
+# Artes e Habilidades Manuais
+
+![Capa Artes e Habilidades Manuais](_page_0_Picture_0.jpeg)
 
 | Especialidade                              |  Ano  | Código | Número |
 | ------------------------------------------ | :---: | :----: | :----: |

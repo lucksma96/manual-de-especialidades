@@ -1,4 +1,6 @@
-![](_page_0_Picture_0.jpeg)
+# Atividades Agrícolas e Afins
+
+![Capa Atividades Agrícolas e Afins](_page_0_Picture_0.jpeg)
 
 | Especialidade                        |  Ano  | Código | Número |
 | ------------------------------------ | :---: | :----: | :----: |

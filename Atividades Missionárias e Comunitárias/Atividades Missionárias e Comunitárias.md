@@ -1,6 +1,6 @@
 # Atividades Missionárias e Comunitárias
 
-![Atividades Missionárias e Comunitárias](_page_0_Picture_0.jpeg)
+![Capa Atividades Missionárias e Comunitárias](_page_0_Picture_0.jpeg)
 
 | Especialidade                            |  Ano  | Código | Número |
 | ---------------------------------------- | :---: | :----: | :----: |

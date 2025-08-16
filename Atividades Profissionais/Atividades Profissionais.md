@@ -1,4 +1,6 @@
-![](_page_0_Picture_0.jpeg)
+# Atividades Profissionais
+
+![Capa Atividades Profissionais](_page_0_Picture_0.jpeg)
 
 | Especialidade                         |  Ano  | Código | Número |
 | ------------------------------------- | :---: | :----: | :----: |

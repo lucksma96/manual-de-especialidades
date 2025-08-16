@@ -1,4 +1,6 @@
-![](_page_0_Picture_0.jpeg)
+# Estudo da Natureza
+
+![Capa Estudo da Natureza](_page_0_Picture_0.jpeg)
 
 | Especialidade                            |  Ano  | Código | Número |
 | ---------------------------------------- | :---: | :----: | :----: |

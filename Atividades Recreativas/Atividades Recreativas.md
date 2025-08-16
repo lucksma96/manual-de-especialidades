@@ -1,4 +1,6 @@
-![](_page_0_Picture_0.jpeg)
+# Atividades Recreativas
+
+![Capa Atividades Recreativas](_page_0_Picture_0.jpeg)
 
 | Especialidade                                 |  Ano  | Código | Número |
 | --------------------------------------------- | :---: | :----: | :----: |
