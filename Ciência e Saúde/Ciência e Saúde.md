@@ -39,7 +39,9 @@
 | Habilidades em matemática III      | 2012  |   CS   |  033   |
 | Habilidades em matemática IV       | 2012  |   CS   |  034   |
 
-![](_page_2_Picture_0.jpeg)
+## Saúde e cura
+
+![Saúde e cura](_page_2_Picture_0.jpeg)
 
 1. Estar, pelo menos, no segundo ano do ensino médio.
 2. Aprender, através da Bíblia e/ou do Espírito de Profecia, como Jesus curou os doentes e o procedimento usado pelos anciãos da igreja para ungir o doente e pedir a Deus pela cura. Apresentar um relatório oral sobre o que você aprendeu e escrever um relatório com, no mínimo, 250 palavras.
@@ -80,7 +82,9 @@
     6. Odontologia
     7. Psicologia
 
-![](_page_3_Picture_0.jpeg)
+## Química
+
+![Química](_page_3_Picture_0.jpeg)
 
 1. Definir o seguinte:
     1. Ácido
@@ -126,7 +130,9 @@
     14. Em um acampamento, por um descuido, um desbravador derramou o açúcar que deveria ser utilizado para adoçar o suco da refeição na areia. Utilizando-se do que se tem no acampamento, proponha os passos de um método para separar os componentes da mistura em questão. Em seguida, informe se houve alguma transformação química ou física.
     15. Quantos e quais fenômenos estão envolvidos quando uma vela está acesa?
 
-![](_page_4_Picture_0.jpeg)
+## Primeiros socorros - básico
+
+![Primeiros socorros - básico](_page_4_Picture_0.jpeg)
 
 1. O que são primeiros socorros? Quais as suas finalidades?
 2. O que é choque? Quais são os principais tipos? Quais as principais causas? Demonstrar o tratamento adequado aos choques hipovolêmico e anafilático.
@@ -150,7 +156,9 @@
 20. Quais são os princípios básicos de segurança em questões de eletricidade?
 21. Como prevenir a intoxicação alimentar?
 
-![](_page_4_Figure_22.jpeg)
+## Primeiros socorros - intermediário
+
+![Primeiros socorros - intermediário](_page_4_Figure_22.jpeg)
 
 ### REQUISITOS
 
@@ -190,7 +198,9 @@
     6. Três pessoas carregam numa rede
     7. Usando maca
 
-![](_page_5_Figure_9.jpeg)
+## Primeiros socorros - avançado
+
+![Primeiros socorros - avançado](_page_5_Figure_9.jpeg)
 
 ### REQUISITOS
 
@@ -206,7 +216,9 @@
     4. Imperícia
     5. Imprudência
 
-![](_page_6_Picture_0.jpeg)
+## Enfermagem básica
+
+![Enfermagem básica](_page_6_Picture_0.jpeg)
 
 1. Ter a especialidade de Primeiros socorros básico.
 2. Que alimentos estão incluídos nas seguintes dietas?
@@ -235,7 +247,9 @@
     7. Descanso
     8. Confiança em deus
 
-![](_page_7_Picture_0.jpeg)
+## Óptica
+
+![Óptica](_page_7_Picture_0.jpeg)
 
 1. Definir e desenhar um gráfico dos seguintes sistemas ópticos:
     1. Centro óptico
@@ -270,7 +284,9 @@
 11. Definir o termo "número-f" usado em conexão com câmeras fotográficas. O que significa o fato de uma lente ser rápida ou lenta? Uma lente f-8,5 é mais rápida ou mais lenta que uma lente f-8?
 12. Como os 10 Mandamentos podem ser comparados com um espelho?
 
-![](_page_8_Picture_0.jpeg)
+## Nutrição
+
+![Nutrição](_page_8_Picture_0.jpeg)
 
 1. O que são nutrientes?
 2. Desenhar e descrever a pirâmide alimentar. Mencionar o número de porções diárias exigidas de cada grupo.
@@ -313,7 +329,9 @@
 13. Por que o Governo de alguns países determina a inclusão de iodo, ferro, ácido fólico e flúor em alimentos básicos como farináceos, sal e água? Qual o impacto desta medida na saúde da população?
 14. Planejar um cardápio para dois dias, contendo uma dieta ovo-lacto-vegetariana balanceada, utilizando as informações da pirâmide alimentar. Utilizar vegetais comuns em sua região e de acordo com a época do ano.
 
-![](_page_9_Picture_0.jpeg)
+## Alerta vermelho
+
+![Alerta vermelho](_page_9_Picture_0.jpeg)
 
 1. Explicar o que deve ser feito para evitar ferimentos e/ou possível perda da vida nas situações a seguir:
     1. Incêndio em sua casa, ou na casa de um vizinho, ou em prédio público
@@ -339,7 +357,9 @@
     3. Discutir com seu orientador, os procedimentos para retirar pessoas da igreja e escola em caso de incêndio. Deve-se analisar alternativas para prevenir o pânico.
 5. O que você e seus pais devem fazer para prevenir o sequestro de crianças em sua família? O que você deveria fazer se fosse sequestrado?
 
-![](_page_9_Figure_25.jpeg)
+## Nutrição - avançado
+
+![Nutrição - avançado](_page_9_Figure_25.jpeg)
 
 ### REQUISITOS
 
@@ -406,7 +426,9 @@
     4. Ortorexia
 16. O que são suplementos alimentares? Com a ajuda de um nutricionista, indicar os mais comuns e explicar em quais casos são realmente necessários. Mencionar quais os riscos de se utilizar cada um deles sem a devida orientação de um nutricionista ou médico.
 
-![](_page_11_Picture_0.jpeg)
+## Reanimação cardiopulmonar
+
+![Reanimação cardiopulmonar](_page_11_Picture_0.jpeg)
 
 1. Ter a especialidade de Coração e circulação.
 2. Através de desenhos ou modelo, identificar o coração e os pulmões. Qual a função de cada um? Saber onde se localizam em seu corpo.
@@ -420,7 +442,9 @@
     3. A borda dourada representa o valor da vida humana.
     4. Um coração é formado pela cabeça, ombros e braços da pessoa que está fazendo a reanimação cardiopulmonar, o que significa compaixão pelo próximo.
 
-![](_page_11_Figure_15.jpeg)
+## Resgate básico
+
+![Resgate básico](_page_11_Figure_15.jpeg)
 
 ### REQUISITOS
 
@@ -453,7 +477,9 @@
     4. Enrolar e jogar corretamente uma corda leve e uma pesada, de 15 metros cada.
 10. Que passos devem ser dados antes de comunicar que alguém está desaparecido? Que informações serão necessárias ao informar à polícia o desaparecimento de alguém? Como devem ser conduzidas as buscas por alguém perdido numa área selvagem?
 
-![](_page_12_Picture_0.jpeg)
+## Física
+
+![Física](_page_12_Picture_0.jpeg)
 
 1. Definir o seguinte:
     1. Física
@@ -483,7 +509,9 @@
 10. Demonstrar a experiência de Galileu – queda de um corpo - derrubando duas garrafas de plástico (uma cheia de água e a outra pela metade) ao mesmo tempo, de uma altura de 2 metros. Registrar os resultados e retirar uma aplicação espiritual da experiência.
 11. Demonstrar a vantagem mecânica da alavanca, retirando um prego grande, pregado bem fundo numa madeira, usando apenas um martelo. Puxar um segundo prego usando um martelo e um pequeno bloco de madeira, localizado perto do prego, sob a cabeça do martelo. Anotar a diferença de força exigida para puxar o prego com as diferentes posições do martelo no bloco (fulcro) e tirar uma aplicação espiritual desta experiência.
 
-![](_page_12_Figure_14.jpeg)
+## Microscopia
+
+![Microscopia](_page_12_Figure_14.jpeg)
 
 ### REQUISITOS
 
@@ -510,7 +538,9 @@
     4. Outros organismos
 8. Citar, pelo menos, três hábitos de saúde que foram estabelecidos como resultado direto dos prejuízos dos organismos microcelulares que foram evidenciados após a descoberta dos microscópios. Coloque esses hábitos em prática.
 
-![](_page_13_Picture_0.jpeg)
+## Digestão
+
+![Digestão](_page_13_Picture_0.jpeg)
 
 1. Ter a especialidade de Nutrição.
 2. Fazer um registro do que e quanto você come por uma semana. Agora analise com as porções recomendadas de acordo com a Nova Pirâmide Alimentar. De acordo com o resultado, o que você precisa mudar na sua alimentação?
@@ -528,7 +558,9 @@
 14. O que são aminoácidos? Quantos são? Qual é a diferença entre aminoácidos essenciais e não essenciais? Quais são as principais fontes de aminoácidos?
 15. Liste 3 conselhos divinos em relação à nossa alimentação.
 
-![](_page_13_Figure_17.jpeg)
+## Ossos, músculos e articulações
+
+![Ossos, músculos e articulações](_page_13_Figure_17.jpeg)
 
 ### REQUISITOS
 
@@ -557,7 +589,9 @@
 18. Descreva a diferença entre músculos voluntários e músculos involuntários.
 19. Encontre, pelo menos, três versos bíblicos que mencionem músculos, ossos ou articulações.
 
-![](_page_14_Figure_3.jpeg)
+## Sistema nervoso
+
+![Sistema nervoso](_page_14_Figure_3.jpeg)
 
 ### REQUISITOS
 
@@ -626,7 +660,9 @@
     1. (Para aqueles com menos de 18 anos): convidar uma pessoa para doar sangue e acompanhar o processo de doação.
     2. (Para aqueles com mais de 18 anos): procurar o sistema médico e fazer uma doação de sangue (se estiver apto). Caso não possa doar, convidar uma pessoa para doar e acompanhar o processo de doação.
 
-![](_page_16_Figure_19.jpeg)
+## Hereditariedade
+
+![Hereditariedade](_page_16_Figure_19.jpeg)
 
 ### REQUISITOS
 
@@ -654,7 +690,9 @@
 10. A genética é o único fator que contribui para as suas características (físicas, mentais, sociais e espirituais)? Que outros fatores influenciam a sua vida e a sua personalidade?
 11. Encontre três citações da Bíblia ou do Espírito de Profecia que se relacionem com a sua resposta da questão anterior.
 
-![](_page_17_Figure_2.jpeg)
+## Coração e circulação
+
+![Coração e circulação](_page_17_Figure_2.jpeg)
 
 ### REQUISITOS
 
@@ -673,7 +711,9 @@
 13. O que é o sistema linfático? Quais as suas funções?
 14. Descrever as principais estruturas do sistema linfático.
 
-![](_page_18_Picture_0.jpeg)
+## Bioquímica
+
+![Bioquímica](_page_18_Picture_0.jpeg)
 
 1. Definir os seguintes termos:
     1. Carboidrato
@@ -704,7 +744,9 @@
 16. Qual a importância dos ácidos nucleicos? Como é sua estrutura e quais são seus componentes?
 17. Desenhar uma molécula de DNA, com 4 nucleotídeos, nomeando seus componentes.
 
-![](_page_18_Figure_25.jpeg)
+## Bioquímica - avançado
+
+![Bioquímica - avançado](_page_18_Figure_25.jpeg)
 
 ### REQUISITOS
 
@@ -738,7 +780,9 @@
 21. Qual a relação entre DNA, RNA e proteínas?
 22. Quais as aplicações do estudo do DNA?
 
-![](_page_19_Figure_8.jpeg)
+## Higiene oral
+
+![Higiene oral](_page_19_Figure_8.jpeg)
 
 ### REQUISITOS
 
@@ -759,7 +803,9 @@
 12. Por que devemos usar dentifrício fluoretado?
 13. Como se contrai a cárie?
 
-![](_page_20_Picture_0.jpeg)
+## Higiene oral - avançado
+
+![Higiene oral - avançado](_page_20_Picture_0.jpeg)
 
 1. Ter a especialidade de Higiene oral.
 2. Saber identificar as seguintes partes do dente, descrevendo a função de cada uma: esmalte, dentina, polpa, gengiva, cemento e ligamento periodontal.
@@ -776,7 +822,9 @@
 9. Quais os cuidados adicionais na higiene bucal uma pessoa que usa prótese dentária deve ter?
 10. Criar uma estória que ilustre as formas de prevenir a cárie dentária e apresentá-la, de forma criativa, a um grupo de crianças.
 
-![](_page_20_Figure_16.jpeg)
+## Metodologia de estudo
+
+![Metodologia de estudo](_page_20_Figure_16.jpeg)
 
 ### REQUISITOS
 
@@ -809,7 +857,9 @@
 9. Saber a diferença entre resumo e resenha, apresentando ambas em forma de esboço.
 10. Ler algum livro de sua escolha que trate sobre técnicas e metodologias de estudo e apresentar um esboço de, no mínimo, 50 linhas.
 
-![](_page_21_Picture_0.jpeg)
+## Prevenção de doenças tropicais
+
+![Prevenção de doenças tropicais](_page_21_Picture_0.jpeg)
 
 1. Responder as seguintes questões:
     1. O que são doenças tropicais?
@@ -842,7 +892,9 @@
         - Fazer limpeza da residência, coletar e eliminar depósitos inservíveis.
 5. Com a ajuda de seu conselheiro, fazer uma apresentação, debate ou encenação para seu Clube ou unidade sobre as doenças tropicais estudadas nesta especialidade.
 
-![](_page_22_Picture_0.jpeg)
+## Patrimônio histórico
+
+![Patrimônio histórico](_page_22_Picture_0.jpeg)
 
 1. Defina o conceito de patrimônio histórico.
 2. Cite a diferença entre história e memória.
@@ -861,7 +913,9 @@
 10. Faça um levantamento dos monumentos que existem na região que você mora. Descubra a razão de eles estarem lá e qual a história que os monumentos pretendem preservar.
 11. Monte uma coleção de 10 elementos que tenham valor necessário para se tornarem eternos para você.
 
-![](_page_22_Figure_18.jpeg)
+## Saúde mental
+
+![Saúde mental](_page_22_Figure_18.jpeg)
 
 ### REQUISITOS
 
@@ -981,7 +1035,9 @@ Nota: Necessário o acompanhamento de um instrutor qualificado. Essa especialida
     4. Poema ou música
 15. Fazer uma pesquisa em sua região ou Estado comparando os índices de qualidade do ar. Como esses índices podem ser melhorados? O que você pode fazer para melhorá-los?
 
-![](_page_25_Figure_9.jpeg)
+## Habilidades em matemática I
+
+![Habilidades em matemática I](_page_25_Figure_9.jpeg)
 
 ### REQUISITOS
 
@@ -996,7 +1052,9 @@ Nota: Necessário o acompanhamento de um instrutor qualificado. Essa especialida
 9. Apresentar e demonstrar a resolução de quatro exemplos de operação com números decimais na adição, subtração, multiplicação e divisão, usando o método prática de resolução.
 10. Apresentar em forma de cartaz, ou multimídia, cinco exemplos de figuras planas e cinco exemplos de figuras sólidas mostrando suas características e, ao lado, que tipo de objeto do dia a dia eles são usados.
 
-![](_page_26_Picture_0.jpeg)
+## Habilidades em matemática II
+
+![Habilidades em matemática II](_page_26_Picture_0.jpeg)
 
 1. Conhecer as quatro operações básicas.
 2. Explicar e apresentar a historia da raiz quadrada e resolver dois exemplos práticos de extração de raiz.
@@ -1009,7 +1067,9 @@ Nota: Necessário o acompanhamento de um instrutor qualificado. Essa especialida
 9. Demonstrar a habilidade de converter as principais unidades de medidas; metros, metros (m²), Kg, gramas e metros (m³). Apresentar três exemplos de conversão.
 10. Apresentar três exemplos de equações envolvendo a letra x e resolver cada um dando a solução correta.
 
-![](_page_26_Figure_12.jpeg)
+## Habilidades em matemática III
+
+![Habilidades em matemática III](_page_26_Figure_12.jpeg)
 
 ### REQUISITOS
 
@@ -1050,7 +1110,9 @@ Nota: Necessário o acompanhamento de um instrutor qualificado. Essa especialida
     2. Qual é a raiz da equação $7x - 2 = -4x + 5$?
     3. Se eu adicionar 8 à quantidade de carrinhos que possuo, ficarei com a mesma quantidade de carrinhos de meu irmão, se dos 28 que ele possui, for retirada a quantidade que eu possuo. Quantos carrinhos eu tenho?
 
-![](_page_27_Figure_10.jpeg)
+## Habilidades em matemática IV
+
+![Habilidades em matemática IV](_page_27_Figure_10.jpeg)
 
 ### REQUISITOS
 
