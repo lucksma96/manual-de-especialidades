@@ -1885,7 +1885,7 @@ Supervisionado por um especialista, completar os seguintes itens:
 1. Responda o seguinte:
     1. Quando foram inventadas as pipas?
     2. Qual a primeira vez que alguém empinou uma pipa?
-    3. Citar pelo menos três maneiras através das quais as pipas ajudaram pesquisas científicas e contar como cada uma delas afetou o mundo em que vivemos. 
+    3. Citar pelo menos três maneiras através das quais as pipas ajudaram pesquisas científicas e contar como cada uma delas afetou o mundo em que vivemos.
     4. Contar a história de Benjamim Franklin e sua pipa.
 2. Mencionar algumas formas pelas quais as pipas podem ser utilizadas hoje em dia.
 3. Explicar como as pipas ficam no ar.
@@ -2006,19 +2006,14 @@ Supervisionado por um especialista, completar os seguintes itens:
 ### REQUISITOS
 
 1. Ter a especialidade de Numismática.
-
 2. Selecionar uma moeda ou cédula de sua coleção e apresentar um relatório oral ou escrito da história e do significado da(s) pessoa(s), lugar(es), item(s) ou símbolo(s) encontrados dos dois lados do objeto.
-
 3. Participar de uma reunião de um clube de colecionadores de moedas e relatar suas experiências. Considere os itens a seguir:
-
-a) Nível de conhecimento dos membros, demonstrados pelos diálogos e apresentações.
-
-- b) Idade média dos participantes.
-- c) Ideias que poderão ajudar o clube a ampliar seu interesse para um público maior. d) Como a organização é para um novato.
-- e) Sugestões sobre como essas pessoas podem ser alcançadas com o evangelho através de uma maneira que eles acham atraente.
-
+    1. Nível de conhecimento dos membros, demonstrados pelos diálogos e apresentações.
+    2. Idade média dos participantes.
+    3. Ideias que poderão ajudar o clube a ampliar seu interesse para um público maior.
+    4. Como a organização é para um novato.
+    5. Sugestões sobre como essas pessoas podem ser alcançadas com o evangelho através de uma maneira que eles acham atraente.
 4. Selecionar uma das três categorias da sua coleção, conforme previstos nos itens 7 e 8 da especialidade de Numismática e ampliar sua coleção, adquirindo espécimes para dobrá-la.
-
 5. Adicionar para sua coleção, pelo menos, um dos diferentes tipos de "dinheiro" tratados no item 1 da especialidade de Numismática e escrever um parágrafo sobre como, quando e onde isto foi usado como dinheiro.
 
 ## Mountain biking
@@ -2028,40 +2023,23 @@ a) Nível de conhecimento dos membros, demonstrados pelos diálogos e apresenta�
 ### REQUISITOS
 
 1. Ter a especialidade de Ciclismo.
-
-2. Usando uma bicicleta tradicional e uma própria de montanhas, descreva as
-
-diferenças entre ambas. Acrescente uma foto ou imagem de cada uma.
-
+2. Usando uma bicicleta tradicional e uma própria de montanhas, descreva as diferenças entre ambas. Acrescente uma foto ou imagem de cada uma.
 3. Demonstre as funções e vantagens dos seguintes equipamentos:
-
-- a) Chuteiras
-- **b**) Amortecedores
-- c) Bar end
-
+    1. Chuteiras
+    2. Amortecedores
+    3. Bar end
 4. Relacione, pelo menos, três tipos de materiais usados na fabricação de quadros de montain bikes. Explique porque estes materiais são sempre testados.
-
 5. Explique a diferença entre vias de faixa única, faixa dupla e alta rodagem.
-
 6. Descreva as características de bicicletas com amortecedores (Full Suspension) e rígidas (Hardtail) e explique as vantagens e desvantagens de um modelo comparado com outro.
-
 7. Descreva que regras básicas de cortesia devem ser seguidas quando se faz trilhas.
-
 8. Relacionar três peças básicas de segurança que devem ser usadas quando praticamos montain biking.
-
 9. Conhecer os ossos que são mais quebrados em acidentes por quem pratica montain biking e saber como prevenir que estes acidentes ocorram.
-
 10. Demonstrar como fazer corretamente a limpeza, polimento e lubrificação de sua bicicleta após usá-la.
-
 11. Complete o seguinte:
-
-a) Três corridas de 8 quilômetros
-
-**b**) Duas corridas de 15 quilômetros
-
-c) Uma corrida de 30 quilômetros
-
-> **Observação:** Todos os percursos devem ser feitos em algum tipo de trilha, preferencialmente via única, e uma trilha só poderá ser usada mais de uma vez ou repetida para fazer um percurso mais longo para atender ao requisito (se necessário).
+    1. Três corridas de 8 quilômetros
+    2. Duas corridas de 15 quilômetros
+    3. Uma corrida de 30 quilômetros
+    > **Observação:** Todos os percursos devem ser feitos em algum tipo de trilha, preferencialmente via única, e uma trilha só poderá ser usada mais de uma vez ou repetida para fazer um percurso mais longo para atender ao requisito (se necessário).
 
 ## Basquete
 
@@ -2070,32 +2048,69 @@ c) Uma corrida de 30 quilômetros
 ### REQUISITOS
 
 1. Conhecer o regulamento atualizado da FIBA (Federação Internacional de Basquete) e relacionar as 8 regras principais do basquete.
-
 2. O que significa a expressão "fair play"?
-
 3. Definir os seguintes termos:
-
-a) Bola ao ar ou air ball z) Roubar a bola b) Tabela aa) Faltas coletivas c) Zona de defesa bb) Armadilha ou trap d) Zona de ataque cc) Andar com a bola e) Linha de fundo dd) Bola perdida f) Bloqueio ee) Marcação por zona g) Passe quicado ff) Pivô h) Duplo drible gg) Alas i) Drible hh) Armadores j) Finta ii) Arremesso com salto k) Contra-ataque **jj)** Bandeja I) Cesta kk) Arremesso de tabela  $m$ ) Cinco faltas – fora II) Enterrada  $n)$  Tabela ou 1, 2 mm) Gancho o) Falta de ataque nn) Lance livre p) Falta intencional oo) Falta pessoal q) Bola ao alto pp) Obstrução r) Garrafão qq) Falta técnica s) Falta sem bola rr) Ponte aérea t) Marcação homem a homem ss) Regra dos 3 segundos u) Perímetro tt) Regra dos 8 segundos v) Cortina uu) Violação de voltar a bola w) Pressão vv) Violação de entrada ww) Liga ou campeonato x) Rebote y) Arremesso xx) Arremesso de três pontos
-
-b) Arremessando em diferentes posições ao redor da cesta c) Driblando
-
-d) Passando
-
-6. Passar pelo menos 4 horas ajudando uma pessoa menos habilidosa ou mais jovem a melhorar suas habilidades.
-
-7. Jogar ao menos cinco partidas com a família ou amigos. Mostrar "fair play" durante seus treinos e jogos.
-
-8. Escrever um relatório de uma página sobre um famoso jogador de basquete. Discutir porque ele é ou não é um bom modelo cristão.
-
-9. Discutir com seu líder, pastor ou instrutor os problemas enfrentados pela juventude Adventista do Sétimo Dia no ensino fundamental, ensino médio e faculdade. Que alternativas existem para permitir uma atividade esportiva contínua.
-
-10. Desenhar em escala uma quadra de basquete com seus limites adequadamente definidos. Informar as dimensões oficiais da tabela e a altura do aro em seu país.
-
+    1. Bola ao ar ou air ball
+    2. Tabela
+    3. Zona de defesa
+    4. Zona de ataque
+    5. Linha de fundo
+    6. Bloqueio
+    7. Passe quicado
+    8. Duplo drible
+    9. Drible
+    10. Finta
+    11. Contra-ataque
+    12. Cesta
+    13. Cinco faltas – fora
+    14. Tabela ou 1, 2
+    15. Falta de ataque
+    16. Falta intencional
+    17. Bola ao alto
+    18. Garrafão
+    19. Falta sem bola
+    20. Marcação homem a homem
+    21. Perímetro
+    22. Cortina
+    23. Pressão
+    24. Rebote
+    25. Arremesso
+    26. Roubar a bola
+    27. Faltas coletivas
+    28. Armadilha ou trap
+    29. Andar com a bola
+    30. Bola perdida
+    31. Marcação por zona
+    32. Pivô
+    33. Alas
+    34. Armadores
+    35. Arremesso com salto
+    36. Bandeja
+    37. Arremesso de tabela
+    38. Enterrada
+    39. Gancho
+    40. Lance livre
+    41. Falta pessoal
+    42. Obstrução
+    43. Falta técnica
+    44. Ponte aérea
+    45. Regra dos 3 segundos
+    46. Regra dos 8 segundos
+    47. Violação de voltar a bola
+    48. Violação de entrada
+    49. Liga ou campeonato
+    50. Arremesso de três pontos
 4. Demonstrar compreensão das diferentes habilidades exigidas em cada posição.
-
 5. Demonstrar habilidade razoável nas seguintes áreas:
-
-a) Arremessando da linha de lance livre
+    1. Arremessando da linha de lance livre
+    2. Arremessando em diferentes posições ao redor da cesta
+    3. Driblando
+    4. Passando
+6. Passar pelo menos 4 horas ajudando uma pessoa menos habilidosa ou mais jovem a melhorar suas habilidades.
+7. Jogar ao menos cinco partidas com a família ou amigos. Mostrar "fair play" durante seus treinos e jogos.
+8. Escrever um relatório de uma página sobre um famoso jogador de basquete. Discutir porque ele é ou não é um bom modelo cristão.
+9. Discutir com seu líder, pastor ou instrutor os problemas enfrentados pela juventude Adventista do Sétimo Dia no ensino fundamental, ensino médio e faculdade. Que alternativas existem para permitir uma atividade esportiva contínua.
+10. Desenhar em escala uma quadra de basquete com seus limites adequadamente definidos. Informar as dimensões oficiais da tabela e a altura do aro em seu país.
 
 ## Futebol
 
@@ -2104,46 +2119,54 @@ a) Arremessando da linha de lance livre
 ### REQUISITOS
 
 1. Conhecer o regulamento atualizado da FIFA (Federação Internacional de Futebol) e relacionar as 17 regras principais do futebol.
-
-- 2. O que significa a expressão "fair play"?
-- 3. Desenhar em escala um campo de futebol com suas linhas e dimensões. Informar as
-- dimensões máximas e mínimas oficiais do campo de futebol em seu país.
-- 4. Demonstrar habilidade razoável em jogar futebol.
-- 5. Descrever as diferentes habilidades necessárias em cada posição do futebol.
-- 6. Conhecer o significado e os sinais dos árbitros para os seguintes:
-  - a) Impedimento
-  - b) Agarrão
-  - c) Pênalti
-  - d) Escanteio
-  - e) Tiro livre indireto
-  - f) Tiro livre direto
-- g) Gol
-- 7. Definir os sequintes termos:
-
-| a) Advertência e Expulsão | q) Elástico                   |
-|---------------------------|-------------------------------|
-| b) Artilheiro             | r) Embaixadinha               |
-| c) Barreira               | s) Grande área                |
-| d) Bicicleta              | t) Isolar a bola              |
-| e) Bobinho                | u) Lateral                    |
-| f) Bola ao chão           | v) Letra                      |
-| g) Bola fora              | w) Marca de escanteio         |
-| h) Cabecear               | x) Marcação                   |
-| i) Caneta                 | y) Passe                      |
-| j) Carrinho               | z) Passe 1, 2 ou tabela       |
-| k) Chapéu ou lençol       | aa) Pedalada                  |
-| I) Chute de primeira      | bb) Peixinho           |
-| m) Craque                 | cc) Tiro de canto (escanteio) |
-| n) Cruzamento             | dd) Tiro de meta              |
-| o) Dominar a bola         | ee) Vantagem                  |
-| p) Drible                 | ff) Voleio                    |
-
+2. O que significa a expressão "fair play"?
+3. Desenhar em escala um campo de futebol com suas linhas e dimensões. Informar as dimensões máximas e mínimas oficiais do campo de futebol em seu país.
+4. Demonstrar habilidade razoável em jogar futebol.
+5. Descrever as diferentes habilidades necessárias em cada posição do futebol.
+6. Conhecer o significado e os sinais dos árbitros para os seguintes:
+    1. Impedimento
+    2. Agarrão
+    3. Pênalti
+    4. Escanteio
+    5. Tiro livre indireto
+    6. Tiro livre direto
+    7. Gol
+7. Definir os sequintes termos:
+    1. Advertência e Expulsão
+    2. Artilheiro
+    3. Barreira
+    4. Bicicleta
+    5. Bobinho
+    6. Bola ao chão
+    7. Bola fora
+    8. Cabecear
+    9. Caneta
+    10. Carrinho
+    11. Chapéu ou lençol
+    12. Chute de primeira
+    13. Craque
+    14. Cruzamento
+    15. Dominar a bola
+    16. Drible
+    17. Elástico
+    18. Embaixadinha
+    19. Grande área
+    20. Isolar a bola
+    21. Lateral
+    22. Letra
+    23. Marca de escanteio
+    24. Marcação
+    25. Passe
+    26. Passe 1, 2 ou tabela
+    27. Pedalada
+    28. Peixinho
+    29. Tiro de canto (escanteio)
+    30. Tiro de meta
+    31. Vantagem
+    32. Voleio
 8. Passar pelo menos 4 horas ajudando uma pessoa menos habilidosa ou mais jovem a melhorar suas habilidades.
-
 9. Jogar ao menos cinco partidas com a família ou amigos. Mostrar "fair play" durante seus treinos e jogos.
-
 10. Escrever um relatório de uma página sobre um famoso jogador de futebol. Discutir porque ele é ou não é um bom modelo cristão.
-
 11. Discutir com seu líder, pastor ou instrutor os problemas enfrentados pela juventude Adventista do Sétimo Dia no ensino fundamental, ensino médio e faculdade. Que alternativas existem para permitir uma atividade esportiva contínua.
 
 ## Equitação - avançado
@@ -2155,25 +2178,18 @@ a) Arremessando da linha de lance livre
 > (Necessário o acompanhamento de um instrutor)
 
 1. Ter a especialidade de Equitação.
-
 2. Identificar em desenho de um cavalo, ou ao vivo, pelo menos 30 diferentes partes de um cavalo.
-
-- 3. Identificar em desenho ou em uma sela e freio:
-  - a) Western, no mínimo, de 10 peças da sela
-  - b) Inglês ou Húngara, no mínimo, de 9 partes da sela
-  - c) Bridão ou Freio, no mínimo, 7 partes
-
+3. Identificar em desenho ou em uma sela e freio:
+    1. Western, no mínimo, de 10 peças da sela
+    2. Inglês ou Húngara, no mínimo, de 9 partes da sela
+    3. Bridão ou Freio, no mínimo, 7 partes
 4. Demonstrar e explicar como montar e desmontar um cavalo adequadamente e com segurança, e demonstrar segurança e equilíbrio, permanecendo sentado no cavalo que esteja em pé sobre as patas traseiras.
-
 5. Preparar uma trilha simples, de 3 obstáculos colocados ao nível do chão. Escolher a partir do seguinte:
-
-- a) Passar sobre o tronco ou poste deitado, com altura máxima de 42 centímetros.
-- b) Passar entre barrais ou fardos de feno colocados com distância de 120 cm entre si.
-- c) Ziguezaguear entre postes colocados a intervalos de 3,6 metros.
-- d) Caminhar ao redor de um círculo grande (4,5 m), sair sem pisar ou cruzar quaisquer linhas.
-
+    1. Passar sobre o tronco ou poste deitado, com altura máxima de 42 centímetros.
+    2. Passar entre barrais ou fardos de feno colocados com distância de 120 cm entre si.
+    3. Ziguezaguear entre postes colocados a intervalos de 3,6 metros.
+    4. Caminhar ao redor de um círculo grande (4,5 m), sair sem pisar ou cruzar quaisquer linhas.
 6. Cavalgar um cavalo em passo de marcha, em trilha, durante um mínimo de 8 horas cumulativas.
-
 7. Demonstrar e explicar os 3 tipos de marcha: Trotada, Picada e Batida.
 
 ## Geocaching
@@ -2182,28 +2198,22 @@ a) Arremessando da linha de lance livre
 
 ### REQUISITOS
 
-- 1. Defina geocaching.
-- 2. O que é um receptor GPS?
-
-3. Demonstrar duas maneiras de descobrir a localização de um cache em sua área no site geocaching (http://www.geocaching.com/.
-    > Obs.: o site é em inglês, mas você encontra as informações necessárias no site: http://www.geocachingbrasil.com.br/).
+1. Defina geocaching.
+2. O que é um receptor GPS?
+3. Demonstrar duas maneiras de descobrir a localização de um cache em sua área no site [Geocaching](https://www.geocaching.com/).
 4. Demonstrar como inserir as coordenadas latitude e longitude no aparelho GPS para localizar um cache em sua área.
-
-- 5. Defina os seguintes termos
-  - a) Cache tradicional
-  - **b**) Micro-cache
-  - c) Cache virtual
-  - d) Multi-caches
-  - e) Travel bug
-- 6. Que itens podem ser deixados em um cache? Que itens não podem?
-- 7. Conhecer e praticar regras de etiqueta em relação aos Travel Bugs.
-- 8. Procurar três caches em sua área, pelo menos um deles deve ser um cache tradicional.
-
-1. Escreva sobre seu cache encontrado em seu diário de bordo no site Geocaching (http://www.geocaching.com/).
-
-2.  Discuta Mateus 6:19-21 e Jeremias 29:13 e compare, em seguida, com a pratica de geocaching.
-
-3.  Discuta questões de segurança que você deve considerar quando estiver praticando geocaching.
+5. Defina os seguintes termos:
+    1. Cache tradicional
+    2. Micro-cache
+    3. Cache virtual
+    4. Multi-caches
+    5. Travel bug
+6. Que itens podem ser deixados em um cache? Que itens não podem?
+7. Conhecer e praticar regras de etiqueta em relação aos Travel Bugs.
+8. Procurar três caches em sua área, pelo menos um deles deve ser um cache tradicional.
+9. Escreva sobre seu cache encontrado em seu diário de bordo no site [Geocaching](https://www.geocaching.com/).
+10. Discuta Mateus 6:19-21 e Jeremias 29:13 e compare, em seguida, com a pratica de geocaching.
+11. Discuta questões de segurança que você deve considerar quando estiver praticando geocaching.
 
 ## Geocaching - avançado
 
@@ -2212,41 +2222,24 @@ a) Arremessando da linha de lance livre
 ### REQUISITOS
 
 1. Ter a especialidade de Geocaching.
-
 2. Descreva brevemente a origem dos satélites de posicionamento global. Qual sua história - quando e como foram colocados lá? Por quem?
-
-- 3. Defina latitude e longitude. O que significa graus, minutos e segundos?
-- 4. Complete dois ou mais itens a seguir:
-
-a) Estabeleça e mantenha um novo cache em sua região por, no mínimo, seis meses.
-
-b) Enviar e seguir um TB (travel bug) por seis meses.
-
-c) Encontre dois Travel Bugs e siga-os por seis meses.
-
-d) Participe em um encontro de geocachers ou evento em sua área (comparecer).
-
+3. Defina latitude e longitude. O que significa graus, minutos e segundos?
+4. Complete dois ou mais itens a seguir:
+    1. Estabeleça e mantenha um novo cache em sua região por, no mínimo, seis meses.
+    2. Enviar e seguir um TB (travel bug) por seis meses.
+    3. Encontre dois Travel Bugs e siga-os por seis meses.
+    4. Participe em um encontro de geocachers ou evento em sua área (comparecer).
 5. Quais são as leis, regras e regulamentos para a colocação de caches nas seguintes localidades:
-
-a) Parques Estaduais, Nacionais e de Serviço
-
-**b**) Rodovias e auto-estradas
-
-c) Colocação de caches enquanto viaja
-
-d) Áreas desertas em florestas
-
-e) Postos da Policia Ambiental
-
+    1. Parques Estaduais, Nacionais e de Serviço
+    2. Rodovias e auto-estradas
+    3. Colocação de caches enquanto viaja
+    4. Áreas desertas em florestas
+    5. Postos da Policia Ambiental
 6. Localize e armazene, no mínimo, 18 geocaches, incluindo:
-
-a) Cache tradicional, com nível 3 de dificuldade
-
-**b**) Um multi-caches
-
-c) Um cache virtual
-
-d) Um micro cache
+    1. Cache tradicional, com nível 3 de dificuldade
+    2. Um multi-caches
+    3. Um cache virtual
+    4. Um micro cache
 
 ## Construção de canoas
 
@@ -2255,21 +2248,13 @@ d) Um micro cache
 ### REQUISITOS
 
 1. Quais árvores em seu país são usadas para construções de canoas? Quais os nomes populares delas? Elas são consideradas coníferas ou folhosas?
-
 2. Quais árvores são usadas para construir canoas, coníferas ou folhosas?
-
 3. Que ferramentas são usadas para construir canoas? Iniciando com a derrubada da arvore até a construção estar completa.
-
 4. Escolha uma boa árvore de canoa com aproximadamente quatro metros de comprimento e observe o corte correto da mesma. Explique o que aconteceu.
-
 5. Descreva como uma tora é preparada para construir uma canoa.
-
 6. Com a ajuda de alguém, molde corretamente a parte externa de uma canoa e escave seu interior. Corrija ambas as superfícies, interna e externa, para ficarem lisas.
-
 7. Auxilie na construção de remos, acentos, postes e acessórios para a canoa.
-
 8. Auxilie na construção de um deck, mastro e vela de uma canoa de casco duplo ou um tipo de canoa polinésia.
-
 9. Construa um modelo em madeira (galho ou tronco) de um tipo de canoa usada em sua região.
 
 ## Cozinha com forno holandês
@@ -2278,30 +2263,30 @@ d) Um micro cache
 
 ### REQUISITOS
 
-- 1. Ter a especialidade de Arte culinária (HD 001).
-- 2. Dar um breve histórico sobre os fornos holandeses.
-- 3. Conhecer a diferença entre um forno de pão, um forno para cozinhar, fogão para panelas e um forno de acampamento.
-- 4. Qual a forma e tamanho dos fornos?
-- 5. Conhecer e demonstrar como colocar fogo em um forno holandês e manusear com
-- segurança e uso adequado do equipamento.
-- 6. Que tipos de combustíveis são usados para cozinhar com um forno?
-- 7. Quais as vantagens do carvão vegetal em relação à lenha como combustível?
-- 8. Como você controla a temperatura?
-- 9. Qual o papel das cinzas na eficiência do carvão?
-- 10. Se usar lenha, que tipos são melhores para cozinhar?
-- 11. Demonstrar a maneira correta de preparar um novo forno holandês.
-- 12. Demonstrar como limpar corretamente um forno holandês após cada uso.
-- 13. Demonstrar a maneira correta de transportar o forno holandês.
-- 14. Demonstrar como guardar corretamente o forno holandês para períodos longos e curtos.
-- 15. Cozinhar um item de cada categoria usando um forno holandês:
-  - a) Sopa/ensopado
-  - b) Caçarola
-  - c) Vegetal
-  - d) Pão
-  - e) Sobremesa
-- 16. Cozinhar usando a tampa como se fosse uma forma redonda de bolo.
-- 17. Citar seis diferentes maneiras de cozinhar em um forno holandês.
-- 18. Saber como cozinhar em forno holandês usando empilhamento de panelas.
+1. Ter a especialidade de Arte culinária (HD 001).
+2. Dar um breve histórico sobre os fornos holandeses.
+3. Conhecer a diferença entre um forno de pão, um forno para cozinhar, fogão para panelas e um forno de acampamento.
+4. Qual a forma e tamanho dos fornos?
+5. Conhecer e demonstrar como colocar fogo em um forno holandês e manusear com
+segurança e uso adequado do equipamento.
+6. Que tipos de combustíveis são usados para cozinhar com um forno?
+7. Quais as vantagens do carvão vegetal em relação à lenha como combustível?
+8. Como você controla a temperatura?
+9. Qual o papel das cinzas na eficiência do carvão?
+10. Se usar lenha, que tipos são melhores para cozinhar?
+11. Demonstrar a maneira correta de preparar um novo forno holandês.
+12. Demonstrar como limpar corretamente um forno holandês após cada uso.
+13. Demonstrar a maneira correta de transportar o forno holandês.
+14. Demonstrar como guardar corretamente o forno holandês para períodos longos e curtos.
+15. Cozinhar um item de cada categoria usando um forno holandês:
+    1. Sopa/ensopado
+    2. Caçarola
+    3. Vegetal
+    4. Pão
+    5. Sobremesa
+16. Cozinhar usando a tampa como se fosse uma forma redonda de bolo.
+17. Citar seis diferentes maneiras de cozinhar em um forno holandês.
+18. Saber como cozinhar em forno holandês usando empilhamento de panelas.
 
 ## Fanfarra
 
@@ -2310,163 +2295,133 @@ d) Um micro cache
 ### REQUISITOS
 
 1. Escreva uma página demonstrando seu conhecimento sobre como uma fanfarra pode ser usada para ministrar dentro de sua:
-
-a) Igreja local
-
-**b**) Comunidade
-
+    1. Igreja local
+    2. Comunidade
 2. Quais são as quatro famílias de rudimentos.
-
 3. Ser capaz de dar o nome de cinco rudimentos de cada uma das quatro famílias de rudimentos.
-
 4. Demonstrar habilidade para manter o passo em uma fanfarra, tomando parte, no mínimo, em um programa demonstrativo (Ex: Dia do Desbravador, Conferência ou um evento patrocinado pela igreja local).
-
 5. Qual é a diferença entre suporte para tambores (bumbos) e talabartes? Fazer uma apresentação usando estes equipamentos.
-
 6. Quais são os sete rudimentos essenciais? Porque eles são essenciais?
-
 7. Qual a diferença entre toque aberto e toque fechado?
-
 8. Usando o método aberto/fechado, demonstrar seu conhecimento dos sete rudimentos essenciais. Começar tocando devagar, aumentar a velocidade gradualmente e em seguida diminuir a velocidade novamente.
-
 9. Qual a diferença entre a pegada tradicional e pegada moderna, no uso das baquetas? Demonstrar cada estilo de pegada tocando uma seguencia consistente com não menos de três rudimentos.
-
 10. Qual a diferença entre baquetas usadas para os bumbos, para as caixas e para os surdos?
-
 11. Quais são os instrumentos que compõem uma fanfarra?
-
 12. Baseado na questão anterior, qual a função de cada um dos instrumentos para a fanfarra?
-
 13. Quais são os vários tipos de dispositivos de proteção usados para segurança dos instrumentos da fanfarra?
-
 14. Quais são os vários tipos e tamanhos de baquetas usadas para fanfarras? 15. Conhecer quais são os equipamentos e ferramentas usados na manutenção de uma fanfarra.
-
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable MD029 -->
 ## Rapel
 
 ![Rapel](_page_49_Picture_0.jpeg)
 
 ### REQUISITOS
 
-# SEÇÃO UM
+#### SEÇÃO UM
 
-# Segurança
+##### Segurança
 
 1. Faça o seguinte:
-
-a) Relacione e explique as regras de segurança b) Explique a placa de sinalização: "perigo de queda"
-
+    1. Relacione e explique as regras de segurança
+    2. Explique a placa de sinalização: "perigo de queda"
 2. Explicar o uso dos seguintes nós:
-
-a) Nó de fita b) Nó borboleta
-
-c) Figura de oito
-
-d) Pescador duplo e) Prussik f) Lais de Guia
-
+    1. Nó de fita
+    2. Nó borboleta
+    3. Figura de oito
+    4. Pescador duplo
+    5. Prussik
+    6. Lais de Guia
 3. Desenhe um diagrama para descidas por rapel nos seguinte casos:
-
-a) Técnica de corda única
-
-**b**) Rapel positivo e negativo
-
+    1. Técnica de corda única
+    2. Rapel positivo e negativo
 4. Saiba identificar o caminho para ancoragem segura em várias circunstancias.
-
 Exemplo: árvores, pedras, obstáculos.
 
-### Amarração das cordas
+##### Amarração das cordas
 
 5. Explique os vários apelos verbais.
-
 6. Explique os princípios de amarração e três métodos usados, cite as vantagens e desvantagens de cada método.
+    1. Amarração no corpo
+    2. Amarração mecânica
+    3. Amarração em uma base
 
-- a) Amarração no corpo
-- b) Amarração mecânica
-- c) Amarração em uma base
-
-# **Cuidados com equipamentos**
+##### Cuidados com equipamentos
 
 7. Liste as regras para cuidar das cordas.
-
 8. Explique a diferença entre cordas dinâmicas e cordas estáticas.
-
 9. Conhecer os tipos corretos de equipamentos necessários para rapel.
-
 10. Conhecer a melhor maneira para armazenar sua corda. Exemplo: enrolando e encurtando.
 
-# **Freios**
+##### Freios
 
-11. Conhecer cada dispositivo usado para diferentes descidas com rapel. a) Citar as razões pelas quais você escolheu este dispositivo. Exemplo: Tempo, segurança, calor, versatilidade, etc.
+11. Conhecer cada dispositivo usado para diferentes descidas com rapel.
+    1. Citar as razões pelas quais você escolheu este dispositivo. Exemplo: Tempo, segurança, calor, versatilidade, etc.
 
-# **Primeiros socorros**
+##### Primeiros socorros
 
 12. Saber como tratar um paciente nos seguintes casos:
+    1. Entorse
+    2. Concussão
+    3. Hipotermia
+    4. Fratura
+    5. Choque
 
-- a) Entorse
-- b) Concussão
-- c) Hipotermia
-- d) Fratura
-- e) Choque
-
-# Resgate em penhasco
+##### Resgate em penhasco
 
 13. Explique como proceder nos seguintes resgates:
+    1. Usando um sistema de roldanas
+    2. Como mudar de método durante o resgate
 
-- a) Usando um sistema de roldanas
-- b) Como mudar de método durante o resgate
-
-# **SESSÃO DOIS - PRÁTICA**
+#### **SESSÃO DOIS - PRÁTICA**
 
 14. Ser aprovado no exame da DSA com aproveitamento maior que 60%.
 
-# Avaliação verbal
+##### Avaliação verbal
 
 15. Responder as questões dos seguintes tópicos:
+    1. Uso de pelo menos seis nós usados em rapel
+    2. Quais são, e dar o significado das chamadas escaladas padrão
+    3. Uso de vários tipos de freios
+    4. Dê sete regras para fixar a corda
+    5. Dê sete regas de segurança
+    6. Saiba primeiros socorros e sobre como tratar pacientes
+    7. Dê cinco maneiras de detectar falhas na corda
 
-a) Uso de pelo menos seis nós usados em rapel
+##### **Teste prático**
 
-b) Quais são, e dar o significado das chamadas escaladas padrão
+16. Execute as seguintes tarefas:
+    1. Faça seis nós diferentes usados em rapel
+    2. Configure uma instalação de corda única e outra para penhasco (paredão)
+    3. Simule um resgate em penhasco sendo testemunhado por seu instrutor
+    4. Enrolar e diminuir uma corda corretamente
+    5. Demonstrar métodos de amarração
 
-c) Uso de vários tipos de freios
-
-d) Dê sete regras para fixar a corda
-
-- e) Dê sete regas de segurança
-- f) Saiba primeiros socorros e sobre como tratar pacientes
-- g) Dê cinco maneiras de detectar falhas na corda
-
-# **Teste prático**
-
-16. Execute as seguintes tarefas: a) Faça seis nós diferentes usados em rapel
-
-- b) Configure uma instalação de corda única e outra para penhasco (paredão)
-- c) Simule um resgate em penhasco sendo testemunhado por seu instrutor
-- d) Enrolar e diminuir uma corda corretamente
-- e) Demonstrar métodos de amarração
-
-# Rapel
+##### Rapel
 
 17. De uma altura mínima de 10 metros, complete dois rapéis com cada um dos seguintes equipamentos. Conhecer como uni-los à corda.
-
-- a) Descensor simples **b**) Freio 8 huit antibrulure
-- c) Freio oito resgate d) Figura de oito
-
-- e) Descensor de barras f) Freio ATC g) Mosquetão
-- 18. Explicar como fazer o rapel básico e o de ombro, para uso emergencial.
-
+    1. Descensor simples
+    2. Freio 8 huit antibrulure
+    3. Freio oito resgate
+    4. Figura de oito
+    5. Descensor de barras
+    6. Freio ATC
+    7. Mosquetão
+18. Explicar como fazer o rapel básico e o de ombro, para uso emergencial.
 19. Ser capaz de usar o prussik em um penhasco de 10 metros.
-
+<!-- markdownlint-restore -->
 ## Rapel - avançado
 
 ![Rapel - avançado](_page_50_Picture_0.jpeg)
 
 ### REQUISITOS
 
-- 1. Ter a especialidade de Rapel.
-- 2. Repetir toda a teoria e prática requerida pela especialidade Rapel.
-- 3. Ser aprovado no exame da DSA com aproveitamento maior que 80%.
-- 4. Fazer rapel com um nó na corda.
-- 5. Fazer rapel em uma saliência ou caverna.
-- 6. Demonstrar o método da polia em um resgate em penhasco.
+1. Ter a especialidade de Rapel.
+2. Repetir toda a teoria e prática requerida pela especialidade Rapel.
+3. Ser aprovado no exame da DSA com aproveitamento maior que 80%.
+4. Fazer rapel com um nó na corda.
+5. Fazer rapel em uma saliência ou caverna.
+6. Demonstrar o método da polia em um resgate em penhasco.
 
 ## Rapel - instrutor
 
@@ -2475,12 +2430,9 @@ d) Dê sete regras para fixar a corda
 ### REQUISITOS
 
 1. Ter a especialidade de Rapel - avançado.
-
 2. Como instrutor de rapel, deve estar confiante em todos os aspectos da especialidade de Rapel e ser aprovado no exame da DSA com aproveitamento de 100%.
-
-- 3. Demonstrar toda a teoria para a classe.
-- 4. Ensinar primeiros socorros em rapel para a classe.
-
+3. Demonstrar toda a teoria para a classe.
+4. Ensinar primeiros socorros em rapel para a classe.
 5. Liderar pelo menos duas expedições de rapel, checando a segurança de cada indivíduo.
 
 ## Triathlon
@@ -2490,12 +2442,11 @@ d) Dê sete regras para fixar a corda
 ### REQUISITOS
 
 1. Apresentar 3 princípios bíblicos e 2 do Espírito de Profecia que apoiam a prática de esportes.
-
 2. Apresentar um relatório sobre o regime alimentar correto para manter-se em excelentes condições físicas e explicar como isto foi mantido durante todo o tempo de treinamento para o triathlon. Incluir a quantidade de líquido que deve ser ingerida antes e durante a competição e os alimentos ingeridos durante a competição.
-
-- a) Apresentar as orientações gerais para um preparo adequado, incluindo exercícios de aquecimento, alongamento, prevenção de contusões, prevenção de exaustão, etc. b) Apresentar seu programa de treinamento.
-- c) Relacionar o equipamento adequado, incluindo bicicleta, calçados e vestimenta. 3. Demonstrar conhecimento das técnicas usadas na natação, ciclismo e corrida.
-
+    1. Apresentar as orientações gerais para um preparo adequado, incluindo exercícios de aquecimento, alongamento, prevenção de contusões, prevenção de exaustão, etc.
+    2. Apresentar seu programa de treinamento.
+    3. Relacionar o equipamento adequado, incluindo bicicleta, calçados e vestimenta.
+3. Demonstrar conhecimento das técnicas usadas na natação, ciclismo e corrida.
 4. Competir num evento de triathlon reconhecido, individualmente ou como parte de uma equipe. O triathlon deverá cobrir distâncias semelhantes a: natação: 500 m; ciclismo: 15 km; corrida: 10 km. O percurso deve ser feito, no máximo, em 4 horas e meia.
 
 ## Triathlon - avançado
@@ -2504,10 +2455,9 @@ d) Dê sete regras para fixar a corda
 
 ### REQUISITOS
 
-- 1. Ter a especialidade de Triathlon.
-- 2. Desenvolver uma agenda de treinamento para si mesmo(a).
-- 3. Manter um diário do treinamento durante 2 meses.
-
+1. Ter a especialidade de Triathlon.
+2. Desenvolver uma agenda de treinamento para si mesmo(a).
+3. Manter um diário do treinamento durante 2 meses.
 4. Participar de um evento importante de triathlon, individualmente. A competição deverá cobrir distâncias semelhantes a: natação: 1,5 km; ciclismo: 40 km; corrida: 10 km. O percurso deve ser feito, no máximo, em 4 horas e meia.
 
 ## Telecartofilia
@@ -2517,19 +2467,12 @@ d) Dê sete regras para fixar a corda
 ### REQUISITOS
 
 1. Quais as diferenças entre a telecartofilia, a filatelia e a numismática?
-
 2. Dizer que fatores influenciam um cartão a tornar-se raro e quais fatores tornam um cartão valioso para um colecionador.
-
 3. Mencionar cinco países que fazem uso do cartão telefônico e quais os tipos de cartões utilizados.
-
 4. Conhecer e adquirir os objetos necessários para o início de uma coleção de cartões telefônicos.
-
 5. Saber quando e onde surgiu o primeiro cartão telefônico no mundo. Saber também quando ele começou a ser usado em seu país.
-
 6. Escrever uma redação de 25 linhas sobre os parâmetros de uma coleção temática.
-
 7. Fazer um cartaz, apresentação ou redação contando a história do cartão telefônico em seu país.
-
 8. Fazer uma coleção de, pelo menos, 100 cartões, não incluindo repetidos na contagem.
 
 ## Telecartofilia - avançado
@@ -2541,9 +2484,8 @@ d) Dê sete regras para fixar a corda
 1. Ter a especialidade de Telecartofilia.
 2. Conhecer o funcionamento do cartão indutivo.
 3. Onde é feita a impressão e a emissão dos cartões telefônicos em seu país?
-4. Os cartões mais antigos possuem um código. O que ele significa e como interpretálo? (Ex: <96 07(2N IT 00) 4 CMU F1>).
+4. Os cartões mais antigos possuem um código. O que ele significa e como interpretálo? (Ex: `<96 07(2N IT 00) 4 CMU F1>`).
 5. Conhecer a história do cartão telefônico de algum país que não seja o seu.
-
 6. Fazer uma coleção de, pelo menos, 300 cartões, contendo, no mínimo, um de chip, um magnético, um óptico e um pré-pago. Não incluir os repetidos na contagem.
 
 ## Wakeboard
@@ -2552,29 +2494,28 @@ d) Dê sete regras para fixar a corda
 
 ### REQUISITOS
 
-- 1. Conhecer e praticar as normas de segurança a seguir:
-  - a) Nunca praticar Wakeboard à noite
-  - b) Nunca praticar Wakeboard durante uma tempestade
-  - c) Sempre usar um colete salva-vidas enquanto estiver praticando Wakeboard
-  - d) Certifique-se que a corda está em boas condições
-  - e) Certifique-se que as ligações estão em boas condições
-  - f) Ter sempre um spotter e bandeira no barco
-  - g) Mantenha-se afastado de objetos, tais como outros esquiadores, nadadores,
-  - plantas aquáticas, docas, ou outros objetos flutuantes
-  - h) Se você cair, solte a corda
-  - i) Depois de uma queda, levantar a mão para indicar que você está bem
-  - j) Não fique pendurado no barco enquanto ele está se movendo
-- 2. Conhecer os seguintes sinais:
-  - a) Desacelere
-  - b) A velocidade está ok
-  - c) Acelere
-  - d) Volte para a doca
-  - e) Pare
-  - f) Retorne
-- 3. Ser capaz de, sozinho, colocar a prancha de Wakeboard e remover o esqui em águas profundas.
-- 4. Execute um deep-water (flutuar na água pedalando) iniciando o Wakeboard com a corda esticada.
-- 5. Atravessar com sucesso a onda formada pelo barco a motor e retornar ao centro sem cair.
-- 6. Fazer um pequeno salto usando a onda formada pelo barco como rampa e chegar à margem sem cair.
+1. Conhecer e praticar as normas de segurança a seguir:
+    1. Nunca praticar Wakeboard à noite
+    2. Nunca praticar Wakeboard durante uma tempestade
+    3. Sempre usar um colete salva-vidas enquanto estiver praticando Wakeboard
+    4. Certifique-se que a corda está em boas condições
+    5. Certifique-se que as ligações estão em boas condições
+    6. Ter sempre um spotter e bandeira no barco
+    7. Mantenha-se afastado de objetos, tais como outros esquiadores, nadadores, plantas aquáticas, docas, ou outros objetos flutuantes
+    8. Se você cair, solte a corda
+    9. Depois de uma queda, levantar a mão para indicar que você está bem
+    10. Não fique pendurado no barco enquanto ele está se movendo
+2. Conhecer os seguintes sinais:
+    1. Desacelere
+    2. A velocidade está ok
+    3. Acelere
+    4. Volte para a doca
+    5. Pare
+    6. Retorne
+3. Ser capaz de, sozinho, colocar a prancha de Wakeboard e remover o esqui em águas profundas.
+4. Execute um deep-water (flutuar na água pedalando) iniciando o Wakeboard com a corda esticada.
+5. Atravessar com sucesso a onda formada pelo barco a motor e retornar ao centro sem cair.
+6. Fazer um pequeno salto usando a onda formada pelo barco como rampa e chegar à margem sem cair.
 
 ## Softbol
 
@@ -2582,82 +2523,76 @@ d) Dê sete regras para fixar a corda
 
 ### REQUISITOS
 
-- 1. Saber as regra básicas do softbol.
-- 2. Explicar o significado de esportividade e jogo limpo.
-- 3. Citar e demonstrar seu conhecimento sobre as habilidades necessárias às 10
-- posições de jogo do softbol.
-- 4. Saber identificar o seguinte:
-  - a) Bastão
-  - **b**) On deck circle
-  - c) Box do rebatedor d) Outfield
-
-- e) Box do treinador f) F. Pitcher place g) Diamond Bags
-- 5. Definir e explicar os sequintes termos de jogo:
-
-| a) Bases cheias                  | j) Run            |
-|----------------------------------|-------------------|
-| b ) Time da casa          | k) Foul tip       |
-| c) Bunt                          | I) Score - ponto  |
-| d) Innings                       | m) Grand Slam     |
-| e) Fielder's choice              | n) Zona de Strike |
-| f) Lineup                        | o) Grounder       |
-| g) Fly Ball                      | p) The count      |
-| h) Popup                         | q) Home run       |
-| i) Force Play                    | r) Andar          |
-| 6. Explicar as seguintes regras: |                   |
-| a) Double Play                   | e) Fair ball      |
-| b ) Ground rule double    | f) Out            |
-| c) Erro                          | g) Foul ball      |
-| d) Regras de Infield fly         | h) Safe           |
-|                                  |                   |
-
+1. Saber as regra básicas do softbol.
+2. Explicar o significado de esportividade e jogo limpo.
+3. Citar e demonstrar seu conhecimento sobre as habilidades necessárias às 10 posições de jogo do softbol.
+4. Saber identificar o seguinte:
+    1. Bastão
+    2. On deck circle
+    3. Box do rebatedor
+    4. Outfield
+    5. Box do treinador
+    6. F. Pitcher place
+    7. Diamond Bags
+5. Definir e explicar os sequintes termos de jogo:
+    1. Bases cheias
+    2. Time da casa
+    3. Bunt
+    4. Innings
+    5. Fielder's choice
+    6. Lineup
+    7. Fly Ball
+    8. Popup
+    9. Force Play
+    10. Run
+    11. Foul tip
+    12. Score - ponto
+    13. Grand Slam
+    14. Zona de Strike
+    15. Grounder
+    16. The count
+    17. Home run
+    18. Andar
+6. Explicar as seguintes regras:
+    1. Double Play
+    2. Ground rule double
+    3. Erro
+    4. Regras de Infield fly
+    5. Fair ball
+    6. Out
+    7. Foul ball
+    8. Safe
 7. Demonstrar habilidade em ler um cartão de pontuação de um jogo do qual você participou.
-
 8. Listar e descrever 5 responsabilidades de um árbitro.
-
 9. Citar 5 atributos mentais e físicos que podem ser desenvolvidos com a prática do softbol.
-
 10. Juntamente com um time ou individualmente, desenvolver um plano de treinamento enquanto completa os requisitos desta especialidade. Opcionalmente, poderá incluir os seguintes itens ao plano:
-
-a) Convidar 3 amigos que não sejam de sua igreja para jogar uma partida.
-
-b) Fazer uma oração antes de cada partida.
-
-c) Demonstrar esportividade e jogo limpo.
-
+    1. Convidar 3 amigos que não sejam de sua igreja para jogar uma partida.
+    2. Fazer uma oração antes de cada partida.
+    3. Demonstrar esportividade e jogo limpo.
 11. Jogar 3 partidas de softbol em campo de dimensão oficial com um árbitro e demonstrar habilidades razoáveis no esporte.
-
 12. Escrever um relatório de 1 página sobre um atleta famoso. Participar de uma discussão em grupo se ele é ou não um bom exemplo de cristão.
-
 13. Participar de uma discussão com seu líder, pastor ou professor sobre os problemas a serem enfrentados por atletas adventistas do sétimo dia no ensino fundamental, médio ou faculdade. Quais são as alternativas que permitem a prática continuada de esportes?
 
 ## Letterboxing
 
 ### REQUISITOS
 
-# 1. Defina o seguinte:
-
-- a) Cache
-- b) Letterbox
-- c) Apelido (Trail name)
-- d) Livro de registro pessoal
-- e) Selo ou carimbo
-- f) Cache carona
-- g) Caixa de híbridos
-- h) Caixa de bônus
-- i) Troca
-
+1. Defina o seguinte:
+    1. Cache
+    2. Letterbox
+    3. Apelido (Trail name)
+    4. Livro de registro pessoal
+    5. Selo ou carimbo
+    6. Cache carona
+    7. Caixa de híbridos
+    8. Caixa de bônus
+    9. Troca
 2. Liste, pelo menos, cinco comportamentos que você deve ter enquanto pratica letterboxing.
-
 3. Demonstrar as seguintes habilidades de orientação:
-
-a) Converter o valor de uma escala para o valor real e calcular os passos necessários para percorrer a distância (Pacing)
-
-b) Utilização da bússola
-
-- c) Encontrar os pontos cardeais sem o uso de uma bússola
-- 4. Projetar, criar e esculpir seu próprio selo pessoal.
-
+    1. Converter o valor de uma escala para o valor real e calcular os passos necessários para percorrer a distância (Pacing)
+    2. Utilização da bússola
+    3. Encontrar os pontos cardeais sem o uso de uma bússola
+4. Projetar, criar e esculpir seu próprio selo pessoal.
 5. Com uma unidade, clube, ou membro da família, encontrar as pistas e, em seguida, localizar, pelo menos, 10 letterboxes, se possível, pelo menos quatro deles devem ser parte de uma série. Carimbe seu selo individual no livro de visita e carimbe seu livro de registro com o carimbo do cache. Registrar seu achado no site.
 
 ## Letterboxing - avançado
@@ -2667,13 +2602,9 @@ b) Utilização da bússola
 ### REQUISITOS
 
 1. Ter a especialidade de Letterboxing.
-
 2. Criar um carimbo de letterbox, postar pistas em um site, estabelecer e manter um letterbox por, no mínimo, seis meses.
-
 3. Como uma unidade, clube, ou um membro de sua família, encontrar as pistas e, em seguida, localizar 20 caches diferentes dos que foram encontrados para a especialidade Básica, se possível, oito deles devem ser parte de uma coleção. Carimbar o livro do Letterbox e usar o carimbo do letterbox para carimbar seu livro de registro. Registre seu achado no site.
-
 4. Projetar, criar e esculpir seu próprio carimbo caroneiro. Esconder em um letterbox, postar uma mensagem em um site e acompanhar a viagem do carimbo caroneiro por, no mínimo, seis meses.
-
 5. Participar de um intercâmbio com letterboxers que não pertencem ao seu clube e obter um mínimo de 20 selos.
 
 ## Monociclo
@@ -2682,20 +2613,15 @@ b) Utilização da bússola
 
 ### REQUISITOS
 
-- 1. Saber o nome e propósito de cada parte do monociclo.
-- 2. Defina os seguintes termos relacionados a monociclos:
-  - a) Montagem livre
-  - **b)** Idle (equilíbrio)
-  - c) UPD (desmontagem não planejada)
-
+1. Saber o nome e propósito de cada parte do monociclo.
+2. Defina os seguintes termos relacionados a monociclos:
+    1. Montagem livre
+    2. Idle (equilíbrio)
+    3. UPD (desmontagem não planejada)
 3. Saiba quais equipamentos de segurança devem ser usados e porque devem ser usados.
-
 4. Dê o nome de cinco tipos diferentes de monociclos e explique o que os torna únicos.
-
 5. Conte a história da criação do monociclo.
-
 6. Reparar o pneu furado de um monociclo.
-
 7. Ser capaz de montar um monociclo, andar por 50 metros, virar à direita e à esquerda e desmontar graciosamente, tudo sem cair.
 
 ## Acampamento seguro
@@ -2705,31 +2631,22 @@ b) Utilização da bússola
 ### REQUISITOS
 
 1. Por que é importante conhecer o que as leis de seu País/Estado falam sobre foqueiras em acampamento ou áreas silvestres? Onde obter estas informações?
-
-2. Cite 3 razões pelas quais uma fogueira de acampamento nunca deve ficar sozinha. 3. Relacione, pelo menos, 10 regras de segurança relacionadas a fogueiras enquanto estiver acampado.
-
+2. Cite 3 razões pelas quais uma fogueira de acampamento nunca deve ficar sozinha.
+3. Relacione, pelo menos, 10 regras de segurança relacionadas a fogueiras enquanto estiver acampado.
 4. Identifique a temperatura ideal para se conservar alimentos quentes e frios, como devem ser mantidos e explicar porque isto é importante enquanto acampado.
-
 5. Relacionar, pelo menos, cinco coisas que você pode fazer para prevenir a entrada de animais na área de acampamento.
-
-6. Quais as precauções de segurança devem ser consideradas ao construir uma latrina? 7. Faça uma lista dos itens necessários em um kit de primeiros socorros. Inspecionar o
-
-kit de primeiros socorros de seu clube e recomendar a aquisição dos itens faltantes.
-
+6. Quais as precauções de segurança devem ser consideradas ao construir uma latrina?
+7. Faça uma lista dos itens necessários em um kit de primeiros socorros. Inspecionar o kit de primeiros socorros de seu clube e recomendar a aquisição dos itens faltantes.
 8. Relacione, pelo menos, cinco itens para manter a boa higiene em um acampamento, cujo local não há água corrente (ou seja, sem chuveiros, torneiras, lavatórios, etc.).
-
 9. Demonstrar três maneiras de purificar água enquanto acampados.
-
-10. Identificar, pelo menos, dois tipos de combustíveis usados para cozinhar em acampamentos. Discutir cinco regras de segurança para manuseio dos seguintes itens:
-
-a) Faca
-
-- b) Machado
-- c) Serrote ou serras
-- d) Facão
-- e) Combustíveis
-
-11. Ajude seu clube ou liderança, durante uma inspeção de acampamento, na conferência do formulário para gerenciamento de segurança e risco no acampamento. Ser capaz de explicar a pontuação determinada no relatório sobre a segurança no acampamento.
+10. Identificar, pelo menos, dois tipos de combustíveis usados para cozinhar em acampamentos.
+11. Discutir cinco regras de segurança para manuseio dos seguintes itens:
+    1. Faca
+    2. Machado
+    3. Serrote ou serras
+    4. Facão
+    5. Combustíveis
+12. Ajude seu clube ou liderança, durante uma inspeção de acampamento, na conferência do formulário para gerenciamento de segurança e risco no acampamento. Ser capaz de explicar a pontuação determinada no relatório sobre a segurança no acampamento.
 
 ## Acampamento seguro - avançado
 
@@ -2737,16 +2654,15 @@ a) Faca
 
 ### REQUISITOS
 
-- 1. Ter as seguintes especialidades:
-  - a) Acampamento I
-  - b) Acampamento II
-  - c) Acampamento III
-  - d) Acampamento IV
-  - e) Acampamento Seguro
-
+1. Ter as seguintes especialidades:
+    1. Acampamento I
+    2. Acampamento II
+    3. Acampamento III
+    4. Acampamento IV
+    5. Acampamento Seguro
 2. O que você entende por "Os Desbravadores são um dever sagrado" e como a segurança de um acampamento satisfaz este ministério da igreja.
-
-3. Instruir a especialidade de acampamento seguro a um grupo de desbravadores. 4. Realizar inspeções em cinco acampamentos usando o formulário de inspeção de segurança.
+3. Instruir a especialidade de acampamento seguro a um grupo de desbravadores.
+4. Realizar inspeções em cinco acampamentos usando o formulário de inspeção de segurança.
 
 ## Viagem e turismo
 
@@ -2755,67 +2671,38 @@ a) Faca
 ### REQUISITOS
 
 1. Liste todos os tipos de transporte que você possa pensar que as pessoas usam ao redor do mundo. Diminua esta lista anterior para os cinco meios de transporte mais comuns. Liste os prós e os contras de cada um dos cinco.
-
 2. Liste alguns dos prós e contras dos seguintes tipos de hospedagem:
-
-a) Hotel
-
-**b)** Albergue da Juventude
-
-c) Amigos / família
-
-d) Trailer/acampamentos
-
-e) Resorts
-
+    1. Hotel
+    2. Albergue da Juventude
+    3. Amigos / família
+    4. Trailer/acampamentos
+    5. Resorts
 3. Quais documentos são necessários para os seguintes tipos de viagens?
-
-a) Viagens intermunicipais
-
-**b**) Viagens interestaduais
-
-c) Viagens internacionais (para países que pertençam e não pertençam ao mesmo bloco econômico)
-
+    1. Viagens intermunicipais
+    2. Viagens interestaduais
+    3. Viagens internacionais (para países que pertençam e não pertençam ao mesmo bloco econômico)
 Explique a finalidade de cada documento. Em quais casos é necessária uma autorização dos pais?
-
 4. Cumprir um dos seguintes:
-
-a) Assista a um programa diário de viagem, ou uma reportagem ou vídeo promocional, que mostra paisagens de viagens e geografia de uma única localização.
-
-b) Pesquisar, através de atlas, livros ou internet, uma cidade ou região que você queria visitar. Descobrir o seguinte:
-
-- 1. População
-- 2. Comidas típicas
-- 3. Clima
-- 4. Vegetação / geografia
-- 5. Cultura
-- 6. Clima
-
+    1. Assista a um programa diário de viagem, ou uma reportagem ou vídeo promocional, que mostra paisagens de viagens e geografia de uma única localização.
+    2. Pesquisar, através de atlas, livros ou internet, uma cidade ou região que você queria visitar. Descobrir o seguinte:
+        1. População
+        2. Comidas típicas
+        3. Clima
+        4. Vegetação / geografia
+        5. Cultura
+        6. Clima
 5. O que é necessário para se viajar ao exterior? Discuta em grupo como um turista deve se comportar quando estiver em outro país.
-
-6. Criar um plano simples de viagem para sete dias de férias familiares, ou para duas
-
-viagens de 4 dias cada. Como parte de seu planejamento, incluir os seguintes locais para visita:
-
-a) Detalhes sobre um lugar histórico
-
-b) Detalhes sobre dois parques naturais
-
-- c) Detalhes sobre uma área de recreação
-> Observação: O primeiro e o último dia devem ser dias de viagem.
-
-1. Liste algumas maneiras diferentes que as pessoas usavam para viajar no tempo bíblico.
-
-2. Calcule aproximadamente quanto tempo demoravam para viajar entre Jerusalém e Damasco.
-
-3. Esboce um mapa de uma viagem mencionada na Bíblia:
-
-a) Exibir nome dos personagens e caminho correto incluindo as paradas significativas feitas.
-
-b) Exibir diferentes tipos de linhas (marcação) para cada meio de transporte diferente utilizado.
-
-c) Exibir uma legenda para identificar as marcações e tipos de transportes.
-> Observação: Você pode ter que descobrir algumas informações que não estão mencionadas diretamente nas escrituras.
+6. Criar um plano simples de viagem para sete dias de férias familiares, ou para duas viagens de 4 dias cada. Como parte de seu planejamento, incluir os seguintes locais para visita:
+    1. Detalhes sobre um lugar histórico
+    2. Detalhes sobre dois parques naturais
+    3. Detalhes sobre uma área de recreação
+7. Liste algumas maneiras diferentes que as pessoas usavam para viajar no tempo bíblico.
+8. Calcule aproximadamente quanto tempo demoravam para viajar entre Jerusalém e Damasco.
+9. Esboce um mapa de uma viagem mencionada na Bíblia:
+    1. Exibir nome dos personagens e caminho correto incluindo as paradas significativas feitas.
+    2. Exibir diferentes tipos de linhas (marcação) para cada meio de transporte diferente utilizado.
+    3. Exibir uma legenda para identificar as marcações e tipos de transportes.
+    > Observação: Você pode ter que descobrir algumas informações que não estão mencionadas diretamente nas escrituras.
 
 ## Viagem e turismo - avançado
 
@@ -2823,57 +2710,35 @@ c) Exibir uma legenda para identificar as marcações e tipos de transportes.
 
 ### REQUISITOS
 
-- 1. Ter a especialidade de Viagem e turismo.
-- 2. Cumprir um dos seguintes:
-
-a) Assista a um programa diário de viagem, ou uma reportagem ou vídeo promocional, que mostra paisagens de viagens e geografia de uma única localização.
-
-b) Pesquisar, através de atlas, livros ou internet, uma cidade ou região que você queria visitar. Descobrir o seguinte:
-
-- População
-- Comidas típicas
-- · Clima
-- · Vegetação / geografia
-- Cultura
-- · Clima
-- 3. Que considerações de segurança você deve pensar quando viaja?
-
-4. Quais recomendações ou requerimentos de saúde são recomendados e/ou exigidos
-
-pelo departamento de saúde de seu país para viagens internacionais?
-
+1. Ter a especialidade de Viagem e turismo.
+2. Cumprir um dos seguintes:
+    1. Assista a um programa diário de viagem, ou uma reportagem ou vídeo promocional, que mostra paisagens de viagens e geografia de uma única localização.
+    2. Pesquisar, através de atlas, livros ou internet, uma cidade ou região que você queria visitar. Descobrir o seguinte:
+        1. População
+        2. Comidas típicas
+        3. Clima
+        4. Vegetação / geografia
+        5. Cultura
+3. Que considerações de segurança você deve pensar quando viaja?
+4. Quais recomendações ou requerimentos de saúde são recomendados e/ou exigidos pelo departamento de saúde de seu país para viagens internacionais?
 5. Criar um plano de sete dias de viagem, ou de duas viagens de 4 dias cada, sendo a viagem internacional ou interestadual para férias em família:
-
-a) Criar um planejamento para os sete dias e incluir:
-
-· Descrever um local histórico para visitar
-
-- · Listar e descrever dois parques naturais para visitar
-- · Descrever um local recreativo para visitar
-
-> Observação: O primeiro e o último devem ser dias de viagem.
-
-b) Criar um orçamento para as férias familiares e inclua projetos de valores
-
-financeiros para o grupo familiar e para você:
-
-- · Passagens de ida e volta àquele Estado
-- Despesas com transportes
-- · Determine uma média por noite no hotel
-- · Determine uma média por dia com alimentação
-- · Custo orçado para visitar locais planejados
-- · Gastos com lembrancinhas
-- · Incluir 10% para despesas diversas
-
+    1. Criar um planejamento para os sete dias e incluir:
+        1. Descrever um local histórico para visitar
+        2. Listar e descrever dois parques naturais para visitar
+        3. Descrever um local recreativo para visitar
+    2. Criar um orçamento para as férias familiares e inclua projetos de valores financeiros para o grupo familiar e para você:
+        1. Passagens de ida e volta àquele Estado
+        2. Despesas com transportes
+        3. Determine uma média por noite no hotel
+        4. Determine uma média por dia com alimentação
+        5. Custo orçado para visitar locais planejados
+        6. Gastos com lembrancinhas
+        7. Incluir 10% para despesas diversas
 6. Escreva uma redação de, pelo menos, 100 palavras ou discutir em grupo porque você pensa que viajar nos tempos bíblicos era gostoso. Os tópicos de discussão podem incluir:
-
-a) Distâncias, contrastando viagens naqueles dias e nos dias de hoje
-
-b) Expectativas sobre o que você tem disponível para alojamento (banho, camas, número de pessoas alojadas juntas, etc.)
-
-c) Alimentos durante a viagem (nada de refrigerantes ou mercearias, lojas de época)
-
-d) Porque você iria viajar (recreação ou necessidade)
+    1. Distâncias, contrastando viagens naqueles dias e nos dias de hoje
+    2. Expectativas sobre o que você tem disponível para alojamento (banho, camas, número de pessoas alojadas juntas, etc.)
+    3. Alimentos durante a viagem (nada de refrigerantes ou mercearias, lojas de época)
+    4. Porque você iria viajar (recreação ou necessidade)
 
 ## Excursionismo pedestre na neve
 
@@ -2882,35 +2747,25 @@ d) Porque você iria viajar (recreação ou necessidade)
 ### REQUISITOS
 
 1. Descrever a forma e o tamanho de 3 tipos de raquetes de neve e quando / como elas podem ser usadas (aeróbio / corrida, recreação, montanhismo).
-
-- 2. Descrever os seguintes acessórios para raquetes de neve e sua utilidade enquanto caminhando na neve:
-  - a) Bastão de caminhada
-  - b) Botas de caminhada
-  - c) Gaiters
-- 3. Demonstrar a técnica adequada de usar raquetes de neve nas seguintes situações:
-  - a) Ao virar-se (conversão)
-  - b) Subidas
-  - c) Descidas
-  - d) Trilhas
-
+2. Descrever os seguintes acessórios para raquetes de neve e sua utilidade enquanto caminhando na neve:
+    1. Bastão de caminhada
+    2. Botas de caminhada
+    3. Gaiters
+3. Demonstrar a técnica adequada de usar raquetes de neve nas seguintes situações:
+    1. Ao virar-se (conversão)
+    2. Subidas
+    3. Descidas
+    4. Trilhas
 4. Explicar como manter o corpo quente e seco através do uso de vestimentas apropriadas, sob condição de vento de inverno enquanto viaja e descansa. Saber como evitar e como tratar hipotemia durante o inverno.
-
-- a) Alongamento
-- **b**) Aquecimento
-- c) Exercícios aeróbios
-- d) Relaxamento
-- e) Exercícios localizados
-- 5. Explicar o valor das seguintes regras de segurança:
-  - a) Conhecer como ler um mapa, como usar uma bússola ou GPS em caminhadas
-  - b) Deixar um plano de viagem com alguém enquanto você estiver caminhando na neve
-  - c) Caminhar na neve sempre com um parceiro
-  - d) Portar água e alimentos suficientes
-  - e) Ter um kit de primeiros socorros, sobrevivência e reparo
-- 6. Usando um par de raquetes de neve, demonstrar como se levantar após uma queda na neve.
-- 7. Demonstrar a importância de unir e fixar corretamente suas botas nas raquetes de neve.
-
+5. Explicar o valor das seguintes regras de segurança:
+    1. Conhecer como ler um mapa, como usar uma bússola ou GPS em caminhadas
+    2. Deixar um plano de viagem com alguém enquanto você estiver caminhando na neve
+    3. Caminhar na neve sempre com um parceiro
+    4. Portar água e alimentos suficientes
+    5. Ter um kit de primeiros socorros, sobrevivência e reparo
+6. Usando um par de raquetes de neve, demonstrar como se levantar após uma queda na neve.
+7. Demonstrar a importância de unir e fixar corretamente suas botas nas raquetes de neve.
 8. Participar de uma série de 3 caminhadas – uma de 1 Km, uma de 2 Km e uma de 4 Km. Fazer um relatório detalhado descrevendo a profundidade aproximada dos passos na neve e condição da neve, plantas e animais e da velocidade média de deslocamento.
-
 9. Explicar o significado da expressão "mais branca que a neve", encontrada no Salmo 51:7. Que outras metáforas naturais você poderia usar para demonstrar o significado deste versículo?
 
 ## Excursionismo pedestre na neve - avançado
@@ -2920,25 +2775,17 @@ d) Porque você iria viajar (recreação ou necessidade)
 ### REQUISITOS
 
 1. Ter a especialidade de Excursionismo pedestre na neve.
-
 2. Explicar sobre os diferentes tipos de flocos de neve e qual influência exerce sobre as raquetes.
-
 3. Utilizando um dos recursos a seguir, criar uma palestra sobre o uso de raquetes de neve. Incluir o uso entre os povos nativos. Citar todas as fontes pesquisadas.
-
-a) Apresentação eletrônica
-
-**b**) Relatório verbal
-
-c) Relatório escrito (mínimo de 1 página)
-
-d) Cartaz (expô-lo na sede do clube)
-
-- 4. Rever os conceitos de segurança descritos na especialidade básica.
-- 5. Fazer um dos seguintes:
-  - a) Fazer um par de raquetes de sobrevivência, usando materiais nativos e de primeiros socorros, que possivelmente estará disponível para você em meio à natureza.
-
-b) Fazer um conjunto de sapatos de neve usando materiais naturais ou sintéticos. 6. Completar com sucesso 2 caminhadas de 3 Km usando raquetes de neve. Fazer um relatório descrevendo detalhes da caminhada, como profundidade dos passos, condição da neve, plantas e animais e velocidade média de deslocamento.
-
+    1. Apresentação eletrônica
+    2. Relatório verbal
+    3. Relatório escrito (mínimo de 1 página)
+    4. Cartaz (expô-lo na sede do clube)
+4. Rever os conceitos de segurança descritos na especialidade básica.
+5. Fazer um dos seguintes:
+    1. Fazer um par de raquetes de sobrevivência, usando materiais nativos e de primeiros socorros, que possivelmente estará disponível para você em meio à natureza.
+    2. Fazer um conjunto de sapatos de neve usando materiais naturais ou sintéticos.
+6. Completar com sucesso 2 caminhadas de 3 Km usando raquetes de neve. Fazer um relatório descrevendo detalhes da caminhada, como profundidade dos passos, condição da neve, plantas e animais e velocidade média de deslocamento.
 7. Após uma de suas caminhas, escrever, pelo menos, um parágrafo explorando a dimensão espiritual da neve. Citar, pelo menos, 3 referências bíblicas onde a neve é mencionada.
 
 ## Segurança básica na água
@@ -2948,28 +2795,20 @@ b) Fazer um conjunto de sapatos de neve usando materiais naturais ou sintéticos
 ### REQUISITOS
 
 1. Demonstrar como entrar e sair da água de forma segura.
-
 2. Enquanto segura a respiração, submergir completamente seu rosto na água por cinco segundos.
-
 3. Respirar pela boca e, alternadamente, com o rosto submerso, soltar o ar ora pela boca e ora pelo nariz, no mínimo, sete vezes de forma contínua e rítmica.
-
-- 4. Abrir os olhos embaixo d'água e recuperar alguns objetos submersos.
-- 5. Boiar de frente por cinco segundos.
-- 6. Boiar de frente, por um percurso de dois corpos.
-- 7. Voltar flutuando por 15 segundos.
-- 8. Segurando a borda da piscina, bater os pés alternadamente por vinte segundos.
-
+4. Abrir os olhos embaixo d'água e recuperar alguns objetos submersos.
+5. Boiar de frente por cinco segundos.
+6. Boiar de frente, por um percurso de dois corpos.
+7. Voltar flutuando por 15 segundos.
+8. Segurando a borda da piscina, bater os pés alternadamente por vinte segundos.
 9. Usando os braços e o movimento das pernas, nadar por um percurso de cinco corpos.
-
 10. Aprenda a colocar um colete salva-vidas e flutuar por trinta segundos.
-
 11. Demonstrar segurança para executar o seguinte, estando dentro d'água:
-
-- a) Como pedir ajuda em caso de emergência
-- b) Como se livrar de uma cãibra
-
-c) Aprenda, pelo menos, dez regras de segurança guando próximos à água
-> Observação: Estes requisitos podem ser feitos em uma piscina caseira, com 2 a 3 metros de profundidade com a supervisão de um adulto. Não requer a presença de salva-vidas ou instrutor de segurança de água.
+    1. Como pedir ajuda em caso de emergência
+    2. Como se livrar de uma cãibra
+    3. Aprenda, pelo menos, dez regras de segurança guando próximos à água
+    > Observação: Estes requisitos podem ser feitos em uma piscina caseira, com 2 a 3 metros de profundidade com a supervisão de um adulto. Não requer a presença de salva-vidas ou instrutor de segurança de água.
 
 ## Boliche
 
@@ -2977,35 +2816,34 @@ c) Aprenda, pelo menos, dez regras de segurança guando próximos à água
 
 ### REQUISITOS
 
-- 1. Fazer um relatório oral ou escrito sobre a história do boliche.
-- 2. Qual o diâmetro da bola e o peso mínimo e máximo da mesma?
-- 3. Demonstrar a maneira correta de segurar a bola.
-- 4. Qual a medida dos pinos e qual a distância entre eles?
-- 5. Descrever a pista de boliche. Não deixar de mencionar o tamanho, material usado na
-- construção e porque e como a pista deve ser lubrificada diariamente.
-- 6. Fazer um diagrama da pista de boliche.
-- 7. Explicar porque são necessários calçados próprios para a prática do boliche.
-- 8. Explicar resumidamente como é cada partida.
-- 9. Explicar o sistema de contagem de pontos. Qual a pontuação máxima?
-- 10. Definir os seguintes termos:
-  - a) Strike
-  - b) Spare
-  - c) Approach
-  - d) Grip
-  - e) Leitura de pista
-  - f) Canaletas
-  - $q)$  1001
-  - $h)$  2002
-  - i) Back up
-  - j) Baby split
-  - k) Blind
-  - l) Bola morta
-  - m) Broche de ouro
-  - n) Encarar
-  - o) Frame
-  - p) Fritar ou furar
-  - q) Five bagger (ou "quina-ligue")
-- 10. Participar de, pelo menos, 3 partidas de boliche conseguindo, pelo menos, 150 pontos em cada.
+1. Fazer um relatório oral ou escrito sobre a história do boliche.
+2. Qual o diâmetro da bola e o peso mínimo e máximo da mesma?
+3. Demonstrar a maneira correta de segurar a bola.
+4. Qual a medida dos pinos e qual a distância entre eles?
+5. Descrever a pista de boliche. Não deixar de mencionar o tamanho, material usado na construção e porque e como a pista deve ser lubrificada diariamente.
+6. Fazer um diagrama da pista de boliche.
+7. Explicar porque são necessários calçados próprios para a prática do boliche.
+8. Explicar resumidamente como é cada partida.
+9. Explicar o sistema de contagem de pontos. Qual a pontuação máxima?
+10. Definir os seguintes termos:
+    1. Strike
+    2. Spare
+    3. Approach
+    4. Grip
+    5. Leitura de pista
+    6. Canaletas
+    7. 1001
+    8. 2002
+    9. Back up
+    10. Baby split
+    11. Blind
+    12. Bola morta
+    13. Broche de ouro
+    14. Encarar
+    15. Frame
+    16. Fritar ou furar
+    17. Five bagger (ou "quina-ligue")
+11. Participar de, pelo menos, 3 partidas de boliche conseguindo, pelo menos, 150 pontos em cada.
 
 ## Carrinho de rolimã
 
@@ -3014,26 +2852,16 @@ c) Aprenda, pelo menos, dez regras de segurança guando próximos à água
 ### REQUISITOS
 
 1. Criar um projeto para confeccionar um carrinho de rolimã (rolamentos) dentro das seguintes dimensões:
-
-a) Comprimento: 80 a 100 cm
-
- $b)$  Largura: 25 a 35 cm
-
-- c) Espessura: 2 a 3 cm
-- d) Rolamentos com dimensões de 6203 a 6307
-
+    1. Comprimento: 80 a 100 cm
+    2. Largura: 25 a 35 cm
+    3. Espessura: 2 a 3 cm
+    4. Rolamentos com dimensões de 6203 a 6307
 2. Saber manusear ferramentas como martelo, serrote, furadeira e saber os cuidados necessários ao usar cada uma delas.
-
 3. Qual a diferença dos freios laterais dos freios centrais? Em que eles implicam na hora da frenagem? Por que não é aconselhável adaptar os freios nas rodas?
-
 4. Concluir seu projeto, montando e dando acabamento com tinta em seu carrinho.
-
 5. Saber como o atrito, aderência e lubrificação dos rolamentos afeta o seu desempenho.
-
 6. Ter noção básica de primeiros socorros em casos de escoriações leves e direção defensiva quanto à segurança em curvas e velocidade excessiva.
-
 7. Saber quais locais são apropriados para treinar e testar seus carrinhos.
-
 8. Participar de um evento em seu Clube ou distrito, observando as regras de segurança como local apropriado, equipamentos de proteção individual e também a desportividade.
 
 ## Colecionador
@@ -3043,19 +2871,14 @@ a) Comprimento: 80 a 100 cm
 ### REQUISITOS
 
 1. Explique o que faz um colecionador e por que essa atividade é cada dia mais recomendada para as pessoas que vivem nas grandes cidades.
-
-- 2. Visitar uma exposição de artes ou feira de artesanato e listar os diversos objetos colecionáveis encontrados ali.
-- 3. Liste, ao menos, 10 itens que as pessoas colecionam na atualidade.
-- 4. Em conjunto com seu instrutor, completar um dos seguintes:
-
-a) Iniciar uma coleção interessante para seu Clube. Ajudar na escolha do tipo de coleção, elaborar um expositor criativo, escrever um parágrafo sobre o porquê de ter sido escolhida, fazer uma lista com o que deve constar na descrição dos itens e contribuir com, no mínimo, 5 itens diferentes.
-
-b) Em uma coleção do Clube já existente, ajudar na conservação e organização e contribuir com o acréscimo de, pelo menos, 5 itens. Escrever um parágrafo sobre aquela coleção específica, avaliando o estado atual da coleção e sugerindo como ela poderia ser melhorada.
-
+2. Visitar uma exposição de artes ou feira de artesanato e listar os diversos objetos colecionáveis encontrados ali.
+3. Liste, ao menos, 10 itens que as pessoas colecionam na atualidade.
+4. Em conjunto com seu instrutor, completar um dos seguintes:
+    1. Iniciar uma coleção interessante para seu Clube. Ajudar na escolha do tipo de coleção, elaborar um expositor criativo, escrever um parágrafo sobre o porquê de ter sido escolhida, fazer uma lista com o que deve constar na descrição dos itens e contribuir com, no mínimo, 5 itens diferentes.
+    2. Em uma coleção do Clube já existente, ajudar na conservação e organização e contribuir com o acréscimo de, pelo menos, 5 itens. Escrever um parágrafo sobre aquela coleção específica, avaliando o estado atual da coleção e sugerindo como ela poderia ser melhorada.
 5. Em seu Clube ou em alguma instituição especializada, assistir uma palestra ministrada por um colecionador experiente, sobre as peculiaridades da atividade. Ao final, escrever um relatório de, no mínimo, 500 palavras sobre como cuidar de coleções, como conseguir novos itens e demais coisas interessantes aprendidas.
-
-6. O que faz com que um item de uma coleção (ou toda uma coleção) adquira um grande valor monetário? Esse valor sempre é o mais importante para o colecionador? 7. Iniciar 3 diferentes coleções (uma delas, de preferência, deve ser semelhante à da palestra do requisito 5) com o mínimo de 15 itens em cada uma. Demonstrar habilidade em classificar, catalogar e identificar os itens, especificando (caso seja aplicável): data, hora, local de origem, valor estimado, local onde encontrou e os demais detalhes específicos inerentes às coleções escolhidas.
-
+6. O que faz com que um item de uma coleção (ou toda uma coleção) adquira um grande valor monetário? Esse valor sempre é o mais importante para o colecionador?
+7. Iniciar 3 diferentes coleções (uma delas, de preferência, deve ser semelhante à da palestra do requisito 5) com o mínimo de 15 itens em cada uma. Demonstrar habilidade em classificar, catalogar e identificar os itens, especificando (caso seja aplicável): data, hora, local de origem, valor estimado, local onde encontrou e os demais detalhes específicos inerentes às coleções escolhidas.
 8. Participar de uma exposição de coleções em seu Clube, escola ou Igreja, apresentando, ao menos, 2 coleções pessoais, dispondo os objetos devidamente e bem identificados e prestando os devidos esclarecimentos aos visitantes.
 
 ## Esportes adaptados
@@ -3065,28 +2888,18 @@ b) Em uma coleção do Clube já existente, ajudar na conservação e organizaç
 ### REQUISITOS
 
 1. O que são esportes adaptados?
-
 2. Descobrir como a prática de esportes influencia no desenvolvimento e/ou reabilitação de pessoas com deficiência.
-
 3. Qual a importância da prática de esportes por pessoas com deficiências físicas?
-
 4. Citar, pelo menos, 10 modalidades de esportes adaptados.
-
 5. Citar, pelo menos, 2 competições internacionais que realizam esportes adaptados. Apresentar a história de, pelo menos, uma delas.
-
 6. Entrevistar um portador de deficiência física e descobrir se ele pratica algum esporte.
-
 7. Visitar uma instituição que trabalhe esportes adaptados e descobrir:
-
-- a) Visão e missão desta instituição
-- b) Quantas pessoas são beneficiadas por esse trabalho
-- c) Quais são as maiores dificuldades
-- d) Como é realizado o incentivo à prática de esportes
-
+    1. Visão e missão desta instituição
+    2. Quantas pessoas são beneficiadas por esse trabalho
+    3. Quais são as maiores dificuldades
+    4. Como é realizado o incentivo à prática de esportes
 8. Assistir a um esporte coletivo realizado por deficientes e apresentar um relatório desta experiência.
-
 9. O que você faria se no seu Clube entrasse um desbravador portador de necessidades especiais e ele quisesse praticar algum esporte com sua unidade?
-
 10. Fazer uma pesquisa sobre os Jogos Paraolímpicos. Apresentar um relatório escrito de, pelo menos, 500 palavras ou um relatório oral de, no mínimo, 5 minutos sobre o histórico e a importância do evento para a inclusão dos deficientes físicos na sociedade e o incentivo ao esporte.
 
 ## Excursionismo pedestre com mochila - avançado
@@ -3095,48 +2908,44 @@ b) Em uma coleção do Clube já existente, ajudar na conservação e organizaç
 
 ### REQUISITOS
 
-- 1. Ter a especialidade de Excursionismo pedestre com mochila.
-- 2. Descrever qual a importância e os pontos positivos e negativos do uso dos seguintes tecidos em caminhadas:
-  - a) Algodão
-  - b) Tecidos sintéticos que respiram (Dri-Fit)
-  - c) Felpa ou pelo
-  - d) Lã
-- 3. Descrever como deve ser usada e para que serve cada tipo de mochila abaixo:
-  - a) Cargueira
-  - b) Ataque
-  - c) Multifuncional
-  - d) Pochete
-- 4. Explicar a importância de cada item abaixo em uma caminhada:
-  - a) Mochila
-  - b) Bota de caminhada
-  - c) Bastão de caminhada
-  - d) Chapéu australiano
-  - e) Óculos escuros
-  - f) Cantil
-  - g) Bolsinha ou pochete de primeiros socorros
-- 5. Além do saco de dormir, que outros acessórios são ideais para se garantir uma boa noite de sono?
-- 6. Explicar seguintes tipos de calçados, ressaltando terreno, preço e diferenças entre eles. Em seguida, explicar como limpá-los e impermeabilizá-los.
-  - a) Tênis
-  - b) Bota de tecido
-  - c) Bota de couro
-  - d) Bota plástica de neve
-  - e) Bota de selva
-  - f) Bota de deserto
-  - g) Bota de caminhada
-
-- 7. Explicar os seguintes tipos de meia e identificar as meias adequadas à sua região e estação.
-  - a) Meias de verão
-  - **b**) Meias compridas
-  - c) Meias de inverno
-  - d) Meias tricotadas
-- 8. O que são polainas e como se usam?
-- 9. Explicar e demonstrar a maneira adequada de se alongar antes de uma caminhada e explicar porque isto é necessário.
-
+1. Ter a especialidade de Excursionismo pedestre com mochila.
+2. Descrever qual a importância e os pontos positivos e negativos do uso dos seguintes tecidos em caminhadas:
+    1. Algodão
+    2. Tecidos sintéticos que respiram (Dri-Fit)
+    3. Felpa ou pelo
+    4. Lã
+3. Descrever como deve ser usada e para que serve cada tipo de mochila abaixo:
+    1. Cargueira
+    2. Ataque
+    3. Multifuncional
+    4. Pochete
+4. Explicar a importância de cada item abaixo em uma caminhada:
+    1. Mochila
+    2. Bota de caminhada
+    3. Bastão de caminhada
+    4. Chapéu australiano
+    5. Óculos escuros
+    6. Cantil
+    7. Bolsinha ou pochete de primeiros socorros
+5. Além do saco de dormir, que outros acessórios são ideais para se garantir uma boa noite de sono?
+6. Explicar seguintes tipos de calçados, ressaltando terreno, preço e diferenças entre eles. Em seguida, explicar como limpá-los e impermeabilizá-los.
+    1. Tênis
+    2. Bota de tecido
+    3. Bota de couro
+    4. Bota plástica de neve
+    5. Bota de selva
+    6. Bota de deserto
+    7. Bota de caminhada
+7. Explicar os seguintes tipos de meia e identificar as meias adequadas à sua região e estação.
+    1. Meias de verão
+    2. Meias compridas
+    3. Meias de inverno
+    4. Meias tricotadas
+8. O que são polainas e como se usam?
+9. Explicar e demonstrar a maneira adequada de se alongar antes de uma caminhada e explicar porque isto é necessário.
 10. Explicar porque um grupo de caminhada não pode ficar separado ou deixar um membro para trás.
-
-- 11. Explicar porque se deve usar o lenço em qualquer caminhada.
-- 12. O que significa trekking?
-
+11. Explicar porque se deve usar o lenço em qualquer caminhada.
+12. O que significa trekking?
 13. Participar de uma excursão de fim de semana com caminhada de, no mínimo, 12 quilômetros, em que o acampamento seja armado em locais diferentes a cada noite. As refeições deverão ser cozidas durante a excursão.
 
 ## Fubetol de botão
@@ -3146,41 +2955,23 @@ b) Em uma coleção do Clube já existente, ajudar na conservação e organizaç
 ### REQUISITOS
 
 1. Definir o que é o futebol de botão. Contar uma breve história de como esse esporte surgiu.
-
 2. Saber, pelo menos, 2 modalidades que podemos praticar com o futebol de botão.
-
 3. Conhecer e explicar algumas regras básicas antes de iniciar uma partida de futebol de botão.
-
 4. Fazer uma lista dos equipamentos necessários para a realização de uma partida de futebol de botão.
-
 5. Citar alguns tipos de matérias-primas que podem ser usadas na fabricação de uma peça de botão.
-
 6. Descrever os seguintes termos no futebol de botão:
-
-a) Botonista
-
-**b**) Batedeira
-
-c) Ônibus
-
-d) Furada
-
-e) Lateral
-
-f) Pênalti
-
-g) Tiro livre direto e indireto
-
-h) Falta
-
-i) Bola Prensada
-
+    1. Botonista
+    2. Batedeira
+    3. Ônibus
+    4. Furada
+    5. Lateral
+    6. Pênalti
+    7. Tiro livre direto e indireto
+    8. Falta
+    9. Bola Prensada
 7. Quanto tempo dura, em média, uma partida de futebol de botão?
-
 8. Qual a medida oficial da mesa para o futebol de botão? Fazer um diagrama demonstrativo do campo, citando as marcações e medidas que são necessariamente obrigatórias para a realização desse jogo.
-
 9. Fazer e confeccionar um time completo de futebol de botão com qualquer material de sua escolha. Desenhar um emblema de identificação para seu time.
-
 10. Participar de, pelo menos, uma partida ou se inscrever em uma competição de futebol de botão organizada pela sua região, fazendo um breve relatório do que ocorreu no(s) jogo(s).
 
 ## Futsal
@@ -3189,58 +2980,38 @@ i) Bola Prensada
 
 ### REQUISITOS
 
-1. De acordo com as regras internacionais de futsal, responder o seguinte: a) O que é futsal?
-
-b) Qual o objetivo do jogo?
-
-c) Como se joga uma partida de futsal?
-
-d) Como é a divisão dos tempos na partida de futsal?
-
-e) Mencionar onde se pratica a modalidade de futsal.
-
-f) Qual a dimensão padrão de uma quadra para a prática do futsal?
-
+1. De acordo com as regras internacionais de futsal, responder o seguinte:
+    1. O que é futsal?
+    2. Qual o objetivo do jogo?
+    3. Como se joga uma partida de futsal?
+    4. Como é a divisão dos tempos na partida de futsal?
+    5. Mencionar onde se pratica a modalidade de futsal.
+    6. Qual a dimensão padrão de uma quadra para a prática do futsal?
 2. Fazer um relatório contando a história do futsal, apontando passo a passo o desenvolvimento histórico da modalidade.
-
 3. Quais as diferenças entre futsal e futebol de salão?
-
 4. Qual o órgão internacional que regulamenta o futsal?
-
 5. Definir os seguintes fundamentos do futsal:
-
-| a) Passe    | f) Recepção        |
-|-------------|--------------------|
-| b) Drible   | g) Condução        |
-| c) Finta    | h) Domínio de bola |
-| d) Cabeceio | i) Chute a gol     |
-| e) Chute    |                    |
-
+    1. Passe
+    2. Drible
+    3. Finta
+    4. Cabeceio
+    5. Chute
+    6. Recepção
+    7. Condução
+    8. Domínio de bola
+    9. Chute a gol
 6. Quais as categorias oficiais do futsal? Cite a faixa etária de cada uma.
-
 7. Descrever as seguintes posições:
-
-a) Goleiro
-
-b) Fixo
-
-c) Ala
-
-d) Pivô
-
+    1. Goleiro
+    2. Fixo
+    3. Ala
+    4. Pivô
 8. Descrever as regras básicas do futsal, explicando cada uma delas.
-
 9. Apresentar uma planilha e um planejamento detalhado de um campeonato com, no mínimo, 8 times de futsal, mencionado as regras disciplinares para o evento.
-
-10. Participar de, no mínimo, 3 partidas de futsal, descrevendo todo o andamento do
-
-jogo. Nestas partidas você pode atuar como:
-
-a) Técnico ou membro de comissão técnica
-
-b) Jogador de linha ou goleiro
-
-c) Árbitro ou assistente
+10. Participar de, no mínimo, 3 partidas de futsal, descrevendo todo o andamento do jogo. Nestas partidas você pode atuar como:
+    1. Técnico ou membro de comissão técnica
+    2. Jogador de linha ou goleiro
+    3. Árbitro ou assistente
 
 ## Handebol
 
@@ -3249,51 +3020,57 @@ c) Árbitro ou assistente
 ### REQUISITOS
 
 1. Conhecer o regulamento atualizado da Federação Internacional de Handebol (IHF) e relacionar as 18 regras principais do Handebol.
-
-- 2. O que significa a expressão "fair play"?
-- 3. Definir os seguintes termos:
-
-| r) Flutuação               |
-|----------------------------|
-| s) Infiltração             |
-| t) Rebote                  |
-| u) Marcação por zona       |
-| v) Marcação mista          |
-| w) Interceptação           |
-| x) Marcação individual     |
-| y) Oito                    |
-| z) Ponte aérea             |
-| aa) Desqualificação        |
-| bb) Dois minutos    |
-| cc) Exclusão               |
-| dd) Linha de quatro metros |
-| ee) Linha de seis metros   |
-| ff) Linha dos sete metros  |
-| gg) Tiro de sete metros    |
-| hh) Tiro livre             |
-|                            |
-
+2. O que significa a expressão "fair play"?
+3. Definir os seguintes termos:
+    1. Arremesso com apoio
+    2. Arremesso em suspensão
+    3. Arremesso com queda
+    4. Arremesso com rolamento
+    5. Passes acima do ombro
+    6. Passes em pronação
+    7. Passes por trás da cabeça
+    8. Passes por trás do corpo
+    9. Passe para trás
+    10. Passe quicado
+    11. Vaselina
+    12. Rosqueta
+    13. Bloquear
+    14. Condução
+    15. Contra-ataque
+    16. Cruzamento
+    17. Engajamento
+    18. Flutuação
+    19. Infiltração
+    20. Rebote
+    21. Marcação por zona
+    22. Marcação mista
+    23. Interceptação
+    24. Marcação individual
+    25. Oito
+    26. Ponte aérea
+    27. Desqualificação
+    28. Dois minutos
+    29. Exclusão
+    30. Linha de quatro metros
+    31. Linha de seis metros
+    32. Linha dos sete metros
+    33. Tiro de sete metros
+    34. Tiro livre
 4. Demonstrar e compreender as diferentes habilidades exigidas nas diferentes posições ofensivas e defensivas do handebol.
-
 5. Demonstrar habilidade razoável nas seguintes áreas:
-
-| a) Empunhadura     | f) Ritmo trifásico       |
-|--------------------|--------------------------|
-| b) Recepção | g) Duplo ritmo trifásico |
-| c) Passe           | h) Progressão            |
-| d) Arremesso       | i) Finta                 |
-|                    |                          |
-
-e) Drible
-
+    1. Empunhadura
+    2. Recepção
+    3. Passe
+    4. Arremesso
+    5. Drible
+    6. Ritmo trifásico
+    7. Duplo ritmo trifásico
+    8. Progressão
+    9. Finta
 6. Passar pelo menos 4 horas ajudando uma pessoa menos habilidosa ou mais jovem a melhorar suas habilidades no Handebol.
-
 7. Jogar ao menos 5 partidas de handebol com a família ou amigos. Mostrar "fair play" durante seus treinos e jogos.
-
 8. Escrever um relatório de uma página sobre um famoso jogador de handebol. Discutir porque ele é ou não é um bom modelo Cristão.
-
 9. Discutir com seu líder, pastor ou instrutor os problemas enfrentados pela juventude Adventista do Sétimo Dia no ensino fundamental, ensino médio e faculdade. Que alternativas existem para permitir uma atividade esportiva contínua?
-
 10. Desenhar em escala uma quadra de handebol com seus limites adequadamente definidos. Informar as dimensões da trave.
 
 ## Nós e amarras - avançado
@@ -3302,114 +3079,188 @@ e) Drible
 
 ### REQUISITOS
 
-- 1. Ter a especialidade de Nós e amarras.
-- 2. Citar, pelo menos, três histórias bíblicas onde é mencionado o uso de cordas.
-- 3. Qual nó deve ser usado para iniciar uma amarra?
-- 4. Fazer as seguintes amarras:
-  - a) Ouadrada
-  - b) Diagonal
-  - c) Paralela ou redonda
-  - d) Amarra quadrada japonesa
-  - e) Amarra em forma de oito
-  - f) Amarra contínua simples
-  - g) Amarra contínua dupla
-  - h) Amarra contínua diagonal
-  - i) Amarra contínua diagonal dupla
-- 5. Descrever porque alguns móveis, após alguns dias confeccionados, ficam com as amarras frouxas. O que pode ser feito para evitar?
-- 6. Fazer, pelo menos, 10 dos seguintes nós decorativos:
-  - a) Pinha de saco dupla ou pinha com alca dupla **b**) Pinha de saco singela c) Coxim de Rosa d) Coxim da Vitória e) Coxim de tecer f) Coxim singelo g) Coxim em oito h) Nós Chato i) Nó Chato Torcido, ou nó de espiral j) Nó de gacheta triangular k) Nó de gacheta quadrada I) Nó de gacheta redonda m) Nó de peso
-- n) Nó anel de três o) Pinha de vassoura ou trança de oito p) Pinha Cruzada ou pinha de retinida q) Pinha de Boça r) Pinha de Arganel ou nó do sultão s) Coxim Turco t) Coxim Sueco u) Coxim turco prolongado v) Pinha de cesto w) Coxim de anel de três x) Coxim de tear y) Coxim de esquadria z) Coxim de encapeladura dupla
-
-7. Fazer de memória, pelo menos, 40 dos nós abaixo, falando ao avaliador o nome, para que serve e suas limitações. Fazer um relatório descrevendo cada um, citando para que serve e situações em que deve ser usado. a) Nó simples b) Nó Azelha c) Nó Direito d) Nó Cego e) Nó direito alceado f) Nó direito andino g) Nó de escota h) Nó de escota alceado i) Volta da fiel j) Volta da fiel duplo k) Nó corrediço I) Nó oitavo corrediço m) Nó catau n) Nó catau com trava o) Nó fateixa p) Nó pescador q) Nó pescador duplo r) Nó oito s) Nó corrente de oito t) Nó oito duplo u) Nó nove v) Nó nove duplo w) Volta da ribeira x) Volta do salteador y) Lais de guia z) Lais de guia duplo aa) Volta paradora **bb**) Nó de forca ou carrasco cc) Nó de frade dd) Balso pelo seio ee) Nó cadeira de bombeiro ff) Nó moringa gg) Nó de caminhoneiro hh) Nó de cirurgião ii) Nó de cirurgião duplo ji) Nó arnez kk) Nó de escada II) Nó de estribo mm) Nó encapeladura
-
-nn) Nó encapeladura dobrada oo) Nó de barril pp) Nó pata de gato qq) Nó de trança rr) Torniquete espanhol ss) Nó cabeça de pássaro ou cabeça de cotovia tt) Nó de ajuste uu) Nó ordinário duplo vv) Nó Josefina ww) Nó vitória xx) Nó de tecelão yy) Nó quadrado zz) Nó de gravata aaa) Nó de fita ou nó aquático **bbb)** Volta sobre o cabo ccc) Nó borboleta ddd) Nó corrente eee) Nó de bombeiro espanhol fff) Nó prussik ggg) Falcaça simples hhh) Falcaça americana iii) Falcaça meias voltas mordidas **jij)** Nó UIAA kkk) Nó UIAA duplo III) Nó tensor de barraca mmm) Nó em cadeia nnn) Nó de amarrar ooo) Amarra de andaime ppp) Volta da alça ou machard **qqq)** Nó espiral rrr) Lais de quia em elos sss) Lais de guia corrediço ttt) Trapa morrediça uuu) Lacada encavilhada vvv) Nó de cote www) Nó sangue xxx) Nó de estacha yyy) Nó de amarrar sapatos
-
-zzz) Nó espinha de peixe aaaa) Nó de arreio **bbbb)** Nó de cabresto (guntline) cccc) Volta esticada dddd) Nó de Hunter ou Nó de caçador eeee) Nó de estivador ffff) Pinha de rosa simples gggg) Amor perfeito hhhh) Nó trevo iiii) Nó 88 **jijj)** Nó aventureiro kkkk) Nó desbravador IIII) Nó viúva negra mmmm) Nó menino nnnn) Nó vc 8. Fazer um quadro contendo, pelo menos, 50 amostras de nós, 5 amarras e 5 nós decorativos.
+1. Ter a especialidade de Nós e amarras.
+2. Citar, pelo menos, três histórias bíblicas onde é mencionado o uso de cordas.
+3. Qual nó deve ser usado para iniciar uma amarra?
+4. Fazer as seguintes amarras:
+    1. Ouadrada
+    2. Diagonal
+    3. Paralela ou redonda
+    4. Amarra quadrada japonesa
+    5. Amarra em forma de oito
+    6. Amarra contínua simples
+    7. Amarra contínua dupla
+    8. Amarra contínua diagonal
+    9. Amarra contínua diagonal dupla
+5. Descrever porque alguns móveis, após alguns dias confeccionados, ficam com as amarras frouxas. O que pode ser feito para evitar?
+6. Fazer, pelo menos, 10 dos seguintes nós decorativos:
+    1. Pinha de saco dupla ou pinha com alca dupla
+    2. Pinha de saco singela
+    3. Coxim de Rosa
+    4. Coxim da Vitória
+    5. Coxim de tecer
+    6. Coxim singelo
+    7. Coxim em oito
+    8. Nós Chato
+    9. Nó Chato Torcido, ou nó de espiral
+    10. Nó de gacheta triangular
+    11. Nó de gacheta quadrada
+    12. Nó de gacheta redonda
+    13. Nó de peso
+    14. Nó anel de três
+    15. Pinha de vassoura ou trança de oito
+    16. Pinha Cruzada ou pinha de retinida
+    17. Pinha de Boça
+    18. Pinha de Arganel ou nó do sultão
+    19. Coxim Turco
+    20. Coxim Sueco
+    21. Coxim turco prolongado
+    22. Pinha de cesto
+    23. Coxim de anel de três
+    24. Coxim de tear
+    25. Coxim de esquadria
+    26. Coxim de encapeladura dupla
+7. Fazer de memória, pelo menos, 40 dos nós abaixo, falando ao avaliador o nome, para que serve e suas limitações. Fazer um relatório descrevendo cada um, citando para que serve e situações em que deve ser usado.
+    1. Nó simples
+    2. Nó Azelha
+    3. Nó Direito
+    4. Nó Cego
+    5. Nó direito alceado
+    6. Nó direito andino
+    7. Nó de escota
+    8. Nó de escota alceado
+    9. Volta da fiel
+    10. Volta da fiel duplo
+    11. Nó corrediço
+    12. Nó oitavo corrediço
+    13. Nó catau
+    14. Nó catau com trava
+    15. Nó fateixa
+    16. Nó pescador
+    17. Nó pescador duplo
+    18. Nó oito
+    19. Nó corrente de oito
+    20. Nó oito duplo
+    21. Nó nove
+    22. Nó nove duplo
+    23. Volta da ribeira
+    24. Volta do salteador
+    25. Lais de guia
+    26. Lais de guia duplo
+    27. Volta paradora
+    28. Nó de forca ou carrasco
+    29. Nó de frade
+    30. Balso pelo seio
+    31. Nó cadeira de bombeiro
+    32. Nó moringa
+    33. Nó de caminhoneiro
+    34. Nó de cirurgião
+    35. Nó de cirurgião duplo
+    36. Nó arnez
+    37. Nó de escada
+    38. Nó de estribo
+    39. Nó encapeladura
+    40. Nó encapeladura dobrada
+    41. Nó de barril
+    42. Nó pata de gato
+    43. Nó de trança
+    44. Torniquete espanhol
+    45. Nó cabeça de pássaro ou cabeça de cotovia
+    46. Nó de ajuste
+    47. Nó ordinário duplo
+    48. Nó Josefina
+    49. Nó vitória
+    50. Nó de tecelão
+    51. Nó quadrado
+    52. Nó de gravata
+    53. Nó de fita ou nó aquático
+    54. Volta sobre o cabo
+    55. Nó borboleta
+    56. Nó corrente
+    57. Nó de bombeiro espanhol
+    58. Nó prussik
+    59. Falcaça simples
+    60. Falcaça americana
+    61. Falcaça meias voltas mordidas
+    62. Nó UIAA
+    63. Nó UIAA duplo
+    64. Nó tensor de barraca
+    65. Nó em cadeia
+    66. Nó de amarrar
+    67. Amarra de andaime
+    68. Volta da alça ou machard
+    69. Nó espiral
+    70. Lais de quia em elos
+    71. Lais de guia corrediço
+    72. Trapa morrediça
+    73. Lacada encavilhada
+    74. Nó de cote
+    75. Nó sangue
+    76. Nó de estacha
+    77. Nó de amarrar sapatos
+    78. Nó espinha de peixe
+    79. Nó de arreio
+    80. Nó de cabresto (guntline)
+    81. Volta esticada
+    82. Nó de Hunter ou Nó de caçador
+    83. Nó de estivador
+    84. Pinha de rosa simples
+    85. Amor perfeito
+    86. Nó trevo
+    87. Nó 88
+    88. Nó aventureiro
+    89. Nó desbravador
+    90. Nó viúva negra
+    91. Nó menino
+    92. Nó vc
+8. Fazer um quadro contendo, pelo menos, 50 amostras de nós, 5 amarras e 5 nós decorativos.
 
 ## Ordem unida - instrutor
 
 ### REQUISITOS
 
 1. Ter a especialidade de Ordem unida - avançado.
-
 2. Relacione algumas regras de segurança para se praticar ordem unida. Considerar tipo de solo, calçados, etc.
-
 3. Demonstrar conhecimento em primeiros socorros para o seguinte:
-
-a) Torção
-
-b) Insolação
-
-4. Com base nas três etapas da voz de comando, identifique-as nos comandos a seguir: a) Clube, sentido
-
-**b)** Direita volver
-
-c) Frente para a retaguarda
-
-d) Marcar passo
-
-e) Em frente
-
-f) Em direção à esquerda
-
-g) Fora de forma, marche
-
+    1. Torção
+    2. Insolação
+4. Com base nas três etapas da voz de comando, identifique-as nos comandos a seguir:
+    1. Clube, sentido
+    2. Direita volver
+    3. Frente para a retaguarda
+    4. Marcar passo
+    5. Em frente
+    6. Em direção à esquerda
+    7. Fora de forma, marche
 5. Utilizando-se do método de ensino de execução por tempos, explique como se desenvolve cada parte da execução dos seguintes comandos:
+   - **A pé firme:**
+      1. Esquerda volver
+      2. Direita volver
+      3. Meia volta volver
 
-### A pé firme:
-
-a) Esquerda volver
-
-**b)** Direita volver
-
-c) Meia volta volver
-
-### Em deslocamento:
-
-a) Esquerda volver
-
-**b**) Direita volver
-
-c) Meia volta volver
-
+   - **Em deslocamento:**
+      1. Esquerda volver
+      2. Direita volver
+      3. Meia volta volver
 6. Como deve ser a inserção de novatos nos exercícios de ordem unida? Explique qual a importância das instruções individuais e da divisão inicial do grupo por nível de habilidade.
-
 7. Descreva os deveres e as qualidades que um instrutor deve ter para que os exercícios de ordem unida atiniam as suas finalidades.
-
 8. Ensinar um grupo de desbravadores novos no clube a executarem corretamente os requisitos 7 e 8 da especialidade de Ordem Unida.
-
 9. Em quais posições (postura e posição) o instrutor deverá permanecer enquanto comanda um grupo em ordem unida, parado e em deslocamento?
-
 10. Comandar um grupo por, pelo menos, 30 minutos. Neste período deverão ser efetuados comandos a pé firme e em passo ordinário. O que deve ser avaliado é o posicionamento, postura, a energia e execução correta das etapas de voz de quem comanda.
-
 11. Treinar um grupo de desbravadores, ensinando os movimentos com bandeirins e participar de uma cerimônia cívica na igreja ou em outra programação especial.
-
 12. Participar de, pelo menos, 3 desfiles como instrutor de pelotão. Um dos pelotões deve ser de bandeiras e/ou bandeirins.
-
 13. Quais as diferenças entre a forma de condução de bandeiras e bandeirins, em desfiles e passeatas?
-
 14. Descrever a diferença entre coreografia e ordem unida.
-
 15. Usando apenas os comandos abaixo, desenvolver e treinar um grupo de, pelo menos, 30 desbravadores a formarem um dos emblemas dos Desbravadores. O grupo devera iniciar a evolução a partir da formação que se entra em forma.
-
-a) Marcar passo
-
-**b**) X passos em frente ( $x =$  qualquer número ímpar)
-
-c) Alto
-
-d) Direita volver, esquerda volver e meia volta volver
-
-e) Oitavas a direita ou esquerda
-
-f) Conversão à direita ou à esquerda
-
-g) Em direção à direita ou à esquerda
-
+    1. Marcar passo
+    2. X passos em frente ($x =$ qualquer número ímpar)
+    3. Alto
+    4. Direita volver, esquerda volver e meia volta volver
+    5. Oitavas a direita ou esquerda
+    6. Conversão à direita ou à esquerda
+    7. Em direção à direita ou à esquerda
 16. Criar uma evolução usando os comandos e movimentos padrões de ordem unida.
-
 17. Criar uma brincadeira usando seu conhecimento de ordem unida.
-
 18. Que princípios de ordem unida podem ser aprendidos na Bíblia através da leitura de Joel 2: 7 e 8? Que importante promessa esse mesmo capítulo ensina nos versos 28 e 32?
 
 ## Pioneirias
@@ -3418,41 +3269,30 @@ g) Em direção à direita ou à esquerda
 
 ### REQUISITOS
 
-- 1. Ter, no mínimo, 12 anos de idade.
-- 2. Ter a especialidade de Nós e amarras.
-- 3. Saber usar as seguintes ferramentas:
-
-a) Facão
-
-- b) Serrote
-- c) Faca do mato
-- d) Serra de arco
-
-4. Demonstrar conhecimento das regras de segurança no manuseio de ferramentas. 5. Qual a importância de manter as ferramentas de trabalho em pioneirias afiadas? Quais os principais cuidados na manutenção dessas ferramentas. Afiar as ferramentas do requisito 3.
-
-- 6. Demonstrar habilidade em amarrar objetos usando as seguintes amarras:
-- a) Amarra guadrada
-- b) Amarra diagonal
-- c) Amarra paralela ou redonda
-- d) Amarra contínua paralela
-- e) Amarra contínua diagonal
-- 7. Fazer os seguintes móveis de acampamento:
-
-a) Um tripé com, no mínimo, 2 metros para lampião
-
-b) Uma mesa usando um tripé
-
-c) Uma mesa usando dois tripés
-
-d) Uma mesa com quatro bases e, pelo menos, oito amarras
-
-e) Uma sapateira com duas bases
-
-f) Estrutura para um fogão suspenso
-
-g) Uma pia de louça contendo coletor de água até uma fossa séptica
-
-> Observação: Pregos, parafusos e arames não devem ser usados. Os Clubes devem evitar o costume de usá-los na construção de pioneirias, ao invés disso, precisam ensinar aos Desbravadores as técnicas apropriadas e ajudá-los a adquirir prática e experiência.
+1. Ter, no mínimo, 12 anos de idade.
+2. Ter a especialidade de Nós e amarras.
+3. Saber usar as seguintes ferramentas:
+    1. Facão
+    2. Serrote
+    3. Faca do mato
+    4. Serra de arco
+4. Demonstrar conhecimento das regras de segurança no manuseio de ferramentas.
+5. Qual a importância de manter as ferramentas de trabalho em pioneirias afiadas? Quais os principais cuidados na manutenção dessas ferramentas. Afiar as ferramentas do requisito 3.
+6. Demonstrar habilidade em amarrar objetos usando as seguintes amarras:
+    1. Amarra guadrada
+    2. Amarra diagonal
+    3. Amarra paralela ou redonda
+    4. Amarra contínua paralela
+    5. Amarra contínua diagonal
+7. Fazer os seguintes móveis de acampamento:
+    1. Um tripé com, no mínimo, 2 metros para lampião
+    2. Uma mesa usando um tripé
+    3. Uma mesa usando dois tripés
+    4. Uma mesa com quatro bases e, pelo menos, oito amarras
+    5. Uma sapateira com duas bases
+    6. Estrutura para um fogão suspenso
+    7. Uma pia de louça contendo coletor de água até uma fossa séptica
+    > Observação: Pregos, parafusos e arames não devem ser usados. Os Clubes devem evitar o costume de usá-los na construção de pioneirias, ao invés disso, precisam ensinar aos Desbravadores as técnicas apropriadas e ajudá-los a adquirir prática e experiência.
 
 ## Pioneirias - avançado
 
@@ -3460,41 +3300,32 @@ g) Uma pia de louça contendo coletor de água até uma fossa séptica
 
 ### REQUISITOS
 
-- 1. Ter, no mínimo, 14 anos de idade.
-- 2. Ter as seguintes especialidades:
-  - a) Pioneirias
-  - **b**) Nós e amarras avançado
-
+1. Ter, no mínimo, 14 anos de idade.
+2. Ter as seguintes especialidades:
+    1. Pioneirias
+    2. Nós e amarras avançado
 3. Fazer uma pesquisa bíblica e identificar quando o povo de Israel devia construir uma pioneiria e o que ela representava e deveria lembrar.
-
-- 4. Qual a importância de manter as ferramentas de trabalho em pioneirias afiadas?
-- 5. Demonstrar conhecimento das regras de segurança no manuseio de ferramentas.
-- 6. Quais os melhores nós para iniciar e terminar uma amarra? Por que?
-- 7. Qual a importância de fazer cavas na madeira antes de fazer amarras em pontaletes?
-- 8. Demonstrar habilidade para fazer as seguintes amarras, iniciando cada uma com a volta do fiel e terminando com o nó volta do fiel ou nó direito:
-  - a) Quadrada
-  - b) Diagonal
-  - c) Paralela
-  - d) Amara contínua dupla
-- 9. Qual a importância de se fazer projeto (desenho com medidas) para pioneira?
-
+4. Qual a importância de manter as ferramentas de trabalho em pioneirias afiadas?
+5. Demonstrar conhecimento das regras de segurança no manuseio de ferramentas.
+6. Quais os melhores nós para iniciar e terminar uma amarra? Por que?
+7. Qual a importância de fazer cavas na madeira antes de fazer amarras em pontaletes?
+8. Demonstrar habilidade para fazer as seguintes amarras, iniciando cada uma com a volta do fiel e terminando com o nó volta do fiel ou nó direito:
+    1. Quadrada
+    2. Diagonal
+    3. Paralela
+    4. Amara contínua dupla
+9. Qual a importância de se fazer projeto (desenho com medidas) para pioneira?
 10. Fazer um projeto (desenho com medidas) para cada estrutura pedida na especialidade.
-
 11. Usando amarras e varetas, fazer uma miniatura em escala de 4 projetos.
-
-- 12. Construir o seguinte:
-  - a) Um portal com, pelo menos, 8 bases e 20 amarras
-
-b) Um portal sem furar o chão
-
-- c) Uma mesa de acampamento com, pelo menos, 4 bases e 8 amarras
-- d) Uma ponte com, pelo menos, 4 bases e 3 metros de extensão
-- e) Uma torre com, pelo menos, 4 metros de altura e 10 amarras
-- f) Um abrigo suspenso a, pelo menos, 1 metro do solo
-
-g) Uma cozinha de acampamento (mesa multiuso, pia/sumidouro, mesa para refeição)
-
-> Observação: Pregos, parafusos e arames não devem ser usados. Os Clubes devem evitar o costume de usá-los na construção de pioneirias, ao invés disso, precisam ensinar aos Desbravadores as técnicas apropriadas e ajudá-los a adquirir prática e experiência.
+12. Construir o seguinte:
+    1. Um portal com, pelo menos, 8 bases e 20 amarras
+    2. Um portal sem furar o chão
+    3. Uma mesa de acampamento com, pelo menos, 4 bases e 8 amarras
+    4. Uma ponte com, pelo menos, 4 bases e 3 metros de extensão
+    5. Uma torre com, pelo menos, 4 metros de altura e 10 amarras
+    6. Um abrigo suspenso a, pelo menos, 1 metro do solo
+    7. Uma cozinha de acampamento (mesa multiuso, pia/sumidouro, mesa para refeição)
+    > Observação: Pregos, parafusos e arames não devem ser usados. Os Clubes devem evitar o costume de usá-los na construção de pioneirias, ao invés disso, precisam ensinar aos Desbravadores as técnicas apropriadas e ajudá-los a adquirir prática e experiência.
 
 ## Patins
 
@@ -3502,29 +3333,27 @@ g) Uma cozinha de acampamento (mesa multiuso, pia/sumidouro, mesa para refeiçã
 
 ### REQUISITOS
 
-- 1. Faça um resumo da história da criação e evolução dos patins.
-- 2. Descrever os equipamentos de segurança usados na patinação.
-- 3. Citar, pelo menos, 3 modalidades esportivas que usam patins.
-- 4. Descreva a diferença entre os seguintes tipos de patins:
-- a) In-line
-- **b**) Tradicional
-- c) Gelo
-- 5. Para cada um dos tipos de patins citado no requisito 4, citar: a) Local apropriado para uso
-  - b) Pelo menos 3 modalidades em que cada tipo é usado
-  - c) Vantagens que o modelo proporciona
-  - d) Desvantagens
-
+1. Faça um resumo da história da criação e evolução dos patins.
+2. Descrever os equipamentos de segurança usados na patinação.
+3. Citar, pelo menos, 3 modalidades esportivas que usam patins.
+4. Descreva a diferença entre os seguintes tipos de patins:
+    1. In-line
+    2. Tradicional
+    3. Gelo
+5. Para cada um dos tipos de patins citado no requisito 4, citar:
+    1. Local apropriado para uso
+    2. Pelo menos 3 modalidades em que cada tipo é usado
+    3. Vantagens que o modelo proporciona
+    4. Desvantagens
 6. Saber e explicar como deve ser feita a manutenção do Patins (escolha um tipo que possa ser usado em usa região).
-
-- 7. Executar o seguinte, enquanto patina:
-  - a) Saber aumentar velocidade
-  - **b**) Saber frear rapidamente
-  - c) Patinar de costas
-  - d) Aumentar a velocidade e deslizar, pelo menos, 5 metros agachado
-  - e) Mudar de direção (direita e esquerda)
-  - f) Pegar velocidade e pular um objeto
-  - g) Fazer um giro de 360° sob um dos pés
-
+7. Executar o seguinte, enquanto patina:
+    1. Saber aumentar velocidade
+    2. Saber frear rapidamente
+    3. Patinar de costas
+    4. Aumentar a velocidade e deslizar, pelo menos, 5 metros agachado
+    5. Mudar de direção (direita e esquerda)
+    6. Pegar velocidade e pular um objeto
+    7. Fazer um giro de 360° sob um dos pés
 8. Fazer uma pesquisa sobre uma das modalidades esportivas pesquisada no requisito 3, mencionando o regulamento, nível das competições, categorias e informações interessantes sobre o esporte.
 
 ## Orientação com GPS
@@ -3533,35 +3362,27 @@ g) Uma cozinha de acampamento (mesa multiuso, pia/sumidouro, mesa para refeiçã
 
 ### REQUISITOS
 
-- 1. Ter a especialidade de Mapa e bússola.
-- 2. O que significam as siglas GPS e DGPS?
-- 3. Conhecer a história do surgimento do GPS e fazer um breve relato.
-- 4. Quais são os fatores que podem interferir no sinal do GPS?
-- 5. O que é a previsão de erros do GPS?
-- 6. Qual a finalidade de um receptor GPS? Quais modalidades de receptores GPS existem atualmente? Descrever a utilidade de cada um.
-- 7. Saber manusear um GPS adequadamente. Quais são os cuidados que devemos ter ao manuseá-lo?
-- 8. Quais as aplicações de um receptor GPS e quais suas limitações?
-- 9. Utilizar um software de transferência de arquivos e conectá-lo corretamente ao GPS.
-- 10. Instalar mapas no GPS e no software de transferência de mapas.
-- 11. Quais os tipos de mapas que podemos utilizar em um GPS? Dar exemplos.
-- 12. Demonstrar habilidade em:
-  - a) Ligar um GPS
-  - **b**) Localizar um ponto no GPS
-  - c) Marcar um ponto no GPS
-  - d) Calcular uma rota
-  - e) Marcar uma trilha percorrida
-  - f) Percorrer uma trilha e mapeá-la
-  - g) Transferir mapas e dados do GPS
-  - h) Transferir mapas e dados para o GPS
-  - i) Selecionar mapas a serem utilizados
-- 13. Percorrer uma trilha que você ainda não tenha feito de, no mínimo, 15 km e mapear esta trilha. Fazer o seguinte:
-  - a) Marcar, pelo menos, 10 pontos de interesse ou importantes desta trilha em seu GPS
-  - b) Fazer um relatório de campo contendo:
-    - · Cópia impressa do mapa
-    - · Trajeto percorrido
-    - · Anotações e coordenadas dos pontos marcados
-
-14. Fazer um paralelo entre o sinal enviado ao aparelho GPS e a onisciência de Deus agindo sobre o ser humano. Que lições espirituais você pode retirar disto?
+1. Descrever a forma e o tamanho de 3 tipos de raquetes de neve e quando / como elas podem ser usadas (aeróbio / corrida, recreação, montanhismo).
+2. Descrever os seguintes acessórios para raquetes de neve e sua utilidade enquanto caminhando na neve:
+    1. Bastão de caminhada
+    2. Botas de caminhada
+    3. Gaiters
+3. Demonstrar a técnica adequada de usar raquetes de neve nas seguintes situações:
+    1. Ao virar-se (conversão)
+    2. Subidas
+    3. Descidas
+    4. Trilhas
+4. Explicar como manter o corpo quente e seco através do uso de vestimentas apropriadas, sob condição de vento de inverno enquanto viaja e descansa. Saber como evitar e como tratar hipotemia durante o inverno.
+5. Explicar o valor das seguintes regras de segurança:
+    1. Conhecer como ler um mapa, como usar uma bússola ou GPS em caminhadas
+    2. Deixar um plano de viagem com alguém enquanto você estiver caminhando na neve
+    3. Caminhar na neve sempre com um parceiro
+    4. Portar água e alimentos suficientes
+    5. Ter um kit de primeiros socorros, sobrevivência e reparo
+6. Usando um par de raquetes de neve, demonstrar como se levantar após uma queda na neve.
+7. Demonstrar a importância de unir e fixar corretamente suas botas nas raquetes de neve.
+8. Participar de uma série de 3 caminhadas – uma de 1 Km, uma de 2 Km e uma de 4 Km. Fazer um relatório detalhado descrevendo a profundidade aproximada dos passos na neve e condição da neve, plantas e animais e da velocidade média de deslocamento.
+9. Explicar o significado da expressão "mais branca que a neve", encontrada no Salmo 51:7. Que outras metáforas naturais você poderia usar para demonstrar o significado deste versículo?
 
 ## Rafting
 
@@ -3569,50 +3390,34 @@ g) Uma cozinha de acampamento (mesa multiuso, pia/sumidouro, mesa para refeiçã
 
 ### REQUISITOS
 
-a) Segurar
-
 1. Ter a especialidade de Natação principiante II.
-
 2. Cite quantos são os níveis de dificuldade de corredeiras e explique como é feita essa classificação.
-
 3. Com um grupo de, no mínimo, 4 pessoas, demonstrar a forma correta de embarcar e sair do bote num píer na beira de um rio.
-
 4. Num bote carregado com, no mínimo, 4 pessoas, demonstrar as manobras a seguir:
-
-a) Remada frente c) Remada direita ré b) Remada ré
-
-d) Remada esquerda ré
-
+    1. Remada frente
+    2. Remada ré
+    3. Remada direita ré
+    4. Remada esquerda ré
 5. Num bote carregado com, no mínimo, 4 pessoas, durante cruzamento de uma corredeira, demonstrar os seguintes movimentos de segurança:
-
-b) Dentro (ou piso)
-
+    1. Segurar
+    2. Dentro (ou piso)
 6. Citar, pelo menos, 3 itens de segurança necessários à prática do rafting e descrever a utilidade de cada um.
-
 7. Descrever a posição correta que se deve ficar no caso de cair no rio e estar sendo levado(a) pela correnteza através de corredeiras.
-
 8. Num bote com, no mínimo, 4 pessoas, demonstrar o resgate de um pessoa em águas profundas das seguinte maneiras:
-
-a) Pessoa próxima a uma distância de 2m do bote, utilizando-se a zona "T" do remo b) Pessoa a mais de 3m do bote, utilizado a corda de regate
-
-9. Em águas profundas e, com um grupo de, no mínimo, 4 pessoas, demonstrar: a) Como desvirar um bote
-
-b) Como subir novamente no bote sem ajuda de outra pessoa
-
-10. Percorrer, no mínimo, 10 km num rio com corredeiras de nível III ou maior,
-
-demonstrando conhecimento nas regras de segurança do rafting.
-
+    1. Pessoa próxima a uma distância de 2m do bote, utilizando-se a zona "T" do remo
+    2. Pessoa a mais de 3m do bote, utilizado a corda de regate
+9. Em águas profundas e, com um grupo de, no mínimo, 4 pessoas, demonstrar:
+    1. Como desvirar um bote
+    2. Como subir novamente no bote sem ajuda de outra pessoa
+10. Percorrer, no mínimo, 10 km num rio com corredeiras de nível III ou maior, demonstrando conhecimento nas regras de segurança do rafting.
 11. Pesquisar 2 rios próximos da sua região que sejam adequados para a prática do rafting e coletar as seguintes informações:
-
-a) Local da nascente e desembocadura do rio
-
-- b) Trecho onde a prática do rafting é adequada
-- c) Épocas do ano em que o rio está favorável à prática do rafting
-- d) Nível de dificuldade mínimo e máximo do rio
-- e) Profundidade mínima e máxima do rio
-- f) Altura da maior queda (corredeira)
-- g) Nível de poluição das águas
+    1. Local da nascente e desembocadura do rio
+    2. Trecho onde a prática do rafting é adequada
+    3. Épocas do ano em que o rio está favorável à prática do rafting
+    4. Nível de dificuldade mínimo e máximo do rio
+    5. Profundidade mínima e máxima do rio
+    6. Altura da maior queda (corredeira)
+    7. Nível de poluição das águas
 
 ## Pião
 
@@ -3621,81 +3426,44 @@ a) Local da nascente e desembocadura do rio
 ### REQUISITOS
 
 1. Realizar e apresentar uma pesquisa com cerca de 300 palavras sobre a história dos piões.
-
 2. De que materiais eram feitos os piões da antiguidade? E de que diferentes materiais eles são feitos hoje em dia?
-
 3. Explicar cada um dos seguintes métodos de impulsionar um pião:
-
-a) Fricção
-
-b) Corda ou fieira
-
-c) Mola
-
-d) Dedos
-
+    1. Fricção
+    2. Corda ou fieira
+    3. Mola
+    4. Dedos
 4. Desenhar um pião identificando as seguintes partes:
-
-a) Castelo, selo ou tacha
-
-b) Ponteira, bico, garrocha ou ferrão
-
-c) Corpo ou massa
-
+    1. Castelo, selo ou tacha
+    2. Ponteira, bico, garrocha ou ferrão
+    3. Corpo ou massa
 5. Desenhe e explique como funcionam os seguintes tipos de pião:
-
-a) Pião tradicional de madeira
-
-b) Pião de dedo, carrapeta, ou pião de haste-longa
-
-c) Tippe Top
-
-d) Brummkreisel
-
-e) Perinola
-
+    1. Pião tradicional de madeira
+    2. Pião de dedo, carrapeta, ou pião de haste-longa
+    3. Tippe Top
+    4. Brummkreisel
+    5. Perinola
 6. Sobre o uso de fieira (ou cordel) explique:
-
-a) Qual o tamanho ideal da fieira?
-
-**b**) Qual a importância de prender a extremidade no dedo?
-
-c) Cite 3 formas de prender a fieira no dedo.
-
+    1. Qual o tamanho ideal da fieira?
+    2. Qual a importância de prender a extremidade no dedo?
+    3. Cite 3 formas de prender a fieira no dedo.
 7. Qual a utilidade da tampografia nos piões tradicionais?
-
 8. Explique a relação entre a estabilidade, movimentação e queda do pião, com os sequintes conceitos físicos:
-
-a) Velocidade angular
-
-b) Efeito giroscópio
-
-c) Centro de gravidade
-
-d) Princípio da dinâmica (1ª lei de Newton)
-
+    1. Velocidade angular
+    2. Efeito giroscópio
+    3. Centro de gravidade
+    4. Princípio da dinâmica (1ª lei de Newton)
 9. Estabelecer e seguir junto a seu instrutor um código de segurança para a prática de jogos com piões, com no mínimo 5 regras.
-
 10. Utilizando um pião tradicional, demonstrar habilidade em completar as seguintes atividades:
-
-a) Força e Equilíbrio: enrolar corretamente a fieira e lançá-lo de modo que gire pelo tempo mínimo de 20 segundos antes de perder o equilíbrio;
-
-b) Técnica Apurada: lançar o pião, em seguida pegá-lo do chão para mão e, depois de alguns instantes, devolvê-lo ao chão ainda girando;
-
-c) Pôr pra Dormir: fazer com que o pião gire de modo que, por 10 segundos, ele permaneça no mesmo lugar e aparente estar parado;
-
-d) Girada de Castelo: girar o pião invertido (de "cabeça para baixo") apoiado apenas no castelo;
-
-e) Deslizamento: enguanto o pião gira, com a ajuda da fieira, movimentar o pião de um lugar para outro sem derrubá-lo;
-
-f) Precisão: lançar o pião de forma a acertar um alvo pré-determinado, como uma linha ou círculo no chão.
-
+    1. Força e Equilíbrio: enrolar corretamente a fieira e lançá-lo de modo que gire pelo tempo mínimo de 20 segundos antes de perder o equilíbrio;
+    2. Técnica Apurada: lançar o pião, em seguida pegá-lo do chão para mão e, depois de alguns instantes, devolvê-lo ao chão ainda girando;
+    3. Pôr pra Dormir: fazer com que o pião gire de modo que, por 10 segundos, ele permaneça no mesmo lugar e aparente estar parado;
+    4. Girada de Castelo: girar o pião invertido (de "cabeça para baixo") apoiado apenas no castelo;
+    5. Deslizamento: enguanto o pião gira, com a ajuda da fieira, movimentar o pião de um lugar para outro sem derrubá-lo;
+    6. Precisão: lançar o pião de forma a acertar um alvo pré-determinado, como uma linha ou círculo no chão.
 11. Completar ao menos uma das manobras:
-
-a) Fisgada no Ar: consiste em lançar o pião e antes que ele atinja o chão e a fieira se desenrole totalmente, fisgá-lo de volta, fazendo com que o pião gire na mão; b) Ponte ou Teleférico: com uma mão, segura os dois extremos da fieira e com a outra mão, a outra ponta que se forma. Estica-se então a fieira e na ponte que é formada recupera-se o pião ainda girando e, ao levantar uma das mãos, pode-se inclinar a fieira de tal maneira que o pião escorregue de um lado para o outro, enquanto permanece a girar.
-
-c) Lançamento: enquanto o pião gira no chão, fazer um seio à sua ponteira e fazêlo pular, puxando as pontas da fieira com agilidade e força, servindo de impulso. Realizar a manobra duas vezes, uma vez com o pião saltando e caindo no chão, e outra com ele saltando e caindo na mão.
-
+    1. Fisgada no Ar: consiste em lançar o pião e antes que ele atinja o chão e a fieira se desenrole totalmente, fisgá-lo de volta, fazendo com que o pião gire na mão;
+    2. Ponte ou Teleférico: com uma mão, segura os dois extremos da fieira e com a outra mão, a outra ponta que se forma. Estica-se então a fieira e na ponte que é formada recupera-se o pião ainda girando e, ao levantar uma das mãos, pode-se inclinar a fieira de tal maneira que o pião escorregue de um lado para o outro, enquanto permanece a girar.
+    3. Lançamento: enquanto o pião gira no chão, fazer um seio à sua ponteira e fazêlo pular, puxando as pontas da fieira com agilidade e força, servindo de impulso. Realizar a manobra duas vezes, uma vez com o pião saltando e caindo no chão, e outra com ele saltando e caindo na mão.
 12. Conhecer ou criar, ao menos, 4 jogos coletivos com piões. Convidar seus companheiros de unidade para participar de cada um dos jogos. Ao final, conversar com o instrutor sobre como se sentiu durante a atividade e sobre as vantagens da prática de recreação ao ar livre.
 
 ## Tênis de mesa
@@ -3705,15 +3473,13 @@ c) Lançamento: enquanto o pião gira no chão, fazer um seio à sua ponteira e 
 ### REQUISITOS
 
 1. Escrever um parágrafo de, pelo menos, 10 linhas explicando como começou a prática do tênis de mesa em seu país.
-
-- 2. Qual a diferença entre o pingue-pongue e o tênis de mesa?
-- 3. Quais são os equipamentos necessários para a realização de uma partida?
-- 4. Quantas e quais são os tipos de empunhaduras?
-- 5. Qual a organização é responsável pela regulamentação da prática do tênis de mesa em nível mundial? E a nível nacional?
-- 6. Citar, pelo menos, 15 regras oficiais do tênis de mesa adotadas em seu país.
-- 7. Quais os padrões oficiais para raquetes, mesas, bolas e redes?
-- 8. Ter uma raquete de acordo com as regras e saber como mantê-la limpa e conservada.
-
+2. Qual a diferença entre o pingue-pongue e o tênis de mesa?
+3. Quais são os equipamentos necessários para a realização de uma partida?
+4. Quantas e quais são os tipos de empunhaduras?
+5. Qual a organização é responsável pela regulamentação da prática do tênis de mesa em nível mundial? E a nível nacional?
+6. Citar, pelo menos, 15 regras oficiais do tênis de mesa adotadas em seu país.
+7. Quais os padrões oficiais para raquetes, mesas, bolas e redes?
+8. Ter uma raquete de acordo com as regras e saber como mantê-la limpa e conservada.
 9. Participar de um campeonato usando as regras adotadas pela instituição oficial responsável pelo tênis de mesa em seu país.
 
 ## Vôlei
@@ -3723,43 +3489,48 @@ c) Lançamento: enquanto o pião gira no chão, fazer um seio à sua ponteira e 
 ### REQUISITOS
 
 1. Conhecer o regulamento atualizado da FIVB (Federação Internacional de Vôlei) e relacionar as 8 regras principais do vôlei.
-
 2. O que significa a expressão "fair play"?
-
 3. Definir os seguintes termos:
-
-| a) Ace                  | o) Manchete       |
-|-------------------------|-------------------|
-| b) Antena               | p) Match point    |
-| c) Aquecimento          | q) Peixinho       |
-| d) Barreira             | r) Quatro toques  |
-| e) Bloqueio             | s) Rally          |
-| f) Bola de graça        | t) Rede           |
-| g) Bola dentro          | u) Rodízio        |
-| h) Bola fora            | v) Saque          |
-| i) Bola presa           | w) Saque viagem   |
-| j) Dois toques          | x) Set            |
-| k) Golpe de ataque      | y) Set point      |
-| I) Jornada nas estrelas | z) Tempo técnico  |
-| m) Levantador           | aa) Toque Apoiado |
-| n) Líbero               |                   |
-
-- 4. Demonstrar e compreender as diferentes habilidades exigidas em cada posição do vôlei.
-- 5. Demonstrar habilidade razoável nas seguintes áreas:
-  - a) Empunhadura
-  - b) Saque
-  - c) Passe
-  - d) Levantamento
-  - e) Ataque
-  - f) Bloqueio
-
+    1. Ace
+    2. Antena
+    3. Aquecimento
+    4. Barreira
+    5. Bloqueio
+    6. Bola de graça
+    7. Bola dentro
+    8. Bola fora
+    9. Bola presa
+    10. Dois toques
+    11. Golpe de ataque
+    12. Jornada nas estrelas
+    13. Levantador
+    14. Líbero
+    15. Manchete
+    16. Match point
+    17. Peixinho
+    18. Quatro toques
+    19. Rally
+    20. Rede
+    21. Rodízio
+    22. Saque
+    23. Saque viagem
+    24. Set
+    25. Set point
+    26. Tempo técnico
+    27. Toque Apoiado
+4. Demonstrar e compreender as diferentes habilidades exigidas em cada posição do vôlei.
+5. Demonstrar habilidade razoável nas seguintes áreas:
+    1. Empunhadura
+    2. Saque
+    3. Passe
+    4. Levantamento
+    5. Ataque
+    6. Bloqueio
 6. Passar pelo menos 4 horas ajudando uma pessoa menos habilidosa ou mais jovem a melhorar suas habilidades no vôlei.
-
 7. Jogar ao menos 5 partidas de vôlei com a família ou amigos. Mostrar "fair play" durante seus treinos e jogos.
-
 8. Escrever um relatório de uma página sobre um famoso jogador de vôlei. Discutir porque ele é ou não é um bom modelo Cristão.
-
-9. Discutir com seu líder, pastor ou instrutor os problemas enfrentados pela juventude Adventista do Sétimo Dia no ensino fundamental, ensino médio e faculdade. Que alternativas existem para permitir uma atividade esportiva contínua? 10. Desenhar em escala uma quadra de vôlei com seus limites adequadamente definidos. Informar as dimensões da rede de vôlei e respectiva altura de instalação.
+9. Discutir com seu líder, pastor ou instrutor os problemas enfrentados pela juventude Adventista do Sétimo Dia no ensino fundamental, ensino médio e faculdade. Que alternativas existem para permitir uma atividade esportiva contínua?
+10. Desenhar em escala uma quadra de vôlei com seus limites adequadamente definidos. Informar as dimensões da rede de vôlei e respectiva altura de instalação.
 
 ## Waveboarding
 
@@ -3770,28 +3541,41 @@ c) Lançamento: enquanto o pião gira no chão, fazer um seio à sua ponteira e 
 > NOTA: Necessário o acompanhamento de um instrutor qualificado.
 
 1. Qual a diferença entre skate e waveboarding?
-
 2. Explicar porque o waveboarding é considerado a junção de 3 esportes radicais. Que esportes são esses?
-
 3. Explicar sobre os seguintes equipamentos de segurança:
-
-a) Capacete
-
-b) Joelheira
-
-c) Caneleira
-
-d) Luvas
-
+    1. Capacete
+    2. Joelheira
+    3. Caneleira
+    4. Luvas
 4. Desmontar e remontar corretamente seu waveboarding, identificando e nomeando cada parte.
-
 5. Relacionar os tipos de rodas que existe, explicando a diferença entre elas e onde seus uso é mais indicado.
-
 6. Fazer, pelo menos, 15 das seguintes manobras, sendo que 5 delas deverão ser em rampa:
-
-a) Ollie b) Wheelie (manual) por 10 metros c) Nose Wheelie (nose manual) por 10 metros d) C-Turn  $e)$  180 $\circ$  graus f) 180 varial corpo g) 360 Spin h) Grab Rail i) Leap Board j) Vire downhill k) Kickflip I) Impossible Duplo m) No Comply Kickflip
-
-n) Kickfkip Fakie o) Kickflip Switch p) Fakie Bigspin q) Nollie Kckflip r) Nollie Hellflip s) Nollie Frontside 180 bigspin t) Varial Kickflip u) Hellplip Varial v) Backside Kickplip 180 w) Frontside Hellplip 180 x) Frontside Kickflip 180 y) 360 e Kickflip z) Frontside duplo
+    1. Ollie
+    2. Wheelie (manual) por 10 metros
+    3. Nose Wheelie (nose manual) por 10 metros
+    4. C-Turn
+    5. 180° graus
+    6. 180 varial corpo
+    7. 360 Spin
+    8. Grab Rail
+    9. Leap Board
+    10. Vire downhill
+    11. Kickflip
+    12. Impossible Duplo
+    13. No Comply Kickflip
+    14. Kickfkip Fakie
+    15. Kickflip Switch
+    16. Fakie Bigspin
+    17. Nollie Kckflip
+    18. Nollie Hellflip
+    19. Nollie Frontside 180 bigspin
+    20. Varial Kickflip
+    21. Hellplip Varial
+    22. Backside Kickplip 180
+    23. Frontside Hellplip 180
+    24. Frontside Kickflip 180
+    25. 360 e Kickflip
+    26. Frontside duplo
 
 ## Evolução em ordem unida
 
@@ -3799,12 +3583,9 @@ n) Kickfkip Fakie o) Kickflip Switch p) Fakie Bigspin q) Nollie Kckflip r) Nolli
 
 ### REQUISITOS
 
-- 1. Ter a especialidade de ordem unida básica e avançada.
-- 2. Definir o termo EVOLUÇÃO.
-- 3. Apresentar cinco passos para desenvolver ou criar uma evolução.
-
+1. Ter a especialidade de ordem unida básica e avançada.
+2. Definir o termo EVOLUÇÃO.
+3. Apresentar cinco passos para desenvolver ou criar uma evolução.
 4. Criar duas evoluções e praticar com um grupo e apresentar em alguma cerimônia. Mostrando o registro por fotos ou vídeo.
-
 5. Citar e explicar algum exemplo bíblico que usou o conceito de evolução para conquistar um território.
-
 6. Mostrar em alguma apresentação cinco evoluções criativas ainda não realizadas. Escrever um relatório contendo a filosofia do clube em relação à evolução feita na ordem unida. No mínimo 200 palavras e no máximo 500.
