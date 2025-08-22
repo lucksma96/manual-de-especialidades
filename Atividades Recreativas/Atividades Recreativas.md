@@ -1782,56 +1782,40 @@ Supervisionado por um especialista, completar os seguintes itens:
 ### REQUISITOS
 
 1. Ter quatro das especialidades a seguir. Quaisquer destas especialidades, completadas há mais de dois anos, devem ser estudadas outra vez, para que você possa responder quaisquer perguntas de conhecimento que estejam incluídas nas mesmas.
-
-- a) Acampamento IV
-- b) Fogueiras e cozinha ao ar livre
-- c) Excursionismo pedestre
-- d) Excursionismo pedestre com mochila
-- e) Mapa e bússola
-- f) Pioneirismo
-
+    1. Acampamento IV
+    2. Fogueiras e cozinha ao ar livre
+    3. Excursionismo pedestre
+    4. Excursionismo pedestre com mochila
+    5. Mapa e bússola
+    6. Pioneirismo
 2. Completar a especialidade de Primeiros socorros - intermediário.
-
 3. Saber o que fazer para superar o medo quando estiver perdido. Conhecer pelo menos quatro maneiras de sinalizar pedidos de socorro se estiver perdido numa selva ou deserto.
-
 4. Conhecer pelo menos quatro atividades seculares e quatro atividades específicas para o sábado, para usar ao ar livre e se o dia estiver chuvoso.
-
 5. Fazer o seguinte ao ar livre:
-
-a) Planejar, organizar e ensinar uma especialidade para um grupo de jovens/juvenis.
-
-b) Ensinar uma das seguintes especialidades a um grupo de desbravadores:
-
-acampamento I, acampamento II, acampamento III, acampamento IV, arte de acampar ou fogueiras e cozinha ao ar livre.
-
-c) Descobrir aonde fica o hospital mais próximo.
-
-d) Descobrir aonde fica o posto policial/delegacia de polícia mais próximos, ou sede de fiscais de um parque que está sendo visitado.
-
+    1. Planejar, organizar e ensinar uma especialidade para um grupo de jovens/juvenis.
+    2. Ensinar uma das seguintes especialidades a um grupo de desbravadores:
+        1. acampamento I
+        2. acampamento II
+        3. acampamento III
+        4. acampamento IV
+        5. arte de acampar
+        6. fogueiras e cozinha ao ar livre.
+    3. Descobrir aonde fica o hospital mais próximo.
+    4. Descobrir aonde fica o posto policial/delegacia de polícia mais próximos, ou sede de fiscais de um parque que está sendo visitado.
 6. Através do estudo da Bíblia e/ou do Espírito de Profecia, aprender como as atividades ao ar livre influenciaram os seguintes personagens bíblicos:
-
-- a) Moisés
-- b) Davi
-- c) Elias
-- d) João Batista
-- e) Jesus
-
+    1. Moisés
+    2. Davi
+    3. Elias
+    4. João Batista
+    5. Jesus
 7. Saber que informações sobre a natureza devem ser dadas a um grupo de jovens/ juvenis nos seguintes tópicos:
-
-a) Segurança de acampamentos
-
-b) Segurança contra incêndios
-
-c) Saneamento
-
-d) Regras de segurança na natação
-
-e) Regras de conduta
-
-f) Observância adequada do sábado
-
+    1. Segurança de acampamentos
+    2. Segurança contra incêndios
+    3. Saneamento
+    4. Regras de segurança na natação
+    5. Regras de conduta
+    6. Observância adequada do sábado
 8. Fazer uma lista de pelo menos seis maneiras de manter a natureza linda, para que outros a possam desfrutar.
-
 9. Conhecer pelo menos dez qualidades de um bom líder JA.
 
 ## Liderança campestre - avançado
@@ -1839,72 +1823,58 @@ f) Observância adequada do sábado
 ### REQUISITOS
 
 1. Ter a especialidade de Liderança campestre.
-
 2. Ter três especialidades do Mestrado em vida campestre.
-
 3. Ter as especialidades de Primeiros socorros - intermediário e Reanimação cardiopulmonar, que devem ter sido feitas, ou refeitas, no máximo dois anos antes do término da especialidade Liderança campestre - avançado. Além destas especialidades, conhecer a prevenção, sintomas e tratamento de primeiros socorros dos seguintes casos:
-
-| a) Hipotermia                |  |
-|------------------------------|--|
-| b) Mordida de cobra venenosa |  |
-| c) Insolação                 |  |
-| d) Exaustão                  |  |
-|                              |  |
-
-e) Reação a plantas venenosas f) Infecção de feridas g) enjôo por altitude h) Desidratação
-
+    1. Hipotermia
+    2. Mordida de cobra venenosa
+    3. Insolação
+    4. Exaustão
+    5. Reação a plantas venenosas
+    6. Infecção de feridas
+    7. enjôo por altitude
+    8. Desidratação
 4. Preparar esboços e apresentar sete diferentes cultos/momentos de meditação a serem apresentados em acampamentos. Utilizar textos e princípios bíblicos, e ilustrar os mesmos com exemplos retirados da própria situação do acampamento.
-
 5. Resumir um testemunho pessoal que poderia ser usado para iniciar uma amizade de uma pessoa com Jesus. O testemunho pode incluir como Jesus tornou-se seu Salvador pessoal, um milagre que tenha ocorrido em sua vida, etc. Apresentar este testemunho a um grupo de jovens/juvenis num evento ao ar livre.
-
 6. Saber controlar o pânico de alguém que está perdido.
-
 7. Desenvolver um plano de busca e resgate para um local específico, de 20 km ou mais. Este plano deve utilizar pelo menos dez indivíduos e você deve coordenar a atividade e zona de busca de cada um deles. Relacionar equipamentos específicos que podem ser necessários para comunicação, primeiros socorros e transporte apropriado das vítimas para local escolhido.
-
 8. Esboçar sua filosofia de conduta na natureza. Participar num projeto de conservação da natureza de uma a três horas.
-
 9. Ensinar pelo menos uma especialidade do Mestrado em Vida Campestre.
-
 10. Conhecer, pelo menos, quatro objetivos da liderança campestre em cada uma das categorias a seguir:
-
-| a) Física | c) Pessoal   |
-|-----------|--------------|
-| b) Social | d) Espiritua |
-
+    1. Física
+    2. Pessoal
+    3. Social
+    4. Espiritual
 11. Conhecer a diferença entre juvenis (10-12 anos) e adolescentes (13-15 anos) nas seguintes áreas:
-
-- a) Física
-- b) Emocional
-- c) Mental
-- d) Espiritual
-
+    1. Física
+    2. Emocional
+    3. Mental
+    4. Espiritual
 12. Ter sete das especialidades a seguir. Quaisquer especialidades completadas há mais de dois anos devem ser estudadas novamente, para que você possa responder quaisquer perguntas de conhecimentos específicos da especialidade.
-
-- a) Pegadas de Animais
-- b) Pássaros
-- c) Ecologia
-- d) Plantas Silvestres Comestíveis
-- e) Samambaias
-- f) Flores
-- g) Fungos
-- h) Geologia
-- i) Gramíneas
-- i) Insetos
-- k) Mamíferos
-- **I)** Invertebrados Marinhos
-- m) Répteis
-- n) Rochas e Minerais
-- o) Conchas e Moluscos
-- p) Aracnídeos
-- q) Astronomia
-- r) Árvores
-- s) Climatologia
-- 13. Planejar, organizar e realizar uma das atividades a seguir durante um fim de semana, com um grupo de não menos que cinco pessoas:
-  - a) Retiro espiritual ao ar livre
-  - b) Passeio de canoa
-  - c) Passeio ciclístico
-  - d) Passeio a cavalo
-  - e) Caminhada com mochila
+    1. Pegadas de Animais
+    2. Pássaros
+    3. Ecologia
+    4. Plantas Silvestres Comestíveis
+    5. Samambaias
+    6. Flores
+    7. Fungos
+    8. Geologia
+    9. Gramíneas
+    10. Insetos
+    11. Mamíferos
+    12. Invertebrados Marinhos
+    13. Répteis
+    14. Rochas e Minerais
+    15. Conchas e Moluscos
+    16. Aracnídeos
+    17. Astronomia
+    18. Árvores
+    19. Climatologia
+13. Planejar, organizar e realizar uma das atividades a seguir durante um fim de semana, com um grupo de não menos que cinco pessoas:
+    1. Retiro espiritual ao ar livre
+    2. Passeio de canoa
+    3. Passeio ciclístico
+    4. Passeio a cavalo
+    5. Caminhada com mochila
 
 ## Pipas
 
@@ -1912,29 +1882,35 @@ e) Reação a plantas venenosas f) Infecção de feridas g) enjôo por altitude 
 
 ### REQUISITOS
 
-- 1. Responda o seguinte:
-  - a) Quando foram inventadas as pipas?
-  - b) Qual a primeira vez que alguém empinou uma pipa?
-  - c) Citar pelo menos três maneiras através das quais as pipas ajudaram pesquisas
-  - científicas e contar como cada uma delas afetou o mundo em que vivemos. d) Contar a história de Benjamim Franklin e sua pipa.
-- 2. Mencionar algumas formas pelas quais as pipas podem ser utilizadas hoje em dia.
-- 3. Explicar como as pipas ficam no ar.
-- 4. Defina os seguintes termos:
-
-| a) pipa              | e) rabiola  |
-|----------------------|-------------|
-| b) linha             | f) armação  |
-| c) vento bom         | g) carretel |
-| d ) estirante |             |
-
-- 5. Qual é uma causa comum das pipas apresentarem defeitos?
-- 6. O que deve ser feito quando uma pipa não pára de dar voltas enquanto está sendo empinada?
-- 7. Por que às vezes é necessário ter uma rabiola na pipa?
-- 8. Conhecer pelo menos três regras de segurança para empinar pipas. Saber em seu país se existe lei proibindo uso de cerol (cortante) e o porque?
-- 9. Citar pelo menos 3 tipos de acidentes que podem ser provocados por causa do uso do cerol(cortante).
-- 10. Conhecer como enrolar a linha num pedaço de pau. Saber emendar a linha com o nó de pescador.
-- 11. Fazer dois dos seguintes tipos de pipas e empiná-las.
-  - a) Pipa trenó b) Pipa Asa Delta c) Pipa Diamante d) Pipa Arraia e) Pipa Tetraédrica f) Pipa Plana g) Pipa Caixote
+1. Responda o seguinte:
+    1. Quando foram inventadas as pipas?
+    2. Qual a primeira vez que alguém empinou uma pipa?
+    3. Citar pelo menos três maneiras através das quais as pipas ajudaram pesquisas científicas e contar como cada uma delas afetou o mundo em que vivemos. 
+    4. Contar a história de Benjamim Franklin e sua pipa.
+2. Mencionar algumas formas pelas quais as pipas podem ser utilizadas hoje em dia.
+3. Explicar como as pipas ficam no ar.
+4. Defina os seguintes termos:
+    1. pipa
+    2. linha
+    3. vento bom
+    4. estirante
+    5. rabiola
+    6. armação
+    7. carretel
+5. Qual é uma causa comum das pipas apresentarem defeitos?
+6. O que deve ser feito quando uma pipa não pára de dar voltas enquanto está sendo empinada?
+7. Por que às vezes é necessário ter uma rabiola na pipa?
+8. Conhecer pelo menos três regras de segurança para empinar pipas. Saber em seu país se existe lei proibindo uso de cerol (cortante) e o porque?
+9. Citar pelo menos 3 tipos de acidentes que podem ser provocados por causa do uso do cerol(cortante).
+10. Conhecer como enrolar a linha num pedaço de pau. Saber emendar a linha com o nó de pescador.
+11. Fazer dois dos seguintes tipos de pipas e empiná-las.
+    1. Pipa trenó
+    2. Pipa Asa Delta
+    3. Pipa Diamante
+    4. Pipa Arraia
+    5. Pipa Tetraédrica
+    6. Pipa Plana
+    7. Pipa Caixote
 
 ## Skate
 
@@ -1945,70 +1921,83 @@ e) Reação a plantas venenosas f) Infecção de feridas g) enjôo por altitude 
 > NOTA: Necessário o acompanhamento de um instrutor qualificado.
 
 1. Saber usar corretamente os equipamentos a seguir e porque eles devem ser usados quando se pratica skate:
-
-- d) Calcados a) Capacete **b)** Cotoveleiras e) Luvas f) Munhequeira c) Joelheiras
-- 2. Identificar e nomear cada parte e peça de um skate.
-
+    1. Capacete
+    2. Cotoveleiras
+    3. Joelheiras
+    4. Calçados
+    5. Luvas
+    6. Munhequeira
+2. Identificar e nomear cada parte e peça de um skate.
 3. Desmontar e remontar completamente um skate, recolocar os rolamentos e apertar as porcas das rodas e porcas do pivô central na tensão correta.
-
 4. Demonstrar, pelo menos, 10 manobras de skate das relacionadas abaixo. As manobras deverão ser feitas diante de um instrutor que as conheça, o qual deverá avaliar a correta execução. Executar, pelo menos, 5 manobras diferentes das primeiras em uma rampa de skate.
-
-| a) Ollie                                 | q) Nollie Kckflip               |
-|------------------------------------------|---------------------------------|
-| b) Wheelie (manual) por 10 metros | r) Nollie Hellflip              |
-| c) Nose Wheelie (nose manual)            | s) Nollie Frontside 180 bigspin |
-| por 10 metros                            | t) Varial Kickflip              |
-| $d)$ C-Turn                              | u) Hellplip Varial              |
-| $e)$ 180 graus                           | v) Backside Kickplip 180        |
-| f) 180° varial corpo                     | w) Frontside Hellplip 180       |
-| $g$ ) 360 Spin                           | x) Frontside Kickflip 180       |
-| h) Grab Rail                             | y) 360 e Kickflip               |
-| i) Leap Board                            | z) Frontside duplo              |
-| j) Vire downhill                         |                                 |
-
-- **k**) Kickflip
-- I) Impossible Duplo
-- m) No Comply Kickflip
-- n) Kickfkip Fakie
-- o) Kickflip Switch
-- p) Fakie Bigspin
+    1. Ollie
+    2. Wheelie (manual) por 10 metros
+    3. Nose Wheelie (nose manual) por 10 metros
+    4. C-Turn
+    5. 180 graus
+    6. 180° varial corpo
+    7. 360 Spin
+    8. Grab Rail
+    9. Leap Board
+    10. Vire downhill
+    11. Kickflip
+    12. Impossible Duplo
+    13. No Comply Kickflip
+    14. Kickfkip Fakie
+    15. Kickflip Switch
+    16. Fakie Bigspin
+    17. Nollie Kckflip
+    18. Nollie Hellflip
+    19. Nollie Frontside 180 bigspin
+    20. Varial Kickflip
+    21. Hellplip Varial
+    22. Backside Kickplip 180
+    23. Frontside Hellplip 180
+    24. Frontside Kickflip 180
+    25. 360 e Kickflip
+    26. Frontside duplo
 
 ## Windsurf
 
 ### REQUISITOS
 
-- 1. Ter a especialidade de Natação intermediário I.
-- 2. Aprender o significado dos seguintes termos:
-
-| a) Linha do vento           | I) Linha de centro            |
-|-----------------------------|-------------------------------|
-| b) Vento pelo través | m) Frente                     |
-| c) Vento aparente           | n) Orçar                      |
-| d) Controle da prancha      | o) Mão de mastro              |
-| e) Barlavento               | p) Panejo da vela             |
-| f) Sotavento                | q) Auto salvamento            |
-| g) Posição de mastro        | r) Técnica tesoura            |
-| h) Arribar                  | s) Corda                      |
-| i) Jibe                     | t) Uphaul                     |
-| j) Bolina                   | u) Decoração do barco         |
-| k) Empopada                 | v) Ponto de referência visual |
-|                             |                               |
-
+1. Ter a especialidade de Natação intermediário I.
+2. Aprender o significado dos seguintes termos:
+    1. Linha do vento
+    2. Vento pelo través
+    3. Vento aparente
+    4. Controle da prancha
+    5. Barlavento
+    6. Sotavento
+    7. Posição de mastro
+    8. Arribar
+    9. Jibe
+    10. Bolina
+    11. Empopada
+    12. Linha de centro
+    13. Frente
+    14. Orçar
+    15. Mão de mastro
+    16. Panejo da vela
+    17. Auto salvamento
+    18. Técnica tesoura
+    19. Corda
+    20. Uphaul
+    21. Decoração do barco
+    22. Ponto de referência visual
 3. Conhecer as partes da prancha e demonstrar como montar a vela.
-
 4. Explicar os passos básicos da atividade de velejar.
-
-- 5. Definir e demonstrar a posição inicial básica.
-- 6. Definir e demonstrar 4 passos necessários para bordejar.
-- 7. Definir e demonstrar 4 passos necessários para marcar ou bandear.
-
+5. Definir e demonstrar a posição inicial básica.
+6. Definir e demonstrar 4 passos necessários para bordejar.
+7. Definir e demonstrar 4 passos necessários para marcar ou bandear.
 8. Relacionar os 7 passos iniciais usados para fazer com que a prancha movimente-se sobre a água.
-
 9. Responder as seguintes perguntas sobre segurança:
-
-a) Que equipamento de segurança deve ser usado ao se praticar o windsurf? b) Por que é importante saber a previsão do tempo antes de entrar na água? c) Ao começar a aprender o windsurf, por que é importante estar numa área fechada?
-
-d) Quais os sinais de mão que significam "está tudo bem" e "preciso de ajuda"? 10. Que cuidados devem ser dispensados à vela e à prancha para melhor conservá-las? 11. Velejar com uma prancha de windsurf até um ponto de referência que esteja à vista e, em seguida, voltar à posição inicial.
+    1. Que equipamento de segurança deve ser usado ao se praticar o windsurf?
+    2. Por que é importante saber a previsão do tempo antes de entrar na água?
+    3. Ao começar a aprender o windsurf, por que é importante estar numa área fechada?
+    4. Quais os sinais de mão que significam "está tudo bem" e "preciso de ajuda"?
+10. Que cuidados devem ser dispensados à vela e à prancha para melhor conservá-las?
+11. Velejar com uma prancha de windsurf até um ponto de referência que esteja à vista e, em seguida, voltar à posição inicial.
 
 ## Numismática - avançado
 
@@ -2549,11 +2538,11 @@ d) Dê sete regras para fixar a corda
 
 ### REQUISITOS
 
-- 1. Ter a especialidade de Telecartofilia.
-- 2. Conhecer o funcionamento do cartão indutivo.
-- 3. Onde é feita a impressão e a emissão dos cartões telefônicos em seu país?
-- 4. Os cartões mais antigos possuem um código. O que ele significa e como interpretálo? (Ex: <96 07(2N IT 00) 4 CMU F1>).
-- 5. Conhecer a história do cartão telefônico de algum país que não seja o seu.
+1. Ter a especialidade de Telecartofilia.
+2. Conhecer o funcionamento do cartão indutivo.
+3. Onde é feita a impressão e a emissão dos cartões telefônicos em seu país?
+4. Os cartões mais antigos possuem um código. O que ele significa e como interpretálo? (Ex: <96 07(2N IT 00) 4 CMU F1>).
+5. Conhecer a história do cartão telefônico de algum país que não seja o seu.
 
 6. Fazer uma coleção de, pelo menos, 300 cartões, contendo, no mínimo, um de chip, um magnético, um óptico e um pré-pago. Não incluir os repetidos na contagem.
 
@@ -3010,7 +2999,7 @@ c) Aprenda, pelo menos, dez regras de segurança guando próximos à água
   - i) Back up
   - j) Baby split
   - k) Blind
-  - I) Bola morta
+  - l) Bola morta
   - m) Broche de ouro
   - n) Encarar
   - o) Frame
