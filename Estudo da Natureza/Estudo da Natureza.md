@@ -283,39 +283,22 @@
 ### REQUISITOS
 
 1. Que características podem ser usadas para diferenciar mariposas e borboletas?
-
 2. Definir os seguintes termos:
-
-a) Antena
-
-b) Ovo
-
-c) Larva
-
-d) Pupa
-
-e) Crisálida
-
-f) Casulo
-
-g) Imago
-
+    1. Antena
+    2. Ovo
+    3. Larva
+    4. Pupa
+    5. Crisálida
+    6. Casulo
+    7. Imago
 3. Distinguir 3 espécies diferentes a partir de seus casulos.
-
 4. O que é o pó colorido que fica grudado nas mãos ao pegar nas asas de uma borboleta ou mariposa? Examinar o pó da asa de uma borboleta ou mariposa com lentes de aumento e descrever o que foi observado.
-
 5. Que benefícios as mariposas e borboletas trazem ao homem e ao meio ambiente?
-
 6. Que danos as mariposas e borboletas podem causar? Em que estágio da vida elas podem causar danos? Citar 3 exemplos de mariposas e/ou borboletas que causem danos.
-
 7. Que borboleta é famosa por seu ciclo migratório?
-
 8. Completar um dos seguintes:
-
-a) Montar uma coleção de mariposas e borboletas com 20 espécies diferentes. Sob cada espécime colocar uma etiqueta contendo local de coleta, data de coleta e nome do coletor. Em outra etiqueta, que deve ser colocada abaixo da primeira, identificar a ordem e a família de cada espécime coletado. (Ao cumprir este requisito, esteja certo de não estar infringindo nenhuma lei de seu país). b) Fazer desenhos ou pinturas coloridas de 25 espécies de mariposas e borboletas.
-
-Os desenhos ou pinturas precisam ser do tamanho natural ou maior e em coloração natural. Identificar a ordem e a família dos espécimes retratados.
-
+    1. Montar uma coleção de mariposas e borboletas com 20 espécies diferentes. Sob cada espécime colocar uma etiqueta contendo local de coleta, data de coleta e nome do coletor. Em outra etiqueta, que deve ser colocada abaixo da primeira, identificar a ordem e a família de cada espécime coletado. (Ao cumprir este requisito, esteja certo de não estar infringindo nenhuma lei de seu país).
+    2. Fazer desenhos ou pinturas coloridas de 25 espécies de mariposas e borboletas. Os desenhos ou pinturas precisam ser do tamanho natural ou maior e em coloração natural. Identificar a ordem e a família dos espécimes retratados.
 9. Descrever o ciclo de vida de uma mariposa ou borboleta e aprender uma lição relacionada com a ressurreição dos justos.
 
 ## Fungos
