@@ -20,7 +20,11 @@
 | Pecuária                             | 1944  |   AA   |  014   |
 | Criação de cabras                    | 1986  |   AA   |  015   |
 
-![](_page_2_Picture_0.jpeg)
+## Avicultura
+
+![Avicultura](_page_2_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Ter a especialidade de Aves domésticas.
 2. Identificar, por meio de imagens, e conhecer de forma geral o uso de:
@@ -51,7 +55,9 @@
 9. Apresentar um relatório escrito de, no mínimo, 300 palavras, ou oral de 5 minutos sobre a importância da avicultura e referir suas principais características.
 10. Visitar uma propriedade rural onde se pratica a criação de aves para uso próprio ou comércio e elaborar um relatório de, pelo menos, 300 palavras destacando as principais atividades ali desenvolvidas, bem como sobre a sua experiência vivida para o cumprimento dos requisitos desta especialidade.
 
-![](_page_2_Figure_13.jpeg)
+## Jardinagem e horticultura
+
+![Jardinagem e horticultura](_page_2_Figure_13.jpeg)
 
 ### REQUISITOS
 
@@ -65,7 +71,11 @@
     3. Cultivar três verduras ou legumes, de sua escolha, para serem vendidos
     4. Fazer e usar um cesto ou tulha para guardar os vegetais.
 
-![](_page_3_Picture_0.jpeg)
+## Agricultura familiar de subsistência
+
+![Agricultura familiar de subsistência](_page_3_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Participar na elaboração de uma horta com área de, pelo menos, 10 metros quadrados, cumprindo os seguintes requisitos.
     1. Escolha do local
@@ -92,7 +102,11 @@
 14. Apresentar um relatório escrito de, no mínimo, 300 palavras, ou oral de 5 minutos sobre a importância da agricultura familiar de subsistência, referindo suas principais características.
 15. Visitar uma propriedade rural onde uma família sobrevive da produção agrícola e elaborar relatório destacando as principais atividades ali desenvolvidas.
 
-![](_page_4_Picture_0.jpeg)
+## Apicultura
+
+![Apicultura](_page_4_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Apresentar um relatório escrito de, no mínimo, 500 palavras, ou oral de 5 minutos sobre a história da apicultura.
 2. Relacione 5 produtos da Apicultura que são consumidos pelo homem e enumere, ao menos, 3 utilidades de cada um.
@@ -124,7 +138,11 @@
     5. Realizar a colheita do própolis com total aproveitamento
 16. Memorizar Provérbios 16:2 e explicar a relação entre o mel e as boas palavras na vida do cristão.
 
-![](_page_5_Picture_0.jpeg)
+## Agricultura
+
+![Agricultura](_page_5_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Fazer uma lista dos componentes do solo. Por que o solo é importante para as plantas?
 2. Explicar como as plantas obtêm nutrientes e os convertem em alimento. Explicar a diferença entre nutrientes primários, secundários e micronutrientes.
@@ -151,7 +169,11 @@
 16. Visitar uma cooperativa em sua localidade ou instituição de apoio aos fazendeiros e descobrir como estes órgãos ajudam o agricultor. Escrever um relatório sobre sua visita.
 17. Visitar uma propriedade rural onde se pratica a agricultura e elaborar relatório destacando as principais atividades ali desenvolvidas.
 
-![](_page_6_Picture_0.jpeg)
+## Pescaria
+
+![Pescaria](_page_6_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Qual a diferença entre pesca e pescaria?
 2. Explique as sequintes modalidades:
@@ -167,7 +189,9 @@
 8. Ler Deuteronômio 14:9 e 10. Após a leitura, separar os peixes do requisito 7 entre puros e impuros, explicando a importância de saber separá-los.
 9. Ler Lucas 5: 1 a 10. Em seguida, fazer uma lista apresentando, ao menos, 10 diferentes formas de demonstrar em sua vida como ser um "Pescador de Homens".
 
-![](_page_6_Figure_15.jpeg)
+## Criação de gado leiteiro
+
+![Criação de gado leiteiro](_page_6_Figure_15.jpeg)
 
 ### REQUISITOS
 
@@ -202,7 +226,9 @@
 15. Auxiliar no cuidado e ordenha de um rebanho de vacas leiteiras por um período de, pelo menos, 3 meses.
 16. Visitar uma propriedade rural onde se pratica a criação de gado leiteiro e elaborar um relatório de, pelo menos, 300 palavras destacando as principais atividades ali desenvolvidas, bem como sobre a sua experiência vivida para o cumprimento dos requisitos desta especialidade.
 
-![](_page_7_Figure_2.jpeg)
+## Pomicultura
+
+![Pomicultura](_page_7_Figure_2.jpeg)
 
 ### REQUISITOS
 
@@ -238,7 +264,9 @@
 14. Apresentar um relatório escrito de, no mínimo, 300 palavras ou oral de 5 minutos sobre a importância da Fruticultura (produção de frutos exigidos nos requisitos dessa especialidade) e referir suas principais características.
 15. Visitar uma propriedade rural onde se pratica a fruticultura e elaborar um relatório de, pelo menos, 300 palavras destacando as principais atividades ali desenvolvidas, bem como sobre a sua experiência vivida para o cumprimento dos requisitos desta especialidade.
 
-![](_page_8_Figure_5.jpeg)
+## Pomicultura II - frutas pequenas
+
+![Pomicultura II - frutas pequenas](_page_8_Figure_5.jpeg)
 
 ### REQUISITOS
 
@@ -271,25 +299,27 @@ NOTA: Esta especialidade envolve o cultivo de frutas produzidas por arbustos, tr
     5. Irrigação
     6. Controle de pragas
     7. Colheita
-8. Apresentar, por meio de fotos ou imagens, as variedades de frutas pequenas que nascem com facilidade ou existem na região em que você vive.
-9. Demonstrar ao avaliador a maneira adequada de podar, pelo menos, 2 arbustos ou vinhas de pequenas frutas em alguma horta ou pomar.
-10. O que é uma cultura perecível?
-11. Por quanto tempo as frutas mencionadas no requisito 5 podem ser guardadas?
-12. Apresentar um relatório identificando, através de fotografias ou imagens, as principais pragas, doenças e ervas daninhas comuns aos pomares em sua região. Especificar quais plantas elas geralmente atacam e referir a melhor maneira para prevenir e/ou eliminar sua ocorrência.
-13. Apresentar, por meio de um relatório, o nome de, pelo menos, 3 tipos de fertilizantes, demonstrando a importância, necessidade e sugerir a melhor maneira de uso para cada um.
-14. Fazer um teste do solo de um pomar e determinar quais frutos poderão crescer ali. Pedir recomendações de fertilizantes para as culturas escolhidas para serem plantadas e determinar o custo do fertilizante necessário para 6 fileiras de 10 metros.
-15. Qual é o propósito do teste de solo?
-16. O que é drenagem? Qual a sua importância? Como se faz a drenagem?
-17. O que é resistência? O que isso significa? Citar, pelo menos, 3 plantas que são consideradas resistentes em sua região?
-18. Responder as perguntas a seguir:
+7. Apresentar, por meio de fotos ou imagens, as variedades de frutas pequenas que nascem com facilidade ou existem na região em que você vive.
+8. Demonstrar ao avaliador a maneira adequada de podar, pelo menos, 2 arbustos ou vinhas de pequenas frutas em alguma horta ou pomar.
+9. O que é uma cultura perecível?
+10. Por quanto tempo as frutas mencionadas no requisito 5 podem ser guardadas?
+11. Apresentar um relatório identificando, através de fotografias ou imagens, as principais pragas, doenças e ervas daninhas comuns aos pomares em sua região. Especificar quais plantas elas geralmente atacam e referir a melhor maneira para prevenir e/ou eliminar sua ocorrência.
+12. Apresentar, por meio de um relatório, o nome de, pelo menos, 3 tipos de fertilizantes, demonstrando a importância, necessidade e sugerir a melhor maneira de uso para cada um.
+13. Fazer um teste do solo de um pomar e determinar quais frutos poderão crescer ali. Pedir recomendações de fertilizantes para as culturas escolhidas para serem plantadas e determinar o custo do fertilizante necessário para 6 fileiras de 10 metros.
+14. Qual é o propósito do teste de solo?
+15. O que é drenagem? Qual a sua importância? Como se faz a drenagem?
+16. O que é resistência? O que isso significa? Citar, pelo menos, 3 plantas que são consideradas resistentes em sua região?
+17. Responder as perguntas a seguir:
     1. O que é polinização? Como esse processo acontece?
     2. O que é um polinizador? Citar por meio de um relatório, apresentando fotos ou ao vivo, pelo menos um agente responsável pela polinização.
     3. Citar, pelo menos, 3 plantas frutíferas que necessitam de um agente polinizador.
-19. Demonstrar como fazer a colheita dos frutos para uso da família ou para comercialização. Apresentar aos examinadores uma amostra dos frutos colhidos e comparar as qualidades de sabor, textura e aparência de 2 variedades diferentes da mesma fruta.
-20. Apresentar um relatório escrito de, no mínimo, 300 palavras ou oral de 5 minutos sobre a importância da fruticultura (produção de frutos exigidos nos requisitos dessa especialidade) e referir suas principais características.
-21. Visitar uma propriedade rural onde se pratica a fruticultura e elaborar um relatório de, pelo menos, 300 palavras destacando as principais atividades ali desenvolvidas, bem como sobre a sua experiência vivida para o cumprimento dos requisitos desta especialidade.
+18. Demonstrar como fazer a colheita dos frutos para uso da família ou para comercialização. Apresentar aos examinadores uma amostra dos frutos colhidos e comparar as qualidades de sabor, textura e aparência de 2 variedades diferentes da mesma fruta.
+19. Apresentar um relatório escrito de, no mínimo, 300 palavras ou oral de 5 minutos sobre a importância da fruticultura (produção de frutos exigidos nos requisitos dessa especialidade) e referir suas principais características.
+20. Visitar uma propriedade rural onde se pratica a fruticultura e elaborar um relatório de, pelo menos, 300 palavras destacando as principais atividades ali desenvolvidas, bem como sobre a sua experiência vivida para o cumprimento dos requisitos desta especialidade.
 
-![](_page_9_Figure_14.jpeg)
+## Floricultura
+
+![Floricultura](_page_9_Figure_14.jpeg)
 
 ### REQUISITOS
 
@@ -309,7 +339,11 @@ NOTA: Esta especialidade envolve o cultivo de frutas produzidas por arbustos, tr
     3. Luz solar direta
     4. Solo úmido
 
-![](_page_10_Picture_0.jpeg)
+## Criação de cavalos
+
+![Criação de cavalos](_page_10_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Identificar, ao vivo ou a partir de fotografias, pelo menos 4 raças de cavalos e especificar a aptidão desses.
 2. Quais são as instalações necessárias para a criação de cavalos?
@@ -333,7 +367,9 @@ NOTA: Esta especialidade envolve o cultivo de frutas produzidas por arbustos, tr
 15. Apresentar um relatório escrito de, no mínimo, 300 palavras ou oral de 5 minutos sobre a importância da equinocultura e referir suas principais características.
 16. Visitar uma propriedade rural onde se pratica a criação de cavalos e elaborar um relatório de, pelo menos, 300 palavras destacando as principais atividades ali desenvolvidas, bem como sobre a sua experiência vivida para o cumprimento dos requisitos desta especialidade.
 
-![](_page_10_Figure_19.jpeg)
+## Criação de pombos
+
+![Criação de pombos](_page_10_Figure_19.jpeg)
 
 ### REQUISITOS
 
@@ -355,7 +391,11 @@ NOTA: Esta especialidade envolve o cultivo de frutas produzidas por arbustos, tr
 10. Apresentar um relatório destacando os principais problemas de saúde que atingem as aves, apontando os sintomas e sinais, bem como prevenir e/ou tratá-los.
 11. Visitar uma propriedade onde se pratica a criação de pombos e elaborar um relatório de, pelo menos, 300 palavras destacando as principais atividades ali desenvolvidas, bem como sobre a sua experiência vivida para o cumprimento dos requisitos desta especialidade.
 
-![](_page_11_Picture_0.jpeg)
+## Criação de ovelhas
+
+![Criação de ovelhas](_page_11_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Identificar, ao vivo ou a partir de fotografias, pelo menos 4 raças de ovinos e especificar se esses animais são criados para produção de leite, carne, pele ou lã.
 2. Quais são as instalações necessárias para a criação de ovelhas?
@@ -406,7 +446,11 @@ NOTA: Esta especialidade envolve o cultivo de frutas produzidas por arbustos, tr
 17. Apresentar um relatório escrito de, no mínimo, 300 palavras ou oral de 5 minutos sobre a importância da ovinocultura e referir suas principais características.
 18. Visitar uma propriedade rural onde se pratica a criação de ovelhas e elaborar um relatório de, pelo menos, 300 palavras destacando as principais atividades ali desenvolvidas, bem como sobre a sua experiência vivida para o cumprimento dos requisitos desta especialidade.
 
-![](_page_12_Picture_0.jpeg)
+## Pecuária
+
+![Pecuária](_page_12_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Citar, pelo menos, 4 características que se deve observar para a escolha de um bom novilho.
 2. Mencionar, pelo menos, 25 partes de um boi.
@@ -447,7 +491,11 @@ NOTA: Esta especialidade envolve o cultivo de frutas produzidas por arbustos, tr
 13. Cuidar de 1 ou mais bezerros por um período mínimo de 6 meses.
 14. Visitar uma propriedade rural onde se pratica a pecuária e elaborar um relatório de, pelo menos, 300 palavras destacando as principais atividades ali desenvolvidas, bem como sobre a sua experiência vivida para o cumprimento dos requisitos desta especialidade.
 
-![](_page_13_Picture_0.jpeg)
+## Criação de cabras
+
+![Criação de cabras](_page_13_Picture_0.jpeg)
+
+### REQUISITOS
 
 1. Identificar, ao vivo ou a partir de fotografias, pelo menos 4 raças de caprinos e especificar se esses animais são criadas para produção de leite, carne ou lã.
 2. Quais são as instalações necessárias para a criação de cabras?
