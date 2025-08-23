@@ -1,6 +1,6 @@
 # Habilidades Domésticas
 
-![Capa Habilidades Domésticas](_page_0_Picture_0.jpeg)
+![Capa Habilidades Domésticas](capa-habilidades_domesticas.jpeg)
 
 | Especialidade              |  Ano  | Código | Número |
 | -------------------------- | :---: | :----: | :----: |
@@ -19,7 +19,7 @@
 
 ## Arte culinária
 
-![Arte culinária](_page_2_Picture_0.jpeg)
+![Arte culinária](arte-culinaria.jpeg)
 
 ### REQUISITOS
 
@@ -48,7 +48,7 @@
 
 ## Técnicas de lavanderia
 
-![Técnicas de lavanderia](_page_2_Figure_24.jpeg)
+![Técnicas de lavanderia](tecnicas-de-lavanderia.jpeg)
 
 ### REQUISITOS
 
@@ -102,7 +102,7 @@
 
 ## Cuidado de bebês
 
-![Cuidado de bebês](_page_3_Figure_22.jpeg)
+![Cuidado de bebês](cuidado-de-bebes.jpeg)
 
 ### REQUISITOS
 
@@ -121,7 +121,7 @@
 
 ## Cuidados da casa
 
-![Cuidados da casa](_page_4_Figure_0.jpeg)
+![Cuidados da casa](cuidados-da-casa.jpeg)
 
 ### REQUISITOS
 
@@ -144,7 +144,7 @@
 
 ## Técnicas de fazer conserva
 
-![Técnicas de fazer conserva](_page_4_Figure_18.jpeg)
+![Técnicas de fazer conserva](tecnicas-de-fazer-conserva.jpeg)
 
 ### REQUISITOS
 
@@ -175,7 +175,7 @@
 
 ## Orçamento familiar
 
-![Orçamento familiar](_page_5_Picture_0.jpeg)
+![Orçamento familiar](orcamento-familiar.jpeg)
 
 ### REQUISITOS
 
@@ -207,7 +207,7 @@
 
 ## Panificação
 
-![Panificação](_page_6_Picture_0.jpeg)
+![Panificação](panificacao.jpeg)
 
 ### REQUISITOS
 
@@ -240,7 +240,7 @@
 
 ## Arte culinária - avançado
 
-![Arte culinária - avançado](_page_6_Figure_22.jpeg)
+![Arte culinária - avançado](arte-culinaria--avancado.jpeg)
 
 ### REQUISITOS
 
@@ -273,7 +273,7 @@
 
 ## Costura básica
 
-![Costura básica](_page_7_Picture_0.jpeg)
+![Costura básica](costura-basica.jpeg)
 
 ### REQUISITOS
 
@@ -306,7 +306,7 @@
 
 ## Comidas típicas
 
-![Comidas típicas](_page_7_Figure_28.jpeg)
+![Comidas típicas](comidas-tipicas.jpeg)
 
 ### REQUISITOS
 
@@ -320,7 +320,7 @@
 
 ## Congelamento de alimentos
 
-![Congelamento de alimentos](_page_8_Picture_0.jpeg)
+![Congelamento de alimentos](congelamento-de-alimentos.jpeg)
 
 ### REQUISITOS
 
@@ -348,7 +348,7 @@
 
 ## Desidratação de alimentos
 
-![Desidratação de alimentos](_page_8_Figure_23.jpeg)
+![Desidratação de alimentos](desidratacao-de-alimentos.jpeg)
 
 ### REQUISITOS
 
