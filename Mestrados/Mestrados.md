@@ -55,9 +55,9 @@
 
 ## Mestrado em atividades profissionais
 
-| ME  | Mestrado em atividades profissionais |             |                                           |     |
-| --- | ------------------------------------ | ----------- | ----------------------------------------- | --- |
-| 005 |                                      | Ano<br>1976 | Instituição de origem<br>Associação Geral |     |
+| ME  | Mestrado em atividades profissionais | Ano  | Instituição de origem |
+| --- | ------------------------------------ | ---- | --------------------- |
+| 005 |                                      | 1976 | Associação Geral      |
 
 ### REQUISITOS
 
@@ -73,9 +73,9 @@
 
 ## Mestrado em aquática
 
-| ME  | Mestrado em aquática |             |                                           |     |
-| --- | -------------------- | ----------- | ----------------------------------------- | --- |
-| 007 |                      | Ano<br>1976 | Instituição de origem<br>Associação Geral |     |
+| ME  | Mestrado em aquática | Ano  | Instituição de origem |
+| --- | -------------------- | ---- | --------------------- |
+| 007 |                      | 1976 | Associação Geral      |
 
 ### REQUISITOS
 
@@ -115,9 +115,9 @@
 
 ## Mestrado em zoologia
 
-| ΜE  | Mestrado em zoologia |                                 |                                                     |     |
-| --- | -------------------- | ------------------------------- | --------------------------------------------------- | --- |
-| 012 |                      | Ano<br>$\overline{\phantom{0}}$ | Instituição de origem<br>Divisão do Sul do Pacífico |     |
+| ΜE  | Mestrado em zoologia | Ano | Instituição de origem      |
+| --- | -------------------- | --- | -------------------------- |
+| 012 |                      | --  | Divisão do Sul do Pacífico |
 
 ### REQUISITOS
 
@@ -133,9 +133,9 @@
 
 ## Mestrado em botânica
 
-| ME  | Mestrado em botânica     |             |                                           |     |
-| --- | ------------------------ | ----------- | ----------------------------------------- | --- |
-| 014 | $\overline{\phantom{0}}$ | Ano<br>1976 | Instituição de origem<br>Associação Geral |     |
+| ME  | Mestrado em botânica | Ano  | Instituição de origem |
+| --- | -------------------- | ---- | --------------------- |
+| 014 | --                   | 1976 | Associação Geral      |
 
 ### REQUISITOS
 
