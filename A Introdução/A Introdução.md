@@ -1,6 +1,6 @@
 # Manual de Especialidades
 
-![Capa Manual de Especialidades](_page_0_Picture_0.jpeg)
+![Capa Manual de Especialidades](capa-manual_de_especialidades.jpeg)
 
 ## Expediente
 
@@ -94,7 +94,7 @@ Produtor Autorizado - DSA
 
 ## Introdução
 
-![Introdução](_page_3_Figure_0.jpeg)
+![Introdução](introducao.jpeg)
 
 Esta edição do Manual de Especialidades do Clube de Desbravadores representa o contínuo crescimento do Ministério de Desbravadores e Aventureiros da Igreja Adventista do Sétimo Dia e representa também a inovação da Divisão Sul-Americana em criar e coordenar um grupo de estudos, que permanentemente será o responsável pelo estudo das especialidades.
 
