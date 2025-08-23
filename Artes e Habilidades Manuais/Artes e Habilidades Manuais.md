@@ -848,7 +848,11 @@
 
 #### Código de Segurança do Missilmodelismo
 
-<http://nar.org/NARmrsc.html>
+> Nota: o link original (`http://nar.org/NARmrsc.html`), que consta no manual, não funciona mais.
+>
+> Para verificar o conteúdo original, acesse via Wayback Machine: <https://web.archive.org/web/20140215084411/http://nar.org/NARmrsc.html>
+>
+> Ou acesse o novo link: <https://nar.org/content.aspx?page_id=22&club_id=114127&module_id=669234>
 
 1. Materiais. As miniaturas de foguetes deverão ser produzidas apenas através de materiais leves como papel, madeira, plástico e folhas de papel alumínio, com a exceção dos suportes de cargas e do mecanismo, feitos de arame ou semelhantes.
 2. Mecanismos. Utilizar apenas mecanismos de miniaturas comprados prontos, e de acordo com as instruções do fabricante. Não mexer com estes motores e utilizá-los somente para fins recomendados pelo fabricante.
@@ -857,7 +861,7 @@
 5. Lançamento de segurança. Iniciar uma contagem regressiva antes do lançamento para garantir que todos prestem atenção e mantenham uma distância segura de pelo menos 4,5 metros de distância para lançamentos de foguetes com motores D ou menor, e 9,5 metros para lançamentos de foguetes maiores. Caso o foguete não tenha sido testado e haja incerteza sobre sua segurança ou estabilidade, verificar a estabilidade de voo antes de permitir que espectadores acompanhem o lançamento. 6. Lançador. Lançar o foguete a partir de uma haste de lançamento, torre ou ferroviário, apontada a partir de 30 graus da vertical para assegurar que o foguete voe quase em linha reta, usando um defletor para impedir que a explosão escape do motor de bater no chão. Para evitar lesão acidental com os olhos, colocar os lançadores de modo que a extremidade da haste de lançamento esteja acima do nível do olho ou tapar a extremidade da haste, quando não estiver em uso.
 6. Tamanho. O modelo de foguete não pesará mais de 1.500 gramas com o lançamento e não conterá mais de 125 gramas de propelente ou 71,9 segundos de impulso total. Se o modelo de foguete pesa mais de 453 gramas na decolagem ou tem mais de 113 gramas de propelente, verificar e cumprir com os regulamentos da Administração de Avaliação Federal antes de voar.
 7. Segurança de voo. Não lançar o foguete contra ventos fortes, perto de prédios, fios de eletricidade, árvores altas, perto de aeroportos ou heliportos (onde passem aeronaves em voo baixo), ou em quaisquer condições que possam ser perigosas às pessoas ou propriedades, e não colocar qualquer carga inflamável ou explosiva no foquete.
-8. Área de lançamento. Só lançar o foguete numa área aberta, pelo menos, tão grande como mostrado na tabela (http://nar.org/NARmrsc.html), e em condições de tempo seguros, com velocidades de vento não superior a 32km/h. Assegurar-se de que não há capim seco próximo à plataforma de lançamento, e que o local de lançamento não apresenta risco de incêndios na grama.
+8. Área de lançamento. Só lançar o foguete numa área aberta, pelo menos, tão grande como mostrado na tabela [Model Rocket Safety Code](https://nar.org/content.aspx?page_id=22&club_id=114127&module_id=669234), e em condições de tempo seguros, com velocidades de vento não superior a 32km/h. Assegurar-se de que não há capim seco próximo à plataforma de lançamento, e que o local de lançamento não apresenta risco de incêndios na grama.
 9. Sistema de recuperação. Deve-se usar um sistema de recuperação como uma serpentina ou pára-quedas no foguete para que ele retorne com segurança e sem danos, e então possa ser usado novamente. Usar apenas enchimento resistente a chamas ou recuperação à prova de fogo no foguete.
 10. Recuperação de forma segura. Não tentar recuperar o foguete caso ele caia em rede elétrica, árvores altas, ou outros lugares perigosos.
 
