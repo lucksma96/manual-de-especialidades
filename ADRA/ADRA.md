@@ -1,6 +1,6 @@
 # ADRA
 
-![Capa ADRA](_page_0_Picture_0.jpeg)
+![Capa ADRA](capa-adra.jpeg)
 
 | Especialidade                                                                               |  Ano  | Código | Número |
 | ------------------------------------------------------------------------------------------- | :---: | :----: | :----: |
@@ -16,7 +16,7 @@
 
 ## Alívio da fome
 
-![Alívio da fome](_page_2_Picture_0.jpeg)
+![Alívio da fome](alivio-da-fome.jpeg)
 
 ### REQUISITOS
 
@@ -29,7 +29,7 @@
 
 ## Avaliação da comunidade
 
-![Avaliação da comunidade](_page_2_Figure_5.jpeg)
+![Avaliação da comunidade](avaliacao-da-comunidade.jpeg)
 
 ### REQUISITOS
 
@@ -49,7 +49,7 @@
 
 ## Serviço comunitário
 
-![Serviço comunitário](_page_3_Picture_0.jpeg)
+![Serviço comunitário](servico-comunitario.jpeg)
 
 ### REQUISITOS
 
@@ -65,7 +65,7 @@
 
 ## Resposta a emergências e desastres
 
-![Resposta a emergências e desastres](_page_3_Figure_11.jpeg)
+![Resposta a emergências e desastres](resposta-a-emergencias-e-desastres.jpeg)
 
 ### REQUISITOS
 
@@ -90,7 +90,7 @@
 
 ## Resposta a emergências e desastres avançado
 
-![Resposta a emergências e desastres avançado](_page_4_Picture_0.jpeg)
+![Resposta a emergências e desastres avançado](resposta-a-emergencias-e-desastres-avancado.jpeg)
 
 ### REQUISITOS
 
@@ -112,7 +112,7 @@
 
 ## Alfabetização
 
-![Alfabetização](_page_4_Figure_17.jpeg)
+![Alfabetização](alfabetizacao.jpeg)
 
 ### REQUISITOS
 
@@ -129,7 +129,7 @@
 
 ## Resolução de conflitos
 
-![Resolução de conflitos](_page_5_Picture_0.jpeg)
+![Resolução de conflitos](resolucao-de-conflitos.jpeg)
 
 ### REQUISITOS
 
@@ -153,7 +153,7 @@
 
 ## Reassentamento de refugiados
 
-![Reassentamento de refugiados](_page_5_Figure_19.jpeg)
+![Reassentamento de refugiados](reassentamento-de-refugiados.jpeg)
 
 ### REQUISITOS
 
@@ -166,7 +166,7 @@
 
 ## Desenvolvimento comunitário
 
-![Desenvolvimento comunitário](_page_6_Picture_0.jpeg)
+![Desenvolvimento comunitário](desenvolvimento-comunitario.jpeg)
 
 ### REQUISITOS
 
