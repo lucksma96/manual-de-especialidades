@@ -1,6 +1,6 @@
 # Mestrados
 
-![Capa Mestrados](_page_0_Picture_0.jpeg)
+![Capa Mestrados](capa-mestrados.jpeg)
 
 | Especialidade                                                                       |  Ano  | Código | Número |
 | ----------------------------------------------------------------------------------- | :---: | :----: | :----: |
@@ -22,7 +22,7 @@
 
 ## Mestrado em ADRA
 
-![Mestrado em ADRA](_page_1_Figure_1.jpeg)
+![Mestrado em ADRA](mestrado-em-adra.jpeg)
 
 ### REQUISITOS
 
@@ -30,7 +30,7 @@
 
 ## Mestrado em artes e habilidades manuais
 
-![Mestrado em artes e habilidades manuais](_page_1_Figure_4.jpeg)
+![Mestrado em artes e habilidades manuais](mestrado-em-artes-e-habilidades-manuais.jpeg)
 
 ### REQUISITOS
 
@@ -38,7 +38,7 @@
 
 ## Mestrado em atividades agrícolas
 
-![Mestrado em atividades agrícolas](_page_1_Figure_7.jpeg)
+![Mestrado em atividades agrícolas](mestrado-em-atividades-agricolas.jpeg)
 
 ### REQUISITOS
 
@@ -46,7 +46,7 @@
 
 ## Mestrado em testificação
 
-![Mestrado em testificação](_page_1_Figure_10.jpeg)
+![Mestrado em testificação](mestrado-em-testificacao.jpeg)
 
 ### REQUISITOS
 
@@ -65,7 +65,7 @@
 
 ## Mestrado em ciência e tecnologia
 
-![Mestrado em ciência e tecnologia](_page_2_Figure_4.jpeg)
+![Mestrado em ciência e tecnologia](mestrado-em-ciencia-e-tecnologia.jpeg)
 
 ### REQUISITOS
 
@@ -83,7 +83,7 @@
 
 ## Mestrado em esportes
 
-![Mestrado em esportes](_page_2_Figure_10.jpeg)
+![Mestrado em esportes](mestrado-em-esportes.jpeg)
 
 ### REQUISITOS
 
@@ -91,7 +91,7 @@
 
 ## Mestrado em vida campestre
 
-![Mestrado em vida campestre](_page_3_Figure_1.jpeg)
+![Mestrado em vida campestre](mestrado-em-vida-campestre.jpeg)
 
 ### REQUISITOS
 
@@ -99,7 +99,7 @@
 
 ## Mestrado em atividades recreativas
 
-![Mestrado em atividades recreativas](_page_3_Figure_4.jpeg)
+![Mestrado em atividades recreativas](mestrado-em-atividades-recreativas.jpeg)
 
 ### REQUISITOS
 
@@ -107,7 +107,7 @@
 
 ## Mestrado em saúde
 
-![Mestrado em saúde](_page_3_Figure_8.jpeg)
+![Mestrado em saúde](mestrado-em-saude.jpeg)
 
 ### REQUISITOS
 
@@ -125,7 +125,7 @@
 
 ## Mestrado em ecologia
 
-![Mestrado em ecologia](_page_4_Figure_1.jpeg)
+![Mestrado em ecologia](mestrado-em-ecologia.jpeg)
 
 ### REQUISITOS
 
@@ -143,7 +143,7 @@
 
 ## Mestrado em habilidades domésticas
 
-![Mestrado em habilidades domésticas](_page_4_Figure_7.jpeg)
+![Mestrado em habilidades domésticas](mestrado-em-habilidades-domesticas.jpeg)
 
 ### REQUISITOS
 
