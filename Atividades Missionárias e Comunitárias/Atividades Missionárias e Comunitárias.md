@@ -378,7 +378,8 @@ Participar de uma campanha de colportagem estudantil ou, pelo menos, 3 meses em 
 6. Fazer uma lista de 10 coisas que você deseja praticar durante, pelo menos, 1 ano no que diz respeito ao seu relacionamento com seus semelhantes.
 
 #### Parte II - Asseio Cristão
-
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable MD029 -->
 7. Leia o livro Educação, de Ellen G. White, página 198, parágrafo 3, e relate brevemente os benefícios mencionados que lhe advirão resultados de uma postura correta.
 8. Com seu líder ou seu grupo de estudo para as especialidades, discuta e relate brevemente suas considerações da discussão:
     1. Fazer uma lista de pontos que demonstrem o poder de uma postura correta. Verificar sua postura e perfil físico. Demonstrar a correta posição para ficar em pé e para sentar-se.
@@ -396,6 +397,7 @@ Participar de uma campanha de colportagem estudantil ou, pelo menos, 3 meses em 
     1. Elabore uma lista com os principais erros cometidos em sua postura. Durante uma semana, portar esta lista em seu dia-a-dia. Ao final desta semana, fazer um breve relatório sobre as melhoras alcançadas.
     2. Saber a importância de uma "higiene" diária da alma, de desenvolver um caráter cristão, e por que "pertencer a Cristo" faz uma diferença em sua maneira de vestir-se e agir.
     3. Relacionar 10 princípios que podem ajudá-lo a superar a inibição e a vergonha.
+<!-- markdownlint-restore -->
 
 ## Vida familiar
 
@@ -1164,7 +1166,7 @@ como os Cultos de Pôr-do-sol de Sexta Feira.
 6. O que é uma cela braile?
 7. Quais sãos e o que significam os graus 1, 2 e 3 do sistema braile?
 8. Participar de um curso para escrever e ler em braile. O curso poderá ser virtual ou presencial.
-   > Nota: Este site, http://www.braillevirtual.fe.usp.br/, apresenta um curso interessante e interativo, adequado para juvenis, em português, espanhol e inglês.
+   > Nota: Este site, [Braille Virtual](http://www.braillevirtual.fe.usp.br/), apresenta um curso interessante e interativo, adequado para juvenis, em português, espanhol e inglês.
 9. Traduzir, na presença do instrutor, o texto bíblico de Marcos 10:46-52.
 10. Ler, em braile, no mínimo 90 palavras por minuto.
 11. Escrever um pequeno cartão com uma mensagem bíblica para um deficiente visual.
