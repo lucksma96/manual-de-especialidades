@@ -31,8 +31,8 @@ Versão em [Markdown](https://pt.wikipedia.org/wiki/Markdown) do manual para fac
   - [x] (EN) Estudo da Natureza
   - [x] (HD) Habilidades Domésticas
   - [x] (ME) Mestrados
-- [ ] Revisar formatação (*em progresso*)
-- [ ] Corrigir imagens de cabeçalho
+- [x] Revisar formatação
+- [ ] Corrigir imagens de cabeçalho (*em progresso*)
 - [ ] Revisar ortografia
 - [ ] Tornar índices interativos
 - [ ] Transformar em página web (com *GitHub Pages* ou *Read the Docs*)
