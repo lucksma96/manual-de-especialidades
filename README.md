@@ -34,7 +34,7 @@ Versão em [Markdown](https://pt.wikipedia.org/wiki/Markdown) do manual para fac
 - [x] Revisar formatação
 - [ ] Corrigir imagens de cabeçalho (*em progresso*)
 - [ ] Revisar ortografia
-- [ ] Tornar índices interativos
+- [ ] Tornar índices interativos (*em progresso*)
 - [ ] Transformar em página web (com *GitHub Pages* ou *Read the Docs*)
 
 ## Referências
