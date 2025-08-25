@@ -32,9 +32,9 @@ Versão em [Markdown](https://pt.wikipedia.org/wiki/Markdown) do manual para fac
   - [x] (HD) Habilidades Domésticas
   - [x] (ME) Mestrados
 - [x] Revisar formatação
-- [ ] Corrigir imagens de cabeçalho (*em progresso*)
+- [ ] Corrigir imagens de cabeçalho
 - [ ] Revisar ortografia
-- [ ] Tornar índices interativos (*em progresso*)
+- [x] Tornar índices interativos
 - [ ] Transformar em página web (com *GitHub Pages* ou *Read the Docs*)
 
 ## Referências
