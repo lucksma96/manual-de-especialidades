@@ -2,56 +2,56 @@
 
 ![Capa Atividades Missionárias e Comunitárias](_page_0_Picture_0.jpeg)
 
-| Especialidade                            |  Ano  | Código | Número |
-| ---------------------------------------- | :---: | :----: | :----: |
-| Arte de contar histórias cristãs         | 1928  |   AM   |  001   |
-| Arte em fantoches                        |  --   |   AM   |  002   |
-| Arte em fantoches - avançado             |  --   |   AM   |  003   |
-| Etnologia missionária                    | 1928  |   AM   |  004   |
-| Colportagem                              | 1938  |   AM   |  005   |
-| Cidadania cristã                         | 1938  |   AM   |  006   |
-| Estudo de línguas                        | 1938  |   AM   |  007   |
-| Evangelismo pessoal                      | 1938  |   AM   |  008   |
-| Liderança juvenil                        | 1945  |   AM   |  009   |
-| Testemunho juvenil                       | 1970  |   AM   |  010   |
-| Asseio e cortesia cristã                 | 1975  |   AM   |  011   |
-| Vida familiar                            | 1975  |   AM   |  012   |
-| Temperança                               | 1976  |   AM   |  013   |
-| Língua de sinais                         | 1978  |   AM   |  014   |
-| Mordomia                                 | 1986  |   AM   |  015   |
-| Aventuras com Cristo                     | 1989  |   AM   |  016   |
-| Aventuras com Cristo - avançado          | 1989  |   AM   |  017   |
-| Língua de sinais - avançado              | 1991  |   AM   |  018   |
-| Marcação bíblica                         |  --   |   AM   |  019   |
-| Marcação bíblica - avançado              |  --   |   AM   |  020   |
-| Pregador evangelista                     |  --   |   AM   |  021   |
-| Pregador evangelista - avançado          |  --   |   AM   |  022   |
-| Santuário                                | 2004  |   AM   |  023   |
-| Dramatização cristã                      | 2006  |   AM   |  024   |
-| Desfile com carros alegóricos            | 2009  |   AM   |  025   |
-| Desfile com carros alegóricos - avançado | 2009  |   AM   |  026   |
-| Pacificador                              | 2009  |   AM   |  027   |
-| Pacificador - avançado                   | 2009  |   AM   |  028   |
-| Adoração cristã                          | 2011  |   AM   |  029   |
-| Arte da pregação cristã                  | 2012  |   AM   |  030   |
-| Arte da pregação cristã - avançado       | 2012  |   AM   |  031   |
-| Arqueologia bíblica                      | 2012  |   AM   |  032   |
-| Cerimônias                               | 2012  |   AM   |  033   |
-| Braile                                   | 2012  |   AM   |  034   |
-| Criacionismo                             | 2012  |   AM   |  035   |
-| Criacionismo - avançado                  | 2012  |   AM   |  036   |
-| Espírito de profecia                     | 2012  |   AM   |  037   |
-| Escatologia                              | 2012  |   AM   |  038   |
-| Historiador eclesiástico                 | 2012  |   AM   |  039   |
-| Evangelismo web                          | 2012  |   AM   |  040   |
-| Evangelismo web - avançado               | 2012  |   AM   |  041   |
-| Intercessor                              | 2012  |   AM   |  042   |
-| Pioneiros adventistas                    | 2012  |   AM   |  043   |
-| Patriotismo                              | 2012  |   AM   |  044   |
-| Sonoplastia                              | 2012  |   AM   |  045   |
-| Sonoplastia - avançado                   | 2012  |   AM   |  046   |
-| Investigador Bíblico I                   | 2012  |   AM   |  047   |
-| Boa conduta escolar                      | 2012  |   AM   |  048   |
+| Especialidade                                                                         |  Ano  | Código | Número |
+| ------------------------------------------------------------------------------------- | :---: | :----: | :----: |
+| [Arte de contar histórias cristãs](#arte-de-contar-histórias-cristãs)                 | 1928  |   AM   |  001   |
+| [Artes em fantoches](#artes-em-fantoches)                                             |  --   |   AM   |  002   |
+| [Artes em fantoches - avançado](#artes-em-fantoches---avançado)                       |  --   |   AM   |  003   |
+| [Etnologia missionária](#etnologia-missionária)                                       | 1928  |   AM   |  004   |
+| [Colportagem](#colportagem)                                                           | 1938  |   AM   |  005   |
+| [Cidadania cristã](#cidadania-cristã)                                                 | 1938  |   AM   |  006   |
+| [Estudo de línguas](#estudo-de-línguas)                                               | 1938  |   AM   |  007   |
+| [Evangelismo pessoal](#evangelismo-pessoal)                                           | 1938  |   AM   |  008   |
+| [Liderança juvenil](#liderança-juvenil)                                               | 1945  |   AM   |  009   |
+| [Testemunho juvenil](#testemunho-juvenil)                                             | 1970  |   AM   |  010   |
+| [Asseio e cortesia cristã](#asseio-e-cortesia-cristã)                                 | 1975  |   AM   |  011   |
+| [Vida familiar](#vida-familiar)                                                       | 1975  |   AM   |  012   |
+| [Temperança](#temperança)                                                             | 1976  |   AM   |  013   |
+| [Língua de sinais](#língua-de-sinais)                                                 | 1978  |   AM   |  014   |
+| [Mordomia](#mordomia)                                                                 | 1986  |   AM   |  015   |
+| [Aventuras com Cristo](#aventuras-com-cristo)                                         | 1989  |   AM   |  016   |
+| [Aventuras com Cristo - avançado](#aventuras-com-cristo---avançado)                   | 1989  |   AM   |  017   |
+| [Língua de sinais - avançado](#língua-de-sinais---avançado)                           | 1991  |   AM   |  018   |
+| [Marcação bíblica](#marcação-bíblica)                                                 |  --   |   AM   |  019   |
+| [Marcação bíblica - avançado](#marcação-bíblica---avançado)                           |  --   |   AM   |  020   |
+| [Pregador evangelista](#pregador-evangelista)                                         |  --   |   AM   |  021   |
+| [Pregador evangelista - avançado](#pregador-evangelista---avançado)                   |  --   |   AM   |  022   |
+| [Santuário](#santuário)                                                               | 2004  |   AM   |  023   |
+| [Dramatização cristã](#dramatização-cristã)                                           | 2006  |   AM   |  024   |
+| [Desfile com carros alegóricos](#desfile-com-carros-alegóricos)                       | 2009  |   AM   |  025   |
+| [Desfile com carros alegóricos - avançado](#desfile-com-carros-alegóricos---avançado) | 2009  |   AM   |  026   |
+| [Pacificador](#pacificador)                                                           | 2009  |   AM   |  027   |
+| [Pacificador - avançado](#pacificador---avançado)                                     | 2009  |   AM   |  028   |
+| [Adoração cristã](#adoração-cristã)                                                   | 2011  |   AM   |  029   |
+| [Arte da pregação cristã](#arte-da-pregação-cristã)                                   | 2012  |   AM   |  030   |
+| [Arte da pregação cristã - avançado](#arte-da-pregação-cristã---avançado)             | 2012  |   AM   |  031   |
+| [Arqueologia bíblica](#arqueologia-bíblica)                                           | 2012  |   AM   |  032   |
+| [Cerimônias](#cerimônias)                                                             | 2012  |   AM   |  033   |
+| [Braile](#braile)                                                                     | 2012  |   AM   |  034   |
+| [Criacionismo](#criacionismo)                                                         | 2012  |   AM   |  035   |
+| [Criacionismo - avançado](#criacionismo---avançado)                                   | 2012  |   AM   |  036   |
+| [Espírito de Profecia](#espírito-de-profecia)                                         | 2012  |   AM   |  037   |
+| [Escatologia](#escatologia)                                                           | 2012  |   AM   |  038   |
+| [Historiador eclesiástico](#historiador-eclesiástico)                                 | 2012  |   AM   |  039   |
+| [Evangelismo web](#evangelismo-web)                                                   | 2012  |   AM   |  040   |
+| [Evangelismo web - avançado](#evangelismo-web---avançado)                             | 2012  |   AM   |  041   |
+| [Intercessor](#intercessor)                                                           | 2012  |   AM   |  042   |
+| [Pioneiros adventistas](#pioneiros-adventistas)                                       | 2012  |   AM   |  043   |
+| [Patriotismo](#patriotismo)                                                           | 2012  |   AM   |  044   |
+| [Sonoplastia](#sonoplastia)                                                           | 2012  |   AM   |  045   |
+| [Sonoplastia - avançado](#sonoplastia---avançado)                                     | 2012  |   AM   |  046   |
+| [Investigador Bíblico I](#investigador-bíblico-i)                                     | 2012  |   AM   |  047   |
+| [Boa conduta escolar](#boa-conduta-escolar)                                           | 2012  |   AM   |  048   |
 
 ## Arte de contar histórias cristãs
 
@@ -1538,9 +1538,13 @@ como os Cultos de Pôr-do-sol de Sexta Feira.
 
 Ter lido pelo menos um livro sobre histórias de personagens Bíblicos (sugestões: Belas Histórias da Bíblia, Vida de Jesus, Patriarcas e Profetas, Profetas e Reis, Vida de Jesus, Heróis do Passado Lições do Presente).
 
+## Boa conduta escolar
+
 | AM  | Boa conduta escolar | Ano  | Instituição de origem |
 | --- | ------------------- | ---- | --------------------- |
 | 048 | Nível 1             | 2012 | Divisão Sul Americana |
+
+### REQUISITOS
 
 1. Estar regularmente estudando.
 2. Apresentar um relatório explicando com suas palavras, o que é ter uma boa conduta escolar, mínimo 200 e máximo 500 palavras.
