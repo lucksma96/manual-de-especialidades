@@ -2,20 +2,20 @@
 
 ![Capa Habilidades Domésticas](capa-habilidades_domesticas.jpeg)
 
-| Especialidade              |  Ano  | Código | Número |
-| -------------------------- | :---: | :----: | :----: |
-| Arte culinária             | 1928  |   HD   |  001   |
-| Técnicas de lavanderia     | 1928  |   HD   |  002   |
-| Cuidado de bebês           |  --   |   HD   |  003   |
-| Cuidados da casa           | 1929  |   HD   |  004   |
-| Técnicas de fazer conserva | 1929  |   HD   |  005   |
-| Orçamento familiar         | 1935  |   HD   |  006   |
-| Panificação                | 1945  |   HD   |  007   |
-| Arte culinária - avançado  | 1956  |   HD   |  008   |
-| Costura básica             | 1976  |   HD   |  009   |
-| Comidas típicas            |  --   |   HD   |  010   |
-| Congelamento de alimentos  | 1986  |   HD   |  011   |
-| Desidratação de alimentos  | 1986  |   HD   |  012   |
+| Especialidade                                             |  Ano  | Código | Número |
+| --------------------------------------------------------- | :---: | :----: | :----: |
+| [Arte culinária](#arte-culinária)                         | 1928  |   HD   |  001   |
+| [Técnicas de lavanderia](#técnicas-de-lavanderia)         | 1928  |   HD   |  002   |
+| [Cuidado de bebês](#cuidado-de-bebês)                     |  --   |   HD   |  003   |
+| [Cuidados da casa](#cuidados-da-casa)                     | 1929  |   HD   |  004   |
+| [Técnicas de fazer conserva](#técnicas-de-fazer-conserva) | 1929  |   HD   |  005   |
+| [Orçamento familiar](#orçamento-familiar)                 | 1935  |   HD   |  006   |
+| [Panificação](#panificação)                               | 1945  |   HD   |  007   |
+| [Arte culinária - avançado](#arte-culinária---avançado)   | 1956  |   HD   |  008   |
+| [Costura básica](#costura-básica)                         | 1976  |   HD   |  009   |
+| [Comidas típicas](#comidas-típicas)                       |  --   |   HD   |  010   |
+| [Congelamento de alimentos](#congelamento-de-alimentos)   | 1986  |   HD   |  011   |
+| [Desidratação de alimentos](#desidratação-de-alimentos)   | 1986  |   HD   |  012   |
 
 ## Arte culinária
 
