@@ -4,17 +4,17 @@ Versão em [Markdown](https://pt.wikipedia.org/wiki/Markdown) do manual para fac
 
 ## Navegação
 
-- [Introdução](<A Introdução/A Introdução.md>)
-- [(AD) ADRA](ADRA/ADRA.md)
-- [(HM) Artes e Habilidades Manuais](<Artes e Habilidades Manuais/Artes e Habilidades Manuais.md>)
-- [(AA) Atividades Agrícolas e Afins](<Atividades Agrícolas e Afins/Atividades Agrícolas e Afins.md>)
-- [(AM) Atividades Missionárias e Comunitárias](<Atividades Missionárias e Comunitárias/Atividades Missionárias e Comunitárias.md>)
-- [(AP) Atividades Profissionais](<Atividades Profissionais/Atividades Profissionais.md>)
-- [(AR) Atividades Recreativas](<Atividades Recreativas/Atividades Recreativas.md>)
-- [(CS) Ciência e Saúde](<Ciência e Saúde/Ciência e Saúde.md>)
-- [(EN) Estudo da Natureza](<Estudo da Natureza/Estudo da Natureza.md>)
-- [(HD) Habilidades Domésticas](<Habilidades Domésticas/Habilidades Domésticas.md>)
-- [(ME) Mestrados](Mestrados/Mestrados.md)
+- [Introdução](<docs/A Introdução/A Introdução.md>)
+- [(AD) ADRA](docs/ADRA/ADRA.md)
+- [(HM) Artes e Habilidades Manuais](<docs/Artes e Habilidades Manuais/Artes e Habilidades Manuais.md>)
+- [(AA) Atividades Agrícolas e Afins](<docs/Atividades Agrícolas e Afins/Atividades Agrícolas e Afins.md>)
+- [(AM) Atividades Missionárias e Comunitárias](<docs/Atividades Missionárias e Comunitárias/Atividades Missionárias e Comunitárias.md>)
+- [(AP) Atividades Profissionais](<docs/Atividades Profissionais/Atividades Profissionais.md>)
+- [(AR) Atividades Recreativas](<docs/Atividades Recreativas/Atividades Recreativas.md>)
+- [(CS) Ciência e Saúde](<docs/Ciência e Saúde/Ciência e Saúde.md>)
+- [(EN) Estudo da Natureza](<docs/Estudo da Natureza/Estudo da Natureza.md>)
+- [(HD) Habilidades Domésticas](<docs/Habilidades Domésticas/Habilidades Domésticas.md>)
+- [(ME) Mestrados](docs/Mestrados/Mestrados.md)
 
 ## Pendências
 
