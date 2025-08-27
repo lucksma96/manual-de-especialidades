@@ -6,6 +6,35 @@ theme:
   name: material
   user_color_mode_toggle: auto
   language: pt-BR
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - toc.follow
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Trocar para modo claro
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: yellow
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: Trocar para modo escuro
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: amber
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Trocar para modo automático
 nav:
   - Início: index.md
   - Introdução: 'A Introdução/A Introdução.md'
