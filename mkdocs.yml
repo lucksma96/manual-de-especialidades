@@ -1,0 +1,60 @@
+site_name: Manual de Especialidades
+site_description: Manual de Especialidades em Markdown
+site_author: Lucas Magno Zimmer
+repo_url: https://github.com/lucksma96/manual-de-especialidades
+theme:
+  name: material
+  user_color_mode_toggle: auto
+  language: pt-BR
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - toc.follow
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Trocar para modo claro
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: yellow
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: Trocar para modo escuro
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: amber
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Trocar para modo automático
+nav:
+  - Início: index.md
+  - Introdução: 'A Introdução/A Introdução.md'
+  - ADRA: 'ADRA/ADRA.md'
+  - Artes e Habilidades Manuais: 'Artes e Habilidades Manuais/Artes e Habilidades Manuais.md'
+  - Atividades Agrícolas e Afins: 'Atividades Agrícolas e Afins/Atividades Agrícolas e Afins.md'
+  - Atividades Missionárias e Comunitárias: 'Atividades Missionárias e Comunitárias/Atividades Missionárias e Comunitárias.md'
+  - Atividades Profissionais: 'Atividades Profissionais/Atividades Profissionais.md'
+  - Atividades Recreativas: 'Atividades Recreativas/Atividades Recreativas.md'
+  - Ciência e Saúde: 'Ciência e Saúde/Ciência e Saúde.md'
+  - Estudo da Natureza: 'Estudo da Natureza/Estudo da Natureza.md'
+  - Habilidades Domésticas: 'Habilidades Domésticas/Habilidades Domésticas.md'
+  - Mestrados: 'Mestrados/Mestrados.md'
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - toc:
+      permalink: true
+      toc_depth: 2
+      slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
+plugins:
+  - offline
+  - search

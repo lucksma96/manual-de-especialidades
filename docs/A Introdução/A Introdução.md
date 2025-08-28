@@ -6,52 +6,52 @@
 
 ### Diretores do Ministério Jovem
 
-**DSA - Divisão Sul-Americana**\
+**DSA - Divisão Sul-Americana**  
 Pr. Areli Barbosa
 
-**UA - União Argentina**\
+**UA - União Argentina**  
 Pr. Carlos Campitelli
 
-**UB - União Boliviana**\
+**UB - União Boliviana**  
 Pr. Jimmy W. Lafuente
 
-**UCB - União Central Brasileira**\
+**UCB - União Central Brasileira**  
 Pr. Ronaldo Arco
 
-**UCh - União Chilena**\
+**UCh - União Chilena**  
 Pr. David Victoriano
 
-**UCOB - União Centro Oeste Brasileira**\
+**UCOB - União Centro Oeste Brasileira**  
 Pr. Nelson Milanelli
 
-**UE - União Equatoriana**\
+**UE - União Equatoriana**  
 Pr. Juan Cancino
 
-**UNB - União Norte Brasileira**\
+**UNB - União Norte Brasileira**  
 Pr. Helbert R. Almeida
 
-**UNeB - União Nordeste Brasileira**\
+**UNeB - União Nordeste Brasileira**  
 Pr. Sósthenes Andrade
 
-**UNOB - União Noroeste Brasileira**\
+**UNOB - União Noroeste Brasileira**  
 Pr. Donato A. Filho
 
-**UP - União Paraguai**\
+**UP - União Paraguai**  
 Pr. Benjamín Belmonte
 
-**UPN - União Peruana do Norte**\
+**UPN - União Peruana do Norte**  
 Pr. Jaime Perez
 
-**UPS - União Peruana do Sul**\
+**UPS - União Peruana do Sul**  
 Pr. Javier Cahuana
 
-**USB - União Sul-Brasileira**\
+**USB - União Sul-Brasileira**  
 Pr. Elmar Borges
 
-**USEB - União Sudoeste Brasileira**\
+**USEB - União Sudoeste Brasileira**  
 Pr. Ivay Araujo
 
-**UU - União Uruguaia**\
+**UU - União Uruguaia**  
 Pr. Pablo Flor
 
 ### Edição
@@ -118,10 +118,10 @@ Em virtude das constantes mudanças do mundo moderno, é intuito da Divisão Sul
 
 Todo o processo para a realização do programa das especialidades, incluindo o conhecimento da filosofia, o planejamento do currículo, a metodologia de ensino, as formas de avaliação e os critérios para a aquisição das insígnias é regido pelo Manual Administrativo do Clube de Desbravadores da Divisão Sul-Americana.
 
-**Ministério de Desbravadores e Aventureiros**\
-**Divisão Sul-Americana**\
-**Ano 2013**\
-[www.desbravadores.org.br](www.desbravadores.org.br)
+**Ministério de Desbravadores e Aventureiros**  
+**Divisão Sul-Americana**  
+**Ano 2013**  
+[www.desbravadores.org.br](https://www.desbravadores.org.br)
 
 ## Filosofia das Especialidades dos Desbravadores
 

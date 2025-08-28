@@ -183,11 +183,11 @@ Participar de uma campanha de colportagem estudantil ou, pelo menos, 3 meses em 
 7. Simular ao seu Orientador ou Conselheiro uma venda de um livro e revista, testando suas técnicas aprendidas na pesquisa do item 4.
 8. Ler o Livro "O Colportor Evangelista", de Ellen G White.
     1. Fazer um resumo de, no mínimo, 200 palavras (cada) para 3 dos 6 capítulos abaixo:
-        1 - 1 Nossas Publicações e sua Missão\
-        6 - 6 Uma Obra de Salvação de Almas\
-        7 - 7 Entrega Completa a Deus\
-        12 - 12 Homem de Oração\
-        17 - 17 Acompanhado por Anjos\
+        1 - 1 Nossas Publicações e sua Missão  
+        6 - 6 Uma Obra de Salvação de Almas  
+        7 - 7 Entrega Completa a Deus  
+        12 - 12 Homem de Oração  
+        17 - 17 Acompanhado por Anjos  
         24 - 24 O Vasto Alcance de Influência de Nossas Publicações
 
 ## Cidadania cristã
