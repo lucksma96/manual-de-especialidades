@@ -52,6 +52,7 @@ nav:
   - Sobre:
     - Como funciona: about/how-it-works.md
     - Relatar problema: about/report-problem.md
+    - Licença: about/license.md
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
