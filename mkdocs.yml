@@ -51,6 +51,7 @@ nav:
     - Mestrados: 'content/Mestrados/Mestrados.md'
   - Sobre:
     - Como funciona: about/how-it-works.md
+    - Relatar problema: about/report-problem.md
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
