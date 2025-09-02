@@ -49,6 +49,8 @@ nav:
     - Estudo da Natureza: 'content/Estudo da Natureza/Estudo da Natureza.md'
     - Habilidades Domésticas: 'content/Habilidades Domésticas/Habilidades Domésticas.md'
     - Mestrados: 'content/Mestrados/Mestrados.md'
+  - Sobre:
+    - Como funciona: about/how-it-works.md
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
