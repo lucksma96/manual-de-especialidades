@@ -37,17 +37,18 @@ theme:
         name: Trocar para modo automático
 nav:
   - Início: index.md
-  - Introdução: 'A Introdução/A Introdução.md'
-  - ADRA: 'ADRA/ADRA.md'
-  - Artes e Habilidades Manuais: 'Artes e Habilidades Manuais/Artes e Habilidades Manuais.md'
-  - Atividades Agrícolas e Afins: 'Atividades Agrícolas e Afins/Atividades Agrícolas e Afins.md'
-  - Atividades Missionárias e Comunitárias: 'Atividades Missionárias e Comunitárias/Atividades Missionárias e Comunitárias.md'
-  - Atividades Profissionais: 'Atividades Profissionais/Atividades Profissionais.md'
-  - Atividades Recreativas: 'Atividades Recreativas/Atividades Recreativas.md'
-  - Ciência e Saúde: 'Ciência e Saúde/Ciência e Saúde.md'
-  - Estudo da Natureza: 'Estudo da Natureza/Estudo da Natureza.md'
-  - Habilidades Domésticas: 'Habilidades Domésticas/Habilidades Domésticas.md'
-  - Mestrados: 'Mestrados/Mestrados.md'
+  - Manual:
+    - Introdução: 'content/A Introdução/A Introdução.md'
+    - ADRA: 'content/ADRA/ADRA.md'
+    - Artes e Habilidades Manuais: 'content/Artes e Habilidades Manuais/Artes e Habilidades Manuais.md'
+    - Atividades Agrícolas e Afins: 'content/Atividades Agrícolas e Afins/Atividades Agrícolas e Afins.md'
+    - Atividades Missionárias e Comunitárias: 'content/Atividades Missionárias e Comunitárias/Atividades Missionárias e Comunitárias.md'
+    - Atividades Profissionais: 'content/Atividades Profissionais/Atividades Profissionais.md'
+    - Atividades Recreativas: 'content/Atividades Recreativas/Atividades Recreativas.md'
+    - Ciência e Saúde: 'content/Ciência e Saúde/Ciência e Saúde.md'
+    - Estudo da Natureza: 'content/Estudo da Natureza/Estudo da Natureza.md'
+    - Habilidades Domésticas: 'content/Habilidades Domésticas/Habilidades Domésticas.md'
+    - Mestrados: 'content/Mestrados/Mestrados.md'
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
